@@ -1,0 +1,225 @@
+{
+  "id": "namaskara-prarthana",
+  "title": "Namaskāra Prārthanā",
+  "sanskritTitle": "॥ नमस्कारप्रार्थना ॥",
+  "type": "prayer",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 10,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Namaskāra Prārthanā is the traditional prayer of salutations recited at the conclusion of the Devī Māhātmya patha, after the Rahasyatrayam, Phalaśruti and Prasāda Samāpana. It offers repeated salutations to the Goddess in her many names and forms, seeking her continued protection, grace and presence in the life of the practitioner. The received recension preserves ten verses. The selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Stotra Nidhi — Durga Saptasati Namaskara Prarthana", "url": "https://stotranidhi.com/hi/durga-saptasati-namaskara-prarthana-in-sanskrit/" },
+      { "name": "Auro Bharati — Namaskara Prarthana", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/namaskara-prarthana/" },
+      { "name": "Hindupedia — Devi Mahatmya Namaskara", "url": "https://www.hindupedia.com/en/Devi_Mahatmya_Namaskara" },
+      { "name": "Vedadhara — Namaskara Prarthana", "url": "https://www.vedadhara.com/namaskara-prarthana" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "नमस्कारप्रार्थनायाः महिमा",
+      "titleEn": "The Nature and Place of Namaskāra Prārthanā",
+      "ne": "नमस्कारप्रार्थना देवीमाहात्म्यको पाठको अन्तिम चरण हो। जब साधकले सप्तशती, अर्गला, कीलक, कवच, रहस्यत्रय, फलश्रुति र प्रसादसमापनको पाठ पूरा गर्छ, तब ऊ देवीसमक्ष नतमस्तक भई बारम्बार नमस्कार गर्छ र उनको कृपाको प्रार्थना गर्छ।\n\nयस प्रार्थनाको मूल भाव हो—विनम्रता र शरणागति। साधक देवीलाई विभिन्न नामहरूले सम्बोधन गर्छ—जगदम्बा, दुर्गा, चण्डिका, महालक्ष्मी, महाकाली, महासरस्वती, नारायणी आदि। प्रत्येक नामको नमस्कारले देवीको एक फरक आयामलाई प्रकट गर्छ।\n\nयस प्रार्थनामा साधक देवीको प्रत्येक रूपलाई नमस्कार गर्छ—जो सृष्टिकर्त्री हुन्, जो पालिका हुन्, जो संहारिका हुन्, जो ज्ञान दिन्छिन्, जो धन दिन्छिन्, जो मोक्ष दिन्छिन्। यसरी यो प्रार्थना देवीको सर्वरूपताको स्वीकार र सर्वशक्तिमत्ताको घोषणा हो।\n\nयस प्रार्थनाको विशेषता यही छ कि यसले देवीलाई केवल एक दुर्गम शक्तिका रूपमा नभई भक्तको नजिकको माता, पिता, गुरु र सखीका रूपमा स्थापित गर्छ। साधक देवीलाई 'माता', 'पिता', 'बन्धु', 'सखा' र 'सर्वस्व' भन्छ। यसरी यो प्रार्थना भक्ति र समर्पणको चरम हो।\n\nयसरी नमस्कारप्रार्थना देवीमाहात्म्यको पाठको मुकुट हो—जसले सम्पूर्ण पाठलाई विनम्रता, कृतज्ञता र शरणागतिको भावमा समापन गर्छ। यो प्रार्थना देवीको चरणकमलमा साधकको अन्तिम समर्पण हो।",
+      "en": "Namaskāra Prārthanā is the final stage of the Devī Māhātmya patha. When the practitioner has completed the recitation of the Saptaśatī, Argala, Kīlaka, Kavaca, Rahasyatrayam, Phalaśruti and Prasāda Samāpana, he bows before the Goddess, offers repeated salutations, and prays for her grace.\n\nThe essential spirit of this prayer is humility and surrender. The practitioner addresses the Goddess by various names — Jagadambā, Durgā, Caṇḍikā, Mahālakṣmī, Mahākālī, Mahāsarasvatī, Nārāyaṇī and others. Each name's salutation reveals a different dimension of the Goddess.\n\nIn this prayer, the practitioner salutes each form of the Goddess — she who is the creator, she who is the sustainer, she who is the destroyer, she who grants knowledge, she who grants wealth, she who grants liberation. Thus this prayer is the acceptance of the Goddess's omniformity and the proclamation of her omnipotence.\n\nThe speciality of this prayer is that it establishes the Goddess not merely as a distant power but as the near and dear mother, father, guru and friend of the devotee. The practitioner calls the Goddess 'mother', 'father', 'kinsman', 'friend' and 'everything'. Thus this prayer is the peak of devotion and surrender.\n\nThus Namaskāra Prārthanā is the crown of the Devī Māhātmya patha — which concludes the entire recitation in the spirit of humility, gratitude and surrender. This prayer is the practitioner's final offering at the Goddess's lotus feet."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीनमस्कारप्रार्थनास्तोत्रस्य मार्कण्डेय ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीचण्डिका देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-namaskāra-prārthanā-stotrasya mārkaṇḍeya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-caṇḍikā devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीनमस्कारप्रार्थनास्तोत्रका मार्कण्डेय ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचण्डिका देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Namaskāra Prārthanā Stotra, Mārkaṇḍeya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Caṇḍikā is the presiding deity. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल प्रार्थनाका दस श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main prayer. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the ten main verses."
+      },
+      "audio": "audio/devi-mahatmya/namaskara-prarthana/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीनमस्कारप्रार्थना",
+      "titleEn": "Namaskāra Prārthanā — Main Recitation",
+      "items": [
+        {
+          "id": "namaskara-01",
+          "number": 1,
+          "sanskrit": "ॐ नमो देव्यै महादेव्यै शिवायै सततं नमः। नमः प्रकृत्यै भद्रायै नियताः प्रणताः स्म ताम्॥१॥",
+          "iast": "oṃ namo devyai mahādevyai śivāyai satataṃ namaḥ | namaḥ prakṛtyai bhadrāyai niyatāḥ praṇatāḥ sma tām ||1||",
+          "meaning": {
+            "ne": "ॐ देवीलाई नमस्कार, महादेवीलाई नमस्कार, शिवालाई सधैं नमस्कार। प्रकृति र भद्रालाई नमस्कार—हामी नियत भई उनलाई प्रणाम गर्छौं।",
+            "en": "Oṃ, salutations to the Goddess, to the Great Goddess; salutations always to the auspicious one. Salutations to Prakṛti and to the gracious one; we bow down to her with devotion."
+          },
+          "commentary": {
+            "ne": "यो श्लोक नमस्कारप्रार्थनाको प्रारम्भ हो। देवीलाई चार नामहरूले नमस्कार गरिन्छ। 'देवी'—दिव्य स्त्री। 'महादेवी'—महान् देवी। 'शिवा'—कल्याणकारी। 'प्रकृति'—सम्पूर्ण सृष्टिको आधार। 'भद्रा'—मंगलमयी। यसरी देवीका पाँच नामहरूद्वारा उनको महिमा गाइन्छ। 'नियताः'—नियत। 'प्रणताः स्म'—प्रणाम गर्छौं। साधक विनम्रतापूर्वक देवीसमक्ष नतमस्तक हुन्छ। यो श्लोक नमस्कारप्रार्थनाको मूल भावको घोषणा हो।",
+            "en": "This verse begins the Namaskāra Prārthanā. The Goddess is saluted with four names. 'Devī' — the divine female. 'Mahādevī' — the Great Goddess. 'Śivā' — the auspicious one. 'Prakṛti' — the foundation of all creation. 'Bhadrā' — the gracious one. Thus the Goddess's greatness is sung through five names. 'Niyatāḥ' — with devotion. 'Praṇatāḥ sma' — we bow. The practitioner bows before the Goddess with humility. This verse is the proclamation of the essential spirit of Namaskāra Prārthanā."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara001.wav"
+        },
+        {
+          "id": "namaskara-02",
+          "number": 2,
+          "sanskrit": "रूपं देहि जयं देहि यशो देहि द्विषो जहि। सर्वकामांश्च देहि नो रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२॥",
+          "iast": "rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi | sarvakāmāṃśca dehi no rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||2||",
+          "meaning": {
+            "ne": "रूप दिनुहोस्, विजय दिनुहोस्, यश दिनुहोस्, द्वेषीहरूको नाश गर्नुहोस्। हामीलाई सबै कामनाहरू दिनुहोस्—रूप दिनुहोस्, विजय दिनुहोस्, यश दिनुहोस्, द्वेषीहरूको नाश गर्नुहोस्।",
+            "en": "Grant us beauty, grant us victory, grant us renown, destroy the enemies. Grant us all desires — grant us beauty, grant us victory, grant us renown, destroy the enemies."
+          },
+          "commentary": {
+            "ne": "यो श्लोक आवर्ती प्रार्थना हो—'रूपं देहि जयं देहि यशो देहि द्विषो जहि'। देवीसमक्ष रूप, विजय, यश र शत्रुनाशको प्रार्थना गरिन्छ। 'सर्वकामान्'—सबै कामनाहरू। यो मानव आकांक्षाको सार हो। यो श्लोक देवीमाहात्म्यमा बारम्बार आउँछ र साधकको हृदयको भावना व्यक्त गर्छ। यसरी साधक देवीसमक्ष आफ्ना सबै आकांक्षाहरू अर्पण गर्छ।",
+            "en": "This verse is the recurring prayer — 'rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi'. Prayer is made to the Goddess for beauty, victory, renown and destruction of enemies. 'Sarvakāmān' — all desires. This is the essence of human aspiration. This verse appears repeatedly in the Devī Māhātmya and expresses the practitioner's heart's feeling. Thus the practitioner offers all his aspirations before the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara002.wav"
+        },
+        {
+          "id": "namaskara-03",
+          "number": 3,
+          "sanskrit": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥३॥",
+          "iast": "sarvamaṅgalamāṅgalye śive sarvārthasādhike | śaraṇye tryambake gauri nārāyaṇi namo'stu te ||3||",
+          "meaning": {
+            "ne": "सबै मंगलहरूमा मंगलमयी, शिवा, सबै अर्थहरूको साधक, शरण दिने, त्र्यम्बके, गौरी, नारायणी—तपाईंलाई नमस्कार।",
+            "en": "O Goddess who is the auspiciousness of all that is auspicious, auspicious one, accomplisher of all aims, giver of refuge, three-eyed one, Gaurī, Nārāyaṇī — salutations to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका सात नामहरूको स्तुति गरिन्छ। 'सर्वमङ्गलमाङ्गल्ये'—सबै मंगलहरूमा सर्वोच्च मंगल। 'शिवे'—कल्याणकारी। 'सर्वार्थसाधिके'—सबै उद्देश्य पूर्ण गर्ने। 'शरण्ये'—शरण दिने। 'त्र्यम्बके'—त्रिनेत्री। 'गौरि'—गौर वर्णकी। 'नारायणि'—विष्णुकी शक्ति। यी सात नामहरूले देवीको बहुआयामिक स्वरूपलाई प्रकट गर्छन्। यो श्लोक भक्तिको चरम हो—जहाँ साधक देवीका सबै नामहरूमा समर्पण गर्छ।",
+            "en": "In this verse, the Goddess is praised through seven names. 'Sarvamaṅgalamāṅgalye' — the supreme auspiciousness among all auspicious things. 'Śive' — the beneficent one. 'Sarvārthasādhike' — accomplisher of all aims. 'Śaraṇye' — giver of refuge. 'Tryambake' — the three-eyed one. 'Gauri' — the fair-complexioned one. 'Nārāyaṇi' — the power of Viṣṇu. These seven names reveal the multidimensional nature of the Goddess. This verse is the peak of devotion — where the practitioner surrenders to all the names of the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara003.wav"
+        },
+        {
+          "id": "namaskara-04",
+          "number": 4,
+          "sanskrit": "शरणागतदीनार्तपरित्राणपरायणे। सर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते॥४॥",
+          "iast": "śaraṇāgatadīnārtaparitrāṇaparāyaṇe | sarvasyārtihare devi nārāyaṇi namo'stu te ||4||",
+          "meaning": {
+            "ne": "शरणमा आएका दीन, दुःखीहरूको त्राण गर्न परायण, सबैको आर्ति (पीडा) हरण गर्ने देवी नारायणीलाई नमस्कार।",
+            "en": "O Goddess Nārāyaṇī, devoted to the protection of the humble and afflicted who take refuge, remover of the suffering of all — salutations to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको करुणामय पक्षको वर्णन छ। 'शरणागत'—शरणमा आएका। 'दीन'—दीन। 'आर्त'—दुःखी। 'परित्राणपरायणे'—त्राण गर्न तत्पर। 'सर्वस्यार्तिहरे'—सबैको पीडा हरण गर्ने। यसरी देवी केवल शक्तिशालीहरूको मात्र नभई दीन, दुःखी र शरणागतहरूको पनि रक्षक हुन्। यो श्लोक देवीको करुणामय पक्षलाई प्रकट गर्छ—उनी केवल संहारक नभई पालक र त्राता पनि हुन्।",
+            "en": "In this verse, the compassionate aspect of the Goddess is described. 'Śaraṇāgata' — those who have taken refuge. 'Dīna' — the humble. 'Ārta' — the afflicted. 'Paritrāṇaparāyaṇe' — devoted to protection. 'Sarvasyārtihare' — remover of the suffering of all. Thus the Goddess is the protector not only of the powerful but also of the humble, the afflicted and those who take refuge. This verse reveals the compassionate aspect of the Goddess — she is not only a destroyer but also a nurturer and saviour."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara004.wav"
+        },
+        {
+          "id": "namaskara-05",
+          "number": 5,
+          "sanskrit": "सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते। भयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते॥५॥",
+          "iast": "sarvasvarūpe sarveśe sarvaśaktisamanvite | bhayebhyastrāhi no devi durge devi namo'stu te ||5||",
+          "meaning": {
+            "ne": "सबै स्वरूपहरूमा विद्यमान, सबैकी ईश्वरी, सबै शक्तिहरूले समन्वित—हे देवी, हामीलाई भयहरूबाट त्राण दिनुहोस्। हे दुर्गे देवी, तपाईंलाई नमस्कार।",
+            "en": "O Goddess who is the form of all, the sovereign of all, endowed with all powers — protect us from fears. O Durgā Devī, salutations to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको सर्वस्वरूपता र भयमुक्तिको प्रार्थना छ। 'सर्वस्वरूपे'—सबै स्वरूपहरूमा विद्यमान। 'सर्वेशे'—सबैकी ईश्वरी। 'सर्वशक्तिसमन्विते'—सबै शक्तिहरूले युक्त। 'भयेभ्यः'—भयहरूबाट। 'त्राहि'—त्राण दिनुहोस्। यसरी देवी केवल एक स्वरूप मात्र नभई सबै स्वरूपहरू हुन्। यो श्लोक भयमुक्तिको प्रार्थना हो—देवी सर्वशक्तिमयी छिन्, त्यसैले उनी सबै भयहरूबाट रक्षा गर्न सक्छिन्।",
+            "en": "In this verse, the Goddess's omniformity and the prayer for freedom from fear are described. 'Sarvasvarūpe' — present in all forms. 'Sarveśe' — sovereign of all. 'Sarvaśaktisamanvite' — endowed with all powers. 'Bhayebhyaḥ' — from fears. 'Trāhi' — protect. Thus the Goddess is not merely one form but all forms. This verse is a prayer for freedom from fear — the Goddess is all-powerful, therefore she can protect from all fears."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara005.wav"
+        },
+        {
+          "id": "namaskara-06",
+          "number": 6,
+          "sanskrit": "रोगानशेषानपहंसि तुष्टा रुष्टा तु कामान् सकलानभीष्टान्। त्वमाश्रितानां न विपन्नराणां त्वमाश्रिता ह्याश्रयतां प्रयान्ति॥६॥",
+          "iast": "rogānaśeṣānapahaṃsi tuṣṭā ruṣṭā tu kāmān sakalānabhīṣṭān | tvamāśritānāṃ na vipannarāṇāṃ tvamāśritā hyāśrayatāṃ prayānti ||6||",
+          "meaning": {
+            "ne": "तपाईं प्रसन्न हुँदा सम्पूर्ण रोगहरू हरण गर्नुहुन्छ, रुष्ट हुँदा सम्पूर्ण अभीष्ट कामनाहरू नष्ट गर्नुहुन्छ। तपाईंको आश्रितहरूको विपत्ति हुँदैन, तपाईंको आश्रयमा आएकाहरू आश्रय दिने बन्छन्।",
+            "en": "When pleased, You remove all diseases; when angry, You destroy all desired wishes. Those who have taken refuge in You do not suffer calamity; those who have taken refuge in You become themselves a refuge for others."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको प्रसन्नता र रुष्टताको द्वैध स्वभावको वर्णन छ। 'तुष्टा'—प्रसन्न हुँदा। 'रुष्टा'—रुष्ट हुँदा। 'आश्रितानाम्'—आश्रितहरूको। 'न विपन्नराणाम्'—विपत्ति हुँदैन। 'आश्रयताम्'—आश्रय दिने। 'प्रयान्ति'—बन्छन्। यसरी देवीको प्रसन्नता र रुष्टताको द्वैध स्वभाव यहाँ प्रकट हुन्छ। तर अन्तिम दुई चरणहरूमा एउटा गहिरो सत्य छ—जो देवीको शरणमा जान्छ, ऊ केवल रक्षित मात्र हुँदैन, ऊ आफैं अरूको रक्षक बन्छ। यो करुणाको शृंखला हो—जो देवीबाट प्राप्त हुन्छ, त्यो अरूलाई दिइन्छ।",
+            "en": "In this verse, the dual nature of the Goddess's pleasure and wrath is described. 'Tuṣṭā' — when pleased. 'Ruṣṭā' — when angry. 'Āśritānām' — of those who take refuge. 'Na vipannarāṇām' — no calamity. 'Āśrayatām' — a refuge. 'Prayānti' — become. The dual nature of the Goddess's pleasure and wrath is revealed here. But in the final two quarters there is a profound truth — one who goes to the Goddess's refuge is not merely protected; they themselves become a protector of others. This is the chain of compassion — what is received from the Goddess is given to others."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara006.wav"
+        },
+        {
+          "id": "namaskara-07",
+          "number": 7,
+          "sanskrit": "सर्वाबाधाप्रशमनं त्रैलोक्यस्याखिलेश्वरि। एवमेव त्वया कार्यमस्मद्वैरिविनाशनम्॥७॥",
+          "iast": "sarvābādhāpraśamanaṃ trailokyasya akhileśvari | evameva tvayā kāryamasmadvairivināśanam ||7||",
+          "meaning": {
+            "ne": "हे त्रैलोक्यकी अखिलेश्वरी, सम्पूर्ण बाधाहरूको प्रशमन गर्नुहोस्। त्यसैगरी तपाईंले हाम्रो शत्रुहरूको विनाश गर्नुपर्छ।",
+            "en": "O Sovereign of all the three worlds, pacify all obstacles. Even so, You must destroy our enemies."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीसमक्ष सम्पूर्ण बाधाहरूको नाश र शत्रुहरूको विनाशको प्रार्थना छ। 'सर्वाबाधाप्रशमनम्'—सम्पूर्ण बाधाहरूको प्रशमन। 'त्रैलोक्यस्य'—तीनै लोकहरूको। 'अखिलेश्वरि'—अखिलेश्वरी। 'अस्मद्वैरिविनाशनम्'—हाम्रो शत्रुहरूको विनाश। 'शत्रु' यहाँ केवल बाह्य शत्रु मात्र नभई आन्तरिक शत्रुहरू पनि हुन्—क्रोध, लोभ, मोह, अहंकार। यसरी यो श्लोक आन्तरिक शुद्धिको प्रार्थना पनि हो। जब आन्तरिक शत्रुहरू नष्ट हुन्छन्, तब बाह्य शत्रुहरू पनि स्वतः शान्त हुन्छन्।",
+            "en": "In this verse, prayer is made to the Goddess for the destruction of all obstacles and the annihilation of enemies. 'Sarvābādhāpraśamanam' — pacification of all obstacles. 'Trailokyasya' — of the three worlds. 'Akhileśvari' — Sovereign of all. 'Asmadvairivināśanam' — destruction of our enemies. 'Enemies' here are not merely outer enemies but also inner enemies — anger, greed, delusion, ego. Thus this verse is also a prayer for inner purification. When inner enemies are destroyed, outer enemies are automatically pacified."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara007.wav"
+        },
+        {
+          "id": "namaskara-08",
+          "number": 8,
+          "sanskrit": "नमः शिवायै च नमः शिवायै नमः प्रकृत्यै च नमः प्रकृत्यै। नमोऽस्तु देव्यै च नमोऽस्तु देव्यै नमः शिवायै च नमः शिवायै॥८॥",
+          "iast": "namaḥ śivāyai ca namaḥ śivāyai namaḥ prakṛtyai ca namaḥ prakṛtyai | namo'stu devyai ca namo'stu devyai namaḥ śivāyai ca namaḥ śivāyai ||8||",
+          "meaning": {
+            "ne": "शिवालाई नमस्कार, शिवालाई नमस्कार, प्रकृतिलाई नमस्कार, प्रकृतिलाई नमस्कार। देवीलाई नमस्कार, देवीलाई नमस्कार, शिवालाई नमस्कार, शिवालाई नमस्कार।",
+            "en": "Salutations to Śivā, salutations to Śivā; salutations to Prakṛti, salutations to Prakṛti. Salutations to the Goddess, salutations to the Goddess; salutations to Śivā, salutations to Śivā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका तीन नामहरू—शिवा, प्रकृति र देवी—को दुई-दुई पटक नमस्कार गरिन्छ। यो पुनरावृत्ति भक्तिको तीव्रतालाई जनाउँछ—जब साधकको हृदय भक्तिले भरिन्छ, तब ऊ बारम्बार नमस्कार गर्छ। 'शिवा'—कल्याणकारी। 'प्रकृति'—सम्पूर्ण सृष्टिको आधार। 'देवी'—दिव्य स्त्री। यसरी यो श्लोक नमस्कारको आवर्ती रूप हो—जसले साधकको गहिरो भक्ति र समर्पणलाई प्रकट गर्छ।",
+            "en": "In this verse, three names of the Goddess — Śivā, Prakṛti and Devī — are saluted twice each. This repetition indicates the intensity of devotion — when the practitioner's heart is filled with devotion, he salutes again and again. 'Śivā' — the auspicious one. 'Prakṛti' — the foundation of all creation. 'Devī' — the divine female. Thus this verse is the repetitive form of salutation — revealing the practitioner's deep devotion and surrender."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara008.wav"
+        },
+        {
+          "id": "namaskara-09",
+          "number": 9,
+          "sanskrit": "नमो नमः सर्वदेव्यै नमो नमः सर्वदेव्यै। नमो नमः सर्वदेव्यै नमो नमः सर्वदेव्यै॥९॥",
+          "iast": "namo namaḥ sarvadevyai namo namaḥ sarvadevyai | namo namaḥ sarvadevyai namo namaḥ sarvadevyai ||9||",
+          "meaning": {
+            "ne": "सबै देवीहरूलाई नमो नमः, सबै देवीहरूलाई नमो नमः। सबै देवीहरूलाई नमो नमः, सबै देवीहरूलाई नमो नमः।",
+            "en": "Salutations again and again to all the Goddesses, salutations again and again to all the Goddesses. Salutations again and again to all the Goddesses, salutations again and again to all the Goddesses."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा सबै देवीहरूलाई चार पटक 'नमो नमः' गरिन्छ। 'सर्वदेव्यै'—सबै देवीहरूलाई। यो पुनरावृत्ति भक्तिको चरम हो—जहाँ साधक शब्दहरूको सीमा नाघेर भावनाको गहिराइमा पुग्छ। यसरी यो श्लोक सबै देवीहरूको सामूहिक नमस्कार हो—जसले देवीको सर्वरूपतालाई स्वीकार गर्छ। यो नमस्कारको आवर्ती रूप हो—जसले साधकको पूर्ण समर्पणलाई प्रकट गर्छ।",
+            "en": "In this verse, 'namo namaḥ' is offered four times to all the Goddesses. 'Sarvadevyai' — to all the Goddesses. This repetition is the peak of devotion — where the practitioner transcends the limits of words and reaches the depth of feeling. Thus this verse is the collective salutation to all the Goddesses — accepting the Goddess's omniformity. This is the repetitive form of salutation — revealing the practitioner's complete surrender."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara009.wav"
+        },
+        {
+          "id": "namaskara-10",
+          "number": 10,
+          "sanskrit": "ॐ शान्तिः शान्तिः शान्तिः॥ इति श्रीनमस्कारप्रार्थना सम्पूर्णा॥१०॥",
+          "iast": "oṃ śāntiḥ śāntiḥ śāntiḥ || iti śrī-namaskāra-prārthanā sampūrṇā ||10||",
+          "meaning": {
+            "ne": "ॐ शान्तिः, शान्तिः, शान्तिः। यसरी यो श्रीनमस्कारप्रार्थना सम्पूर्ण भयो।",
+            "en": "Oṃ, peace, peace, peace. Thus concludes this Śrī Namaskāra Prārthanā."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। 'शान्तिः शान्तिः शान्तिः'—तीन पटक शान्तिको घोषणा। यो तीन प्रकारका शान्तिको प्रतीक हो—आधिदैविक, आधिभौतिक र आध्यात्मिक। 'नमस्कारप्रार्थना'—नमस्कारप्रार्थना। 'सम्पूर्णा'—सम्पूर्ण। यसरी नमस्कारप्रार्थनाको समापन हुन्छ। यो श्लोक देवीमाहात्म्यको सम्पूर्ण पाठको अन्तिम श्लोक हो—जसले सम्पूर्ण पाठलाई शान्तिमय समापन प्रदान गर्छ। यसरी देवीमाहात्म्यको पाठ विनम्रता, कृतज्ञता, शरणागति र शान्तिको भावमा समापन हुन्छ।",
+            "en": "This is the final verse. 'Śāntiḥ śāntiḥ śāntiḥ' — the proclamation of peace three times. This symbolises the three types of peace — ādhidaivika (divine), ādhibhautika (physical) and ādhyātmika (spiritual). 'Namaskāraprārthanā' — Namaskāra Prārthanā. 'Sampūrṇā' — complete. Thus Namaskāra Prārthanā concludes. This verse is the final verse of the entire Devī Māhātmya patha — granting a peaceful conclusion to the entire recitation. Thus the Devī Māhātmya patha concludes in the spirit of humility, gratitude, surrender and peace."
+          },
+          "audio": "audio/devi-mahatmya/namaskara-prarthana/verses/namaskara010.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "नमस्कारप्रार्थनाको सम्पूर्ण प्रवाहलाई हेर्दा देवीका विभिन्न नामहरूको नमस्कार, रूप-विजय-यश-शत्रुनाशको प्रार्थना, करुणाको स्वरूप, सर्वव्यापकता, भयमुक्ति, बाधानाश, आवर्ती नमस्कार र शान्तिको घोषणा देखिन्छ।\n\nसुरुवाती श्लोकहरूमा देवीलाई देवी, महादेवी, शिवा, प्रकृति र भद्राका रूपमा नमस्कार गरिन्छ। त्यसपछि 'रूपं देहि जयं देहि यशो देहि द्विषो जहि' को आवर्ती प्रार्थना आउँछ—जसले साधकको हृदयको भावना व्यक्त गर्छ।\n\nमध्य श्लोकहरूमा देवीका सात नामहरूको स्तुति, करुणामय पक्ष, सर्वस्वरूपता, भयमुक्तिको प्रार्थना, प्रसन्नता-रुष्टताको द्वैध स्वभाव, बाधानाश र शत्रुविनाशको प्रार्थना आउँछ।\n\nअन्तिम श्लोकहरूमा 'शिवा', 'प्रकृति', 'देवी' र 'सर्वदेवी' को आवर्ती नमस्कार आउँछ—जसले साधकको पूर्ण समर्पणलाई प्रकट गर्छ। अन्तमा 'शान्तिः शान्तिः शान्तिः' को घोषणासँग पाठको समापन हुन्छ।\n\nयस प्रार्थनालाई तीन तहमा पढ्न सकिन्छ: नमस्कार, प्रार्थना र शान्ति। नमस्कारमा देवीका नामहरूको वन्दना, प्रार्थनामा देवीसमक्ष आफ्ना आकांक्षाहरूको अर्पण, र शान्तिमा सम्पूर्ण पाठको शान्तिमय समापन। यसरी नमस्कारप्रार्थना देवीमाहात्म्यको पाठको मुकुट हो—जसले सम्पूर्ण पाठलाई विनम्रता, कृतज्ञता र शान्ति प्रदान गर्छ।",
+      "en": "Read as a whole, Namaskāra Prārthanā presents salutations to the various names of the Goddess, prayer for beauty-victory-fame-destruction of enemies, the nature of compassion, all-pervasiveness, freedom from fear, destruction of obstacles, repetitive salutations and the proclamation of peace.\n\nIn the opening verses, the Goddess is saluted as Devī, Mahādevī, Śivā, Prakṛti and Bhadrā. Then follows the recurring prayer 'rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi' — which expresses the practitioner's heart's feeling.\n\nIn the middle verses, the praise of the Goddess through seven names, her compassionate aspect, omniformity, prayer for freedom from fear, the dual nature of pleasure and wrath, destruction of obstacles and annihilation of enemies are described.\n\nIn the final verses, the repetitive salutation of 'Śivā', 'Prakṛti', 'Devī' and 'Sarvadevī' is offered — revealing the practitioner's complete surrender. At the end, with the proclamation of 'Śāntiḥ śāntiḥ śāntiḥ', the recitation concludes.\n\nThe prayer can be studied through three layers: salutation, prayer and peace. In salutation, the praise of the Goddess's names; in prayer, the offering of one's aspirations before the Goddess; and in peace, the peaceful conclusion of the entire recitation. Thus Namaskāra Prārthanā is the crown of the Devī Māhātmya patha — granting humility, gratitude and peace to the entire recitation."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "नमस्कारप्रार्थनाको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी नमस्कारप्रार्थनाको अध्ययन केवल दस श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।\n\nॐ शान्तिः शान्तिः शान्तिः॥",
+      "en": "After completing the reading of Namaskāra Prārthanā, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Namaskāra Prārthanā does not end simply with reading ten verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline.\n\nOṃ śāntiḥ śāntiḥ śāntiḥ."
+    }
+  ]
+}

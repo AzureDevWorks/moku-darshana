@@ -1,0 +1,15 @@
+﻿{
+  "id": "adhyaya-12",
+  "title": "Adhyāya 12",
+  "sanskritTitle": "अध्याय 12",
+  "type": "chapter",
+  "collection": "saptashati",
+
+  "metadata": {
+    "chapterNumber": 12,
+    "language": "sa",
+    "sourceStatus": "content-to-be-entered"
+  },
+
+  "sections": []
+}

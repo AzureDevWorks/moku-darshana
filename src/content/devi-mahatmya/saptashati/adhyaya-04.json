@@ -1,0 +1,15 @@
+﻿{
+  "id": "adhyaya-04",
+  "title": "Adhyāya 4",
+  "sanskritTitle": "अध्याय 4",
+  "type": "chapter",
+  "collection": "saptashati",
+
+  "metadata": {
+    "chapterNumber": 4,
+    "language": "sa",
+    "sourceStatus": "content-to-be-entered"
+  },
+
+  "sections": []
+}

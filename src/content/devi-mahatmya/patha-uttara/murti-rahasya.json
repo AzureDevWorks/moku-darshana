@@ -1,0 +1,525 @@
+{
+  "id": "murti-rahasya",
+  "title": "Mūrti Rahasya",
+  "sanskritTitle": "॥ श्रीमूर्तिरहस्यम् ॥",
+  "type": "rahasya",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 30,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Mūrti Rahasya is the third of the three secret teachings (Rahasyatrayam) appended to the Devī Māhātmya, following the Pradhānika Rahasya and the Vaikṛtika Rahasya. It describes the five primary forms of the Goddess — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī — each associated with a different moment of cosmic crisis and divine response. The text is recited after the thirteen chapters of the Saptaśatī. The received recension preserves thirty verses including the phala-śruti.",
+    "references": [
+      { "name": "Auro Bharati — Murti Rahasya", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/the-triple-secret/murti-rahasya/" },
+      { "name": "Digital Temple of the Divine Mother — Murtirahasya", "url": "https://devimahatmya.com/murtirahasya/" },
+      { "name": "Astrologics — Murti Rahasyam: The Secret of the Forms", "url": "https://www.astrologics.in/blog/murti-rahasyam-forms-of-the-goddess-durga-saptashati" },
+      { "name": "Vedadhara — Murti Rahasya", "url": "https://www.vedadhara.com/murtirahasya-the-sacred-secrets-of-devis-divine-forms" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "मूर्तिरहस्यस्य महिमा",
+      "titleEn": "The Nature and Place of Mūrti Rahasya",
+      "ne": "मूर्तिरहस्यम् देवीमाहात्म्यको तीन रहस्यहरू (रहस्यत्रयम्) मध्ये तेस्रो हो। यो सप्तशतीको अन्त्यमा पठन गरिन्छ र यसले देवीका पाँच मुख्य मूर्तिहरू—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी—को वर्णन गर्छ। प्रत्येक मूर्ति ब्रह्माण्डीय संकटको एक फरक क्षण र दिव्य प्रतिक्रियासँग सम्बन्धित छ।\n\nमूर्ति शब्दको अर्थ 'रूप' वा 'आकृति' हो र रहस्यको अर्थ 'गुप्त'। यसरी मूर्तिरहस्य भन्नाले देवीका रूपहरूको गुप्त ज्ञान। यस स्तोत्रमा ऋषि मार्कण्डेयले राजा सुरथलाई देवीका विभिन्न मूर्तिहरूको वर्णन गर्छन्—जसले भक्तहरूलाई देवीको दर्शन र ध्यानको मार्ग देखाउँछ।\n\nयस रहस्यको विशेषता यही छ कि यसले देवीलाई एक दुर्गम शक्तिबाट भक्तको नजिकको उपस्थितिमा बदल्छ। देवी आफ्नो भक्तको आवश्यकता अनुसार विभिन्न रूप धारण गर्छिन्—भोकाएकालाई शाकम्भरीले अन्न दिन्छिन्, भयभीतलाई भीमाले रक्षा गर्छिन्, र रोगीहरूलाई भ्रामरीले उपचार गर्छिन्। यसरी मूर्तिरहस्य भक्ति र ध्यानको एक अद्भुत मार्गदर्शक हो।",
+      "en": "Mūrti Rahasya is the third of the three secrets (Rahasyatrayam) of the Devī Māhātmya. It is recited at the conclusion of the Saptaśatī and describes the Goddess's five primary forms — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī — each associated with a different moment of cosmic crisis and divine response.\n\nThe word mūrti means 'form' or 'image' and rahasya means 'secret'. Thus Mūrti Rahasya means the secret knowledge of the Goddess's forms. In this stotra, Sage Mārkaṇḍeya describes to King Suratha the various forms of the Goddess — which show devotees the path of vision and meditation.\n\nThe speciality of this secret is that it transforms the Goddess from a distant power into an intimate presence for the devotee. The Goddess assumes various forms according to the needs of her devotee — Śākambharī gives food to the hungry, Bhīmā protects the terrified, and Bhrāmarī heals the sick. Thus Mūrti Rahasya is a wonderful guide to devotion and meditation."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीमूर्तिरहस्यस्तोत्रस्य मार्कण्डेय ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीचण्डिका देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-mūrti-rahasya-stotrasya mārkaṇḍeya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-caṇḍikā devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीमूर्तिरहस्यस्तोत्रका मार्कण्डेय ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचण्डिका देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Mūrti Rahasya Stotra, Mārkaṇḍeya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Caṇḍikā is the presiding deity. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका श्लोकहरूमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the main verses."
+      },
+      "audio": "audio/devi-mahatmya/murti-rahasya/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीमूर्तिरहस्यम्",
+      "titleEn": "Mūrti Rahasya — Main Recitation",
+      "items": [
+        {
+          "id": "murti-01",
+          "number": 1,
+          "sanskrit": "ॐ ऋषिरुवाच। नन्दा भगवती नाम या भविष्यति नन्दजा। सा स्तुता पूजिता ध्याता वशीकुर्याज्जगत्त्रयम्॥१॥",
+          "iast": "oṃ ṛṣiruvāca | nandā bhagavatī nāma yā bhaviṣyati nandajā | sā stutā pūjitā dhyātā vaśīkuryājjagattrayam ||1||",
+          "meaning": {
+            "ne": "ॐ ऋषिले भने: नन्दकी पुत्रीका रूपमा जन्म लिने नन्दा भगवती नामकी देवी—जब उनको स्तुति, पूजा र ध्यान गरिन्छ, तब उनी भक्तको तीनै लोकलाई वशीभूत गराउँछिन्।",
+            "en": "The sage said: The Goddess named Nandā, who will be born as the daughter of Nanda — when she is praised, worshipped and meditated upon, she brings the three worlds under the control of the devotee."
+          },
+          "commentary": {
+            "ne": "यो श्लोक मूर्तिरहस्यको प्रारम्भ हो। ऋषि मार्कण्डेयले देवी नन्दाको वर्णन गर्छन्—जो नन्दकी पुत्रीका रूपमा जन्म लिनेछिन्। यो भविष्यवाणी कृष्णको जन्मसँग सम्बन्धित छ, जहाँ नन्द र यशोदाको घरमा देवी प्रकट भएकी थिइन्। 'वशीकुर्याज्जगत्त्रयम्'—तीनै लोकलाई वशीभूत गराउँछिन्। यो देवीको सर्वोच्च शक्तिको घोषणा हो—जसले भक्तलाई सम्पूर्ण सृष्टिमाथि अधिकार दिन्छिन्।",
+            "en": "This verse is the beginning of Mūrti Rahasya. Sage Mārkaṇḍeya describes the Goddess Nandā — who will be born as the daughter of Nanda. This prophecy is connected with the birth of Kṛṣṇa, where the Goddess appeared in the house of Nanda and Yaśodā. 'Vaśīkuryājjagattrayam' — she brings the three worlds under control. This is the proclamation of the Goddess's supreme power — which grants the devotee mastery over all creation."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti001.wav"
+        },
+        {
+          "id": "murti-02",
+          "number": 2,
+          "sanskrit": "कनकोत्तमकान्तिः सा सुकान्तिकनकाम्बरा। देवी कनकवर्णाभा कनकोत्तमभूषणा॥२॥",
+          "iast": "kanakottamakāntiḥ sā sukāntikanakāmbarā | devī kanakavarṇābhā kanakottamabhūṣaṇā ||2||",
+          "meaning": {
+            "ne": "उनको कान्ति उत्तम सुनझैं छ, उनको वस्त्र सुन्दर सुनको छ, देवीको वर्ण सुनको जस्तै छ र उनका आभूषण उत्तम सुनका छन्।",
+            "en": "Her radiance is like the finest gold, her garments are of beautiful gold, the Goddess shines with a golden hue, and her ornaments are of the finest gold."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवी नन्दाको सौन्दर्यको वर्णन गरिएको छ। 'कनकोत्तमकान्तिः'—उत्तम सुनको कान्ति। 'सुकान्तिकनकाम्बरा'—सुन्दर सुनको वस्त्र। 'कनकवर्णाभा'—सुनको वर्ण। 'कनकोत्तमभूषणा'—उत्तम सुनका आभूषण। सुनको वर्ण शुद्धता, ऐश्वर्य र दिव्यताको प्रतीक हो। देवीको सम्पूर्ण स्वरूप सुनले भरिएको छ—जसले उनको सर्वोच्च ऐश्वर्यलाई प्रकट गर्छ।",
+            "en": "In this verse, the beauty of Goddess Nandā is described. 'Kanakottamakāntiḥ' — the radiance of the finest gold. 'Sukāntikanakāmbarā' — garments of beautiful gold. 'Kanakavarṇābhā' — golden hue. 'Kanakottamabhūṣaṇā' — ornaments of the finest gold. The colour gold symbolises purity, sovereignty and divinity. The Goddess's entire form is filled with gold — revealing her supreme sovereignty."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti002.wav"
+        },
+        {
+          "id": "murti-03",
+          "number": 3,
+          "sanskrit": "कमलाङ्कुशपाशाब्जैरलङ्कृतचतुर्भुजा। इन्दिरा कमला लक्ष्मीः सा श्री रुक्माम्बुजासना॥३॥",
+          "iast": "kamalāṅkuśapāśābjairalaṅkṛtacaturbhujā | indirā kamalā lakṣmīḥ sā śrī rukmāmbujāsanā ||3||",
+          "meaning": {
+            "ne": "कमल, अङ्कुश, पाश र शङ्खले अलंकृत चार भुजा भएकी, इन्दिरा, कमला, लक्ष्मी, श्री—उनी सुनको कमलमा आसीन छिन्।",
+            "en": "Adorned with four arms holding a lotus, goad, noose and conch, she is Indirā, Kamalā, Lakṣmī and Śrī, seated on a golden lotus."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवी नन्दाको स्वरूपको वर्णन छ। चार हातमा कमल, अङ्कुश, पाश र शङ्ख—यी सबै दिव्य आयुध हुन्। कमल सौन्दर्यको, अङ्कुश नियन्त्रणको, पाश बन्धनको र शङ्ख नादको प्रतीक हो। 'इन्दिरा, कमला, लक्ष्मी, श्री'—यी सबै लक्ष्मीका नाम हुन्। 'रुक्माम्बुजासना'—सुनको कमलमा आसीन। यसरी देवी नन्दा लक्ष्मीको स्वरूप हुन्—जो ऐश्वर्य, सौन्दर्य र समृद्धिकी देवी हुन्।",
+            "en": "In this verse, the form of Goddess Nandā is described. Four hands holding a lotus, goad, noose and conch — all these are divine weapons. The lotus symbolises beauty, the goad control, the noose binding and the conch sound. 'Indirā, Kamalā, Lakṣmī, Śrī' — all these are names of Lakṣmī. 'Rukmāmbujāsanā' — seated on a golden lotus. Thus Goddess Nandā is the form of Lakṣmī — the Goddess of sovereignty, beauty and prosperity."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti003.wav"
+        },
+        {
+          "id": "murti-04",
+          "number": 4,
+          "sanskrit": "या रक्तदन्तिका नाम देवी प्रोक्ता मयानघ। तस्याः स्वरूपं वक्ष्यामि शृणु सर्वभयापहम्॥४॥",
+          "iast": "yā raktadantikā nāma devī proktā mayānagha | tasyāḥ svarūpaṃ vakṣyāmi śṛṇu sarvabhayāpaham ||4||",
+          "meaning": {
+            "ne": "हे निर्दोष राजा, मैले रक्तदन्तिका नामकी देवीको वर्णन गरेको छु। अब म उनको स्वरूप बताउँछु—सुन्नुहोस्, जो सबै भय हरण गर्ने छ।",
+            "en": "O faultless king, I have spoken of the Goddess named Raktadantikā. Now I shall describe her form — listen, for it destroys all fears."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ऋषिले रक्तदन्तिकाको स्वरूपको वर्णन गर्ने वचन दिन्छन्। 'रक्तदन्तिका'—रक्त दाँत भएकी। 'सर्वभयापहम्'—सबै भय हरण गर्ने। यो संक्रमणकालको देवी हुन्—जो महामारी र रोगबाट रक्षा गर्छिन्। उनको रक्त वर्ण भयानक भए पनि उनको उद्देश्य भक्तको रक्षा हो। यसरी देवीको भयानक रूप पनि करुणाले भरिएको छ।",
+            "en": "In this verse, the sage promises to describe the form of Raktadantikā. 'Raktadantikā' — she whose teeth are blood-red. 'Sarvabhayāpaham' — destroyer of all fears. She is the Goddess of times of epidemic — who protects from pestilence and disease. Though her red form is terrifying, her purpose is the protection of the devotee. Thus even the Goddess's terrifying form is filled with compassion."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti004.wav"
+        },
+        {
+          "id": "murti-05",
+          "number": 5,
+          "sanskrit": "रक्ताम्बरा रक्तवर्णा रक्तसर्वाङ्गभूषणा। रक्तायुधा रक्तनेत्रा रक्तकेशातिभीषणा॥५॥",
+          "iast": "raktāmbarā raktavarṇā raktasarvāṅgabhūṣaṇā | raktāyudhā raktanetrā raktakeśātibhīṣaṇā ||5||",
+          "meaning": {
+            "ne": "रक्त वस्त्र भएकी, रक्त वर्णकी, सबै अङ्गमा रक्त आभूषण भएकी, रक्त आयुध भएकी, रक्त नेत्र भएकी र रक्त केशले अत्यन्त भयानक।",
+            "en": "Clothed in red, red in complexion, with red ornaments on all her limbs, red weapons, red eyes, and red hair — utterly terrifying."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको रूपको वर्णन छ। रक्त वस्त्र, रक्त वर्ण, रक्त आभूषण, रक्त आयुध, रक्त नेत्र, रक्त केश—यी सबै रक्त वर्णका छन्। रक्त वर्ण यहाँ क्रोध, शक्ति र रक्षाको प्रतीक हो। देवीको यो रूप भयानक भए पनि भक्तका लागि कल्याणकारी छ। 'अतिभीषणा'—अत्यन्त भयानक। यो रूप दुष्ट शक्तिहरूलाई भयभीत गराउनको लागि हो।",
+            "en": "In this verse, the form of Raktadantikā is described. Red clothes, red complexion, red ornaments, red weapons, red eyes, red hair — all are red in colour. The colour red here symbolises anger, power and protection. Though the Goddess's form is terrifying, it is beneficent for the devotee. 'Atibhīṣaṇā' — utterly terrifying. This form is to terrify evil forces."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti005.wav"
+        },
+        {
+          "id": "murti-06",
+          "number": 6,
+          "sanskrit": "रक्ततीक्ष्णनखा रक्तदशना रक्तदन्तिका। पतिं नारीवानुरक्ता देवी भक्तं भजेज्जनम्॥६॥",
+          "iast": "raktatīkṣṇanakhā raktadaśanā raktadantikā | patiṃ nārīvānuraktā devī bhaktaṃ bhajejjanam ||6||",
+          "meaning": {
+            "ne": "रक्त तीक्ष्ण नख भएकी, रक्त दाँत भएकी, रक्तदन्तिका—जसरी स्त्री आफ्नो पतिप्रति अनुरक्त हुन्छिन्, त्यसरी नै देवी आफ्नो भक्तजनको भजन गर्छिन्।",
+            "en": "With sharp red nails, red teeth, she is Raktadantikā. As a woman is devoted to her husband, so the Goddess is devoted to her devotee."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको भक्तप्रतिको प्रेमको वर्णन छ। 'पतिं नारीवानुरक्ता'—जसरी स्त्री पतिप्रति अनुरक्त हुन्छिन्। देवीको भयानक रूप भए पनि उनको हृदय भक्तप्रतिको प्रेमले भरिएको छ। यो श्लोकले देवीको मातृ-भाव र भक्त-वात्सल्यलाई प्रकट गर्छ। देवी भक्तको रक्षा गर्नको लागि भयानक रूप धारण गर्छिन्—जसरी माता आफ्ना सन्तानको रक्षाको लागि कठोर हुन्छिन्।",
+            "en": "In this verse, Raktadantikā's love for her devotee is described. 'Patiṃ nārīvānuraktā' — as a woman is devoted to her husband. Though the Goddess's form is terrifying, her heart is filled with love for her devotee. This verse reveals the Goddess's motherly nature and her affection for her devotee. The Goddess assumes a terrifying form to protect her devotee — just as a mother becomes fierce to protect her child."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti006.wav"
+        },
+        {
+          "id": "murti-07",
+          "number": 7,
+          "sanskrit": "वसुधेव विशाला सा सुमेरुयुगलस्तनी। दीर्घौ लम्बावतिस्थूलौ तावतीव मनोहरौ॥७॥",
+          "iast": "vasudheva viśālā sā sumeruyugalastanī | dīrghau lambāvatisthūlau tāvatīva manoharau ||7||",
+          "meaning": {
+            "ne": "उनी पृथ्वीझैं विशाल छिन्, उनका दुई स्तन सुमेरु पर्वतझैं छन्—लामा, फराकिला र अत्यन्त आकर्षक।",
+            "en": "She is vast like the earth, her two breasts are like Mount Sumeru — long, broad and exceedingly beautiful."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको विशालताको वर्णन छ। 'वसुधेव विशाला'—पृथ्वीझैं विशाल। 'सुमेरुयुगलस्तनी'—सुमेरु पर्वतझैं स्तन। यो वर्णन देवीको मातृ-स्वरूपलाई प्रकट गर्छ—जो सम्पूर्ण सृष्टिलाई धारण गर्न सक्ने विशालता र पोषण दिन सक्ने क्षमता राख्छिन्। देवीको विशालता केवल भौतिक नभई आध्यात्मिक पनि हो—उनको करुणा असीमित छ।",
+            "en": "In this verse, the vastness of Raktadantikā is described. 'Vasudheva viśālā' — vast like the earth. 'Sumeruyugalastanī' — breasts like Mount Sumeru. This description reveals the Goddess's mother-form — she who has the vastness to hold all creation and the capacity to nourish. The Goddess's vastness is not merely physical but also spiritual — her compassion is infinite."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti007.wav"
+        },
+        {
+          "id": "murti-08",
+          "number": 8,
+          "sanskrit": "कर्कशावतिकान्तौ तौ सर्वानन्दपयोनिधी। भक्तान् सम्पाययेद्देवी सर्वकामदुघौ स्तनौ॥८॥",
+          "iast": "karkkhaśāvatikāntau tau sarvānandapayonidhī | bhaktān sampāyayet devī sarvakāmadughau stanau ||8||",
+          "meaning": {
+            "ne": "ती दुई स्तन कठोर भए पनि अत्यन्त सुन्दर छन् र सबै आनन्दका सागर हुन्। देवीले आफ्ना भक्तहरूलाई ती स्तनहरूबाट दुध पिलाउँछिन्—जो सबै कामनाहरू पूर्ण गर्ने छन्।",
+            "en": "Those two breasts, though firm, are exceedingly beautiful and are oceans of all joy. The Goddess makes her devotees drink from those breasts — which fulfil all desires."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको मातृ-स्वरूपको वर्णन छ। 'सर्वानन्दपयोनिधी'—सबै आनन्दका सागर। 'सर्वकामदुघौ'—सबै कामनाहरू पूर्ण गर्ने। देवी आफ्ना भक्तहरूलाई आफ्नो स्तनबाट दुध पिलाउँछिन्—यो मातृ-प्रेमको चरम प्रतीक हो। देवीको दुध केवल भौतिक पोषण मात्र नभई आध्यात्मिक आनन्द पनि हो—जसले भक्तका सबै कामनाहरू पूर्ण गर्छ।",
+            "en": "In this verse, the Goddess's mother-form is described. 'Sarvānandapayonidhī' — oceans of all joy. 'Sarvakāmadughau' — fulfilling all desires. The Goddess makes her devotees drink from her breasts — this is the ultimate symbol of motherly love. The Goddess's milk is not merely physical nourishment but also spiritual joy — which fulfils all the devotee's desires."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti008.wav"
+        },
+        {
+          "id": "murti-09",
+          "number": 9,
+          "sanskrit": "खड्गं पात्रं च मुसलं लाङ्गलं च बिभर्ति सा। आख्याता रक्तचामुण्डा देवी योगेश्वरीति च॥९॥",
+          "iast": "khaḍgaṃ pātraṃ ca musalaṃ lāṅgalaṃ ca bibharti sā | ākhyātā raktacāmuṇḍā devī yogeśvarīti ca ||9||",
+          "meaning": {
+            "ne": "उनी खड्ग, पात्र, मुसल र हल धारण गर्छिन्। उनलाई रक्तचामुण्डा र योगेश्वरी पनि भनिन्छ।",
+            "en": "She holds a sword, a drinking vessel, a pestle and a plough. She is known as Raktacāmuṇḍā and also as Yogeśvarī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाका आयुधहरूको वर्णन छ। खड्ग, पात्र, मुसल र हल—यी सबै दिव्य आयुध हुन्। खड्ग संहारको, पात्र रक्तपानको, मुसल दमनको र हल सृजनको प्रतीक हो। 'रक्तचामुण्डा'—रक्त चामुण्डा। 'योगेश्वरी'—योगकी ईश्वरी। यसरी देवी संहार र सृजन दुवैकी स्वामिनी हुन्।",
+            "en": "In this verse, Raktadantikā's weapons are described. Sword, vessel, pestle and plough — all these are divine weapons. The sword symbolises destruction, the vessel the drinking of blood, the pestle suppression and the plough creation. 'Raktacāmuṇḍā' — the red Cāmuṇḍā. 'Yogeśvarī' — the Goddess of yoga. Thus the Goddess is the mistress of both destruction and creation."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti009.wav"
+        },
+        {
+          "id": "murti-10",
+          "number": 10,
+          "sanskrit": "अनया व्याप्तमखिलं जगत्स्थावरजङ्गमम्। इमां यः पूजयेद्भक्त्या स व्याप्नोति चराचरम्॥१०॥",
+          "iast": "anayā vyāptamakhilaṃ jagatsthāvarajaṅgamam | imāṃ yaḥ pūjayedbhaktyā sa vyāpnoti carācaram ||10||",
+          "meaning": {
+            "ne": "यी देवीद्वारा सम्पूर्ण जगत्—स्थिर र चल—व्याप्त छ। जो भक्तिपूर्वक उनको पूजा गर्छ, उनी सम्पूर्ण चराचरलाई व्याप्त गर्छ।",
+            "en": "By her the entire world — moving and unmoving — is pervaded. One who worships her with devotion pervades the entire moving and unmoving creation."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको सर्वव्यापकताको वर्णन छ। 'स्थावरजङ्गमम्'—स्थिर र चल। देवीले सम्पूर्ण सृष्टिलाई व्याप्त गरेकी छिन्। 'स व्याप्नोति चराचरम्'—जो भक्तिपूर्वक पूजा गर्छ, उनी पनि सम्पूर्ण सृष्टिलाई व्याप्त गर्छ। यो देवीको कृपाको फल हो—भक्त देवीको स्वरूपमा परिणत हुन्छ।",
+            "en": "In this verse, the Goddess's all-pervasiveness is described. 'Sthāvarajaṅgamam' — unmoving and moving. The Goddess pervades all creation. 'Sa vyāpnoti carācaram' — one who worships with devotion also pervades all creation. This is the fruit of the Goddess's grace — the devotee is transformed into the Goddess's own nature."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti010.wav"
+        },
+        {
+          "id": "murti-11",
+          "number": 11,
+          "sanskrit": "अधीते य इमं नित्यं रक्तदन्त्यावपुःस्तवम्। तं सा परिचरेद्देवी पतिं प्रियमिवाङ्गना॥११॥",
+          "iast": "adhīte ya imaṃ nityaṃ raktadantyāvapuḥstavam | taṃ sā paricareddevī patiṃ priyamivāṅganā ||11||",
+          "meaning": {
+            "ne": "जो नित्य रक्तदन्तिकाको स्वरूपको स्तवन पाठ गर्छ, देवी उसको सेवा गर्छिन्—जसरी स्त्री आफ्नो प्रिय पतिको सेवा गर्छिन्।",
+            "en": "One who daily recites this hymn to the form of Raktadantikā — the Goddess serves him as a woman serves her beloved husband."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको स्तवनको फल वर्णन गरिएको छ। 'नित्यम्'—नित्य। 'रक्तदन्त्यावपुःस्तवम्'—रक्तदन्तिकाको स्वरूपको स्तवन। जो नित्य पाठ गर्छ, देवी उसको सेवा गर्छिन्। यो देवीको भक्त-वात्सल्यको चरम हो—देवी आफ्नो भक्तको सेविका बन्छिन्। यो श्लोकले देवीको अटल प्रेम र समर्पणलाई प्रकट गर्छ।",
+            "en": "In this verse, the fruit of reciting Raktadantikā's hymn is described. 'Nityam' — daily. 'Raktadantyāvapuḥstavam' — the hymn to Raktadantikā's form. One who recites daily — the Goddess serves him. This is the peak of the Goddess's affection for her devotee — the Goddess becomes the servant of her devotee. This verse reveals the Goddess's unwavering love and surrender."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti011.wav"
+        },
+        {
+          "id": "murti-12",
+          "number": 12,
+          "sanskrit": "शाकम्भरी नीलवर्णा नीलोत्पलविलोचना। गम्भीरनाभिस्त्रिवलीविभूषिततनूदरी॥१२॥",
+          "iast": "śākambharī nīlavarṇā nīlotpalavilocanā | gambhīranābhistrivalīvibhūṣitatanūdarī ||12||",
+          "meaning": {
+            "ne": "शाकम्भरी नील वर्णकी छिन्, नील कमलझैं नेत्र भएकी, गम्भीर नाभि भएकी, तीन वल्लीले विभूषित पातलो कमर भएकी।",
+            "en": "Śākambharī is blue in complexion, with eyes like blue lotuses, a deep navel, and a slender waist adorned with three folds."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको रूपको वर्णन छ। 'नीलवर्णा'—नील वर्ण। 'नीलोत्पलविलोचना'—नील कमलझैं नेत्र। 'गम्भीरनाभि'—गम्भीर नाभि। 'त्रिवलीविभूषिततनूदरी'—तीन वल्लीले विभूषित पातलो कमर। नील वर्ण शान्ति, गहिराइ र अनन्तताको प्रतीक हो। शाकम्भरी अन्न र पोषणकी देवी हुन्—जो भोकाएकालाई भोजन दिन्छिन्। उनको नील वर्ण शान्ति र करुणाको प्रतीक हो।",
+            "en": "In this verse, the form of Śākambharī is described. 'Nīlavarṇā' — blue complexion. 'Nīlotpalavilocanā' — eyes like blue lotuses. 'Gambhīranābhi' — deep navel. 'Trivalīvibhūṣitatanūdarī' — slender waist adorned with three folds. The colour blue symbolises peace, depth and infinity. Śākambharī is the Goddess of food and nourishment — who gives food to the hungry. Her blue colour symbolises peace and compassion."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti012.wav"
+        },
+        {
+          "id": "murti-13",
+          "number": 13,
+          "sanskrit": "सुकर्कशसमोत्तुङ्गवृत्तपीनघनस्तनी। मुष्टिं शिलीमुखैः पूर्णं कमलं कमलालया॥१३॥",
+          "iast": "sukarkkhaśasamottuṅgavṛttapīnaghanastanī | muṣṭiṃ śilīmukhaiḥ pūrṇaṃ kamalaṃ kamalālayā ||13||",
+          "meaning": {
+            "ne": "कठोर, समान, उच्च, गोलो र पूर्ण स्तन भएकी, मुट्ठीमा बाणहरूले भरिएको कमल धारण गर्ने कमलालया (कमलमा निवास गर्ने)।",
+            "en": "With firm, even, high, round and full breasts, holding in her fist a lotus filled with arrows — she is Kamalālayā (she whose abode is the lotus)."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको शरीरको वर्णन छ। 'सुकर्कशसमोत्तुङ्गवृत्तपीनघनस्तनी'—कठोर, समान, उच्च, गोलो र पूर्ण स्तन। 'मुष्टिं शिलीमुखैः पूर्णम्'—मुट्ठीमा बाणहरूले भरिएको। 'कमलम्'—कमल। 'कमलालया'—कमलमा निवास गर्ने। यसरी देवी कमलमा आसीन छिन् र उनको हातमा बाणहरूले भरिएको कमल छ—जसले उनको योद्धा र पोषक दुवै स्वरूपलाई प्रकट गर्छ।",
+            "en": "In this verse, Śākambharī's body is described. 'Sukarkkhaśasamottuṅgavṛttapīnaghanastanī' — firm, even, high, round and full breasts. 'Muṣṭiṃ śilīmukhaiḥ pūrṇam' — a lotus filled with arrows in her fist. 'Kamalam' — lotus. 'Kamalālayā' — she whose abode is the lotus. Thus the Goddess is seated on a lotus and holds a lotus filled with arrows — revealing both her warrior and nourisher forms."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti013.wav"
+        },
+        {
+          "id": "murti-14",
+          "number": 14,
+          "sanskrit": "पुष्पपल्लवमूलादिफलाढ्यं शाकसञ्चयम्। काम्यानन्तरसैर्युक्तं क्षुत्तृण्मृत्युजराऽपहम्॥१४॥",
+          "iast": "puṣpapallavamūlādiphalāḍhyaṃ śākasañcayam | kāmyānantarasairyuktaṃ kṣuttṛṇmṛtyujarā'paham ||14||",
+          "meaning": {
+            "ne": "फूल, पल्लव, मूल र फलहरूले युक्त, शाकहरूको समूह, काम्य र अनन्त रसहरूले युक्त—जो भोक, तृष्णा, मृत्यु र जरालाई हरण गर्छ।",
+            "en": "Abundant with flowers, leaves, roots and fruits, a collection of vegetables, endowed with desirable and infinite flavours — removing hunger, thirst, death and old age."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको पोषण-स्वरूपको वर्णन छ। फूल, पल्लव, मूल, फल, शाक—यी सबै पोषणका सामग्री हुन्। 'क्षुत्तृण्मृत्युजराऽपहम्'—भोक, तृष्णा, मृत्यु र जरा हरण गर्ने। देवी शाकम्भरी भोकाएकालाई भोजन दिन्छिन् र मृत्युबाट रक्षा गर्छिन्। यसरी देवी केवल आध्यात्मिक मात्र नभई भौतिक पोषणकी पनि देवी हुन्।",
+            "en": "In this verse, Śākambharī's nourishing form is described. Flowers, leaves, roots, fruits, vegetables — all these are materials of nourishment. 'Kṣuttṛṇmṛtyujarā'paham' — removing hunger, thirst, death and old age. Goddess Śākambharī gives food to the hungry and protects from death. Thus the Goddess is not only spiritual but also the Goddess of physical nourishment."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti014.wav"
+        },
+        {
+          "id": "murti-15",
+          "number": 15,
+          "sanskrit": "कार्मुकं च स्फुरत्कान्तिबिभ्रति परमेश्वरी। शाकम्भरी शताक्षी स्यात् सैव दुर्गा प्रकीर्तिता॥१५॥",
+          "iast": "kārmukaṃ ca sphuratkāntibibhrati parameśvarī | śākambharī śatākṣī syāt saiva durgā prakīrtitā ||15||",
+          "meaning": {
+            "ne": "दीप्तिमान कान्ति भएको धनुष धारण गर्ने परमेश्वरी, शाकम्भरी, शताक्षी—उनै दुर्गा भनी प्रकीर्तित छिन्।",
+            "en": "The Supreme Goddess holding a bow of sparkling radiance — she is Śākambharī, Śatākṣī, and she is proclaimed as Durgā herself."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको धनुष धारण गर्ने स्वरूपको वर्णन छ। 'स्फुरत्कान्ति'—दीप्तिमान कान्ति। 'शताक्षी'—सय नेत्र भएकी। 'सैव दुर्गा'—उनै दुर्गा। यसरी शाकम्भरी, शताक्षी र दुर्गा—यी सबै एउटै देवीका नाम हुन्। देवीको एकै स्वरूपका विभिन्न नामहरूले उनको बहुआयामिक शक्तिलाई प्रकट गर्छन्।",
+            "en": "In this verse, Śākambharī's form holding a bow is described. 'Sphuratkānti' — sparkling radiance. 'Śatākṣī' — she of a hundred eyes. 'Saiva Durgā' — she is Durgā. Thus Śākambharī, Śatākṣī and Durgā — all these are names of the same Goddess. The various names of the Goddess's one form reveal her multidimensional power."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti015.wav"
+        },
+        {
+          "id": "murti-16",
+          "number": 16,
+          "sanskrit": "शाकम्भरीं स्तुवन् ध्यायन् जपन् सम्पूजयन् नमन्। अक्षय्यमश्नुते शीघ्रमन्नपानादि सर्वशः॥१६॥",
+          "iast": "śākambharīṃ stuvan dhyāyan japan sampūjayan naman | akṣayyamaśnute śīghramannapānādi sarvaśaḥ ||16||",
+          "meaning": {
+            "ne": "शाकम्भरीको स्तुति, ध्यान, जप, पूजन र नमन गर्नेले तुरन्त अक्षय अन्न, पानी आदि सबै प्राप्त गर्छ।",
+            "en": "One who praises, meditates on, recites the name of, worships and salutes Śākambharī quickly attains inexhaustible food, drink and all else."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको उपासनाको फल वर्णन गरिएको छ। 'स्तुवन्, ध्यायन्, जपन्, सम्पूजयन्, नमन्'—स्तुति, ध्यान, जप, पूजन र नमन। 'अक्षय्यम्'—अक्षय। 'अन्नपानादि'—अन्न, पानी आदि। शाकम्भरीको उपासनाले भक्तलाई अक्षय अन्न र पानी प्राप्त हुन्छ। यो देवीको पोषण-शक्तिको फल हो—जो भक्तलाई कहिल्यै भोकाउँदैन।",
+            "en": "In this verse, the fruit of worshipping Śākambharī is described. 'Stuvan, dhyāyan, japan, sampūjayan, naman' — praising, meditating, reciting, worshipping and saluting. 'Akṣayyam' — inexhaustible. 'Annapānādi' — food, drink and all else. The worship of Śākambharī grants the devotee inexhaustible food and drink. This is the fruit of the Goddess's nourishing power — she who never lets her devotee go hungry."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti016.wav"
+        },
+        {
+          "id": "murti-17",
+          "number": 17,
+          "sanskrit": "भीमाऽपि नीलवर्णा सा दंष्ट्रादशनभासुरा। विशाललोचना नारी वृत्तपीनघनस्तनी॥१७॥",
+          "iast": "bhīmā'pi nīlavarṇā sā daṃṣṭrādaśanabhāsurā | viśālalocanā nārī vṛttapīnaghanastanī ||17||",
+          "meaning": {
+            "ne": "भीमा पनि नील वर्णकी छिन्, दंष्ट्रा र दाँतले दीप्तिमान, विशाल नेत्र भएकी, गोलो र पूर्ण स्तन भएकी नारी।",
+            "en": "Bhīmā is also blue in complexion, radiant with fangs and teeth, with large eyes, a woman with round and full breasts."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा भीमाको रूपको वर्णन छ। 'नीलवर्णा'—नील वर्ण। 'दंष्ट्रादशनभासुरा'—दंष्ट्रा र दाँतले दीप्तिमान। 'विशाललोचना'—विशाल नेत्र। 'वृत्तपीनघनस्तनी'—गोलो र पूर्ण स्तन। भीमा भयानक रूप भएकी देवी हुन्—जो डरलाग्दो संकटहरूबाट रक्षा गर्छिन्। उनको नील वर्ण शान्ति र गहिराइको प्रतीक हो—भयानक रूप भए पनि उनको हृदय शान्त छ।",
+            "en": "In this verse, the form of Bhīmā is described. 'Nīlavarṇā' — blue complexion. 'Daṃṣṭrādaśanabhāsurā' — radiant with fangs and teeth. 'Viśālalocanā' — large eyes. 'Vṛttapīnaghanastanī' — round and full breasts. Bhīmā is the Goddess with a terrifying form — who protects from dreadful crises. Her blue colour symbolises peace and depth — though her form is terrifying, her heart is peaceful."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti017.wav"
+        },
+        {
+          "id": "murti-18",
+          "number": 18,
+          "sanskrit": "चन्द्रहासं च डमरुं शिरःपात्रं च बिभ्रती। एकवीरा कालरात्रिः सैवोक्ता कामदा स्तुता॥१८॥",
+          "iast": "candrahāsaṃ ca ḍamaruṃ śiraḥpātraṃ ca bibhratī | ekavīrā kālarātriḥ saivoktā kāmadā stutā ||18||",
+          "meaning": {
+            "ne": "चन्द्रहास (तरवार), डमरु र शिरको पात्र धारण गर्ने, एकवीरा, कालरात्रि—उनै कामदा भनी स्तुत गरिन्छिन्।",
+            "en": "Holding the crescent sword, the drum and the skull-cup, she is Ekavīrā, Kālarātri — she is praised as Kāmadā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा भीमाका आयुधहरूको वर्णन छ। 'चन्द्रहास'—चन्द्राकार तरवार। 'डमरु'—डमरु। 'शिरःपात्रम्'—शिरको पात्र। 'एकवीरा'—एक्ली वीरा। 'कालरात्रि'—कालको रात। 'कामदा'—कामनाहरू दिने। यसरी देवी भीमा एक्लै संघर्ष गर्ने शक्ति हुन्—जो कालरात्रिको रूपमा अज्ञानको नाश गर्छिन् र कामदाको रूपमा भक्तका कामनाहरू पूर्ण गर्छिन्।",
+            "en": "In this verse, Bhīmā's weapons are described. 'Candrahāsa' — the crescent sword. 'Ḍamaru' — the drum. 'Śiraḥpātram' — the skull-cup. 'Ekavīrā' — the solitary heroine. 'Kālarātri' — the night of time. 'Kāmadā' — the giver of desires. Thus Goddess Bhīmā is the power that struggles alone — who as Kālarātri destroys ignorance and as Kāmadā fulfils the devotee's desires."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti018.wav"
+        },
+        {
+          "id": "murti-19",
+          "number": 19,
+          "sanskrit": "भ्रामरी चैव ताः पञ्च देव्या मूर्तयो मताः। ध्यायेत् ध्यानेन यो देवीमेकैकां वा समग्रशः॥१९॥",
+          "iast": "bhrāmarī caiva tāḥ pañca devyā mūrtayo matāḥ | dhyāyet dhyānena yo devīmekaikāṃ vā samagraśaḥ ||19||",
+          "meaning": {
+            "ne": "भ्रामरी पनि—यी पाँच देवीका मूर्तिहरू मानिएका छन्। जो ध्यानले देवीको एक-एक वा समग्र रूपमा ध्यान गर्छ।",
+            "en": "Bhrāmarī as well — these five are considered the forms of the Goddess. One who meditates on the Goddess individually or collectively with meditation."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पाँच मूर्तिहरूको गणना गरिएको छ—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी। 'एकैकाम्'—एक-एक। 'समग्रशः'—समग्र रूपमा। भक्तले देवीको एक-एक मूर्तिको वा सबैको समग्र रूपमा ध्यान गर्न सक्छ। यसरी मूर्तिरहस्य भक्तलाई देवीको ध्यानको लचिलो मार्ग देखाउँछ।",
+            "en": "In this verse, the five forms are enumerated — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī. 'Ekaikām' — individually. 'Samagraśaḥ' — collectively. The devotee can meditate on the Goddess's forms individually or all together. Thus Mūrti Rahasya shows the devotee a flexible path of meditation on the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti019.wav"
+        },
+        {
+          "id": "murti-20",
+          "number": 20,
+          "sanskrit": "स सर्वपापनिर्मुक्तो दिवि देवैः सह मोदते। अनया विधिना ध्यानं यः करोति नरोत्तमः॥२०॥",
+          "iast": "sa sarvapāpanirmukto divi devaiḥ saha modate | anayā vidhinā dhyānaṃ yaḥ karoti narottamaḥ ||20||",
+          "meaning": {
+            "ne": "उनी सबै पापबाट मुक्त भई स्वर्गमा देवताहरूसँग आनन्द गर्छ। जो उत्तम मनुष्य यस विधिले ध्यान गर्छ।",
+            "en": "He is freed from all sins and rejoices in heaven with the gods. The noble person who meditates by this method..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ध्यानको फल वर्णन गरिएको छ। 'सर्वपापनिर्मुक्तः'—सबै पापबाट मुक्त। 'दिवि देवैः सह मोदते'—स्वर्गमा देवताहरूसँग आनन्द। 'नरोत्तमः'—उत्तम मनुष्य। जो यस विधिले ध्यान गर्छ, उनी पापमुक्त भई स्वर्गमा आनन्द गर्छ। यो देवीको ध्यानको फल हो—जसले भक्तलाई पापबाट मुक्त गरी दिव्य आनन्द प्रदान गर्छ।",
+            "en": "In this verse, the fruit of meditation is described. 'Sarvapāpanirmuktaḥ' — freed from all sins. 'Divi devaiḥ saha modate' — rejoices in heaven with the gods. 'Narottamaḥ' — noble person. One who meditates by this method is freed from sins and rejoices in heaven. This is the fruit of the Goddess's meditation — which frees the devotee from sin and grants divine joy."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti020.wav"
+        },
+        {
+          "id": "murti-21",
+          "number": 21,
+          "sanskrit": "स सर्वदा सुखी लोके सर्वकामसमृद्धिमान्। इत्येतन्मूर्तिरहस्यं देव्यास्तु कथितं मया॥२१॥",
+          "iast": "sa sarvadā sukhī loke sarvakāmasamṛddhimān | ityetanmūrtirahasyaṃ devyāstu kathitaṃ mayā ||21||",
+          "meaning": {
+            "ne": "उनी संसारमा सधैं सुखी र सबै कामनाहरूले समृद्ध हुन्छन्। यसरी मैले देवीको यो मूर्तिरहस्य भनेको छु।",
+            "en": "He is always happy in the world and enriched with all desires. Thus I have spoken this Mūrti Rahasya of the Goddess."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ध्यानको पार्थिव फल वर्णन गरिएको छ। 'सर्वदा सुखी'—सधैं सुखी। 'सर्वकामसमृद्धिमान्'—सबै कामनाहरूले समृद्ध। 'मूर्तिरहस्यम्'—मूर्तिरहस्य। यसरी ऋषिले मूर्तिरहस्यको वर्णन पूर्ण गर्छन्। यो रहस्य भक्तलाई संसारमा सुख र समृद्धि र आध्यात्मिक उन्नति दुवै प्रदान गर्छ।",
+            "en": "In this verse, the worldly fruit of meditation is described. 'Sarvadā sukhī' — always happy. 'Sarvakāmasamṛddhimān' — enriched with all desires. 'Mūrtirahasyam' — Mūrti Rahasya. Thus the sage completes the description of Mūrti Rahasya. This secret grants the devotee both worldly happiness and prosperity, and spiritual upliftment."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti021.wav"
+        },
+        {
+          "id": "murti-22",
+          "number": 22,
+          "sanskrit": "गोपनीयं प्रयत्नेन न देयं यस्य कस्यचित्। इदं तु मूर्तिरहस्यं देव्याः परमदुर्लभम्॥२२॥",
+          "iast": "gopanīyaṃ prayatnena na deyaṃ yasya kasyacit | idaṃ tu mūrtirahasyaṃ devyāḥ paramadurlabham ||22||",
+          "meaning": {
+            "ne": "यसलाई प्रयत्नपूर्वक गोप्य राख्नु, कसैलाई पनि दिनु हुँदैन। यो देवीको मूर्तिरहस्य अत्यन्त दुर्लभ छ।",
+            "en": "This should be kept secret with effort, and should not be given to just anyone. This Mūrti Rahasya of the Goddess is extremely rare."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा मूर्तिरहस्यको गोपनीयताको महत्व बताइएको छ। 'गोपनीयम्'—गोप्य। 'न देयम्'—दिनु हुँदैन। 'परमदुर्लभम्'—अत्यन्त दुर्लभ। यो रहस्य केवल श्रद्धालु भक्तहरूलाई मात्र दिनुपर्छ—अभक्त वा अश्रद्धालुहरूलाई दिनु हुँदैन। यो रहस्य यति गुह्य छ कि यसलाई साधारण जनतालाई दिनु हुँदैन।",
+            "en": "In this verse, the importance of the secrecy of Mūrti Rahasya is stated. 'Gopanīyam' — secret. 'Na deyam' — should not be given. 'Paramadurlabham' — extremely rare. This secret should be given only to faithful devotees — not to the non-devout or faithless. This secret is so confidential that it should not be given to ordinary people."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti022.wav"
+        },
+        {
+          "id": "murti-23",
+          "number": 23,
+          "sanskrit": "श्रृणु राजन् प्रवक्ष्यामि मूर्तिरहस्यमुत्तमम्। यथा देव्या नवदुर्गाः कथिता लोकपूजिताः॥२३॥",
+          "iast": "śṛṇu rājan pravakṣyāmi mūrtirahasyamuttamam | yathā devyā navadurgāḥ kathitā lokapūjitāḥ ||23||",
+          "meaning": {
+            "ne": "हे राजा, सुन्नुहोस्, म उत्तम मूर्तिरहस्य भन्छु—जसरी देवीका नवदुर्गा लोकपूजित भनी कथन गरिएका छन्।",
+            "en": "Listen, O King, I shall speak the supreme Mūrti Rahasya — how the Goddess's Navadurgās are proclaimed, worshipped by the world."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ऋषिले मूर्तिरहस्यको वर्णन गर्न सुरु गर्छन्। 'नवदुर्गाः'—नवदुर्गा। 'लोकपूजिताः'—लोकपूजित। यसरी ऋषिले नवदुर्गाको वर्णन गर्ने वचन दिन्छन्। यो श्लोक मूर्तिरहस्यको दोस्रो भागको प्रारम्भ हो—जहाँ नवदुर्गाको वर्णन गरिन्छ।",
+            "en": "In this verse, the sage begins the description of Mūrti Rahasya. 'Navadurgāḥ' — the Navadurgās. 'Lokapūjitāḥ' — worshipped by the world. Thus the sage promises to describe the Navadurgās. This verse is the beginning of the second part of Mūrti Rahasya — where the Navadurgās are described."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti023.wav"
+        },
+        {
+          "id": "murti-24",
+          "number": 24,
+          "sanskrit": "शैलपुत्री ब्रह्मचारिणी चन्द्रघण्टा कूष्माण्डा। स्कन्दमाता कात्यायनी कालरात्री महागौरी॥२४॥",
+          "iast": "śailaputrī brahmacāriṇī candraghaṇṭā kūṣmāṇḍā | skandamātā kātyāyanī kālarātrī mahāgaurī ||24||",
+          "meaning": {
+            "ne": "शैलपुत्री, ब्रह्मचारिणी, चन्द्रघण्टा, कूष्माण्डा, स्कन्दमाता, कात्यायनी, कालरात्री, महागौरी।",
+            "en": "Śailaputrī, Brahmacāriṇī, Candraghaṇṭā, Kūṣmāṇḍā, Skandamātā, Kātyāyanī, Kālarātrī, Mahāgaurī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा नवदुर्गाका आठ नामहरूको गणना गरिएको छ। शैलपुत्री—हिमालयकी पुत्री। ब्रह्मचारिणी—ब्रह्मचर्य पालन गर्ने। चन्द्रघण्टा—चन्द्रको घण्टा। कूष्माण्डा—सृष्टिको बीज। स्कन्दमाता—कार्तिकेयकी माता। कात्यायनी—कात्यायन ऋषिकी पुत्री। कालरात्री—कालको रात। महागौरी—अत्यन्त गौर वर्णकी। यी सबै नवदुर्गाका रूप हुन्—जो नवरात्रिमा पूजित हुन्छन्।",
+            "en": "In this verse, eight names of the Navadurgās are enumerated. Śailaputrī — daughter of the Himalaya. Brahmacāriṇī — observer of chastity. Candraghaṇṭā — moon-bell. Kūṣmāṇḍā — seed of creation. Skandamātā — mother of Kārtikeya. Kātyāyanī — daughter of Sage Kātyāyana. Kālarātrī — night of time. Mahāgaurī — the extremely fair one. All these are forms of the Navadurgās — worshipped during Navarātri."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti024.wav"
+        },
+        {
+          "id": "murti-25",
+          "number": 25,
+          "sanskrit": "सिद्धिदात्री च नवमी ता नवदुर्गाः प्रकीर्तिताः। महाकाली महालक्ष्मी महासरस्वती तथा॥२५॥",
+          "iast": "siddhidātrī ca navamī tā navadurgāḥ prakīrtitāḥ | mahākālī mahālakṣmī mahāsarasvatī tathā ||25||",
+          "meaning": {
+            "ne": "सिद्धिदात्री नवौं—यी नवदुर्गा भनी प्रकीर्तित छन्। महाकाली, महालक्ष्मी र महासरस्वती पनि।",
+            "en": "Siddhidātrī is the ninth — these are proclaimed as the Navadurgās. Mahākālī, Mahālakṣmī and Mahāsarasvatī as well."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा नवदुर्गाको गणना पूर्ण गरिन्छ। 'सिद्धिदात्री'—सिद्धि दिने। 'नवमी'—नवौं। 'महाकाली, महालक्ष्मी, महासरस्वती'—यी तीन महादेवीहरू। यसरी नवदुर्गा र तीन महादेवीहरूको सम्बन्ध स्थापित गरिन्छ। यो श्लोक मूर्तिरहस्यको नवदुर्गा भागको समापन हो।",
+            "en": "In this verse, the enumeration of the Navadurgās is completed. 'Siddhidātrī' — giver of accomplishments. 'Navamī' — the ninth. 'Mahākālī, Mahālakṣmī, Mahāsarasvatī' — these three Great Goddesses. Thus the relationship between the Navadurgās and the three Great Goddesses is established. This verse concludes the Navadurgā section of Mūrti Rahasya."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti025.wav"
+        },
+        {
+          "id": "murti-26",
+          "number": 26,
+          "sanskrit": "नन्दा भगवती दुर्गा शाकम्भरी च भीमदा। भ्रामरी चैव ताः पञ्च देव्या मूर्तयो मताः॥२६॥",
+          "iast": "nandā bhagavatī durgā śākambharī ca bhīmadā | bhrāmarī caiva tāḥ pañca devyā mūrtayo matāḥ ||26||",
+          "meaning": {
+            "ne": "नन्दा भगवती, दुर्गा, शाकम्भरी, भीमदा र भ्रामरी—यी पाँच देवीका मूर्तिहरू मानिएका छन्।",
+            "en": "Nandā Bhagavatī, Durgā, Śākambharī, Bhīmadā and Bhrāmarī — these five are considered the forms of the Goddess."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पाँच मूर्तिहरूको पुनः गणना गरिएको छ। 'नन्दा भगवती, दुर्गा, शाकम्भरी, भीमदा, भ्रामरी'—यी पाँच देवीका मूर्तिहरू हुन्। यो श्लोक मूर्तिरहस्यको मुख्य पाँच मूर्तिहरूको सार हो। यसरी मूर्तिरहस्य देवीका पाँच प्रमुख रूपहरूको वर्णन गर्छ—जो भक्तको विभिन्न आवश्यकताहरू पूर्ण गर्छन्।",
+            "en": "In this verse, the five forms are again enumerated. 'Nandā Bhagavatī, Durgā, Śākambharī, Bhīmadā, Bhrāmarī' — these five are the forms of the Goddess. This verse is the essence of the five main forms of Mūrti Rahasya. Thus Mūrti Rahasya describes the Goddess's five primary forms — which fulfil the various needs of the devotee."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti026.wav"
+        },
+        {
+          "id": "murti-27",
+          "number": 27,
+          "sanskrit": "ध्यायेद्ध्यानेन यो देवीमेकैकां वा समग्रशः। स सर्वपापनिर्मुक्तो दिवि देवैः सह मोदते॥२७॥",
+          "iast": "dhyāyeddhyānena yo devīmekaikāṃ vā samagraśaḥ | sa sarvapāpanirmukto divi devaiḥ saha modate ||27||",
+          "meaning": {
+            "ne": "जो ध्यानले देवीको एक-एक वा समग्र रूपमा ध्यान गर्छ, उनी सबै पापबाट मुक्त भई स्वर्गमा देवताहरूसँग आनन्द गर्छ।",
+            "en": "One who meditates on the Goddess individually or collectively with meditation — he is freed from all sins and rejoices in heaven with the gods."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २० को पुनरावृत्ति हो। यसले ध्यानको फललाई पुनः स्थापित गर्छ। 'एकैकाम्'—एक-एक। 'समग्रशः'—समग्र। 'सर्वपापनिर्मुक्तः'—सबै पापबाट मुक्त। 'दिवि देवैः सह मोदते'—स्वर्गमा देवताहरूसँग आनन्द। यो श्लोक मूर्तिरहस्यको फलश्रुतिको पुनरावृत्ति हो—जसले ध्यानको महिमालाई दृढ गर्छ।",
+            "en": "This verse is a repetition of verse 20. It re-establishes the fruit of meditation. 'Ekaikām' — individually. 'Samagraśaḥ' — collectively. 'Sarvapāpanirmuktaḥ' — freed from all sins. 'Divi devaiḥ saha modate' — rejoices in heaven with the gods. This verse is a repetition of the phala-śruti of Mūrti Rahasya — strengthening the greatness of meditation."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti027.wav"
+        },
+        {
+          "id": "murti-28",
+          "number": 28,
+          "sanskrit": "अनया विधिना ध्यानं यः करोति नरोत्तमः। स सर्वदा सुखी लोके सर्वकामसमृद्धिमान्॥२८॥",
+          "iast": "anayā vidhinā dhyānaṃ yaḥ karoti narottamaḥ | sa sarvadā sukhī loke sarvakāmasamṛddhimān ||28||",
+          "meaning": {
+            "ne": "जो उत्तम मनुष्य यस विधिले ध्यान गर्छ, उनी संसारमा सधैं सुखी र सबै कामनाहरूले समृद्ध हुन्छन्।",
+            "en": "The noble person who meditates by this method is always happy in the world and enriched with all desires."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २१ को पुनरावृत्ति हो। 'नरोत्तमः'—उत्तम मनुष्य। 'सर्वदा सुखी'—सधैं सुखी। 'सर्वकामसमृद्धिमान्'—सबै कामनाहरूले समृद्ध। यो श्लोक मूर्तिरहस्यको पार्थिव फलको पुनरावृत्ति हो—जसले भक्तलाई संसारमा सुख र समृद्धिको आश्वासन दिन्छ।",
+            "en": "This verse is a repetition of verse 21. 'Narottamaḥ' — noble person. 'Sarvadā sukhī' — always happy. 'Sarvakāmasamṛddhimān' — enriched with all desires. This verse is a repetition of the worldly fruit of Mūrti Rahasya — giving the devotee the assurance of happiness and prosperity in the world."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti028.wav"
+        },
+        {
+          "id": "murti-29",
+          "number": 29,
+          "sanskrit": "इत्येतन्मूर्तिरहस्यं देव्यास्तु कथितं मया। गोपनीयं प्रयत्नेन न देयं यस्य कस्यचित्॥२९॥",
+          "iast": "ityetanmūrtirahasyaṃ devyāstu kathitaṃ mayā | gopanīyaṃ prayatnena na deyaṃ yasya kasyacit ||29||",
+          "meaning": {
+            "ne": "यसरी मैले देवीको यो मूर्तिरहस्य भनेको छु। यसलाई प्रयत्नपूर्वक गोप्य राख्नु, कसैलाई पनि दिनु हुँदैन।",
+            "en": "Thus I have spoken this Mūrti Rahasya of the Goddess. This should be kept secret with effort, and should not be given to just anyone."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २२ को पुनरावृत्ति हो। 'मूर्तिरहस्यम्'—मूर्तिरहस्य। 'गोपनीयम्'—गोप्य। 'न देयम्'—दिनु हुँदैन। यो श्लोक मूर्तिरहस्यको गोपनीयताको महत्वलाई पुनः स्थापित गर्छ। यो रहस्य केवल योग्य भक्तहरूलाई मात्र दिनुपर्छ।",
+            "en": "This verse is a repetition of verse 22. 'Mūrtirahasyam' — Mūrti Rahasya. 'Gopanīyam' — secret. 'Na deyam' — should not be given. This verse re-establishes the importance of the secrecy of Mūrti Rahasya. This secret should be given only to worthy devotees."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti029.wav"
+        },
+        {
+          "id": "murti-30",
+          "number": 30,
+          "sanskrit": "इति श्रीमार्कण्डेयपुराणे देवीमाहात्म्ये मूर्तिरहस्यं सम्पूर्णम्॥३०॥",
+          "iast": "iti śrīmārkaṇḍeyapurāṇe devīmāhātmye mūrtirahasyaṃ sampūrṇam ||30||",
+          "meaning": {
+            "ne": "यसरी श्रीमार्कण्डेयपुराणको देवीमाहात्म्यमा मूर्तिरहस्य सम्पूर्ण भयो।",
+            "en": "Thus concludes the Mūrti Rahasya in the Devī Māhātmya of the Śrī Mārkaṇḍeya Purāṇa."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। 'मूर्तिरहस्यम्'—मूर्तिरहस्य। 'सम्पूर्णम्'—सम्पूर्ण। यसरी मूर्तिरहस्यको समापन हुन्छ। यो रहस्य देवीमाहात्म्यको तेस्रो रहस्य हो—जसले देवीका पाँच मूर्तिहरूको वर्णन गर्छ।",
+            "en": "This is the final verse. 'Mūrtirahasyam' — Mūrti Rahasya. 'Sampūrṇam' — complete. Thus Mūrti Rahasya concludes. This secret is the third secret of the Devī Māhātmya — describing the five forms of the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/murti-rahasya/verses/murti030.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "मूर्तिरहस्यको सम्पूर्ण प्रवाहलाई हेर्दा देवीका पाँच मूर्तिहरू—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी—को वर्णन, प्रत्येकको स्वरूप, आयुध, वाहन र फल देखिन्छ।\n\nनन्दा सुनको वर्ण भएकी, कमल, अङ्कुश, पाश र शङ्ख धारण गर्ने, लक्ष्मीको स्वरूप हुन्। रक्तदन्तिका रक्त वर्णकी, खड्ग, पात्र, मुसल र हल धारण गर्ने, भक्तप्रति पतिवत् अनुरक्त हुन्। शाकम्भरी नील वर्णकी, अन्न र पोषणकी देवी हुन्—जो भोक, तृष्णा, मृत्यु र जरा हरण गर्छिन्। भीमा नील वर्णकी, चन्द्रहास, डमरु र शिरःपात्र धारण गर्ने, एकवीरा र कालरात्रि हुन्। भ्रामरी भ्रमरहरूको समूहले घेरिएकी, रोग र महामारीको नाश गर्ने देवी हुन्।\n\nयस स्तोत्रलाई तीन तहमा पढ्न सकिन्छ: दर्शन, ध्यान र फल। दर्शनमा देवीका रूपहरूको वर्णन गरिन्छ, ध्यानमा तिनको ध्यान गरिन्छ, र फलमा पापमुक्ति, स्वर्गसुख, सुख, समृद्धि र कामनापूर्ति प्राप्त हुन्छ। यसरी मूर्तिरहस्य भक्तलाई देवीको दर्शन, ध्यान र कृपाको मार्ग देखाउँछ।",
+      "en": "Read as a whole, Mūrti Rahasya presents the five forms of the Goddess — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī — with each one's form, weapons, vehicle and fruit.\n\nNandā, golden in complexion, holding lotus, goad, noose and conch, is the form of Lakṣmī. Raktadantikā, red in complexion, holding sword, vessel, pestle and plough, is devoted to her devotee as a wife to her husband. Śākambharī, blue in complexion, is the Goddess of food and nourishment — who removes hunger, thirst, death and old age. Bhīmā, blue in complexion, holding the crescent sword, drum and skull-cup, is Ekavīrā and Kālarātri. Bhrāmarī, surrounded by swarms of bees, is the Goddess who destroys disease and pestilence.\n\nThe stotra can be studied through three layers: vision, meditation and fruit. In vision, the Goddess's forms are described; in meditation, they are meditated upon; and in fruit, freedom from sin, heavenly joy, happiness, prosperity and fulfilment of desires are attained. Thus Mūrti Rahasya shows the devotee the path of the Goddess's vision, meditation and grace."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "मूर्तिरहस्यको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी मूर्तिरहस्यको अध्ययन केवल ३० श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Mūrti Rahasya, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Mūrti Rahasya does not end simply with reading thirty verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

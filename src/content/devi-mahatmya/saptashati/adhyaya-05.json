@@ -1,0 +1,15 @@
+﻿{
+  "id": "adhyaya-05",
+  "title": "Adhyāya 5",
+  "sanskritTitle": "अध्याय 5",
+  "type": "chapter",
+  "collection": "saptashati",
+
+  "metadata": {
+    "chapterNumber": 5,
+    "language": "sa",
+    "sourceStatus": "content-to-be-entered"
+  },
+
+  "sections": []
+}

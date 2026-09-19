@@ -1,0 +1,540 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Moku Darshana Document",
+  "description": "Generic content model for standalone spiritual works in Moku Darshana.",
+  "type": "object",
+
+  "required": [
+    "id",
+    "title",
+    "type",
+    "metadata",
+    "sections"
+  ],
+
+  "properties": {
+
+    "id": {
+      "type": "string"
+    },
+
+    "title": {
+      "type": "string"
+    },
+
+    "sanskritTitle": {
+      "type": ["string", "null"]
+    },
+
+    "type": {
+      "type": "string",
+      "enum": [
+        "stotram",
+        "suktam",
+        "kavacam",
+        "chapter",
+        "prayer",
+        "rahasya",
+        "puja",
+        "book",
+        "mantra",
+        "other"
+      ]
+    },
+
+    "collection": {
+      "type": ["string", "null"]
+    },
+
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "language": {
+          "type": ["string", "null"]
+        },
+        "meaningLanguages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "script": {
+          "type": ["string", "null"]
+        },
+        "transliteration": {
+          "type": ["string", "null"]
+        },
+        "verseCount": {
+          "type": ["integer", "null"]
+        },
+        "sourceStatus": {
+          "type": ["string", "null"]
+        },
+        "standalone": {
+          "type": "boolean"
+        },
+        "learningModel": {
+          "type": ["string", "null"]
+        },
+        "primaryTradition": {
+          "type": ["string", "null"]
+        },
+        "sourceTextPreservation": {
+          "type": ["string", "null"]
+        },
+        "textualNote": {
+          "type": ["string", "null"]
+        }
+      },
+      "additionalProperties": true
+    },
+
+    "source": {
+      "type": "object",
+      "properties": {
+        "tradition": {
+          "type": ["string", "null"]
+        },
+        "references": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "verification": {
+          "type": ["object", "null"]
+        },
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+
+    "sections": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/section"
+      }
+    },
+
+    "course": {
+      "$ref": "#/$defs/course"
+    },
+
+    "completion": {
+      "$ref": "#/$defs/completion"
+    },
+
+    "learningObjectives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+
+    "navigation": {
+      "type": "object",
+      "additionalProperties": true
+    },
+
+    "audio": {
+      "$ref": "#/$defs/audio"
+    },
+
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  },
+
+  "$defs": {
+
+    "section": {
+      "type": "object",
+
+      "required": [
+        "id",
+        "type",
+        "title"
+      ],
+
+      "properties": {
+
+        "id": {
+          "type": "string"
+        },
+
+        "type": {
+          "type": "string",
+          "enum": [
+            "introduction",
+            "purpose",
+            "textual-tradition",
+            "preparation",
+            "viniyoga",
+            "dhyana",
+            "verses",
+            "mantras",
+            "prayer",
+            "refrain",
+            "conclusion",
+            "summary",
+            "tattva",
+            "explanation",
+            "practice",
+            "reflection",
+            "sources",
+            "custom"
+          ]
+        },
+
+        "title": {
+          "type": "string"
+        },
+
+        "sanskritTitle": {
+          "type": ["string", "null"]
+        },
+
+        "description": {
+          "type": ["string", "null"]
+        },
+
+        "content": {
+          "type": ["string", "null"]
+        },
+
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/contentItem"
+          }
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "contentItem": {
+      "type": "object",
+
+      "required": [
+        "id",
+        "type"
+      ],
+
+      "properties": {
+
+        "id": {
+          "type": "string"
+        },
+
+        "number": {
+          "type": ["integer", "null"]
+        },
+
+        "type": {
+          "type": "string",
+          "enum": [
+            "verse",
+            "mantra",
+            "paragraph",
+            "prayer",
+            "refrain",
+            "instruction",
+            "note",
+            "custom"
+          ]
+        },
+
+        "title": {
+          "type": ["string", "null"]
+        },
+
+        "text": {
+          "$ref": "#/$defs/text"
+        },
+
+        "meaning": {
+          "$ref": "#/$defs/meaning"
+        },
+
+        "explanation": {
+          "$ref": "#/$defs/explanation"
+        },
+
+        "learning": {
+          "$ref": "#/$defs/learning"
+        },
+
+        "practice": {
+          "$ref": "#/$defs/practice"
+        },
+
+        "audio": {
+          "$ref": "#/$defs/audio"
+        },
+
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "text": {
+      "type": "object",
+
+      "properties": {
+        "sanskrit": {
+          "type": ["string", "null"]
+        },
+
+        "transliteration": {
+          "type": ["string", "null"]
+        },
+
+        "script": {
+          "type": ["string", "null"]
+        },
+
+        "language": {
+          "type": ["string", "null"]
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "meaning": {
+      "type": "object",
+
+      "properties": {
+        "wordMeaning": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "term": {
+                "type": "string"
+              },
+              "meaning": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "term",
+              "meaning"
+            ]
+          }
+        },
+
+        "english": {
+          "type": ["string", "null"]
+        },
+
+        "nepali": {
+          "type": ["string", "null"]
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "explanation": {
+      "type": "object",
+
+      "properties": {
+        "english": {
+          "type": ["string", "null"]
+        },
+
+        "nepali": {
+          "type": ["string", "null"]
+        },
+
+        "sourceBased": {
+          "type": ["boolean", "null"]
+        },
+
+        "notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "learning": {
+      "type": "object",
+
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+
+        "meaningAvailable": {
+          "type": "boolean"
+        },
+
+        "explanationAvailable": {
+          "type": "boolean"
+        },
+
+        "keyTeaching": {
+          "type": ["string", "null"]
+        },
+
+        "contemplation": {
+          "type": ["string", "null"]
+        },
+
+        "practice": {
+          "type": ["string", "null"]
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "practice": {
+      "type": "object",
+
+      "properties": {
+        "repeatable": {
+          "type": "boolean"
+        },
+
+        "memorization": {
+          "type": "boolean"
+        },
+
+        "instructions": {
+          "type": ["string", "null"]
+        },
+
+        "duration": {
+          "type": ["string", "null"]
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "audio": {
+      "type": "object",
+
+      "properties": {
+        "available": {
+          "type": "boolean"
+        },
+
+        "patha": {
+          "type": ["string", "null"]
+        },
+
+        "slow": {
+          "type": ["string", "null"]
+        },
+
+        "meaning": {
+          "type": ["string", "null"]
+        },
+
+        "explanation": {
+          "type": ["string", "null"]
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "course": {
+      "type": "object",
+
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+
+        "mode": {
+          "type": ["string", "null"]
+        },
+
+        "completionModel": {
+          "type": ["string", "null"]
+        },
+
+        "stages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": ["string", "null"]
+              },
+              "sectionIds": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "required": [
+              "id",
+              "title"
+            ]
+          }
+        }
+      },
+
+      "additionalProperties": true
+    },
+
+    "completion": {
+      "type": "object",
+
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+
+        "requiredStages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+
+        "completionMessage": {
+          "type": ["string", "null"]
+        },
+
+        "completionMessageEnglish": {
+          "type": ["string", "null"]
+        }
+      },
+
+      "additionalProperties": true
+    }
+  }
+}

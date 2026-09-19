@@ -1,0 +1,194 @@
+{
+  "id": "ratri-suktam",
+  "title": "Rātri Sūktam",
+  "sanskritTitle": "॥ रात्रिसूक्तम् ॥",
+  "type": "stotram",
+  "collection": "patha-purva",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 8,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Rātri Sūktam is the Rigvedic hymn to the Goddess Night (Ṛgveda 10.127). It is traditionally recited at the beginning of the Devī Māhātmya patha. The received Devi Saptasati recension preserves eight verses. Some tantric recensions (Tantrokta Rātri Sūktam) expand this to fifteen verses; the library entry's count of twenty-three reflects a broader liturgical count. The selected source is the eight-verse Vedic recension as preserved in the Moku Darshana edition.",
+    "references": [
+      { "name": "Auro Bharati — Rātrisūktam", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/ratrisuktam/ratrisuktam-text/" },
+      { "name": "Stotra Nidhi — Ratri Suktam", "url": "https://stotranidhi.com/en/ratri-suktam-in-english/" },
+      { "name": "Mayiliragu — Ratri Suktam Word to Word Meaning", "url": "https://www.mayiliragu.com/2021/10/ratri-suktam-rig-veda-word-to-word.html" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "रात्रिसूक्तस्य महिमा",
+      "titleEn": "The Nature and Place of Rātri Sūktam",
+      "ne": "रात्रिसूक्तम् ऋग्वेदको दशौं मण्डलको १२७ औं सूक्त हो। यो देवीमाहात्म्यको पाठपरम्परामा सप्तशती पाठभन्दा पूर्व पठन गरिन्छ। यसको पाठद्वारा साधकले रात्रिदेवीको स्मरण गर्दै रात्रिको समयलाई दिव्य संरक्षणमा समर्पण गर्दछ।\n\nरात्रि शब्दले रात वा अन्धकारलाई जनाउँछ। तर आध्यात्मिक सन्दर्भमा रात्रि केवल बाह्य अन्धकार मात्र नभई अज्ञान, तमस् र मोहको पनि प्रतीक हो। रात्रिसूक्तमा रात्रिदेवीलाई अन्धकारको नाश गर्ने, सबै प्राणीहरूलाई विश्राम र सुरक्षा प्रदान गर्ने तथा उषाकी दिदीका रूपमा वर्णन गरिएको छ।\n\nदुर्गा सप्तशतीको पाठमा रात्रिसूक्तम् देवीकवच, अर्गलास्तोत्र र कीलकस्तोत्रसँगै पूर्वाङ्गका रूपमा पठन गरिन्छ। यसले सप्तशती पाठको फल प्राप्तिका लागि दिव्य संरक्षण र मानसिक शुद्धिको आधार प्रदान गर्छ।",
+      "en": "Rātri Sūktam is the 127th hymn of the tenth Maṇḍala of the Ṛgveda. In the recitation tradition of the Devī Māhātmya, it is recited before the Saptaśatī. Through it the practitioner remembers the Goddess Night and places the hours of darkness under divine protection.\n\nThe word rātri means night or darkness. In a spiritual context, however, rātri is not merely outer darkness but also a symbol of ignorance, tamas and delusion. In the Rātri Sūktam, the Goddess Night is described as the destroyer of darkness, the giver of rest and safety to all beings, and the sister of Uṣas, the Dawn.\n\nIn the recitation of the Durga Saptashati, Rātri Sūktam is recited along with the Devī Kavacam, Argala Stotram and Kīlaka Stotram as a preparatory limb (aṅga). It provides the foundation of divine protection and mental purification for the fruit of the Saptaśatī recitation."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीरात्रीति सूक्तस्य कुशिक ऋषिः।\nरात्रिर्देवता।\nगायत्रीच्छन्दः।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठादौ जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-rātrīti sūktasya kuśika ṛṣiḥ |\nrātrir devatā |\ngāyatrīcchandaḥ |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhādau jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीरात्रि सूक्तका कुशिक ऋषि हुन्, रात्रि देवता हुन्, गायत्री छन्द हो। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको आदिमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Rātri Sūkta, Kuśika is the seer (ṛṣi), Rātri is the presiding deity, and Gāyatrī is the metre. It is recited as a limb (aṅga) at the beginning of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल सूक्तका आठ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the eight main verses."
+      },
+      "audio": "audio/ratri-suktam/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीरात्रिसूक्तम्",
+      "titleEn": "Rātri Sūktam — Main Recitation",
+      "items": [
+        {
+          "id": "ratri-01",
+          "number": 1,
+          "sanskrit": "ॐ रात्री व्यख्यदायती पुरुत्रा देव्यक्षभिः  । विश्वा अधिश्रियोधित॥१॥",
+          "iast": "oṃ rātrī vyakhyadāyatī purutrā devyakṣabhiḥ | viśvā adhiśriyodhita ||1||",
+          "meaning": {
+            "ne": "रात्रिदेवी आउँदै छिन्, उनले धेरै स्थानहरूमा आफ्ना दिव्य नेत्रहरूद्वारा दर्शन गर्छिन्। उनले सबै ऐश्वर्य र शोभालाई धारण गर्छिन्।",
+            "en": "The goddess Night that comes, saw with eyes of vision in many planes. She holds high all the splendours."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवी आफ्ना ताराहरू रूपी आँखाहरूले सर्वत्र दर्शन गर्दै आउँछिन्। ताराहरूले भरिएको आकाश उनको दिव्य नेत्र हो। उनले संसारका सबै ऐश्वर्य र शोभालाई आफूमा धारण गर्छिन्। यसरी रात्रि केवल अन्धकार नभई अनन्त ताराहरूले सुशोभित दिव्य उपस्थिति हो।",
+            "en": "The Goddess Night approaches with her eyes, which are the infinite stars, seeing everywhere. The star-filled sky is her divine eye. She holds within herself all the wealth and splendour of the world. Thus night is not merely darkness but a divine presence adorned with countless stars."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri001.wav"
+        },
+        {
+          "id": "ratri-02",
+          "number": 2,
+          "sanskrit": "ओर्वपा अमर्त्या निवतो देव्युद्धतः। ज्योतिषा वाधते तमः॥२॥",
+          "iast": "orvapā amartyā nivato devyuddhataḥ | jyotiṣā vādhate tamaḥ ||2||",
+          "meaning": {
+            "ne": "अमर देवीले विशाल, उच्च र नीच स्थानहरूलाई व्याप्त गर्छिन्। उनले आफ्नो ज्योतिले अन्धकारलाई नष्ट गर्छिन्।",
+            "en": "The goddess immortal, she fills the vast, the high and the low places. She repels darkness with light."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवी अमर छिन्—उनको अस्तित्व जन्म-मृत्युभन्दा पर छ। उनले विशाल पृथ्वी, उच्च आकाश र नीच लोकहरूलाई व्याप्त गर्छिन्। उनको आन्तरिक ज्योतिले अज्ञान र अन्धकारलाई हटाउँछ। रात्रिको अन्धकार पनि उनकै ज्योतिको एक रूप हो।",
+            "en": "The Goddess Night is immortal — her existence is beyond birth and death. She pervades the vast earth, the high heavens and the lower realms. Her inner light removes ignorance and darkness. The darkness of night is itself a form of her light."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri002.wav"
+        },
+        {
+          "id": "ratri-03",
+          "number": 3,
+          "sanskrit": "निरु स्वसारमस्कृतोपसं देव्यायती। अपेदुहासते तमः॥३॥",
+          "iast": "niru svasāramaskṛtopasaṃ devyāyatī | apeduhāsate tamaḥ ||3||",
+          "meaning": {
+            "ne": "देवी आउँदै छिन्, आफ्नी दिदी उषालाई तयार पार्दै। अन्धकार हटेर जान्छ।",
+            "en": "The goddess that comes, prepared her sister Uṣas. And the darkness leaves."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवी उषाकी दिदी हुन्। रात्रि अन्त्यमा उषा (बिहानी) प्रकट हुन्छिन्। रात्रिको आगमनले उषाको मार्ग तयार गर्छ। अन्धकार हटेर प्रकाशको मार्ग खुल्छ। यसरी रात्रि र उषा—अन्धकार र प्रकाश—एउटै चक्रका दुई अवस्था हुन्।",
+            "en": "The Goddess Night is the sister of Uṣas, the Dawn. At the end of night, Uṣas appears. The coming of night prepares the way for dawn. Darkness recedes and the path of light opens. Thus night and dawn — darkness and light — are two phases of one cycle."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri003.wav"
+        },
+        {
+          "id": "ratri-04",
+          "number": 4,
+          "sanskrit": "सा नो अद्य यस्यावयं नि ते यामन्नविक्ष्महि। वृक्षे न वसति वयः॥४॥",
+          "iast": "sā no adya yasyāvayaṁ ni te yāmannavikṣmahi | vṛkṣe na vasati vayaḥ ||4||",
+          "meaning": {
+            "ne": "उनी आज हाम्री हुन्। हामी उनको गतिमा शरण पाउन सकौं, जसरी चराले रुखमा वास पाउँछ।",
+            "en": "She is ours now. May we find refuge in her movements as a bird its dwelling on the tree."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवी हाम्री आफ्नी हुन्—उनीबाट डराउनु पर्दैन। चराले रुखमा जसरी आश्रय पाउँछ, त्यसरी नै हामीले रात्रिको गतिमा शरण पाउनुपर्छ। रात्रि विश्राम र सुरक्षाको समय हो। उनको आगमनसँगै सबै प्राणीहरूले आफ्नो आश्रय खोज्छन्।",
+            "en": "The Goddess Night is our own — there is no need to fear her. Just as a bird finds shelter in a tree, so should we find refuge in the movements of night. Night is the time of rest and safety. With her arrival, all beings seek their shelter."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri004.wav"
+        },
+        {
+          "id": "ratri-05",
+          "number": 5,
+          "sanskrit": "नि ग्रामासो अविक्षत नि पद्वन्तो नि पक्षिणः। नि श्येनासश्चिदर्थिनः॥५॥",
+          "iast": "ni grāmāso avikṣata ni padvanto ni pakṣiṇaḥ | ni śyenāsaścidarthinaḥ ||5||",
+          "meaning": {
+            "ne": "गाउँहरूले उनमा शरण पाए। पैदल हिँड्ने, पक्षीहरू र चीलहरू पनि उनलाई तीव्रतापूर्वक खोज्छन्।",
+            "en": "The hosts of men had refuge in her. The footed, the feathered and the hawks as well seek her intensely."
+          },
+          "commentary": {
+            "ne": "रात्रिको आगमनसँगै गाउँहरू, मानिसहरू, पशुहरू, पक्षीहरू र शिकारी चीलहरूसमेत सबैले आफ्नो आश्रय खोज्छन्। रात्रि सबै प्राणीहरूका लागि विश्राम र सुरक्षाको समय हो। यसरी रात्रिदेवी सर्वव्यापी मातृशक्तिका रूपमा प्रकट हुन्छिन्।",
+            "en": "With the arrival of night, villages, people, animals, birds and even predatory hawks all seek their shelter. Night is the time of rest and safety for all beings. Thus the Goddess Night manifests as an all-pervading mother-power."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri005.wav"
+        },
+        {
+          "id": "ratri-06",
+          "number": 6,
+          "sanskrit": "यावया वृक्यं वृकं यवयस्तेनमूर्यं। अथा न सुतरा भव॥६॥",
+          "iast": "yāvayā vṛkyaṁ vṛkaṁ yavayastenamūryaṁ | athā na sutarā bhava ||6||",
+          "meaning": {
+            "ne": "वृकीलाई हटाउनुहोस्, वृकलाई हटाउनुहोस्, चोरलाई हटाउनुहोस्। अनि हामीलाई सजिलै पार गराउनुहोस्।",
+            "en": "Assail the she-wolf. Separate from us the he-wolf, and the thief. Then in the billowings ferry us with ease."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवीसमक्ष सुरक्षाको प्रार्थना गरिएको छ। वृक र चोर—जंगली जनावर र मानव खतराहरू—दुवैबाट रक्षा गर्नुहोस्। 'सुतरा भव' भन्नाले सजिलै पार गराउनुहोस्—रात्रिको कठिन समयलाई सुरक्षित रूपमा पार गर्न सहयोग गर्नुहोस्। यो प्रार्थना जीवनका सबै खतराहरूबाट रक्षाको प्रतीक हो।",
+            "en": "A prayer for protection is made to the Goddess Night. Protect us from both wolves and thieves — from wild animals and human dangers. 'Sutarā bhava' means ferry us with ease — help us cross the difficult hours of night safely. This prayer symbolises protection from all dangers of life."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri006.wav"
+        },
+        {
+          "id": "ratri-07",
+          "number": 7,
+          "sanskrit": "उप मा पेपिशत्तमः कृष्णं व्यक्तमस्थित। उप ऋणेव यातय॥७॥",
+          "iast": "upa mā pepiśattamaḥ kṛṣṇaṁ vyaktamasthita | upa ṛṇeva yātaya ||7||",
+          "meaning": {
+            "ne": "उनी मेरो नजिक आएकी छिन्, कालो अन्धकारलाई स्पष्ट आकार दिँदै। हे उषे, मलाई ऋणबाट मुक्त गराएझैं मुक्त गराउनुहोस्।",
+            "en": "She has come near to me giving clear shapes to the black darkness. O Dawn, absolve me as from debts."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवी नजिक आउँदै छिन् र अन्धकारलाई आकार दिँदै छिन्। अन्धकार अब भयावह नभई रात्रिको स्वाभाविक रूप हो। उषासमक्ष प्रार्थना गरिएको छ—ऋणबाट मुक्त भएझैं पाप र अज्ञानबाट मुक्त गराउनुहोस्। यसरी रात्रिको अन्त्यमा उषाको आगमनसँगै नयाँ आरम्भको आशा जागृत हुन्छ।",
+            "en": "The Goddess Night approaches and gives shape to the darkness. Darkness is no longer terrifying but the natural form of night. A prayer is made to Uṣas — absolve us from sin and ignorance as from debts. Thus with the end of night and the arrival of dawn, the hope of a new beginning awakens."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri007.wav"
+        },
+        {
+          "id": "ratri-08",
+          "number": 8,
+          "sanskrit": "उप ते गा इवाकरं वृणीष्व दुहितार्दिवः। रात्रि स्तोमं न जिग्युषे॥८॥",
+          "iast": "upa te gā ivākaraṁ vṛṇīṣva duhitārdivaḥ | rātri stomaṁ na jigyuṣe ||8||",
+          "meaning": {
+            "ne": "हे दिवसकी पुत्री रात्रि, मैले गाईहरूले झैं तपाईंको स्तुति अर्पण गरेको छु। विजयी हुनेलाई जसरी स्तोत्र अर्पण गरिन्छ, त्यसरी नै मैले तपाईंलाई स्तुति गरेको छु।",
+            "en": "O Daughter of the Sky, O Night, I have offered my praise to You as one offers cattle. I have praised You as a hymn is offered to the victorious one."
+          },
+          "commentary": {
+            "ne": "रात्रिदेवीलाई 'दिवसकी पुत्री' भनिएको छ—उनी आकाशकी पुत्री हुन्। साधकले गाईहरू अर्पण गरेझैं आफ्नो स्तुति अर्पण गरेको छ। विजयी योद्धालाई जसरी जयगान गाइन्छ, त्यसरी नै रात्रिदेवीलाई स्तोत्र अर्पण गरिएको छ। यसरी रात्रिसूक्तको समापन स्तुति र समर्पणको भावमा हुन्छ।",
+            "en": "The Goddess Night is called the 'Daughter of the Sky' — she is the daughter of the heavens. The practitioner offers praise as one offers cattle. Just as a victory hymn is sung to a victorious warrior, so is this hymn offered to the Goddess Night. Thus the Rātri Sūktam concludes in the spirit of praise and surrender."
+          },
+          "audio": "audio/devi-mahatmya/ratri-suktam/verses/ratri008.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "रात्रिसूक्तको सम्पूर्ण प्रवाहलाई हेर्दा रात्रिदेवीप्रति शरणागति, अन्धकारबाट रक्षाको आकांक्षा, विश्राम र सुरक्षाको प्रार्थना, र उषाको आगमनसँगै नयाँ आरम्भको आशा देखिन्छ।\n\nसुरुवाती श्लोकहरूले रात्रिदेवीलाई ताराहरू रूपी नेत्रहरूले सर्वत्र दर्शन गर्ने, सबै ऐश्वर्य धारण गर्ने र अन्धकारलाई ज्योतिले नष्ट गर्ने देवीका रूपमा चित्रित गर्छन्।\n\nमध्य भागमा सबै प्राणीहरू—मानिस, पशु, पक्षी—रात्रिमा आश्रय खोज्छन् भन्ने वर्णन छ। वृक, चोर र अन्य खतराहरूबाट रक्षाको प्रार्थना गरिएको छ।\n\nअन्तिम श्लोकहरूमा रात्रिदेवीलाई दिवसकी पुत्रीका रूपमा सम्बोधन गर्दै स्तुति अर्पण गरिएको छ। रात्रिको अन्त्यमा उषाको आगमनसँगै अन्धकारबाट प्रकाशतिरको यात्रा पूर्ण हुन्छ।\n\nरात्रिसूक्तलाई तीन तहमा पढ्न सकिन्छ: स्तुति, प्रार्थना र साधना। यसको पाठले साधकलाई भयमुक्त, सुरक्षित र आन्तरिक शान्तिको अनुभूति प्रदान गर्छ।",
+      "en": "Read as a whole, Rātri Sūktam expresses surrender to the Goddess Night, the aspiration for protection from darkness, prayer for rest and safety, and the hope of a new beginning with the arrival of dawn.\n\nThe opening verses depict the Goddess Night as one who sees everywhere with her star-eyes, holds all splendours, and destroys darkness with her light.\n\nThe middle portion describes how all beings — humans, animals, birds — seek shelter in the night. Prayer is made for protection from wolves, thieves and other dangers.\n\nThe final verses address the Goddess Night as the Daughter of the Sky and offer praise to her. With the end of night and the arrival of Uṣas, the journey from darkness to light is completed.\n\nThe hymn can be studied through three complementary layers: praise, prayer and practice. Its recitation grants the practitioner freedom from fear, a sense of safety and inner peace."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "रात्रिसूक्तको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी रात्रिसूक्तको अध्ययन केवल आठ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Rātri Sūktam, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Rātri Sūktam does not end simply with reading eight verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

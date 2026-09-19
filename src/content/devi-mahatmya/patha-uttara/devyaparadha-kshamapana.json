@@ -1,0 +1,273 @@
+{
+  "id": "devyaparadha-kshamapana",
+  "title": "Devyaparādhakṣamāpaṇa Stotram",
+  "sanskritTitle": "॥ देव्यपराधक्षमापनस्तोत्रम् ॥",
+  "type": "stotram",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 12,
+    "author": "Ādi Śaṅkarācārya",
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "This stotra is traditionally attributed to Ādi Śaṅkarācārya and is printed in the Prabhāta Stotranidhi. It is recited at the conclusion of the Devī Māhātmya patha as a prayer of forgiveness for any errors committed during recitation. The received recension preserves twelve verses. Some editions contain additional or variant verses; the selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Stotra Nidhi — Devi Aparadha Kshamapana Stotram", "url": "https://stotranidhi.com/en/devi-aparadha-kshamapana-stotram-in-english/" },
+      { "name": "Sanskrit Documents — Devi Aparadha Kshamapana Stotram", "url": "https://sanskritdocuments.org/doc_devii/dapradh.html" },
+      { "name": "Wikisource — देव्यपराधक्षमापनस्तोत्रम्", "url": "https://sa.wikisource.org/wiki/देव्यपराधक्षमापनस्तोत्रम्" },
+      { "name": "Durga Saptasathi Blog — Devi Aparadha Kshamapana Stotra with Meaning", "url": "https://durgasaptasathi.blogspot.com/2016/11/devi-aparadha-kshamapana-stotra-in.html" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "देव्यपराधक्षमापनस्तोत्रस्य महिमा",
+      "titleEn": "The Nature and Place of Devyaparādhakṣamāpaṇa Stotram",
+      "ne": "देव्यपराधक्षमापनस्तोत्रम् आदि शङ्कराचार्यद्वारा विरचित एक अत्यन्त मार्मिक क्षमाप्रार्थना स्तोत्र हो। यसको पाठ देवीमाहात्म्यको पाठको अन्त्यमा गरिन्छ—जब साधकले सप्तशतीको पाठ गरिसकेपछि आफ्ना सम्पूर्ण त्रुटि, अपराध र अज्ञानताका लागि देवीसमक्ष क्षमा याचना गर्दछ।\n\nयस स्तोत्रको मूल भाव हो—पूर्ण समर्पण र शरणागति। साधक स्वीकार गर्दछ कि उसलाई न मन्त्र आउँछ, न यन्त्र, न स्तुति, न आह्वान, न ध्यान, न मुद्रा। उसलाई एउटै कुरा आउँछ—देवीको अनुसरण, जसले सबै क्लेश हरण गर्छ।\n\nयस स्तोत्रमा शङ्कराचार्यले माता र पुत्रको सम्बन्धको अद्भुत दृष्टान्त प्रयोग गरेका छन्। कुपुत्र हुन सक्छ, तर कुमाता कहिल्यै हुँदैन। जसरी माताले कुपुत्रलाई पनि त्याग्दिनन्, त्यसरी नै देवीले पनि अपराधी भक्तलाई त्याग्दिनन्। यो स्तोत्र त्यागको नभई स्वीकारको, दण्डको नभई करुणाको, भयको नभई विश्वासको वाणी हो।",
+      "en": "Devyaparādhakṣamāpaṇa Stotram is a profoundly moving prayer of forgiveness composed by Ādi Śaṅkarācārya. It is recited at the conclusion of the Devī Māhātmya patha — when the practitioner, having completed the recitation of the Saptaśatī, begs forgiveness from the Goddess for all errors, offences and ignorance.\n\nThe essential spirit of this stotra is total surrender and refuge. The practitioner admits that he knows neither mantra nor yantra, neither hymn nor invocation, neither meditation nor mudrā. He knows only one thing — following the Goddess, which removes all afflictions.\n\nIn this stotra, Śaṅkarācārya employs the profound metaphor of the mother and the son. A bad son may exist, but a bad mother never. Just as a mother never abandons even a wayward son, the Goddess never abandons even an offending devotee. This stotra is the voice not of rejection but of acceptance, not of punishment but of compassion, not of fear but of trust."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीदेव्यपराधक्षमापनस्तोत्रस्य शङ्कराचार्य ऋषिः।\nश्रीदेवी देवता।\nअनुष्टुप् छन्दः।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-devyaparādhakṣamāpaṇa-stotrasya śaṅkarācārya ṛṣiḥ |\nśrī-devī devatā |\nanuṣṭup chandaḥ |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीदेव्यपराधक्षमापनस्तोत्रका शङ्कराचार्य ऋषि हुन्, श्रीदेवी देवता हुन्, अनुष्टुप् छन्द हो। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Devyaparādhakṣamāpaṇa Stotra, Śaṅkarācārya is the seer (ṛṣi), Śrī Devī is the presiding deity, and Anuṣṭup is the metre. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका १२ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the twelve main verses."
+      },
+      "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ न मन्त्रं नो यन्त्रं तदपि च न जाने स्तुतिमहो न चाह्वानं ध्यानं तदपि च न जाने स्तुतिकथाः। न जाने मुद्रास्ते तदपि च न जाने विलपनं परं जाने मातस्त्वदनुसरणं क्लेशहरणम्॥",
+      "iast": "oṃ na mantraṃ no yantraṃ tadapi ca na jāne stutimaho na cāhvānaṃ dhyānaṃ tadapi ca na jāne stutikathāḥ | na jāne mudrāste tadapi ca na jāne vilapanaṃ paraṃ jāne mātastvadanusaraṇaṃ kleśaharaṇam ||",
+      "meaning": {
+        "ne": "हे माता, मलाई न मन्त्र आउँछ, न यन्त्र। अहो, मलाई स्तुतिको पनि ज्ञान छैन। न आह्वान आउँछ, न ध्यान। स्तुतिकथाहरू पनि जान्दिन। तपाईंको मुद्रा जान्दिन र विलाप गर्न पनि जान्दिन। तर एउटा कुरा निश्चय जान्दछु—हे माता, तपाईंको अनुसरण गर्नु नै सबै क्लेशहरूको हरण हो।",
+        "en": "O Mother, I know neither mantra nor yantra; alas, I know not even a hymn of praise. I know not how to invoke You, nor how to meditate; I know not the stories of Your glory. I know not Your mudrās, nor do I know how to weep for You. But one thing I know for certain — O Mother, to follow You is the destruction of all affliction."
+      },
+      "commentary": {
+        "ne": "यो ध्यान श्लोक स्तोत्रको पहिलो श्लोक पनि हो र यसको मूल भावको घोषणा हो। साधक निराशाका साथ आफ्नो अज्ञानता स्वीकार गर्छ—न मन्त्र, न यन्त्र, न स्तुति, न आह्वान, न ध्यान, न मुद्रा। तर त्यो निराशा अन्तिम होइन। 'परं जाने'—तर एउटा कुरा जान्दछु। देवीको अनुसरण नै सबै क्लेशको हरण हो। यो श्लोकको सौन्दर्य यही छ—अज्ञानताको स्वीकारबाट ज्ञानको एउटै सूत्रमा पुग्नु। सबै उपचारहरू असफल भए पनि एउटा औषधि बाँकी छ—देवीको शरण।",
+        "en": "This dhyāna verse is also the first verse of the stotra and the proclamation of its essential spirit. The practitioner, with a sense of helplessness, admits his ignorance — no mantra, no yantra, no hymn, no invocation, no meditation, no mudrā. But that despair is not final. 'Paraṃ jāne' — but one thing I know. To follow the Goddess is the destruction of all affliction. The beauty of this verse lies precisely here — from the admission of ignorance to the single thread of knowledge. Even if all remedies fail, one medicine remains — the refuge of the Goddess."
+      },
+      "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीदेव्यपराधक्षमापनस्तोत्रम्",
+      "titleEn": "Devyaparādhakṣamāpaṇa Stotram — Main Recitation",
+      "items": [
+        {
+          "id": "kshamapana-01",
+          "number": 1,
+          "sanskrit": "ॐ न मन्त्रं नो यन्त्रं तदपि च न जाने स्तुतिमहो न चाह्वानं ध्यानं तदपि च न जाने स्तुतिकथाः। न जाने मुद्रास्ते तदपि च न जाने विलपनं परं जाने मातस्त्वदनुसरणं क्लेशहरणम्॥१॥",
+          "iast": "oṃ na mantraṃ no yantraṃ tadapi ca na jāne stutimaho na cāhvānaṃ dhyānaṃ tadapi ca na jāne stutikathāḥ | na jāne mudrāste tadapi ca na jāne vilapanaṃ paraṃ jāne mātastvadanusaraṇaṃ kleśaharaṇam ||1||",
+          "meaning": {
+            "ne": "हे माता, मलाई न मन्त्र आउँछ, न यन्त्र। अहो, मलाई स्तुतिको पनि ज्ञान छैन। न आह्वान आउँछ, न ध्यान। स्तुतिकथाहरू पनि जान्दिन। तपाईंको मुद्रा जान्दिन र विलाप गर्न पनि जान्दिन। तर एउटा कुरा निश्चय जान्दछु—हे माता, तपाईंको अनुसरण गर्नु नै सबै क्लेशहरूको हरण हो।",
+            "en": "O Mother, I know neither mantra nor yantra; alas, I know not even a hymn of praise. I know not how to invoke You, nor how to meditate; I know not the stories of Your glory. I know not Your mudrās, nor do I know how to weep for You. But one thing I know for certain — O Mother, to follow You is the destruction of all affliction."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधकले आफ्नो सर्वाङ्गीण अज्ञानता स्वीकार गर्छ। मन्त्र, यन्त्र, स्तुति, आह्वान, ध्यान, स्तुतिकथा, मुद्रा र विलाप—यी सबै उपासनाका अङ्ग हुन्। साधकलाई यीमध्ये केही पनि आउँदैन। तर उसले एउटा कुरा जान्दछ—देवीको अनुसरण। 'अनुसरण' शब्दले केवल पछि लाग्नु मात्र नभई देवीको इच्छा, मार्ग र स्वभावलाई आत्मसात् गर्नु जनाउँछ। यो श्लोकको गहिराइ यही छ—जब सबै साधनाहरू असफल हुन्छन्, तब शरणागति बाँकी रहन्छ।",
+            "en": "In this verse, the practitioner admits his comprehensive ignorance. Mantra, yantra, hymn, invocation, meditation, sacred stories, mudrā and weeping — all these are limbs of worship. The practitioner knows none of them. But he knows one thing — following the Goddess. The word 'anusaraṇa' means not merely following behind but assimilating the Goddess's will, path and nature. The depth of this verse lies here — when all practices fail, surrender remains."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana001.wav"
+        },
+        {
+          "id": "kshamapana-02",
+          "number": 2,
+          "sanskrit": "विधेरज्ञानेन द्रविणविरहेणालसतया विधेयाशक्यत्वात्तव चरणयोर्या च्युतिरभूत्। तदेतत् क्षन्तव्यं जननि सकलोद्धारिणि शिवे कुपुत्रो जायेत क्वचिदपि कुमाता न भवति॥२॥",
+          "iast": "vidherajñānena draviṇaviraheṇālasatayā vidheyāśakyatvāttava caraṇayoryā cyutirabhūt | tadetat kṣantavyaṃ janani sakaloddhāriṇi śive kuputro jāyeta kvacidapi kumātā na bhavati ||2||",
+          "meaning": {
+            "ne": "हे जननी, विधिको अज्ञानले, धनको अभावले, आलस्यले र कर्तव्यको अशक्यताले तपाईंका चरणहरूमा जुन च्युति (त्रुटि) भयो, त्यो क्षमा गर्नुहोस्। हे सबैको उद्धार गर्ने शिवे, कुपुत्र कहिल्यै जन्मन सक्छ, तर कुमाता कहिल्यै हुँदैन।",
+            "en": "O Mother, through ignorance of the prescribed rites, through lack of wealth, through indolence, and through the impossibility of fulfilling what is enjoined — whatever deviation from Your feet there has been, all that must be forgiven. O Mother, O Śivā who delivers all, a bad son may be born, but a bad mother never exists."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो त्रुटिका चार कारणहरू बताउँछ—विधिको अज्ञान, धनको अभाव, आलस्य र कर्तव्यको अशक्यता। यी मानवीय सीमाहरू हुन्। तर यी सबैको अन्त्यमा एउटा अमर सत्य प्रकट हुन्छ—कुपुत्र हुन सक्छ, कुमाता हुँदैन। यो श्लोकको हृदय हो। माताको प्रेम सशर्त छैन—त्यो पुत्रको गुण, अवगुण, सफलता वा असफलतामा निर्भर गर्दैन। देवीको करुणा पनि त्यस्तै निशर्त छ। 'सकलोद्धारिणि'—सबैको उद्धार गर्ने। 'शिवे'—कल्याणमयी। यी विशेषणहरूले देवीको करुणाको स्वरूपलाई प्रकट गर्छन्।",
+            "en": "In this verse, the practitioner states four causes of his failings — ignorance of the prescribed rites, lack of wealth, indolence, and the impossibility of fulfilling what is enjoined. These are human limitations. But at the end of all these, an immortal truth is revealed — a bad son may exist, but a bad mother never does. This is the heart of the verse. A mother's love is unconditional — it does not depend on the son's virtues, faults, success or failure. The Goddess's compassion is likewise unconditional. 'Sakaloddhāriṇi' — she who delivers all. 'Śive' — the auspicious one. These epithets reveal the nature of the Goddess's compassion."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana002.wav"
+        },
+        {
+          "id": "kshamapana-03",
+          "number": 3,
+          "sanskrit": "पृथिव्यां पुत्रास्ते जननि बहवः सन्ति सरलाः परं तेषां मध्ये विरलतरलोऽहं तव सुतः। मदीयोऽयं त्यागः समुचितमिदं नो तव शिवे कुपुत्रो जायेत क्वचिदपि कुमाता न भवति॥३॥",
+          "iast": "pṛthivyāṃ putrāste janani bahavaḥ santi saralāḥ paraṃ teṣāṃ madhye viralataralo'haṃ tava sutaḥ | madīyo'yaṃ tyāgaḥ samucitamidaṃ no tava śive kuputro jāyeta kvacidapi kumātā na bhavati ||3||",
+          "meaning": {
+            "ne": "हे जननी, पृथ्वीमा तपाईंका धेरै सरल पुत्रहरू छन्। तर तिनीहरूको माझमा म अत्यन्त विरल, चञ्चल तपाईंको पुत्र हुँ। मेरो यो त्याग उचित होइन, तपाईंको त्याग उचित हो। हे शिवे, कुपुत्र कहिल्यै जन्मन सक्छ, तर कुमाता कहिल्यै हुँदैन।",
+            "en": "O Mother, You have many straightforward sons on this earth. Among them, I am a very rare and fickle son of Yours. This abandonment is mine, not Yours; this is proper. O Śivā, a bad son may be born, but a bad mother never exists."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो विशेषतालाई स्वीकार गर्छ—तर त्यो विशेषता गौरवको नभई लज्जाको छ। देवीका धेरै सरल पुत्रहरू छन्, तर यो साधक चञ्चल छ। 'विरलतरल'—अत्यन्त विरल र चञ्चल। साधक भन्छ—त्याग मेरो हो, तपाईंको होइन। मैले तपाईंलाई त्यागेँ, तपाईंले मलाई होइन। यो स्वीकारोक्ति आत्म-जागरूकताको प्रतीक हो। 'कुपुत्रो जायेत क्वचिदपि कुमाता न भवति'—यो पुनरावृत्ति स्तोत्रभर गुञ्जिरहन्छ, जसले देवीको अटल करुणालाई स्थापित गर्छ।",
+            "en": "In this verse, the practitioner acknowledges his particularity — but that particularity is not of pride but of shame. The Goddess has many straightforward sons, but this practitioner is fickle. 'Viralatarala' — extremely rare and fickle. The practitioner says — the abandonment is mine, not Yours. I abandoned You, not You me. This admission is a sign of self-awareness. 'Kuputro jāyeta kvacidapi kumātā na bhavati' — this refrain echoes throughout the stotra, establishing the Goddess's unwavering compassion."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana003.wav"
+        },
+        {
+          "id": "kshamapana-04",
+          "number": 4,
+          "sanskrit": "जगन्मातर्मातस्तव चरणसेवा न रचिता न वा दत्तं देवि द्रविणमपि भूयस्तव मया। तथापि त्वं स्नेहं मयि निरुपमं यत्प्रकुरुषे कुपुत्रो जायेत क्वचिदपि कुमाता न भवति॥४॥",
+          "iast": "jaganmātarmātastava caraṇasevā na racitā na vā dattaṃ devi draviṇamapi bhūyastava mayā | tathāpi tvaṃ snehaṃ mayi nirupamaṃ yatprakuruṣe kuputro jāyeta kvacidapi kumātā na bhavati ||4||",
+          "meaning": {
+            "ne": "हे जगन्माता, हे माता, मैले तपाईंको चरणसेवा गरिन, न तपाईंलाई धन अर्पण गरेँ। तैपनि तपाईंले ममाथि जो अतुलनीय स्नेह गर्नुहुन्छ—कुपुत्र कहिल्यै जन्मन सक्छ, तर कुमाता कहिल्यै हुँदैन।",
+            "en": "O Mother of the world, O Mother, I have not performed service at Your feet, nor have I offered You wealth. Yet You bestow upon me incomparable affection — a bad son may be born, but a bad mother never exists."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक स्वीकार गर्छ—न चरणसेवा, न धनार्पण। तर देवीको स्नेह कायम छ। 'निरुपमम्'—अतुलनीय। देवीको प्रेम मानवीय मापदण्डबाट नाप्न सकिँदैन। यो श्लोक सेवा र प्रेमको सम्बन्धलाई उजागर गर्छ—देवीको प्रेम सेवाको फल होइन, त्यो स्वाभाविक छ। जसरी माताको प्रेम पुत्रको सेवामा निर्भर गर्दैन, त्यसरी नै देवीको प्रेम साधकको साधनामा निर्भर गर्दैन। तर यो प्रेमको अनुभूति सेवाबाट गहिरो हुन्छ।",
+            "en": "In this verse, the practitioner admits — no service at the feet, no offering of wealth. Yet the Goddess's affection remains. 'Nirupamam' — incomparable. The Goddess's love cannot be measured by human standards. This verse illuminates the relationship between service and love — the Goddess's love is not a fruit of service; it is natural. Just as a mother's love does not depend on the son's service, the Goddess's love does not depend on the practitioner's practice. Yet the experience of this love deepens through service."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana004.wav"
+        },
+        {
+          "id": "kshamapana-05",
+          "number": 5,
+          "sanskrit": "परित्यक्ता देवा विविधविधसेवाकुलतया मया पञ्चाशीतेरधिकमपनीते तु वयसि। इदानीं चेन्मातस्तव यदि कृपा नापि भविता निरालम्बो लम्बोदरजननि कं यामि शरणम्॥५॥",
+          "iast": "parityaktā devā vividhavidhasevākulatayā mayā pañcāśīteradhikamapanīte tu vayasi | idānīṃ cenmātastava yadi kṛpā nāpi bhavitā nirālambo lambodarajanani kaṃ yāmi śaraṇam ||5||",
+          "meaning": {
+            "ne": "हे माता, विविध प्रकारका सेवाहरूमा व्यस्त भएर मैले देवताहरूलाई त्यागेँ। अब उमेर पचासीभन्दा माथि गइसकेको छ। यदि अहिले पनि तपाईंको कृपा भएन भने, हे लम्बोदरजननि, म निराश्रय भएर कहाँ शरण जाऊँ?",
+            "en": "O Mother, absorbed in the service of various kinds, I abandoned the gods. Now my age has advanced beyond eighty-five. If even now, O Mother, Your grace does not descend, O Mother of the pot-bellied one, to whom shall I, shelterless, go for refuge?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक जीवनको उत्तरार्धमा आफ्नो अवस्थालाई स्वीकार गर्छ। विविध सेवाहरूमा व्यस्त भएर उसले देवताहरूलाई बिर्सियो। अब उमेर पचासीभन्दा माथि—यो जीवनको सन्ध्याकाल हो। 'निरालम्ब'—आश्रयहीन। यदि अब पनि देवीको कृपा भएन भने शरण कहाँ? यो प्रश्नको उत्तर देवी आफैं हुन्। 'लम्बोदरजननि'—गणेशकी माता, पार्वती। यो श्लोक भयको नभई विश्वासको वाणी हो—देवीको कृपामा पूर्ण भरोसा।",
+            "en": "In this verse, the practitioner acknowledges his condition in the latter part of life. Absorbed in various services, he forgot the gods. Now his age has advanced beyond eighty-five — this is the twilight of life. 'Nirālamba' — shelterless. If even now the Goddess's grace does not descend, where is refuge? The answer to this question is the Goddess herself. 'Lambodarajanani' — mother of Gaṇeśa, Pārvatī. This verse is the voice not of fear but of trust — complete reliance on the Goddess's grace."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana005.wav"
+        },
+        {
+          "id": "kshamapana-06",
+          "number": 6,
+          "sanskrit": "श्वपाको जल्पाको भवति मधुपाकोपमगिरा निरातङ्को रङ्को विहरति चिरं कोटिकनकैः। तवापर्णे कर्णे विशति मनुवर्णे फलमिदं जनः को जानीते जननि जपनीयं जपविधौ॥६॥",
+          "iast": "śvapāko jalpāko bhavati madhupākopamagirā nirātaṅko raṅko viharati ciraṃ koṭikanakaiḥ | tavāparṇe karṇe viśati manuvarṇe phalamidaṃ janaḥ ko jānīte janani japanīyaṃ japavidhau ||6||",
+          "meaning": {
+            "ne": "हे अपर्णे, तपाईंको नाम कानमा प्रवेश गर्दा, जो श्वपाक (चण्डाल) थियो, ऊ मधुर वाणी भएको वक्ता बन्छ। जो दरिद्री थियो, ऊ करोडौं स्वर्णका साथ निर्भय विचरण गर्छ। यो फल हो—तर हे जननि, जपविधिमा जप्नुपर्ने (तपाईंको नाम) कसले जान्दछ?",
+            "en": "O Aparṇā, when Your name enters the ear, one who was an outcaste becomes an eloquent speaker with honey-like words. The pauper wanders fearlessly with millions of gold. This is the fruit — but O Mother, who in the practice of japa knows what is truly to be repeated?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको नामको महिमा वर्णन गरिएको छ। श्वपाक (अन्त्यज) मधुर वक्ता बन्छ, दरिद्री करोडपति बन्छ—यो देवीनामको फल हो। तर अन्त्यमा एउटा गहिरो प्रश्न छ—जपविधिमा जप्नुपर्ने कुरा कसले जान्दछ? जपको सार केवल शब्द दोहोर्याउनु होइन, देवीको नामको भावपूर्ण स्मरण हो। 'जपनीयम्'—जो जप्न योग्य छ। यो श्लोक बाह्य फलको वर्णन गर्दै आन्तरिक सारतिर संकेत गर्छ।",
+            "en": "In this verse, the greatness of the Goddess's name is described. An outcaste becomes a sweet speaker, a pauper becomes a millionaire — this is the fruit of the Goddess's name. But at the end there is a profound question — who in the practice of japa knows what is truly to be repeated? The essence of japa is not merely repetition of words but heartfelt remembrance of the Goddess's name. 'Jpanīyam' — that which is worthy of being repeated. This verse describes outer fruits while pointing towards the inner essence."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana006.wav"
+        },
+        {
+          "id": "kshamapana-07",
+          "number": 7,
+          "sanskrit": "चिताभस्मालेपो गरलमशनं दिक्पटधरो जटाधारी कण्ठे भुजगपतिहारी पशुपतिः। कपाली भूतेशो भजति जगदीशैकपदवीं भवानी त्वत्पाणिग्रहणपरिपाटीफलमिदम्॥७॥",
+          "iast": "citābhasmālepo garalamaśanaṃ dikpaṭadharo jaṭādhārī kaṇṭhe bhujagapatihārī paśupatiḥ | kapālī bhūteśo bhajati jagadīśaikapadavīṃ bhavānī tvatpāṇigrahaṇaparipāṭīphalamidam ||7||",
+          "meaning": {
+            "ne": "चिताको भस्मले शरीरमा लेप, विष भोजन, दिशाहरू नै वस्त्र, जटा धारण, कण्ठमा सर्पराजको हार, पशुपति, कपाली, भूतेश—यी सबै हे भवानी, तपाईंको पाणिग्रहण (विवाह) को परिपाटीको फल हो। उनी जगदीशको एकमात्र पद प्राप्त गर्छन्।",
+            "en": "Smearing the body with funeral-ash, eating poison, wearing the directions as garments, matted hair, a garland of the king of serpents on the neck, Paśupati, Kapālī, Bhūteśa — all this, O Bhavānī, is the fruit of the ritual of Your hand-grasping (marriage). He attains the sole position of the Lord of the world."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शिवको स्वरूपलाई देवीको कृपाको फलका रूपमा वर्णन गरिएको छ। चिताभस्म, विष, दिगम्बर, जटा, सर्पहार—यी सबै शिवका विशेषताहरू हुन्। तर यी सबै देवीको पाणिग्रहणको फल हो। शिवले देवीको हात समाते—यो विवाहको प्रतीक हो। यसरी शिव जगदीशको पदमा पुगे। यो श्लोक देवीको महिमालाई स्थापित गर्छ—शिव जस्ता महादेव पनि देवीको कृपाबाटै महान् बनेका छन्।",
+            "en": "In this verse, Śiva's form is described as the fruit of the Goddess's grace. Funeral-ash, poison, directions as garments, matted hair, serpent-garland — all these are Śiva's characteristics. But all this is the fruit of the Goddess's hand-grasping. Śiva grasped the Goddess's hand — this symbolises marriage. Thus Śiva attained the position of the Lord of the world. This verse establishes the Goddess's greatness — even Mahādeva like Śiva became great only by the Goddess's grace."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana007.wav"
+        },
+        {
+          "id": "kshamapana-08",
+          "number": 8,
+          "sanskrit": "न मोक्षस्याकाङ्क्षा न च विभववाञ्छापि च न मे न विज्ञानापेक्षा शशिमुखि सुखेच्छापि न पुनः। अतस्त्वां सम्याचे जननि जननं यातु मम वै मृडानी रुद्राणी शिव शिव भवानीति जपतः॥८॥",
+          "iast": "na mokṣasyākāṅkṣā na ca vibhavavāñchāpi ca na me na vijñānāpekṣā śaśimukhi sukhecchāpi na punaḥ | atastvāṃ samyāce janani jananaṃ yātu mama vai mṛḍānī rudrāṇī śiva śiva bhavānīti japataḥ ||8||",
+          "meaning": {
+            "ne": "हे शशिमुखि, मलाई न मोक्षको आकांक्षा छ, न वैभवको वाञ्छा, न विज्ञानको अपेक्षा, न पुनः सुखको इच्छा। त्यसैले हे जननि, म तपाईंसँग प्रार्थना गर्छु—'मृडानी, रुद्राणी, शिव शिव, भवानी' यसरी जप गर्दै मेरो जन्म बित्ने गरोस्।",
+            "en": "O moon-faced one, I have no desire for liberation, nor any longing for prosperity, nor any need for knowledge, nor again any wish for happiness. Therefore, O Mother, I pray to You — let my life pass while repeating 'Mṛḍānī, Rudrāṇī, Śiva Śiva, Bhavānī'."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्ना सबै इच्छाहरू त्याग्छ—मोक्ष, वैभव, विज्ञान, सुख। उसलाई केही पनि चाहिँदैन। उसको एउटै प्रार्थना छ—'मृडानी, रुद्राणी, शिव शिव, भवानी' जप गर्दै जीवन बित्ने गरोस्। यो श्लोक निष्काम भक्तिको चरम हो। जब सबै इच्छाहरू समाप्त हुन्छन्, तब केवल नामस्मरण बाँकी रहन्छ। 'मृडानी'—आनन्ददायिनी, 'रुद्राणी'—रुद्रकी शक्ति, 'भवानी'—भव (संसार) की स्वामिनी। यी नामहरूको जप नै साधकको जीवनको सार बन्छ।",
+            "en": "In this verse, the practitioner renounces all desires — liberation, prosperity, knowledge, happiness. He wants nothing. His single prayer is — let life pass while repeating 'Mṛḍānī, Rudrāṇī, Śiva Śiva, Bhavānī'. This verse is the peak of desireless devotion. When all desires end, only name-remembrance remains. 'Mṛḍānī' — the joy-giver, 'Rudrāṇī' — the power of Rudra, 'Bhavānī' — the mistress of existence. The japa of these names becomes the essence of the practitioner's life."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana008.wav"
+        },
+        {
+          "id": "kshamapana-09",
+          "number": 9,
+          "sanskrit": "नमस्ते श्रीमातर्नमस्ते श्रीभगवति नमस्ते श्रीदेवि नमस्ते श्रीशिवे। नमस्ते श्रीदुर्गे नमस्ते श्रीकरालि नमस्ते श्रीमहालक्ष्मि नमस्ते श्रीसरस्वति॥९॥",
+          "iast": "namaste śrīmātarnamaste śrībhagavati namaste śrīdevi namaste śrīśive | namaste śrīdurge namaste śrīkarāli namaste śrīmahālakṣmi namaste śrīsarasvati ||9||",
+          "meaning": {
+            "ne": "तपाईंलाई नमस्कार, हे श्रीमाता। तपाईंलाई नमस्कार, हे श्रीभगवति। तपाईंलाई नमस्कार, हे श्रीदेवि। तपाईंलाई नमस्कार, हे श्रीशिवे। तपाईंलाई नमस्कार, हे श्रीदुर्गे। तपाईंलाई नमस्कार, हे श्रीकरालि। तपाईंलाई नमस्कार, हे श्रीमहालक्ष्मि। तपाईंलाई नमस्कार, हे श्रीसरस्वति।",
+            "en": "Salutations to You, O Śrī Mātā. Salutations to You, O Śrī Bhagavatī. Salutations to You, O Śrī Devī. Salutations to You, O Śrī Śive. Salutations to You, O Śrī Durgā. Salutations to You, O Śrī Karāli. Salutations to You, O Śrī Mahālakṣmi. Salutations to You, O Śrī Sarasvatī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका आठ नामहरूद्वारा नमस्कार गरिएको छ। श्रीमाता—पवित्र माता। श्रीभगवति—ऐश्वर्यवती देवी। श्रीदेवि—दिव्य देवी। श्रीशिवे—कल्याणकारी। श्रीदुर्गे—दुर्गम पार गराउने। श्रीकरालि—भयानक रूप धारण गर्ने। श्रीमहालक्ष्मि—समृद्धिकी देवी। श्रीसरस्वति—ज्ञानकी देवी। यसरी देवीका विविध स्वरूपहरूलाई एकै श्लोकमा नमस्कार गरिन्छ। यो श्लोक देवीको सर्वरूपताको स्वीकार हो।",
+            "en": "In this verse, salutations are offered through eight names of the Goddess. Śrī Mātā — the sacred mother. Śrī Bhagavatī — the prosperous Goddess. Śrī Devī — the divine Goddess. Śrī Śive — the auspicious one. Śrī Durge — she who carries across the impassable. Śrī Karāli — she who assumes the terrifying form. Śrī Mahālakṣmi — the Goddess of prosperity. Śrī Sarasvatī — the Goddess of knowledge. Thus the Goddess's various forms are saluted in a single verse. This verse is the acceptance of the Goddess's omniformity."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana009.wav"
+        },
+        {
+          "id": "kshamapana-10",
+          "number": 10,
+          "sanskrit": "नमस्ते जगदाधारे नमस्ते जगदम्बिके। नमस्ते जगदानन्दे नमस्ते जगदीश्वरि॥१०॥",
+          "iast": "namaste jagadādhāre namaste jagadambike | namaste jagadānande namaste jagadīśvari ||10||",
+          "meaning": {
+            "ne": "तपाईंलाई नमस्कार, हे जगदाधारे। तपाईंलाई नमस्कार, हे जगदम्बिके। तपाईंलाई नमस्कार, हे जगदानन्दे। तपाईंलाई नमस्कार, हे जगदीश्वरि।",
+            "en": "Salutations to You, O support of the world. Salutations to You, O Mother of the world. Salutations to You, O joy of the world. Salutations to You, O Goddess of the world."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका चार नामहरूद्वारा नमस्कार गरिएको छ—जगदाधारे (संसारको आधार), जगदम्बिके (संसारकी माता), जगदानन्दे (संसारको आनन्द), जगदीश्वरि (संसारकी ईश्वरी)। यी चार नामहरूले देवीको चार आधारभूत सम्बन्धलाई प्रकट गर्छन्—आधार, माता, आनन्द र ईश्वरी। यसरी देवी संसारको हरेक पक्षमा उपस्थित छिन्।",
+            "en": "In this verse, salutations are offered through four names of the Goddess — Jagadādhāre (support of the world), Jagadambike (mother of the world), Jagadānande (joy of the world), Jagadīśvari (Goddess of the world). These four names reveal the Goddess's four fundamental relationships — support, mother, joy and sovereign. Thus the Goddess is present in every aspect of the world."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana010.wav"
+        },
+        {
+          "id": "kshamapana-11",
+          "number": 11,
+          "sanskrit": "क्षमस्व मम देवेशि क्षमस्व परमेश्वरि। क्षमस्व सर्वकामेशि क्षमस्व जगदीश्वरि॥११॥",
+          "iast": "kṣamasva mama deveśi kṣamasva parameśvari | kṣamasva sarvakāmeśi kṣamasva jagadīśvari ||11||",
+          "meaning": {
+            "ne": "मलाई क्षमा गर्नुहोस्, हे देवेशि। क्षमा गर्नुहोस्, हे परमेश्वरि। क्षमा गर्नुहोस्, हे सर्वकामेशि। क्षमा गर्नुहोस्, हे जगदीश्वरि।",
+            "en": "Forgive me, O Goddess of the gods. Forgive me, O Supreme Goddess. Forgive me, O Goddess of all desires. Forgive me, O Goddess of the world."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा 'क्षमस्व' (क्षमा गर्नुहोस्) को चार पटक पुनरावृत्ति गरिएको छ। देवेशि—देवताहरूकी ईश्वरी। परमेश्वरि—सर्वोच्च ईश्वरी। सर्वकामेशि—सबै कामनाहरूकी स्वामिनी। जगदीश्वरि—संसारकी ईश्वरी। यो पुनरावृत्ति विनम्रताको चरम हो—साधक देवीसमक्ष बारम्बार क्षमा माग्दछ। यो श्लोक क्षमाप्रार्थनाको सार हो।",
+            "en": "In this verse, 'kṣamasva' (forgive) is repeated four times. Deveśi — Goddess of the gods. Parameśvari — Supreme Goddess. Sarvakāmeśi — mistress of all desires. Jagadīśvari — Goddess of the world. This repetition is the peak of humility — the practitioner begs forgiveness again and again before the Goddess. This verse is the essence of the prayer for forgiveness."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana011.wav"
+        },
+        {
+          "id": "kshamapana-12",
+          "number": 12,
+          "sanskrit": "इति श्रीमच्छङ्कराचार्यविरचितं देव्यपराधक्षमापनस्तोत्रं सम्पूर्णम्॥१२॥",
+          "iast": "iti śrīmacchaṅkarācāryaviracitaṃ devyaparādhakṣamāpaṇastotraṃ sampūrṇam ||12||",
+          "meaning": {
+            "ne": "यसरी श्रीमच्छङ्कराचार्यद्वारा विरचित देव्यपराधक्षमापनस्तोत्र सम्पूर्ण भयो।",
+            "en": "Thus concludes the Devyaparādhakṣamāpaṇa Stotram composed by Śrīmacchaṅkarācārya."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक स्तोत्रको समापन सूचक हो। यसले स्तोत्रको रचयिताको नाम र स्तोत्रको पूर्णतालाई घोषणा गर्छ। यसरी १२ श्लोकको यो स्तोत्र सम्पूर्ण हुन्छ।",
+            "en": "This final verse is the concluding indication of the stotra. It proclaims the name of the composer and the completeness of the stotra. Thus this stotra of twelve verses is completed."
+          },
+          "audio": "audio/devi-mahatmya/devyaparadha-kshamapana/verses/kshamapana012.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "देव्यपराधक्षमापनस्तोत्रको सम्पूर्ण प्रवाहलाई हेर्दा अज्ञानताको स्वीकार, पूर्ण समर्पण, मातृ-पुत्रको सम्बन्ध, निष्काम भक्ति र क्षमाप्रार्थनाको भाव देखिन्छ।\n\nसुरुवाती श्लोकहरूमा साधक आफ्नो सर्वाङ्गीण अज्ञानता स्वीकार गर्छ—न मन्त्र, न यन्त्र, न स्तुति, न आह्वान, न ध्यान, न मुद्रा। तर एउटा कुरा जान्दछ—देवीको अनुसरण।\n\nमध्य श्लोकहरूमा कुपुत्र र कुमाताको दृष्टान्तद्वारा देवीको निशर्त करुणालाई स्थापित गरिन्छ। साधक आफ्नो त्याग स्वीकार गर्छ, तर देवीको त्याग अस्वीकार गर्छ। देवीको नामको महिमा र शिवको उदाहरणद्वारा देवीको सर्वोच्चता प्रकट हुन्छ।\n\nअन्तिम श्लोकहरूमा साधक सबै इच्छाहरू त्यागेर केवल नामस्मरणको प्रार्थना गर्छ। देवीका विविध नामहरूद्वारा नमस्कार गरिन्छ र बारम्बार क्षमा मागिन्छ।\n\nयस स्तोत्रलाई तीन तहमा पढ्न सकिन्छ: स्वीकार, समर्पण र क्षमा। स्वीकारमा साधक आफ्नो अज्ञानता स्वीकार गर्छ, समर्पणमा देवीको शरणमा जान्छ, र क्षमामा देवीबाट क्षमा माग्छ। यी तीन तह मिलेर यो स्तोत्र आत्म-जागरूकता, विनम्रता र करुणाको पाठ बन्छ।",
+      "en": "Read as a whole, Devyaparādhakṣamāpaṇa Stotram presents the themes of acknowledging ignorance, total surrender, the mother-son relationship, desireless devotion and the prayer for forgiveness.\n\nIn the opening verses, the practitioner admits his comprehensive ignorance — no mantra, no yantra, no hymn, no invocation, no meditation, no mudrā. But he knows one thing — following the Goddess.\n\nIn the middle verses, the metaphor of the bad son and the bad mother establishes the Goddess's unconditional compassion. The practitioner accepts his own abandonment but rejects the Goddess's abandonment. The greatness of the Goddess's name and the example of Śiva reveal the Goddess's supremacy.\n\nIn the final verses, the practitioner renounces all desires and prays only for name-remembrance. Salutations are offered through the Goddess's various names and forgiveness is sought again and again.\n\nThe stotra can be studied through three layers: acceptance, surrender and forgiveness. In acceptance, the practitioner acknowledges his ignorance; in surrender, he takes refuge in the Goddess; and in forgiveness, he seeks pardon from the Goddess. Together, these three layers make this stotra a teaching of self-awareness, humility and compassion."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "देव्यपराधक्षमापनस्तोत्रको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी देव्यपराधक्षमापनस्तोत्रको अध्ययन केवल १२ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Devyaparādhakṣamāpaṇa Stotram, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Devyaparādhakṣamāpaṇa Stotram does not end simply with reading twelve verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

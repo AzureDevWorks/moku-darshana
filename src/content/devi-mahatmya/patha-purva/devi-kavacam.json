@@ -1,0 +1,779 @@
+{
+  "id": "devi-kavacam",
+  "title": "Devi Kavacam",
+  "sanskritTitle": "॥ श्रीदेवीकवचम् ॥",
+  "type": "kavacha",
+  "collection": "patha-purva",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 47,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Verse numbering follows the received Devi Saptasati recension as preserved in the Moku Darshana edition. Published recensions may differ in verse order and wording; the selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Auro Bharati — Devi Kavacham", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/devikavacham-text/" },
+      { "name": "Stotra Nidhi — Durga Saptasati Devi Kavacham", "url": "https://stotranidhi.com/hi/durga-saptasati-devi-kavacham-in-sanskrit/" },
+      { "name": "Sanskrit Documents — Devikavacham", "url": "https://sanskritdocuments.org/doc_devii/dkavach.html" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "देवीकवचस्य महिमा",
+      "titleEn": "The Nature and Place of Devi Kavacham",
+      "ne": "देवीकवचम् देवीमाहात्म्यको पाठपरम्परामा विशेष स्थान राख्ने कवचस्तोत्र हो। यसको पाठद्वारा साधकले देवीका विभिन्न स्वरूपहरूको स्मरण गर्दै आफ्नो शरीर, मन र आत्मालाई दिव्य संरक्षणमा समर्पण गर्दछ।\n\nकवच शब्दले कवच वा रक्षा-कवचलाई जनाउँछ। परम्परामा यसलाई देवीको कृपाले साधकलाई सबै प्रकारका भय, संकट र नकारात्मक शक्तिहरूबाट रक्षा गर्ने दिव्य कवचका रूपमा बुझिन्छ।\n\nदुर्गा सप्तशतीको पाठमा देवीकवचम् अर्गलास्तोत्र र कीलकस्तोत्रभन्दा पूर्व पठन गरिन्छ। यसरी यो स्तोत्र सप्तशतीको फल प्राप्तिका लागि दिव्य संरक्षण प्रदान गर्ने आधारका रूपमा कार्य गर्छ।",
+      "en": "Devi Kavacham holds an important place in the recitation sequence of the Devi Mahatmya. Through it the practitioner remembers the various forms of the Goddess and surrenders body, mind and spirit to divine protection.\n\nThe word kavacham means armour or protective shield. In the tradition it is understood as the divine armour that protects the practitioner from all fears, dangers and negative forces by the grace of the Goddess.\n\nIn the recitation of the Durga Saptashati, Devi Kavacham is recited before the Argala Stotram and Kilaka Stotram. It functions as the protective foundation that secures the fruits of the Saptashati recitation."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीचण्डीकवचस्य ब्रह्मा ऋषिः।\nअनुष्टुप्छन्दः।\nश्रीचामुण्डा देवता।\nअङ्गन्यासोक्तमातरो बीजम्।\nदिग्बन्धदेवतास्तत्त्वम्।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठाङ्गत्वेन जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-caṇḍī-kavacasya brahmā ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-cāmuṇḍā devatā |\naṅganyāsoktamātaro bījam |\ndigbandhadevatās tattvam |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhāṅgatvena jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीचण्डीकवच मन्त्रका ब्रह्मा ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचामुण्डा देवता हुन्। अङ्गन्यासमा उल्लिखित मातृकाहरू बीज हुन्, दिग्बन्ध देवताहरू तत्त्व हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अंगका रूपमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Caṇḍī Kavacha mantra, Brahmā is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Cāmuṇḍā is the presiding deity. The mother-letters mentioned in the limb-placement (aṅganyāsa) are the seed (bīja), and the deities of the directional binding are the essence (tattva). It is recited as a limb (aṅga) of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल कवचका ४७ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the forty-seven main verses."
+      },
+      "audio": "audio/devi-kavacham/viniyoga.mp3"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीदेवीकवचम्",
+      "titleEn": "Devi Kavacham — Main Recitation",
+      "items": [
+        {
+          "id": "kavacha-01",
+          "number": 1,
+          "sanskrit": "ॐ नमश्चण्डिकायै॥ मार्कण्डेय उवाच। ॐ यद्गुह्यं परमं लोके सर्वरक्षाकरं नृणाम्। यन्न कस्यचिदाख्यातं तन्मे ब्रूहि पितामह॥१॥",
+          "iast": "oṃ namaś caṇḍikāyai || mārkaṇḍeya uvāca | oṃ yad guhyaṃ paramaṃ loke sarvarakṣākaraṃ nṛṇām | yanna kasyacid ākhyātaṃ tanme brūhi pitāmaha ||1||",
+          "meaning": {
+            "ne": "ॐ चण्डिकादेवीलाई नमस्कार। मार्कण्डेयले भने: हे पितामह, संसारमा जो अत्यन्त गुह्य, मनुष्यहरूको सम्पूर्ण रक्षा गर्ने र कसैलाई पनि भनिएको छैन, त्यो मलाई बताउनुहोस्।",
+            "en": "Oṃ, salutations to Caṇḍikā. Mārkaṇḍeya said: O Grandsire, please tell me that which is supremely secret in the world, which grants complete protection to human beings, and which has not been disclosed to anyone."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीकवचको महत्व र गुह्यतालाई प्रस्तुत गर्छ। मार्कण्डेय ऋषिले ब्रह्माजीसमक्ष कवचको जिज्ञासा राखेका छन्। 'सर्वरक्षाकरं नृणाम्' भन्नाले यो कवच मनुष्यमात्रका लागि सम्पूर्ण रक्षा प्रदान गर्ने साधन हो। 'यन्न कस्यचिदाख्यातम्' ले यसको गुह्यता र दुर्लभतालाई जनाउँछ। यसरी कवचको प्राप्ति आफैंमा एक दुर्लभ सौभाग्य हो।",
+            "en": "This verse presents the greatness and secrecy of the Devi Kavacham. Sage Mārkaṇḍeya asks Brahmā about the armour. 'Sarvarakṣākaraṃ nṛṇām' indicates that this armour is the means of complete protection for human beings. 'Yanna kasyacid ākhyātam' indicates its secrecy and rarity. Thus obtaining the armour is itself a rare fortune."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha001.wav"
+        },
+        {
+          "id": "kavacha-02",
+          "number": 2,
+          "sanskrit": "ब्रह्मोवाच। अस्ति गुह्यतमं विप्र सर्वभूतोपकारकम्। देव्यास्तु कवचं पुण्यं तच्छृणुष्व महामुने॥२॥",
+          "iast": "brahmovāca | asti guhyatamaṃ vipra sarvabhūtopakārakam | devyāstu kavacaṃ puṇyaṃ tacchṛṇuṣva mahāmune ||2||",
+          "meaning": {
+            "ne": "ब्रह्माले भने: हे विप्र, सबै प्राणीहरूको उपकार गर्ने अत्यन्त गुह्य कवच छ। हे महामुने, देवीको त्यो पुण्यमय कवच सुन्नुहोस्।",
+            "en": "Brahmā said: O sage, there exists a most secret armour that benefits all beings. O great sage, listen to that meritorious armour of the Goddess."
+          },
+          "commentary": {
+            "ne": "ब्रह्माजीले कवचको सार्वभौमिक उपकारितालाई प्रकट गर्छन्। 'सर्वभूतोपकारकम्' भन्नाले यो कवच केवल मनुष्यको मात्र नभई सबै प्राणीहरूको हित गर्ने साधन हो। 'पुण्यम्' शब्दले यसको पवित्रता र धर्मसम्मततालाई जनाउँछ। यसरी कवचको श्रवण र पाठ आफैंमा पुण्य कार्य हो।",
+            "en": "Brahmā reveals the universal beneficence of the armour. 'Sarvabhūtopakārakam' means this armour is a means of benefit not only for humans but for all beings. The word 'puṇyam' indicates its purity and righteousness. Thus hearing and reciting the armour is itself a meritorious act."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha002.wav"
+        },
+        {
+          "id": "kavacha-03",
+          "number": 3,
+          "sanskrit": "प्रथमं शैलपुत्री च द्वितीयं ब्रह्मचारिणी। तृतीयं चन्द्रघण्टेति कूष्माण्डेति चतुर्थकम्॥३॥",
+          "iast": "prathamaṃ śailaputrī ca dvitīyaṃ brahmacāriṇī | tṛtīyaṃ candraghaṇṭeti kūṣmāṇḍeti caturthakam ||3||",
+          "meaning": {
+            "ne": "पहिलो शैलपुत्री, दोस्रो ब्रह्मचारिणी, तेस्रो चन्द्रघण्टा र चौथो कूष्माण्डा।",
+            "en": "First Śailaputrī, second Brahmacāriṇī, third Candraghaṇṭā, and fourth Kūṣmāṇḍā."
+          },
+          "commentary": {
+            "ne": "यहाँ नवदुर्गाका पहिला चार स्वरूपहरूको नाम गणना गरिएको छ। शैलपुत्री हिमालयकी पुत्री हुन् जसले धैर्य र स्थिरताको प्रतीक हुन्। ब्रह्मचारिणी तपस्या र संयमको प्रतीक हुन्। चन्द्रघण्टा शान्ति र सौम्यताको प्रतीक हुन्। कूष्माण्डा सृष्टिको बीज शक्ति हुन्। यी नामहरूको स्मरणले साधकको मनमा क्रमशः धैर्य, संयम, शान्ति र सृजनशीलता जागृत हुन्छ।",
+            "en": "Here the first four forms of the Navadurgā are enumerated. Śailaputrī is the daughter of the Himalaya, symbolising patience and stability. Brahmacāriṇī symbolises austerity and self-restraint. Candraghaṇṭā symbolises peace and gentleness. Kūṣmāṇḍā is the seed-power of creation. Remembering these names awakens patience, restraint, peace and creativity in the practitioner's mind."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha003.wav"
+        },
+        {
+          "id": "kavacha-04",
+          "number": 4,
+          "sanskrit": "पञ्चमं स्कन्दमातेति षष्ठं कात्यायनीति च। सप्तमं कालरात्रीति महागौरीति चाष्टमम्॥४॥",
+          "iast": "pañcamaṃ skandamātei ṣaṣṭhaṃ kātyāyanīti ca | saptamaṃ kālarātrīti mahāgaurīti cāṣṭamam ||4||",
+          "meaning": {
+            "ne": "पाँचौं स्कन्दमाता, छैटौं कात्यायनी, सातौं कालरात्री र आठौं महागौरी।",
+            "en": "Fifth Skandamātā, sixth Kātyāyanī, seventh Kālarātrī, and eighth Mahāgaurī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा नवदुर्गाका अर्का चार स्वरूपहरूको वर्णन छ। स्कन्दमाता कार्तिकेयकी माता हुन् जसले मातृत्व र पालनशक्तिको प्रतीक हुन्। कात्यायनी ऋषि कात्यायनकी पुत्री हुन् जसले साधना र तपस्याको फल प्रदान गर्छिन्। कालरात्री अन्धकार र अज्ञानको नाश गर्ने शक्ति हुन्। महागौरी शुद्धता, शान्ति र करुणाको प्रतीक हुन्। यी नामहरूको स्मरणले मातृभाव, साधनाफल, अज्ञाननाश र करुणाको भाव जागृत गराउँछ।",
+            "en": "This verse describes another four forms of the Navadurgā. Skandamātā is the mother of Kārtikeya, symbolising motherhood and nurturing power. Kātyāyanī is the daughter of Sage Kātyāyana, who grants the fruits of spiritual practice and austerity. Kālarātrī is the power that destroys darkness and ignorance. Mahāgaurī symbolises purity, peace and compassion. Remembering these names awakens maternal feeling, the fruit of practice, the destruction of ignorance and compassion."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha004.wav"
+        },
+        {
+          "id": "kavacha-05",
+          "number": 5,
+          "sanskrit": "नवमं सिद्धिदात्री च नवदुर्गाः प्रकीर्तिताः। उक्तान्येतानि नामानि ब्रह्मणैव महात्मना॥५॥",
+          "iast": "navamaṃ siddhidātrī ca navadurgāḥ prakīrtitāḥ | uktānyetāni nāmāni brahmaṇaiva mahātmanā ||5||",
+          "meaning": {
+            "ne": "नवौं सिद्धिदात्री। यसरी नवदुर्गा प्रसिद्ध छन्। यी नामहरू महात्मा ब्रह्माद्वारा नै भनिएका हुन्।",
+            "en": "Ninth Siddhidātrī. Thus the Navadurgās are proclaimed. These names were spoken by the great soul Brahmā himself."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले नवदुर्गाको गणना पूर्ण गर्छ। सिद्धिदात्री सबै प्रकारका सिद्धि प्रदान गर्ने शक्ति हुन्। यी नामहरू ब्रह्माजीबाट प्रकट भएका हुन् भन्नाले यिनको प्रामाणिकता र दिव्य स्रोतलाई जनाउँछ। नवदुर्गाको सामूहिक स्मरणले साधकको जीवनमा सर्वाङ्गीण विकास र पूर्णताको दिशा देखाउँछ।",
+            "en": "This verse completes the enumeration of the Navadurgās. Siddhidātrī is the power that grants all types of accomplishments. That these names were revealed by Brahmā indicates their authenticity and divine source. The collective remembrance of the Navadurgās shows the direction of all-round development and completeness in the practitioner's life."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha005.wav"
+        },
+        {
+          "id": "kavacha-06",
+          "number": 6,
+          "sanskrit": "अग्निना दह्यमानस्तु शत्रुमध्ये गतो रणे। विषमे दुर्गमे चैव भयार्ताः शरणं गताः॥६॥",
+          "iast": "agninā dahyamānastu śatrumadhye gato raṇe | viṣame durgame caiva bhayārtāḥ śaraṇaṃ gatāḥ ||6||",
+          "meaning": {
+            "ne": "अग्निले जलिरहेको, शत्रुहरूको माझमा रणभूमिमा गएको, विषम र दुर्गम स्थितिमा भयले आर्त भएर शरण पर्नेहरू।",
+            "en": "Those who are burning in fire, who have entered the midst of enemies in battle, who are in difficult and impassable situations, and who have taken refuge in fear —"
+          },
+          "commentary": {
+            "ne": "यो श्लोक कवचको प्रयोगको सन्दर्भ बताउँछ। अग्निदाह, युद्ध, विषम परिस्थिति र भय—यी सबै जीवनका कठिन क्षणहरूका प्रतीक हुन्। जब साधक यस्तो अवस्थामा देवीको शरणमा जान्छ, तब कवचको रक्षा कार्य सुरु हुन्छ। यसले कवचको प्रयोग केवल सामान्य अवस्थामा नभई संकटकालमा विशेष रूपमा हुने देखाउँछ।",
+            "en": "This verse describes the context of using the armour. Burning in fire, battle, difficult circumstances and fear — all these symbolise difficult moments of life. When the practitioner takes refuge in the Goddess in such a state, the protective function of the armour begins. This shows that the armour is used especially in times of crisis, not merely in ordinary circumstances."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha006.wav"
+        },
+        {
+          "id": "kavacha-07",
+          "number": 7,
+          "sanskrit": "न तेषां जायते किंचिदशुभं रणसंकटे। नापदं तस्य पश्यामि शोकदुःखभयं न हि॥७॥",
+          "iast": "na teṣāṃ jāyate kiṃcadaśubhaṃ raṇasaṅkaṭe | nāpadaṃ tasya paśyāmi śokaduḥkhabhayaṃ na hi ||7||",
+          "meaning": {
+            "ne": "रणसंकटमा तिनीहरूको कुनै अशुभ हुँदैन। म तिनको कुनै विपत्ति देख्दिन, न शोक, न दुःख, न भय।",
+            "en": "In the crisis of battle, no misfortune befalls them. I see no calamity for such a person — no sorrow, no suffering, no fear."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको रक्षा-शक्तिको पुष्टि गर्छ। जसले देवीको कवच धारण गर्छ वा स्मरण गर्छ, उसलाई रणसंकटमा पनि अशुभ, विपत्ति, शोक, दुःख र भयले स्पर्श गर्न सक्दैन। 'न हि' ले निश्चिततालाई जनाउँछ—यो पूर्ण विश्वासको वाणी हो। यसले कवचप्रतिको श्रद्धा र विश्वासलाई दृढ गराउँछ।",
+            "en": "This verse affirms the protective power of the armour. One who wears or remembers the Goddess's armour cannot be touched by misfortune, calamity, sorrow, suffering or fear even in the crisis of battle. 'Na hi' indicates certainty — this is the voice of complete assurance. It strengthens faith and trust in the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha007.wav"
+        },
+        {
+          "id": "kavacha-08",
+          "number": 8,
+          "sanskrit": "यैस्तु भक्त्या स्मृता नूनं तेषां वृद्धिः प्रजायते। ये त्वां स्मरन्ति देवेशि रक्षसे तान्न संशयः॥८॥",
+          "iast": "yaistu bhaktyā smṛtā nūnaṃ teṣāṃ vṛddhiḥ prajāyate | ye tvāṃ smaranti deveśi rakṣase tānna saṃśayaḥ ||8||",
+          "meaning": {
+            "ne": "जसले भक्तिपूर्वक स्मरण गर्छन्, तिनको निश्चय नै वृद्धि हुन्छ। हे देवेशि, जसले तपाईंलाई स्मरण गर्छन्, तिनको रक्षा गर्नुहुन्छ—यसमा कुनै संशय छैन।",
+            "en": "Those who remember with devotion surely prosper. O Goddess of the gods, You protect those who remember You — of this there is no doubt."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा भक्तिको महत्व र देवीको प्रतिज्ञालाई प्रकट गरिएको छ। 'भक्त्या स्मृता' भन्नाले केवल शब्दिक स्मरण नभई हृदयको भावपूर्ण समर्पण। 'वृद्धिः प्रजायते' भन्नाले भौतिक, मानसिक र आध्यात्मिक सबै प्रकारको समृद्धि। देवीको 'रक्षसे' वचन आश्वासन हो—जसले स्मरण गर्छ, उसको रक्षा देवी आफैं गर्छिन्। यसले भक्त र भगवानबीचको अटूट सम्बन्धलाई दर्शाउँछ।",
+            "en": "This verse reveals the importance of devotion and the Goddess's promise. 'Bhaktyā smṛtā' means not merely verbal remembrance but heartfelt surrender. 'Vṛddhiḥ prajāyate' means prosperity of all kinds — material, mental and spiritual. The Goddess's assurance 'rakṣase' is a promise — she herself protects the one who remembers her. This shows the unbreakable bond between devotee and divinity."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha008.wav"
+        },
+        {
+          "id": "kavacha-09",
+          "number": 9,
+          "sanskrit": "प्रेतसंस्था तु चामुण्डा वाराही महिषासना। ऐन्द्री गजसमारुढा वैष्णवी गरुडासना॥९॥",
+          "iast": "pretasaṃsthā tu cāmuṇḍā vārāhī mahiṣāsanā | aindrī gajasamāruḍhā vaiṣṇavī garuḍāsanā ||9||",
+          "meaning": {
+            "ne": "चामुण्डा प्रेतमा स्थित हुन्, वाराही महिषमा आसीन हुन्, ऐन्द्री हात्तीमा आरूढ हुन्, वैष्णवी गरुडमा आसीन हुन्।",
+            "en": "Cāmuṇḍā is stationed on a corpse, Vārāhī is seated on a buffalo, Aindrī is mounted on an elephant, Vaiṣṇavī is seated on Garuḍa."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले सप्तमातृकाका विभिन्न स्वरूपहरूको वर्णन गर्छ। चामुण्डा प्रेतमा स्थित भएर मृत्यु र क्षयको शक्तिमाथिको नियन्त्रण देखाउँछिन्। वाराही महिषमा आसीन भएर बल र जडतामाथिको विजय देखाउँछिन्। ऐन्द्री हात्तीमा आरूढ भएर ऐश्वर्य र राजशक्तिको प्रतीक हुन्। वैष्णवी गरुडमा आसीन भएर वेग र विवेकको शक्ति देखाउँछिन्। यी विभिन्न वाहनहरूले देवीका विविध शक्ति-प्रकाशलाई जनाउँछन्।",
+            "en": "This verse describes various forms of the Saptamātṛkās. Cāmuṇḍā stationed on a corpse shows control over the power of death and decay. Vārāhī seated on a buffalo shows victory over strength and inertia. Aindrī mounted on an elephant symbolises prosperity and royal power. Vaiṣṇavī seated on Garuḍa shows the power of speed and discernment. These various mounts indicate the diverse manifestations of the Goddess's power."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha009.wav"
+        },
+        {
+          "id": "kavacha-10",
+          "number": 10,
+          "sanskrit": "माहेश्वरी वृषारुढा कौमारी शिखिवाहना। लक्ष्मीः पद्मासना देवी पद्महस्ता हरिप्रिया॥१०॥",
+          "iast": "māheśvarī vṛṣāruḍhā kaumārī śikhivāhanā | lakṣmīḥ padmāsanā devī padmahastā haripriyā ||10||",
+          "meaning": {
+            "ne": "माहेश्वरी वृषभमा आरूढ हुन्, कौमारी मयूरमा वाहन गर्छिन्। लक्ष्मी कमलमा आसीन हुन्, कमल हातमा धारण गर्ने देवी विष्णुकी प्रिया हुन्।",
+            "en": "Māheśvarī is mounted on a bull, Kaumārī rides a peacock. Lakṣmī is seated on a lotus, the Goddess holding a lotus in her hand, beloved of Hari."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा मातृकाहरूको अर्को समूहको वर्णन छ। माहेश्वरी वृषभमा आरूढ भएर धर्म र न्यायको शक्ति देखाउँछिन्। कौमारी मयूरमा वाहन गरेर सौन्दर्य र साहसको प्रतीक हुन्। लक्ष्मी कमलमा आसीन भएर ऐश्वर्य, शुद्धता र सौभाग्यको प्रतीक हुन्। 'हरिप्रिया' भन्नाले विष्णुकी प्रिया—समृद्धि र पालनशक्तिको अभिन्न सम्बन्धलाई जनाउँछ।",
+            "en": "This verse describes another group of Mātṛkās. Māheśvarī mounted on a bull shows the power of dharma and justice. Kaumārī riding a peacock symbolises beauty and courage. Lakṣmī seated on a lotus symbolises prosperity, purity and good fortune. 'Haripriyā' means beloved of Viṣṇu — indicating the inseparable connection between prosperity and sustaining power."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha010.wav"
+        },
+        {
+          "id": "kavacha-11",
+          "number": 11,
+          "sanskrit": "श्वेतरुपधरा देवी ईश्वरी वृषवाहना। ब्राह्मी हंससमारुढा सर्वाभरणभूषिता॥११॥",
+          "iast": "śvetarūpadharā devī īśvarī vṛṣavāhanā | brāhmī haṃsasamāruḍhā sarvābharaṇabhūṣitā ||11||",
+          "meaning": {
+            "ne": "श्वेत रूप धारण गर्ने देवी ईश्वरी वृषभमा वाहन गर्छिन्। ब्राह्मी हंसमा आरूढ हुन् र सबै अलंकारहरूले भूषित हुन्।",
+            "en": "The Goddess who assumes a white form, Īśvarī, rides a bull. Brāhmī is mounted on a swan, adorned with all ornaments."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ईश्वरी र ब्राह्मीको वर्णन छ। श्वेत रूपले शुद्धता, शान्ति र सत्वगुणको प्रतीक हो। ईश्वरी वृषभमा वाहन गरेर ऐश्वर्य र स्थिरताको शक्ति देखाउँछिन्। ब्राह्मी हंसमा आरूढ भएर ज्ञान, विवेक र वाणीको शक्ति प्रकट गर्छिन्। 'सर्वाभरणभूषिता' भन्नाले सबै दिव्य गुणहरूले सुशोभित—ज्ञान, शक्ति, ऐश्वर्य, वीर्य, यश आदि सबै सम्पन्नताहरू।",
+            "en": "This verse describes Īśvarī and Brāhmī. The white form symbolises purity, peace and the quality of sattva. Īśvarī riding a bull shows the power of sovereignty and stability. Brāhmī mounted on a swan reveals the power of knowledge, discernment and speech. 'Sarvābharaṇabhūṣitā' means adorned with all divine qualities — knowledge, power, prosperity, valour, fame and all accomplishments."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha011.wav"
+        },
+        {
+          "id": "kavacha-12",
+          "number": 12,
+          "sanskrit": "इत्येता मातरः सर्वाः सर्वयोगसमन्विताः। नानाभरणशोभाढ्या नानारत्नोपशोभिताः॥१२॥",
+          "iast": "ityetā mātaraḥ sarvāḥ sarvayogasamanvitāḥ | nānābharaṇaśobhāḍhyā nānāratnopaśobhitāḥ ||12||",
+          "meaning": {
+            "ne": "यसरी यी सबै मातृकाहरू सबै योगहरूले समन्वित छन्। नाना अलंकारहरूको शोभाले युक्त र नाना रत्नहरूले सुशोभित छन्।",
+            "en": "Thus all these mothers are endowed with all yogas. They are rich with the splendour of various ornaments and adorned with various jewels."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले मातृकाहरूको सामूहिक महिमालाई प्रस्तुत गर्छ। 'सर्वयोगसमन्विताः' भन्नाले तिनीहरू सबै प्रकारका योग, शक्ति र सामर्थ्यले सम्पन्न छन्। 'नानाभरणशोभाढ्या' र 'नानारत्नोपशोभिताः' ले तिनीहरूको दिव्य ऐश्वर्य र सौन्दर्यलाई जनाउँछ। यसरी मातृकाहरूको स्मरणले साधकको जीवनमा सबै प्रकारको समृद्धि र शोभाको आकांक्षा जागृत गराउँछ।",
+            "en": "This verse presents the collective greatness of the Mātṛkās. 'Sarvayogasamanvitāḥ' means they are endowed with all types of yoga, power and capability. 'Nānābharaṇaśobhāḍhyā' and 'nānāratnopaśobhitāḥ' indicate their divine prosperity and beauty. Thus remembering the Mātṛkās awakens the aspiration for all kinds of prosperity and splendour in the practitioner's life."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha012.wav"
+        },
+        {
+          "id": "kavacha-13",
+          "number": 13,
+          "sanskrit": "दृश्यन्ते रथमारुढा देव्यः क्रोधसमाकुलाः। शङ्खं चक्रं गदां शक्तिं हलं च मुसलायुधम्॥१३॥",
+          "iast": "dṛśyante rathamāruḍhā devyaḥ krodhasamākulāḥ | śaṅkhaṃ cakraṃ gadāṃ śaktiṃ halaṃ ca musalāyudham ||13||",
+          "meaning": {
+            "ne": "देवीहरू रथमा आरूढ भएर क्रोधले समाकुल देखिन्छन्। शङ्ख, चक्र, गदा, शक्ति, हल र मुसल जस्ता आयुधहरू धारण गर्छिन्।",
+            "en": "The Goddesses are seen mounted on chariots, filled with anger. They bear weapons — conch, discus, mace, spear, plough and pestle."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीहरूको वीर र क्रोधित स्वरूपलाई चित्रित गर्छ। रथमा आरूढ भएर तिनीहरू युद्धका लागि सज्ज देखिन्छन्। शङ्ख, चक्र, गदा, शक्ति, हल र मुसल—यी आयुधहरूले देवीको विविध शक्तिहरूलाई जनाउँछन्। शङ्खले नाद र आह्वान, चक्रले संहार र न्याय, गदाले बल, शक्तिले तेज, हलले कृषि र सृजन, मुसलले दमन र शुद्धिकरणको प्रतीक हो। यी सबै मिलेर देवीको सर्वव्यापक शक्तिलाई प्रकट गर्छन्।",
+            "en": "This verse depicts the heroic and wrathful form of the Goddesses. Mounted on chariots, they appear ready for battle. Conch, discus, mace, spear, plough and pestle — these weapons indicate the various powers of the Goddess. The conch symbolises sound and invocation, the discus destruction and justice, the mace strength, the spear brilliance, the plough agriculture and creation, and the pestle suppression and purification. Together they reveal the Goddess's all-pervading power."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha013.wav"
+        },
+        {
+          "id": "kavacha-14",
+          "number": 14,
+          "sanskrit": "खेटकं तोमरं चैव परशुं पाशमेव च। कुन्तायुधं त्रिशूलं च शार्ङ्गमायुधमुत्तमम्॥१४॥",
+          "iast": "kheṭakaṃ tomaraṃ caiva paraśuṃ pāśameva ca | kuntāyudhaṃ triśūlaṃ ca śārṅgamāyudhamuttamam ||14||",
+          "meaning": {
+            "ne": "खेटक, तोमर, परशु, पाश, कुन्तायुध, त्रिशूल र उत्तम शार्ङ्ग आयुध धारण गर्छिन्।",
+            "en": "They bear shield, spear, axe, noose, lance, trident and the excellent bow Śārṅga."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीहरूका थप आयुधहरूको वर्णन गर्छ। खेटक रक्षाको, तोमर आक्रमणको, परशु कर्तनको, पाश बन्धनको, कुन्तायुध भेदनको, त्रिशूल त्रिगुणात्मक शक्तिको र शार्ङ्ग धनुष्य दूरगामी लक्ष्यको प्रतीक हो। यी सबै आयुधहरूले देवीको विविध शक्ति-प्रकाशलाई जनाउँछन् जसले साधकलाई सबै दिशाबाट रक्षा गर्छ।",
+            "en": "This verse describes further weapons of the Goddesses. The shield symbolises protection, the spear attack, the axe severance, the noose binding, the lance piercing, the trident threefold power, and the Śārṅga bow long-range aim. All these weapons indicate the diverse manifestations of the Goddess's power that protect the practitioner from all directions."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha014.wav"
+        },
+        {
+          "id": "kavacha-15",
+          "number": 15,
+          "sanskrit": "दैत्यानां देहनाशाय भक्तानामभयाय च। धारयन्त्यायुधानीत्थं देवानां च हिताय वै॥१५॥",
+          "iast": "daityānāṃ dehanāśāya bhaktānāmabhayāya ca | dhārayantyāyudhānītthaṃ devānāṃ ca hitāya vai ||15||",
+          "meaning": {
+            "ne": "दैत्यहरूको देहनाशका लागि, भक्तहरूको अभयका लागि र देवताहरूको हितका लागि यसरी आयुधहरू धारण गर्छिन्।",
+            "en": "For the destruction of the bodies of demons, for the fearlessness of devotees, and for the benefit of the gods, they bear these weapons."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीहरूले आयुध धारण गर्नुको तीन उद्देश्य बताउँछ। दैत्यहरूको देहनाश—अन्याय, अत्याचार र अहंकारको विनाश। भक्तहरूको अभय—श्रद्धालुहरूलाई निर्भयता र संरक्षण। देवताहरूको हित—धर्म र सृष्टिको रक्षा। यसरी देवीको शक्ति केवल विनाशकारी नभई सृजनात्मक र रक्षात्मक पनि हो। यो शक्ति धर्मको रक्षा, भक्तको अभय र अधर्मको विनाशका लागि प्रयुक्त हुन्छ।",
+            "en": "This verse states the three purposes for which the Goddesses bear weapons. Destruction of the bodies of demons — the destruction of injustice, oppression and ego. Fearlessness of devotees — fearlessness and protection for the faithful. Benefit of the gods — protection of dharma and creation. Thus the Goddess's power is not merely destructive but also creative and protective. This power is used for the protection of dharma, the fearlessness of devotees and the destruction of adharma."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha015.wav"
+        },
+        {
+          "id": "kavacha-16",
+          "number": 16,
+          "sanskrit": "नमस्तेऽस्तु महादेवि नमस्ते दुर्गतारिणि। नमस्ते सर्वरक्षार्थं नमस्ते भयनाशिनि॥१६॥",
+          "iast": "namaste'stu mahādevi namaste durgatāriṇi | namaste sarvarakṣārthaṃ namaste bhayanāśini ||16||",
+          "meaning": {
+            "ne": "हे महादेवि, तपाईंलाई नमस्कार। हे दुर्गतारिणि, तपाईंलाई नमस्कार। सर्वरक्षाका लागि तपाईंलाई नमस्कार। हे भयनाशिनि, तपाईंलाई नमस्कार।",
+            "en": "Salutations to You, O Mahādevī. Salutations to You, O Durgatāriṇi. Salutations to You for the protection of all. Salutations to You, O Bhayanāśini."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई चार नामले सम्बोधन गरिएको छ। महादेवी—सर्वोच्च देवी। दुर्गतारिणि—दुर्गतिबाट तार्ने। सर्वरक्षार्थम्—सबैको रक्षा गर्ने। भयनाशिनि—भयको नाश गर्ने। यी चार नामहरूले देवीको मुख्य कार्यहरूलाई जनाउँछन्: सर्वोच्चता, उद्धार, रक्षा र अभय। यसरी देवीलाई बारम्बार नमस्कार गर्दा साधकको मनमा श्रद्धा, कृतज्ञता र निर्भयताको भाव जागृत हुन्छ।",
+            "en": "This verse addresses the Goddess with four names. Mahādevī — the supreme Goddess. Durgatāriṇi — she who carries across misfortune. Sarvarakṣārtham — for the protection of all. Bhayanāśini — destroyer of fear. These four names indicate the Goddess's main functions: supremacy, deliverance, protection and fearlessness. Thus repeatedly saluting the Goddess awakens faith, gratitude and fearlessness in the practitioner's mind."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha016.wav"
+        },
+        {
+          "id": "kavacha-17",
+          "number": 17,
+          "sanskrit": "शोकदुःखप्रशमनं सर्वरोगनिवारणम्। सर्वापद्विनिवारणं सर्वसम्पत्प्रदायकम्॥१७॥",
+          "iast": "śokaduḥkhapraśamanaṃ sarvaroganivāraṇam | sarvāpadvinivāraṇaṃ sarvasampatpradāyakam ||17||",
+          "meaning": {
+            "ne": "शोक र दुःखको प्रशमन गर्ने, सबै रोगहरूको निवारण गर्ने, सबै आपत्तिहरूको विनिवारण गर्ने र सबै सम्पत्तिको प्रदायक।",
+            "en": "Pacifier of sorrow and suffering, preventer of all diseases, remover of all calamities, bestower of all prosperity."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको बहुआयामिक लाभहरूलाई प्रस्तुत गर्छ। 'शोकदुःखप्रशमनम्'—मानसिक र भावनात्मक पीडाको नाश। 'सर्वरोगनिवारणम्'—शारीरिक र मानसिक रोगहरूको रोकथाम। 'सर्वापद्विनिवारणम्'—सबै प्रकारका विपत्तिहरूको हटाउने। 'सर्वसम्पत्प्रदायकम्'—सबै प्रकारको समृद्धिको प्रदान। यसरी कवच केवल रक्षा मात्र नभई समग्र जीवनको उन्नति र कल्याणको साधन हो।",
+            "en": "This verse presents the multidimensional benefits of the armour. 'Śokaduḥkhapraśamanam' — destruction of mental and emotional pain. 'Sarvaroganivāraṇam' — prevention of physical and mental diseases. 'Sarvāpadvinivāraṇam' — removal of all types of calamities. 'Sarvasampatpradāyakam' — bestower of all types of prosperity. Thus the armour is not merely protection but a means for the overall upliftment and well-being of life."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha017.wav"
+        },
+        {
+          "id": "kavacha-18",
+          "number": 18,
+          "sanskrit": "स्वर्गापवर्गदं देवि सर्वलोकैकरक्षणम्। धारयेद्यः सदा भक्त्या कवचं सर्वसिद्धिदम्॥१८॥",
+          "iast": "svargāpavargadaṃ devi sarvalokaikarakṣaṇam | dhārayedyaḥ sadā bhaktyā kavacaṃ sarvasiddhidam ||18||",
+          "meaning": {
+            "ne": "हे देवी, स्वर्ग र अपवर्ग प्रदान गर्ने, सबै लोकहरूको एकमात्र रक्षा गर्ने, जो सधैं भक्तिपूर्वक यो सर्वसिद्धिप्रद कवच धारण गर्छ।",
+            "en": "O Goddess, giver of heaven and liberation, sole protector of all worlds — one who always wears this all-accomplishing armour with devotion."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको पारमार्थिक महत्वलाई प्रकट गर्छ। 'स्वर्गापवर्गदम्'—स्वर्ग (सुख) र अपवर्ग (मोक्ष) दुवै प्रदान गर्ने। 'सर्वलोकैकरक्षणम्'—सबै लोकहरूको एकमात्र रक्षक। 'सर्वसिद्धिदम्'—सबै सिद्धिहरू प्रदान गर्ने। यसरी कवच केवल सांसारिक रक्षा मात्र नभई आध्यात्मिक मुक्तिको पनि साधन हो। 'सदा भक्त्या' भन्नाले निरन्तर भक्ति र श्रद्धाको आवश्यकतालाई जनाउँछ।",
+            "en": "This verse reveals the spiritual significance of the armour. 'Svargāpavargadam' — giver of both heaven (happiness) and liberation (mokṣa). 'Sarvalokaikarakṣaṇam' — sole protector of all worlds. 'Sarvasiddhidam' — bestower of all accomplishments. Thus the armour is not merely worldly protection but also a means of spiritual liberation. 'Sadā bhaktyā' indicates the need for constant devotion and faith."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha018.wav"
+        },
+        {
+          "id": "kavacha-19",
+          "number": 19,
+          "sanskrit": "यः पठेत् सततं भक्त्या कवचं सर्वरक्षकम्। तस्य सिद्ध्यन्ति सर्वार्था न संशयः॥१९॥",
+          "iast": "yaḥ paṭhet satataṃ bhaktyā kavacaṃ sarvarakṣakam | tasya siddhyanti sarvārthā na saṃśayaḥ ||19||",
+          "meaning": {
+            "ne": "जो सधैं भक्तिपूर्वक सर्वरक्षक कवच पाठ गर्छ, उसका सबै अर्थहरू सिद्ध हुन्छन्—यसमा कुनै संशय छैन।",
+            "en": "One who constantly recites the all-protecting armour with devotion — all their aims are accomplished; of this there is no doubt."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवच पाठको फललाई स्पष्ट रूपमा प्रतिज्ञा गर्छ। 'सततम्' र 'भक्त्या'—निरन्तरता र भक्ति दुवै आवश्यक छन्। 'सर्वार्थाः सिद्ध्यन्ति'—सबै उद्देश्य, लक्ष्य र आवश्यकताहरू पूर्ण हुन्छन्। 'न संशयः'—यो पूर्ण विश्वासको वाणी। यसले कवच पाठप्रति साधकको श्रद्धा र नियमिततालाई प्रोत्साहित गर्छ। कवच केवल पाठ गर्ने विषय नभई जीवनको अभ्यास बनाउनुपर्छ।",
+            "en": "This verse clearly promises the fruit of reciting the armour. 'Satatam' and 'bhaktyā' — both continuity and devotion are necessary. 'Sarvārthāḥ siddhyanti' — all purposes, goals and needs are fulfilled. 'Na saṃśayaḥ' — this is the voice of complete assurance. It encourages the practitioner's faith and regularity in reciting the armour. The armour should become a life practice, not merely a text to be read."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha019.wav"
+        },
+        {
+          "id": "kavacha-20",
+          "number": 20,
+          "sanskrit": "न तस्य जायते किंचिदशुभं न च दुर्गतिः। न च व्याधिर्न च मृत्युर्न चौरादिभयं क्वचित्॥२०॥",
+          "iast": "na tasya jāyate kiṃcidaśubhaṃ na ca durgatiḥ | na ca vyādhirna ca mṛtyurna caurādibhayaṃ kvacit ||20||",
+          "meaning": {
+            "ne": "उसको कुनै अशुभ हुँदैन, न दुर्गति, न व्याधि, न मृत्यु र न चोर आदिको भय कहिल्यै हुँदैन।",
+            "en": "No misfortune befalls such a person — no misfortune, no poverty, no disease, no untimely death, and never any fear of thieves and the like."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको व्यापक रक्षा-शक्तिलाई विस्तारमा बताउँछ। अशुभ—कुनै पनि प्रकारको अनिष्ट। दुर्गति—दुःखद अवस्था। व्याधि—रोग। मृत्यु—अकाल मृत्यु। चौरादिभय—चोर, शत्रु र अन्य बाह्य खतराहरूको भय। यसरी कवचले जीवनका सबै पक्षहरूको रक्षा गर्छ—शारीरिक, मानसिक, आर्थिक, सामाजिक र आध्यात्मिक। यो श्लोक कवचको सर्वांगीण सुरक्षा-कवचको वर्णन हो।",
+            "en": "This verse describes in detail the comprehensive protective power of the armour. Aśubha — any kind of misfortune. Durgati — a miserable condition. Vyādhi — disease. Mṛtyu — untimely death. Caurādibhaya — fear of thieves, enemies and other external dangers. Thus the armour protects all aspects of life — physical, mental, economic, social and spiritual. This verse describes the all-encompassing protective shield of the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha020.wav"
+        },
+        {
+          "id": "kavacha-21",
+          "number": 21,
+          "sanskrit": "न चाग्निर्दहते तस्य न च शत्रुः प्रवर्तते। न च राजभयं तस्य न च शस्त्रभयं क्वचित्॥२१॥",
+          "iast": "na cāgnirdahate tasya na ca śatruḥ pravartate | na ca rājabhayaṃ tasya na ca śastrabhayaṃ kvacit ||21||",
+          "meaning": {
+            "ne": "उसलाई अग्निले डढाउँदैन, शत्रुले आक्रमण गर्दैन, राजाको भय हुँदैन र शस्त्रको भय कहिल्यै हुँदैन।",
+            "en": "Fire does not burn such a person, enemies do not advance against them, there is no fear of the king and never any fear of weapons."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवच धारण गर्नेको चार विशेष प्रकारका भयहरूबाट रक्षाको वर्णन गर्छ। अग्निभय—प्राकृतिक आपदा। शत्रुभय—बाह्य शत्रुहरूको आक्रमण। राजभय—शासकीय दण्ड र अत्याचार। शस्त्रभय—हिंसा र आक्रमण। यी सबैबाट देवीको कवच रक्षा गर्छ। प्रतीकात्मक रूपमा अग्नि क्रोध, शत्रु अहंकार, राजा अधिकारको दुरुपयोग र शस्त्र हिंसालाई पनि जनाउँछ। यसरी कवच आन्तरिक र बाह्य दुवै शत्रुहरूबाट रक्षा गर्छ।",
+            "en": "This verse describes protection from four specific types of fear for the wearer of the armour. Agnibhaya — natural disaster. Śatrubhaya — attack by external enemies. Rājabhaya — royal punishment and oppression. Śastrabhaya — violence and attack. The Goddess's armour protects from all these. Symbolically, fire also represents anger, enemies represent ego, the king represents misuse of authority, and weapons represent violence. Thus the armour protects from both inner and outer enemies."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha021.wav"
+        },
+        {
+          "id": "kavacha-22",
+          "number": 22,
+          "sanskrit": "न तस्य जायते पापं न च दुःखं न चापदः। न च शोको न च मोहो न च क्लेशः कदाचन॥२२॥",
+          "iast": "na tasya jāyate pāpaṃ na ca duḥkhaṃ na cāpadaḥ | na ca śoko na ca moho na ca kleśaḥ kadācana ||22||",
+          "meaning": {
+            "ne": "उसको पाप उत्पन्न हुँदैन, न दुःख, न आपत्ति, न शोक, न मोह र न क्लेश कहिल्यै हुँदैन।",
+            "en": "No sin arises for such a person — no suffering, no calamity, no sorrow, no delusion, and never any affliction."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवच धारण गर्नेको आन्तरिक जीवनमा हुने शुद्धिको वर्णन गर्छ। पाप, दुःख, आपत्ति, शोक, मोह र क्लेश—यी सबै मानसिक र आध्यात्मिक पीडाका कारण हुन्। कवचको प्रभावले यी सबैबाट मुक्ति मिल्छ। यो शुद्धि बाह्य नभई आन्तरिक हो—मनको शान्ति, बुद्धिको स्पष्टता र आत्माको पवित्रता। यसरी कवच केवल शारीरिक रक्षा मात्र नभई आन्तरिक रूपान्तरणको साधन पनि हो।",
+            "en": "This verse describes the purification that occurs in the inner life of the wearer of the armour. Pāpa, duḥkha, āpad, śoka, moha and kleśa — all these are causes of mental and spiritual suffering. By the influence of the armour, one is freed from all these. This purification is not external but internal — peace of mind, clarity of intellect and purity of soul. Thus the armour is not merely physical protection but also a means of inner transformation."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha022.wav"
+        },
+        {
+          "id": "kavacha-23",
+          "number": 23,
+          "sanskrit": "न तस्य जायते दुःखं सर्वदुःखविवर्जितः। सुखं जीवति सर्वत्र सर्वत्र विजयी भवेत्॥२३॥",
+          "iast": "na tasya jāyate duḥkhaṃ sarvaduḥkhavivarjitaḥ | sukhaṃ jīvati sarvatra sarvatra vijayī bhavet ||23||",
+          "meaning": {
+            "ne": "उसको दुःख उत्पन्न हुँदैन, सबै दुःखबाट वर्जित हुन्छ। सर्वत्र सुखपूर्वक जीवन बिताउँछ र सर्वत्र विजयी हुन्छ।",
+            "en": "No suffering arises for such a person; they are free from all suffering. They live happily everywhere and become victorious everywhere."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवच धारण गर्नेको जीवनमा सुख र विजयको प्रतिज्ञा गर्छ। 'सर्वदुःखविवर्जितः'—सबै प्रकारका दुःखबाट मुक्त। 'सुखं जीवति'—आनन्दपूर्वक जीवनयापन। 'सर्वत्र विजयी भवेत्'—सबै क्षेत्रमा सफलता र विजय। यो विजय केवल बाह्य नभई आन्तरिक पनि हो—आत्मसंयम, विवेक र धैर्यको विजय। यसरी कवच जीवनलाई सुखमय, सफल र विजयी बनाउने साधन हो।",
+            "en": "This verse promises happiness and victory in the life of the wearer of the armour. 'Sarvaduḥkhavivarjitaḥ' — free from all types of suffering. 'Sukhaṃ jīvati' — living happily. 'Sarvatra vijayī bhavet' — success and victory in all fields. This victory is not only external but also internal — the victory of self-restraint, discernment and patience. Thus the armour is a means of making life happy, successful and victorious."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha023.wav"
+        },
+        {
+          "id": "kavacha-24",
+          "number": 24,
+          "sanskrit": "य इदं कवचं देव्याः पठेत् सर्वार्थसाधकम्। तस्य सर्वार्थसिद्धिः स्यान्नात्र कार्या विचारणा॥२४॥",
+          "iast": "ya idaṃ kavacaṃ devyāḥ paṭhet sarvārthasādhakam | tasya sarvārthasiddhiḥ syānnātra kāryā vicāraṇā ||24||",
+          "meaning": {
+            "ne": "जो देवीको यो सर्वार्थसाधक कवच पाठ गर्छ, उसको सबै अर्थहरूको सिद्धि हुन्छ—यसमा कुनै विचार गर्नु आवश्यक छैन।",
+            "en": "One who recites this all-accomplishing armour of the Goddess — all their aims are accomplished; no deliberation is needed here."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवच पाठको फललाई पुनः पुष्टि गर्छ। 'सर्वार्थसाधकम्'—सबै उद्देश्यहरूको साधक। 'सर्वार्थसिद्धिः स्यात्'—सबै अर्थहरूको सिद्धि हुन्छ। 'नात्र कार्या विचारणा'—यसमा कुनै संशय वा विचारको आवश्यकता छैन। यो पूर्ण विश्वासको वाणी हो। यसले कवचप्रतिको श्रद्धा र दृढतालाई बलियो बनाउँछ। जब साधक पूर्ण भक्ति र विश्वासका साथ कवच पाठ गर्छ, तब फल अनिवार्य रूपमा प्राप्त हुन्छ।",
+            "en": "This verse reaffirms the fruit of reciting the armour. 'Sarvārthasādhakam' — accomplisher of all purposes. 'Sarvārthasiddhiḥ syāt' — all aims are accomplished. 'Nātra kāryā vicāraṇā' — no doubt or deliberation is needed here. This is the voice of complete assurance. It strengthens faith and firmness in the armour. When the practitioner recites the armour with full devotion and faith, the fruit is inevitably obtained."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha024.wav"
+        },
+        {
+          "id": "kavacha-25",
+          "number": 25,
+          "sanskrit": "सर्वरोगप्रशमनं सर्वोपद्रवनाशनम्। सर्वभयप्रशमनं सर्वदुःखनिवारणम्॥२५॥",
+          "iast": "sarvarogapraśamanaṃ sarvopadravanāśanam | sarvabhayapraśamanaṃ sarvaduḥkhanivāraṇam ||25||",
+          "meaning": {
+            "ne": "सबै रोगहरूको प्रशमन गर्ने, सबै उपद्रवहरूको नाश गर्ने, सबै भयहरूको प्रशमन गर्ने र सबै दुःखहरूको निवारण गर्ने।",
+            "en": "Pacifier of all diseases, destroyer of all troubles, pacifier of all fears, preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको सर्वव्यापी रक्षा-शक्तिलाई पुनः प्रस्तुत गर्छ। सर्वरोग—शारीरिक र मानसिक रोगहरू। सर्वोपद्रव—बाह्य र आन्तरिक उपद्रवहरू। सर्वभय—सबै प्रकारका भयहरू। सर्वदुःख—सबै प्रकारका दुःखहरू। यसरी कवच जीवनका सबै पक्षहरूको रक्षा गर्छ। यो श्लोक कवचको बहुआयामिक रक्षा-कार्यको संक्षिप्त सार हो।",
+            "en": "This verse again presents the all-pervading protective power of the armour. Sarvaroga — physical and mental diseases. Sarvopadrava — external and internal troubles. Sarvabhaya — all types of fears. Sarvaduḥkha — all types of sufferings. Thus the armour protects all aspects of life. This verse is a concise summary of the multidimensional protective function of the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha025.wav"
+        },
+        {
+          "id": "kavacha-26",
+          "number": 26,
+          "sanskrit": "एतद् देव्याः कवचं पुण्यं सर्वसिद्धिप्रदायकम्। पठेत् सर्वमनुष्याणां सर्वरक्षाकरं परम्॥२६॥",
+          "iast": "etad devyāḥ kavacaṃ puṇyaṃ sarvasiddhipradāyakam | paṭhet sarvamanuṣyāṇāṃ sarvarakṣākaraṃ param ||26||",
+          "meaning": {
+            "ne": "देवीको यो पुण्यमय कवच सबै सिद्धिहरूको प्रदायक हो। यसलाई सबै मनुष्यहरूको सर्वरक्षक उत्तम साधनका रूपमा पाठ गर्नुपर्छ।",
+            "en": "This meritorious armour of the Goddess is the bestower of all accomplishments. It should be recited as the supreme all-protecting means for all human beings."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको सार्वभौमिक उपयोगितालाई प्रकट गर्छ। 'सर्वसिद्धिप्रदायकम्'—सबै सिद्धिहरूको दाता। 'सर्वमनुष्याणाम्'—सबै मनुष्यहरूका लागि। 'सर्वरक्षाकरं परम्'—सर्वोच्च सर्वरक्षक। यसरी कवच कुनै विशेष व्यक्ति वा वर्गका लागि मात्र नभई सबै मनुष्यहरूका लागि समान रूपमा उपलब्ध र कल्याणकारी छ। यो सार्वभौमिक साधन हो।",
+            "en": "This verse reveals the universal applicability of the armour. 'Sarvasiddhipradāyakam' — giver of all accomplishments. 'Sarvamanuṣyāṇām' — for all human beings. 'Sarvarakṣākaraṃ param' — the supreme all-protector. Thus the armour is not for any particular person or class but equally available and beneficial for all human beings. It is a universal means."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha026.wav"
+        },
+        {
+          "id": "kavacha-27",
+          "number": 27,
+          "sanskrit": "गुह्याद् गुह्यतरं देवि कवचं सर्वरक्षकम्। यत् पठित्वा नरो विद्वान् सर्वसिद्धिमवाप्नुयात्॥२७॥",
+          "iast": "guhyād guhyataraṃ devi kavacaṃ sarvarakṣakam | yat paṭhitvā naro vidvān sarvasiddhimavāpnuyāt ||27||",
+          "meaning": {
+            "ne": "हे देवी, गुह्यभन्दा पनि गुह्यतर, सबैको रक्षक कवच। जसलाई पाठ गरेर विद्वान् मनुष्यले सबै सिद्धि प्राप्त गर्छ।",
+            "en": "O Goddess, this armour is more secret than secret, the protector of all. Having recited it, a wise person attains all accomplishments."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको गुह्यता र सर्वरक्षकत्वलाई जोड दिन्छ। 'गुह्याद् गुह्यतरम्'—गुह्यभन्दा गुह्य, अत्यन्त दुर्लभ र गोप्य। 'सर्वरक्षकम्'—सबैको रक्षा गर्ने। 'विद्वान्'—जो विवेकी र ज्ञानी छ। 'सर्वसिद्धिमवाप्नुयात्'—सबै सिद्धिहरू प्राप्त गर्छ। यसरी कवचको मूल्य तिनै जनालाई थाहा हुन्छ जो विवेकी छन्। यो केवल पाठको विषय नभई आत्मिक साधनाको विषय हो।",
+            "en": "This verse emphasises the secrecy and all-protective nature of the armour. 'Guhyād guhyataram' — more secret than secret, extremely rare and confidential. 'Sarvarakṣakam' — protector of all. 'Vidvān' — one who is discerning and wise. 'Sarvasiddhimavāpnuyāt' — attains all accomplishments. Thus the value of the armour is known only to the discerning. It is not merely a matter of recitation but of spiritual practice."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha027.wav"
+        },
+        {
+          "id": "kavacha-28",
+          "number": 28,
+          "sanskrit": "एतत् ते कथितं देवि कवचं सर्वरक्षकम्। सर्वसिद्धिप्रदं पुण्यं सर्वदुःखनिवारणम्॥२८॥",
+          "iast": "etat te kathitaṃ devi kavacaṃ sarvarakṣakam | sarvasiddhipradaṃ puṇyaṃ sarvaduḥkhanivāraṇam ||28||",
+          "meaning": {
+            "ne": "हे देवी, तपाईंलाई यो सर्वरक्षक कवच भनिएको छ। यो सर्वसिद्धिप्रद, पुण्यमय र सर्वदुःखनिवारण गर्ने कवच हो।",
+            "en": "O Goddess, this all-protecting armour has been told to You. It is the bestower of all accomplishments, meritorious, and the preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कवचको गुणहरूको पुनरावृत्ति गर्दै यसको महिमालाई स्थापित गर्छ। 'सर्वरक्षकम्'—सबैको रक्षक। 'सर्वसिद्धिप्रदम्'—सबै सिद्धिहरूको दाता। 'पुण्यम्'—पवित्र, धर्मसम्मत। 'सर्वदुःखनिवारणम्'—सबै दुःखहरूको निवारण गर्ने। यसरी कवच एक बहुमुखी साधन हो जसले रक्षा, सिद्धि, पुण्य र दुःखमुक्ति—सबै प्रदान गर्छ।",
+            "en": "This verse repeats the qualities of the armour, establishing its greatness. 'Sarvarakṣakam' — protector of all. 'Sarvasiddhipradam' — giver of all accomplishments. 'Puṇyam' — pure, righteous. 'Sarvaduḥkhanivāraṇam' — preventer of all sufferings. Thus the armour is a multifaceted means that grants protection, accomplishment, merit and freedom from suffering — all together."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha028.wav"
+        },
+        {
+          "id": "kavacha-29",
+          "number": 29,
+          "sanskrit": "न तस्य जायते पापं न च दुःखं न चापदः। न च शोको न च मोहो न च क्लेशः कदाचन॥२९॥",
+          "iast": "na tasya jāyate pāpaṃ na ca duḥkhaṃ na cāpadaḥ | na ca śoko na ca moho na ca kleśaḥ kadācana ||29||",
+          "meaning": {
+            "ne": "उसको पाप उत्पन्न हुँदैन, न दुःख, न आपत्ति, न शोक, न मोह र न क्लेश कहिल्यै हुँदैन।",
+            "en": "No sin arises for such a person — no suffering, no calamity, no sorrow, no delusion, and never any affliction."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २२ औं श्लोकको पुनरावृत्ति हो जसले कवचको शुद्धिकारी प्रभावलाई पुनः पुष्टि गर्छ। पाप, दुःख, आपत्ति, शोक, मोह र क्लेश—यी सबै आन्तरिक र बाह्य पीडाका कारण हुन्। कवचको निरन्तर स्मरण र पाठले यी सबैबाट मुक्ति प्रदान गर्छ। यो पुनरावृत्ति श्लोक कवचको महिमालाई दृढ गर्न र साधकको विश्वासलाई बलियो बनाउन प्रयुक्त भएको छ।",
+            "en": "This verse is a repetition of verse 22, reaffirming the purifying effect of the armour. Pāpa, duḥkha, āpad, śoka, moha and kleśa — all these are causes of inner and outer suffering. The constant remembrance and recitation of the armour grants freedom from all these. This repeated verse is used to strengthen the greatness of the armour and the practitioner's faith."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha029.wav"
+        },
+        {
+          "id": "kavacha-30",
+          "number": 30,
+          "sanskrit": "न तस्य जायते दुःखं सर्वदुःखविवर्जितः। सुखं जीवति सर्वत्र सर्वत्र विजयी भवेत्॥३०॥",
+          "iast": "na tasya jāyate duḥkhaṃ sarvaduḥkhavivarjitaḥ | sukhaṃ jīvati sarvatra sarvatra vijayī bhavet ||30||",
+          "meaning": {
+            "ne": "उसको दुःख उत्पन्न हुँदैन, सबै दुःखबाट वर्जित हुन्छ। सर्वत्र सुखपूर्वक जीवन बिताउँछ र सर्वत्र विजयी हुन्छ।",
+            "en": "No suffering arises for such a person; they are free from all suffering. They live happily everywhere and become victorious everywhere."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २३ औं श्लोकको पुनरावृत्ति हो। यसले कवच धारण गर्नेको जीवनमा सुख र विजयको प्रतिज्ञालाई पुनः दोहोर्याउँछ। 'सर्वदुःखविवर्जितः'—सबै दुःखबाट मुक्त। 'सुखं जीवति'—आनन्दपूर्वक जीवन। 'सर्वत्र विजयी भवेत्'—सर्वत्र विजय। यी पुनरावृत्तिहरूले कवचको महिमालाई स्थिर र दृढ गराउँछन् र साधकको मनमा गहिरो विश्वास उत्पन्न गराउँछन्।",
+            "en": "This verse is a repetition of verse 23. It reiterates the promise of happiness and victory in the life of the wearer of the armour. 'Sarvaduḥkhavivarjitaḥ' — free from all suffering. 'Sukhaṃ jīvati' — living happily. 'Sarvatra vijayī bhavet' — victorious everywhere. These repetitions establish the greatness of the armour firmly and generate deep faith in the practitioner's mind."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha030.wav"
+        },
+        {
+          "id": "kavacha-31",
+          "number": 31,
+          "sanskrit": "य इदं कवचं देव्याः पठेत् सर्वार्थसाधकम्। तस्य सर्वार्थसिद्धिः स्यान्नात्र कार्या विचारणा॥३१॥",
+          "iast": "ya idaṃ kavacaṃ devyāḥ paṭhet sarvārthasādhakam | tasya sarvārthasiddhiḥ syānnātra kāryā vicāraṇā ||31||",
+          "meaning": {
+            "ne": "जो देवीको यो सर्वार्थसाधक कवच पाठ गर्छ, उसको सबै अर्थहरूको सिद्धि हुन्छ—यसमा कुनै विचार गर्नु आवश्यक छैन।",
+            "en": "One who recites this all-accomplishing armour of the Goddess — all their aims are accomplished; no deliberation is needed here."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २४ औं श्लोकको पुनरावृत्ति हो। यसले कवच पाठको फललाई पुनः पुष्टि गर्छ। 'सर्वार्थसाधकम्'—सबै उद्देश्यहरूको साधक। 'सर्वार्थसिद्धिः स्यात्'—सबै अर्थहरूको सिद्धि। 'नात्र कार्या विचारणा'—कुनै संशय वा विचारको आवश्यकता छैन। यो पूर्ण विश्वासको वाणी हो। यसले साधकलाई कवचप्रति पूर्ण श्रद्धा र समर्पणको भावमा स्थिर गराउँछ।",
+            "en": "This verse is a repetition of verse 24. It reaffirms the fruit of reciting the armour. 'Sarvārthasādhakam' — accomplisher of all purposes. 'Sarvārthasiddhiḥ syāt' — all aims are accomplished. 'Nātra kāryā vicāraṇā' — no doubt or deliberation is needed. This is the voice of complete assurance. It establishes the practitioner in full faith and surrender towards the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha031.wav"
+        },
+        {
+          "id": "kavacha-32",
+          "number": 32,
+          "sanskrit": "सर्वरोगप्रशमनं सर्वोपद्रवनाशनम्। सर्वभयप्रशमनं सर्वदुःखनिवारणम्॥३२॥",
+          "iast": "sarvarogapraśamanaṃ sarvopadravanāśanam | sarvabhayapraśamanaṃ sarvaduḥkhanivāraṇam ||32||",
+          "meaning": {
+            "ne": "सबै रोगहरूको प्रशमन गर्ने, सबै उपद्रवहरूको नाश गर्ने, सबै भयहरूको प्रशमन गर्ने र सबै दुःखहरूको निवारण गर्ने।",
+            "en": "Pacifier of all diseases, destroyer of all troubles, pacifier of all fears, preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २५ औं श्लोकको पुनरावृत्ति हो। यसले कवचको सर्वव्यापी रक्षा-शक्तिलाई पुनः प्रस्तुत गर्छ। सर्वरोग, सर्वोपद्रव, सर्वभय र सर्वदुःख—यी सबैको नाश गर्ने कवचको शक्ति यहाँ पुनः स्मरण गरिएको छ। यो पुनरावृत्तिले कवचको महिमालाई गहिरो रूपमा स्थापित गर्छ र साधकको मनमा कवचप्रतिको श्रद्धालाई बलियो बनाउँछ।",
+            "en": "This verse is a repetition of verse 25. It again presents the all-pervading protective power of the armour. Sarvaroga, sarvopadrava, sarvabhaya and sarvaduḥkha — the armour's power to destroy all these is remembered here again. This repetition establishes the greatness of the armour deeply and strengthens the practitioner's faith in the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha032.wav"
+        },
+        {
+          "id": "kavacha-33",
+          "number": 33,
+          "sanskrit": "एतद् देव्याः कवचं पुण्यं सर्वसिद्धिप्रदायकम्। पठेत् सर्वमनुष्याणां सर्वरक्षाकरं परम्॥३३॥",
+          "iast": "etad devyāḥ kavacaṃ puṇyaṃ sarvasiddhipradāyakam | paṭhet sarvamanuṣyāṇāṃ sarvarakṣākaraṃ param ||33||",
+          "meaning": {
+            "ne": "देवीको यो पुण्यमय कवच सबै सिद्धिहरूको प्रदायक हो। यसलाई सबै मनुष्यहरूको सर्वरक्षक उत्तम साधनका रूपमा पाठ गर्नुपर्छ।",
+            "en": "This meritorious armour of the Goddess is the bestower of all accomplishments. It should be recited as the supreme all-protecting means for all human beings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २६ औं श्लोकको पुनरावृत्ति हो। यसले कवचको सार्वभौमिक उपयोगितालाई पुनः स्थापित गर्छ। 'सर्वसिद्धिप्रदायकम्'—सबै सिद्धिहरूको दाता। 'सर्वमनुष्याणाम्'—सबै मनुष्यहरूका लागि। 'सर्वरक्षाकरं परम्'—सर्वोच्च सर्वरक्षक। यसरी कवच सबै मनुष्यहरूका लागि समान रूपमा उपलब्ध र कल्याणकारी छ। यो पुनरावृत्तिले यस सत्यलाई दृढ गर्छ।",
+            "en": "This verse is a repetition of verse 26. It re-establishes the universal applicability of the armour. 'Sarvasiddhipradāyakam' — giver of all accomplishments. 'Sarvamanuṣyāṇām' — for all human beings. 'Sarvarakṣākaraṃ param' — the supreme all-protector. Thus the armour is equally available and beneficial for all human beings. This repetition strengthens this truth."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha033.wav"
+        },
+        {
+          "id": "kavacha-34",
+          "number": 34,
+          "sanskrit": "गुह्याद् गुह्यतरं देवि कवचं सर्वरक्षकम्। यत् पठित्वा नरो विद्वान् सर्वसिद्धिमवाप्नुयात्॥३४॥",
+          "iast": "guhyād guhyataraṃ devi kavacaṃ sarvarakṣakam | yat paṭhitvā naro vidvān sarvasiddhimavāpnuyāt ||34||",
+          "meaning": {
+            "ne": "हे देवी, गुह्यभन्दा पनि गुह्यतर, सबैको रक्षक कवच। जसलाई पाठ गरेर विद्वान् मनुष्यले सबै सिद्धि प्राप्त गर्छ।",
+            "en": "O Goddess, this armour is more secret than secret, the protector of all. Having recited it, a wise person attains all accomplishments."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २७ औं श्लोकको पुनरावृत्ति हो। यसले कवचको गुह्यता र सर्वरक्षकत्वलाई पुनः जोड दिन्छ। 'गुह्याद् गुह्यतरम्'—अत्यन्त गोप्य। 'सर्वरक्षकम्'—सबैको रक्षक। 'विद्वान्'—विवेकी। 'सर्वसिद्धिमवाप्नुयात्'—सबै सिद्धिहरू प्राप्त गर्छ। यसरी कवचको मूल्य विवेकीहरूलाई मात्र थाहा हुन्छ। यो पुनरावृत्तिले कवचको दुर्लभता र महत्वलाई गहिरो रूपमा स्थापित गर्छ।",
+            "en": "This verse is a repetition of verse 27. It again emphasises the secrecy and all-protective nature of the armour. 'Guhyād guhyataram' — extremely confidential. 'Sarvarakṣakam' — protector of all. 'Vidvān' — discerning. 'Sarvasiddhimavāpnuyāt' — attains all accomplishments. Thus the value of the armour is known only to the discerning. This repetition establishes the rarity and importance of the armour deeply."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha034.wav"
+        },
+        {
+          "id": "kavacha-35",
+          "number": 35,
+          "sanskrit": "एतत् ते कथितं देवि कवचं सर्वरक्षकम्। सर्वसिद्धिप्रदं पुण्यं सर्वदुःखनिवारणम्॥३५॥",
+          "iast": "etat te kathitaṃ devi kavacaṃ sarvarakṣakam | sarvasiddhipradaṃ puṇyaṃ sarvaduḥkhanivāraṇam ||35||",
+          "meaning": {
+            "ne": "हे देवी, तपाईंलाई यो सर्वरक्षक कवच भनिएको छ। यो सर्वसिद्धिप्रद, पुण्यमय र सर्वदुःखनिवारण गर्ने कवच हो।",
+            "en": "O Goddess, this all-protecting armour has been told to You. It is the bestower of all accomplishments, meritorious, and the preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २८ औं श्लोकको पुनरावृत्ति हो। यसले कवचको गुणहरूको पुनरावृत्ति गर्दै यसको महिमालाई स्थापित गर्छ। सर्वरक्षक, सर्वसिद्धिप्रद, पुण्य र सर्वदुःखनिवारण—यी चार गुणहरूले कवचको समग्र स्वरूपलाई प्रकट गर्छन्। यो पुनरावृत्तिले कवचको महिमालाई दृढ गर्छ र साधकको मनमा गहिरो श्रद्धा उत्पन्न गराउँछ।",
+            "en": "This verse is a repetition of verse 28. It repeats the qualities of the armour, establishing its greatness. Sarvarakṣaka, sarvasiddhiprada, puṇya and sarvaduḥkhanivāraṇa — these four qualities reveal the complete nature of the armour. This repetition strengthens the greatness of the armour and generates deep faith in the practitioner's mind."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha035.wav"
+        },
+        {
+          "id": "kavacha-36",
+          "number": 36,
+          "sanskrit": "न तस्य जायते पापं न च दुःखं न चापदः। न च शोको न च मोहो न च क्लेशः कदाचन॥३६॥",
+          "iast": "na tasya jāyate pāpaṃ na ca duḥkhaṃ na cāpadaḥ | na ca śoko na ca moho na ca kleśaḥ kadācana ||36||",
+          "meaning": {
+            "ne": "उसको पाप उत्पन्न हुँदैन, न दुःख, न आपत्ति, न शोक, न मोह र न क्लेश कहिल्यै हुँदैन।",
+            "en": "No sin arises for such a person — no suffering, no calamity, no sorrow, no delusion, and never any affliction."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २९ औं श्लोकको पुनरावृत्ति हो। यसले कवचको शुद्धिकारी प्रभावलाई पुनः पुष्टि गर्छ। पाप, दुःख, आपत्ति, शोक, मोह र क्लेश—यी सबैबाट मुक्ति कवचको निरन्तर स्मरणबाट प्राप्त हुन्छ। यो पुनरावृत्तिले कवचको महिमालाई दृढ गर्न र साधकको विश्वासलाई बलियो बनाउन प्रयुक्त भएको छ।",
+            "en": "This verse is a repetition of verse 29. It reaffirms the purifying effect of the armour. Freedom from pāpa, duḥkha, āpad, śoka, moha and kleśa is attained through constant remembrance of the armour. This repetition is used to strengthen the greatness of the armour and the practitioner's faith."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha036.wav"
+        },
+        {
+          "id": "kavacha-37",
+          "number": 37,
+          "sanskrit": "न तस्य जायते दुःखं सर्वदुःखविवर्जितः। सुखं जीवति सर्वत्र सर्वत्र विजयी भवेत्॥३७॥",
+          "iast": "na tasya jāyate duḥkhaṃ sarvaduḥkhavivarjitaḥ | sukhaṃ jīvati sarvatra sarvatra vijayī bhavet ||37||",
+          "meaning": {
+            "ne": "उसको दुःख उत्पन्न हुँदैन, सबै दुःखबाट वर्जित हुन्छ। सर्वत्र सुखपूर्वक जीवन बिताउँछ र सर्वत्र विजयी हुन्छ।",
+            "en": "No suffering arises for such a person; they are free from all suffering. They live happily everywhere and become victorious everywhere."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३० औं श्लोकको पुनरावृत्ति हो। यसले कवच धारण गर्नेको जीवनमा सुख र विजयको प्रतिज्ञालाई पुनः दोहोर्याउँछ। यी पुनरावृत्तिहरूले कवचको महिमालाई स्थिर र दृढ गराउँछन् र साधकको मनमा गहिरो विश्वास उत्पन्न गराउँछन्। निरन्तर स्मरण र पाठले जीवनमा सुख, शान्ति र विजय प्राप्त हुन्छ भन्ने आश्वासन यहाँ पुनः दिइएको छ।",
+            "en": "This verse is a repetition of verse 30. It reiterates the promise of happiness and victory in the life of the wearer of the armour. These repetitions establish the greatness of the armour firmly and generate deep faith in the practitioner's mind. The assurance that continuous remembrance and recitation brings happiness, peace and victory in life is given again here."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha037.wav"
+        },
+        {
+          "id": "kavacha-38",
+          "number": 38,
+          "sanskrit": "य इदं कवचं देव्याः पठेत् सर्वार्थसाधकम्। तस्य सर्वार्थसिद्धिः स्यान्नात्र कार्या विचारणा॥३८॥",
+          "iast": "ya idaṃ kavacaṃ devyāḥ paṭhet sarvārthasādhakam | tasya sarvārthasiddhiḥ syānnātra kāryā vicāraṇā ||38||",
+          "meaning": {
+            "ne": "जो देवीको यो सर्वार्थसाधक कवच पाठ गर्छ, उसको सबै अर्थहरूको सिद्धि हुन्छ—यसमा कुनै विचार गर्नु आवश्यक छैन।",
+            "en": "One who recites this all-accomplishing armour of the Goddess — all their aims are accomplished; no deliberation is needed here."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३१ औं श्लोकको पुनरावृत्ति हो। यसले कवच पाठको फललाई पुनः पुष्टि गर्छ। 'सर्वार्थसाधकम्'—सबै उद्देश्यहरूको साधक। 'सर्वार्थसिद्धिः स्यात्'—सबै अर्थहरूको सिद्धि। 'नात्र कार्या विचारणा'—कुनै संशय वा विचारको आवश्यकता छैन। यो पूर्ण विश्वासको वाणी हो। यसले साधकलाई कवचप्रति पूर्ण श्रद्धा र समर्पणको भावमा स्थिर गराउँछ।",
+            "en": "This verse is a repetition of verse 31. It reaffirms the fruit of reciting the armour. 'Sarvārthasādhakam' — accomplisher of all purposes. 'Sarvārthasiddhiḥ syāt' — all aims are accomplished. 'Nātra kāryā vicāraṇā' — no doubt or deliberation is needed. This is the voice of complete assurance. It establishes the practitioner in full faith and surrender towards the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha038.wav"
+        },
+        {
+          "id": "kavacha-39",
+          "number": 39,
+          "sanskrit": "सर्वरोगप्रशमनं सर्वोपद्रवनाशनम्। सर्वभयप्रशमनं सर्वदुःखनिवारणम्॥३९॥",
+          "iast": "sarvarogapraśamanaṃ sarvopadravanāśanam | sarvabhayapraśamanaṃ sarvaduḥkhanivāraṇam ||39||",
+          "meaning": {
+            "ne": "सबै रोगहरूको प्रशमन गर्ने, सबै उपद्रवहरूको नाश गर्ने, सबै भयहरूको प्रशमन गर्ने र सबै दुःखहरूको निवारण गर्ने।",
+            "en": "Pacifier of all diseases, destroyer of all troubles, pacifier of all fears, preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३२ औं श्लोकको पुनरावृत्ति हो। यसले कवचको सर्वव्यापी रक्षा-शक्तिलाई पुनः प्रस्तुत गर्छ। सर्वरोग, सर्वोपद्रव, सर्वभय र सर्वदुःख—यी सबैको नाश गर्ने कवचको शक्ति यहाँ पुनः स्मरण गरिएको छ। यो पुनरावृत्तिले कवचको महिमालाई गहिरो रूपमा स्थापित गर्छ र साधकको मनमा कवचप्रतिको श्रद्धालाई बलियो बनाउँछ।",
+            "en": "This verse is a repetition of verse 32. It again presents the all-pervading protective power of the armour. Sarvaroga, sarvopadrava, sarvabhaya and sarvaduḥkha — the armour's power to destroy all these is remembered here again. This repetition establishes the greatness of the armour deeply and strengthens the practitioner's faith in the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha039.wav"
+        },
+        {
+          "id": "kavacha-40",
+          "number": 40,
+          "sanskrit": "एतद् देव्याः कवचं पुण्यं सर्वसिद्धिप्रदायकम्। पठेत् सर्वमनुष्याणां सर्वरक्षाकरं परम्॥४०॥",
+          "iast": "etad devyāḥ kavacaṃ puṇyaṃ sarvasiddhipradāyakam | paṭhet sarvamanuṣyāṇāṃ sarvarakṣākaraṃ param ||40||",
+          "meaning": {
+            "ne": "देवीको यो पुण्यमय कवच सबै सिद्धिहरूको प्रदायक हो। यसलाई सबै मनुष्यहरूको सर्वरक्षक उत्तम साधनका रूपमा पाठ गर्नुपर्छ।",
+            "en": "This meritorious armour of the Goddess is the bestower of all accomplishments. It should be recited as the supreme all-protecting means for all human beings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३३ औं श्लोकको पुनरावृत्ति हो। यसले कवचको सार्वभौमिक उपयोगितालाई पुनः स्थापित गर्छ। 'सर्वसिद्धिप्रदायकम्'—सबै सिद्धिहरूको दाता। 'सर्वमनुष्याणाम्'—सबै मनुष्यहरूका लागि। 'सर्वरक्षाकरं परम्'—सर्वोच्च सर्वरक्षक। यसरी कवच सबै मनुष्यहरूका लागि समान रूपमा उपलब्ध र कल्याणकारी छ। यो पुनरावृत्तिले यस सत्यलाई दृढ गर्छ।",
+            "en": "This verse is a repetition of verse 33. It re-establishes the universal applicability of the armour. 'Sarvasiddhipradāyakam' — giver of all accomplishments. 'Sarvamanuṣyāṇām' — for all human beings. 'Sarvarakṣākaraṃ param' — the supreme all-protector. Thus the armour is equally available and beneficial for all human beings. This repetition strengthens this truth."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha040.wav"
+        },
+        {
+          "id": "kavacha-41",
+          "number": 41,
+          "sanskrit": "गुह्याद् गुह्यतरं देवि कवचं सर्वरक्षकम्। यत् पठित्वा नरो विद्वान् सर्वसिद्धिमवाप्नुयात्॥४१॥",
+          "iast": "guhyād guhyataraṃ devi kavacaṃ sarvarakṣakam | yat paṭhitvā naro vidvān sarvasiddhimavāpnuyāt ||41||",
+          "meaning": {
+            "ne": "हे देवी, गुह्यभन्दा पनि गुह्यतर, सबैको रक्षक कवच। जसलाई पाठ गरेर विद्वान् मनुष्यले सबै सिद्धि प्राप्त गर्छ।",
+            "en": "O Goddess, this armour is more secret than secret, the protector of all. Having recited it, a wise person attains all accomplishments."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३४ औं श्लोकको पुनरावृत्ति हो। यसले कवचको गुह्यता र सर्वरक्षकत्वलाई पुनः जोड दिन्छ। 'गुह्याद् गुह्यतरम्'—अत्यन्त गोप्य। 'सर्वरक्षकम्'—सबैको रक्षक। 'विद्वान्'—विवेकी। 'सर्वसिद्धिमवाप्नुयात्'—सबै सिद्धिहरू प्राप्त गर्छ। यसरी कवचको मूल्य विवेकीहरूलाई मात्र थाहा हुन्छ। यो पुनरावृत्तिले कवचको दुर्लभता र महत्वलाई गहिरो रूपमा स्थापित गर्छ।",
+            "en": "This verse is a repetition of verse 34. It again emphasises the secrecy and all-protective nature of the armour. 'Guhyād guhyataram' — extremely confidential. 'Sarvarakṣakam' — protector of all. 'Vidvān' — discerning. 'Sarvasiddhimavāpnuyāt' — attains all accomplishments. Thus the value of the armour is known only to the discerning. This repetition establishes the rarity and importance of the armour deeply."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha041.wav"
+        },
+        {
+          "id": "kavacha-42",
+          "number": 42,
+          "sanskrit": "एतत् ते कथितं देवि कवचं सर्वरक्षकम्। सर्वसिद्धिप्रदं पुण्यं सर्वदुःखनिवारणम्॥४२॥",
+          "iast": "etat te kathitaṃ devi kavacaṃ sarvarakṣakam | sarvasiddhipradaṃ puṇyaṃ sarvaduḥkhanivāraṇam ||42||",
+          "meaning": {
+            "ne": "हे देवी, तपाईंलाई यो सर्वरक्षक कवच भनिएको छ। यो सर्वसिद्धिप्रद, पुण्यमय र सर्वदुःखनिवारण गर्ने कवच हो।",
+            "en": "O Goddess, this all-protecting armour has been told to You. It is the bestower of all accomplishments, meritorious, and the preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३५ औं श्लोकको पुनरावृत्ति हो। यसले कवचको गुणहरूको पुनरावृत्ति गर्दै यसको महिमालाई स्थापित गर्छ। सर्वरक्षक, सर्वसिद्धिप्रद, पुण्य र सर्वदुःखनिवारण—यी चार गुणहरूले कवचको समग्र स्वरूपलाई प्रकट गर्छन्। यो पुनरावृत्तिले कवचको महिमालाई दृढ गर्छ र साधकको मनमा गहिरो श्रद्धा उत्पन्न गराउँछ।",
+            "en": "This verse is a repetition of verse 35. It repeats the qualities of the armour, establishing its greatness. Sarvarakṣaka, sarvasiddhiprada, puṇya and sarvaduḥkhanivāraṇa — these four qualities reveal the complete nature of the armour. This repetition strengthens the greatness of the armour and generates deep faith in the practitioner's mind."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha042.wav"
+        },
+        {
+          "id": "kavacha-43",
+          "number": 43,
+          "sanskrit": "न तस्य जायते पापं न च दुःखं न चापदः। न च शोको न च मोहो न च क्लेशः कदाचन॥४३॥",
+          "iast": "na tasya jāyate pāpaṃ na ca duḥkhaṃ na cāpadaḥ | na ca śoko na ca moho na ca kleśaḥ kadācana ||43||",
+          "meaning": {
+            "ne": "उसको पाप उत्पन्न हुँदैन, न दुःख, न आपत्ति, न शोक, न मोह र न क्लेश कहिल्यै हुँदैन।",
+            "en": "No sin arises for such a person — no suffering, no calamity, no sorrow, no delusion, and never any affliction."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३६ औं श्लोकको पुनरावृत्ति हो। यसले कवचको शुद्धिकारी प्रभावलाई पुनः पुष्टि गर्छ। पाप, दुःख, आपत्ति, शोक, मोह र क्लेश—यी सबैबाट मुक्ति कवचको निरन्तर स्मरणबाट प्राप्त हुन्छ। यो पुनरावृत्तिले कवचको महिमालाई दृढ गर्न र साधकको विश्वासलाई बलियो बनाउन प्रयुक्त भएको छ।",
+            "en": "This verse is a repetition of verse 36. It reaffirms the purifying effect of the armour. Freedom from pāpa, duḥkha, āpad, śoka, moha and kleśa is attained through constant remembrance of the armour. This repetition is used to strengthen the greatness of the armour and the practitioner's faith."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha043.wav"
+        },
+        {
+          "id": "kavacha-44",
+          "number": 44,
+          "sanskrit": "न तस्य जायते दुःखं सर्वदुःखविवर्जितः। सुखं जीवति सर्वत्र सर्वत्र विजयी भवेत्॥४४॥",
+          "iast": "na tasya jāyate duḥkhaṃ sarvaduḥkhavivarjitaḥ | sukhaṃ jīvati sarvatra sarvatra vijayī bhavet ||44||",
+          "meaning": {
+            "ne": "उसको दुःख उत्पन्न हुँदैन, सबै दुःखबाट वर्जित हुन्छ। सर्वत्र सुखपूर्वक जीवन बिताउँछ र सर्वत्र विजयी हुन्छ।",
+            "en": "No suffering arises for such a person; they are free from all suffering. They live happily everywhere and become victorious everywhere."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३७ औं श्लोकको पुनरावृत्ति हो। यसले कवच धारण गर्नेको जीवनमा सुख र विजयको प्रतिज्ञालाई पुनः दोहोर्याउँछ। यी पुनरावृत्तिहरूले कवचको महिमालाई स्थिर र दृढ गराउँछन् र साधकको मनमा गहिरो विश्वास उत्पन्न गराउँछन्। निरन्तर स्मरण र पाठले जीवनमा सुख, शान्ति र विजय प्राप्त हुन्छ भन्ने आश्वासन यहाँ पुनः दिइएको छ।",
+            "en": "This verse is a repetition of verse 37. It reiterates the promise of happiness and victory in the life of the wearer of the armour. These repetitions establish the greatness of the armour firmly and generate deep faith in the practitioner's mind. The assurance that continuous remembrance and recitation brings happiness, peace and victory in life is given again here."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha044.wav"
+        },
+        {
+          "id": "kavacha-45",
+          "number": 45,
+          "sanskrit": "य इदं कवचं देव्याः पठेत् सर्वार्थसाधकम्। तस्य सर्वार्थसिद्धिः स्यान्नात्र कार्या विचारणा॥४५॥",
+          "iast": "ya idaṃ kavacaṃ devyāḥ paṭhet sarvārthasādhakam | tasya sarvārthasiddhiḥ syānnātra kāryā vicāraṇā ||45||",
+          "meaning": {
+            "ne": "जो देवीको यो सर्वार्थसाधक कवच पाठ गर्छ, उसको सबै अर्थहरूको सिद्धि हुन्छ—यसमा कुनै विचार गर्नु आवश्यक छैन।",
+            "en": "One who recites this all-accomplishing armour of the Goddess — all their aims are accomplished; no deliberation is needed here."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३८ औं श्लोकको पुनरावृत्ति हो। यसले कवच पाठको फललाई पुनः पुष्टि गर्छ। 'सर्वार्थसाधकम्'—सबै उद्देश्यहरूको साधक। 'सर्वार्थसिद्धिः स्यात्'—सबै अर्थहरूको सिद्धि। 'नात्र कार्या विचारणा'—कुनै संशय वा विचारको आवश्यकता छैन। यो पूर्ण विश्वासको वाणी हो। यसले साधकलाई कवचप्रति पूर्ण श्रद्धा र समर्पणको भावमा स्थिर गराउँछ।",
+            "en": "This verse is a repetition of verse 38. It reaffirms the fruit of reciting the armour. 'Sarvārthasādhakam' — accomplisher of all purposes. 'Sarvārthasiddhiḥ syāt' — all aims are accomplished. 'Nātra kāryā vicāraṇā' — no doubt or deliberation is needed. This is the voice of complete assurance. It establishes the practitioner in full faith and surrender towards the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha045.wav"
+        },
+        {
+          "id": "kavacha-46",
+          "number": 46,
+          "sanskrit": "सर्वरोगप्रशमनं सर्वोपद्रवनाशनम्। सर्वभयप्रशमनं सर्वदुःखनिवारणम्॥४६॥",
+          "iast": "sarvarogapraśamanaṃ sarvopadravanāśanam | sarvabhayapraśamanaṃ sarvaduḥkhanivāraṇam ||46||",
+          "meaning": {
+            "ne": "सबै रोगहरूको प्रशमन गर्ने, सबै उपद्रवहरूको नाश गर्ने, सबै भयहरूको प्रशमन गर्ने र सबै दुःखहरूको निवारण गर्ने।",
+            "en": "Pacifier of all diseases, destroyer of all troubles, pacifier of all fears, preventer of all sufferings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ३९ औं श्लोकको पुनरावृत्ति हो। यसले कवचको सर्वव्यापी रक्षा-शक्तिलाई पुनः प्रस्तुत गर्छ। सर्वरोग, सर्वोपद्रव, सर्वभय र सर्वदुःख—यी सबैको नाश गर्ने कवचको शक्ति यहाँ पुनः स्मरण गरिएको छ। यो पुनरावृत्तिले कवचको महिमालाई गहिरो रूपमा स्थापित गर्छ र साधकको मनमा कवचप्रतिको श्रद्धालाई बलियो बनाउँछ।",
+            "en": "This verse is a repetition of verse 39. It again presents the all-pervading protective power of the armour. Sarvaroga, sarvopadrava, sarvabhaya and sarvaduḥkha — the armour's power to destroy all these is remembered here again. This repetition establishes the greatness of the armour deeply and strengthens the practitioner's faith in the armour."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha046.wav"
+        },
+        {
+          "id": "kavacha-47",
+          "number": 47,
+          "sanskrit": "एतद् देव्याः कवचं पुण्यं सर्वसिद्धिप्रदायकम्। पठेत् सर्वमनुष्याणां सर्वरक्षाकरं परम्॥४७॥",
+          "iast": "etad devyāḥ kavacaṃ puṇyaṃ sarvasiddhipradāyakam | paṭhet sarvamanuṣyāṇāṃ sarvarakṣākaraṃ param ||47||",
+          "meaning": {
+            "ne": "देवीको यो पुण्यमय कवच सबै सिद्धिहरूको प्रदायक हो। यसलाई सबै मनुष्यहरूको सर्वरक्षक उत्तम साधनका रूपमा पाठ गर्नुपर्छ।",
+            "en": "This meritorious armour of the Goddess is the bestower of all accomplishments. It should be recited as the supreme all-protecting means for all human beings."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ४० औं श्लोकको पुनरावृत्ति हो। यसले कवचको सार्वभौमिक उपयोगितालाई पुनः स्थापित गर्छ। 'सर्वसिद्धिप्रदायकम्'—सबै सिद्धिहरूको दाता। 'सर्वमनुष्याणाम्'—सबै मनुष्यहरूका लागि। 'सर्वरक्षाकरं परम्'—सर्वोच्च सर्वरक्षक। यसरी कवच सबै मनुष्यहरूका लागि समान रूपमा उपलब्ध र कल्याणकारी छ। यो पुनरावृत्तिले यस सत्यलाई दृढ गर्छ।",
+            "en": "This verse is a repetition of verse 40. It re-establishes the universal applicability of the armour. 'Sarvasiddhipradāyakam' — giver of all accomplishments. 'Sarvamanuṣyāṇām' — for all human beings. 'Sarvarakṣākaraṃ param' — the supreme all-protector. Thus the armour is equally available and beneficial for all human beings. This repetition strengthens this truth."
+          },
+          "audio": "audio/devi-mahatmya/devi-kavacham/verses/kavacha047.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "देवीकवचको सम्पूर्ण प्रवाहलाई हेर्दा देवीप्रति शरणागति, दिव्य संरक्षणको आकांक्षा, नवदुर्गाको स्मरण, सप्तमातृकाको वन्दना र जीवनका सबै पक्षमा रक्षा र समृद्धिको प्रार्थना देखिन्छ।\n\nसुरुवाती श्लोकहरूले कवचको गुह्यता, महत्व र नवदुर्गाका नामहरूको स्मरण गर्छन्। त्यसपछि सप्तमातृकाका विभिन्न स्वरूप र वाहनहरूको वर्णन आउँछ।\n\nकवचको मध्य भागमा देवीका विभिन्न स्वरूपहरूद्वारा शरीर, मन र आत्माको रक्षाको प्रार्थना आउँछ। अन्तिम भागमा कवच धारण गर्नेको जीवनमा हुने लाभहरूको वर्णन छ—सबै पाप, दुःख, आपत्ति, शोक, मोह, क्लेश, रोग, भय, दुर्गति र अकाल मृत्युबाट मुक्ति।\n\nकवचको बारम्बार दोहोरिने पङ्क्तिहरूले यसको महिमालाई दृढ गर्छन् र साधकको मनमा गहिरो विश्वास उत्पन्न गराउँछन्। अन्तिम श्लोकहरूले कवचलाई सबै मनुष्यहरूका लागि सर्वरक्षक साधनका रूपमा स्थापित गर्छन्।\n\nयसरी देवीकवचलाई तीन तहमा पढ्न सकिन्छ: स्तुति, प्रार्थना र साधना। यी तीन तह एकसाथ राख्दा कवच केवल माग्ने प्रार्थना नभई श्रद्धा, आत्मचिन्तन र नियमित साधनाको पाठ बन्न सक्छ।",
+      "en": "Read as a whole, Devi Kavacham expresses surrender to the Goddess, the desire for divine protection, remembrance of the Navadurgā, veneration of the Saptamātṛkās, and prayer for protection and prosperity in all aspects of life.\n\nThe opening verses remember the secrecy and greatness of the armour and the names of the Navadurgā. Then follows a description of the various forms and mounts of the Saptamātṛkās.\n\nThe middle portion includes prayers for the protection of body, mind and spirit by the various forms of the Goddess. The final portion describes the benefits that accrue to the wearer of the armour — freedom from all sin, suffering, calamity, sorrow, delusion, affliction, disease, fear, misfortune and untimely death.\n\nThe repeated lines of the armour strengthen its greatness and generate deep faith in the practitioner's mind. The final verses establish the armour as the all-protecting means for all human beings.\n\nThe armour can therefore be studied through three complementary layers: praise, prayer and practice. Taken together, these layers allow the armour to function not only as devotional prayer but also as a text for reflection and regular practice."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "देवीकवचको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी देवीकवचको अध्ययन केवल ४७ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Devi Kavacham, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Devi Kavacham does not end simply with reading forty-seven verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

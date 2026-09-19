@@ -1,0 +1,211 @@
+{
+  "id": "devi-suktam",
+  "title": "Devī Sūktam",
+  "sanskritTitle": "॥ देवीसूक्तम् ॥",
+  "type": "stotram",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 8,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "This is the Vedic Devī Sūktam (Ṛgveda 10.125), also known as the Vāgāmbhṛṇī Sūktam, composed by the seer Vāc Āmbhṛṇī. It is distinct from the Tantrokta Devī Sūktam (Chandipatha) which appears in the 5th chapter of the Devī Māhātmya. The Vedic hymn consists of eight verses, each beginning with 'aham' (I am). It is traditionally recited at the conclusion of the Devī Māhātmya patha.",
+    "references": [
+      { "name": "Auro Bharati — Devī Sūktam Śloka", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/devisuktam/devisuktam-sloka/" },
+      { "name": "Stotra Nidhi — Devi Suktam", "url": "https://stotranidhi.com/en/devi-suktam-in-english/" },
+      { "name": "Wikipedia — Devīsūkta (Rigveda)", "url": "https://en.wikipedia.org/wiki/Devīsūkta" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "देवीसूक्तस्य महिमा",
+      "titleEn": "The Nature and Place of Devī Sūktam",
+      "ne": "देवीसूक्तम् ऋग्वेदको दशौं मण्डलको १२५ औं सूक्त हो। यो वाक् आम्भृणी नामकी महिला ऋषिकाद्वारा दृष्ट गरिएको हो। यस सूक्तमा देवी आफैंले आफ्नो महिमा, शक्ति र सर्वव्यापकताको घोषणा गर्नुहुन्छ।\n\nयस सूक्तका सबै आठ श्लोकहरू 'अहम्' (म) शब्दबाट सुरु हुन्छन्। देवी भन्नुहुन्छ—म नै रुद्र, वसु, आदित्य र सबै देवताहरू हुँ। म नै सोम, त्वष्टा, पूषा र भग हुँ। म नै राष्ट्री (साम्राज्ञी) हुँ, सबै धनहरूको संगमनी हुँ, सबै यज्ञीय देवताहरूमा प्रथम हुँ।\n\nयो सूक्त शाक्त परम्पराको आधारभूत स्तोत्र हो। यसले देवीलाई सर्वोच्च सत्ता, सृष्टिको आदि शक्ति र सबै देवताहरूको स्रोतका रूपमा स्थापित गर्छ। यसलाई देवीमाहात्म्यको पाठको अन्त्यमा पठन गरिन्छ।",
+      "en": "Devī Sūktam is the 125th hymn of the tenth Maṇḍala of the Ṛgveda. It was revealed by the female seer Vāc Āmbhṛṇī. In this hymn, the Goddess herself proclaims her greatness, power and all-pervasiveness.\n\nAll eight verses of this hymn begin with the word 'aham' (I am). The Goddess declares — I am the Rudras, the Vasus, the Ādityas and all the gods. I am Soma, Tvaṣṭā, Pūṣan and Bhaga. I am the queen, the gatherer of treasures, the foremost among those worthy of sacrifice.\n\nThis hymn is the foundational stotra of the Śākta tradition. It establishes the Goddess as the supreme reality, the creative energy of the universe, and the source of all the gods. It is traditionally recited at the conclusion of the Devī Māhātmya patha."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीदेवीसूक्तस्य वागाम्भृणी ऋषिः।\nदेवी देवता।\nअनुष्टुप् छन्दः।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-devī-sūktasya vāgāmbhṛṇī ṛṣiḥ |\ndevī devatā |\nanuṣṭup chandaḥ |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीदेवीसूक्तका वागाम्भृणी ऋषि हुन्, देवी देवता हुन्, अनुष्टुप् छन्द हो। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Devī Sūkta, Vāgāmbhṛṇī is the seer (ṛṣi), Devī is the presiding deity, and Anuṣṭup is the metre. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल सूक्तका आठ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the eight main verses."
+      },
+      "audio": "audio/devi-mahatmya/devi-suktam/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः। अहं मित्रावरुणोभा बिभर्म्यहमिन्द्राग्नी अहमश्विनोभा॥",
+      "iast": "oṃ ahaṃ rudrebhirvasubhiścarāmyahamādityairuta viśvadevaiḥ | ahaṃ mitrāvaruṇobhā bibharmyahamindrāgnī ahamaśvinobhā ||",
+      "meaning": {
+        "ne": "म रुद्रहरू, वसुहरू, आदित्यहरू र सबै विश्वदेवहरूसँग विचरण गर्छु। म मित्र र वरुण दुवैलाई धारण गर्छु, इन्द्र र अग्निलाई पनि, र अश्विनीकुमारहरूलाई पनि।",
+        "en": "I move with the Rudras, the Vasus, the Ādityas and all the Viśvadevas. I uphold Mitra and Varuṇa, Indra and Agni, and the Aśvin twins."
+      },
+      "commentary": {
+        "ne": "यो ध्यान श्लोक देवीको सर्वव्यापकताको घोषणा हो। देवी सबै देवताहरूसँग विचरण गर्छिन्—अर्थात् सबै दिव्य शक्तिहरू उनैको अभिव्यक्ति हुन्। मित्र, वरुण, इन्द्र, अग्नि र अश्विनीकुमार—यी सबै देवीका विविध रूप हुन्। यो श्लोक देवीसूक्तको पहिलो श्लोक पनि हो, जसले देवीको सर्वोच्चता स्थापित गर्छ।",
+        "en": "This dhyāna verse is the proclamation of the Goddess's all-pervasiveness. The Goddess moves with all the gods — meaning all divine powers are her expressions. Mitra, Varuṇa, Indra, Agni and the Aśvins — all these are her various forms. This verse is also the first verse of the Devī Sūktam, establishing the Goddess's supremacy."
+      },
+      "audio": "audio/devi-mahatmya/devi-suktam/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीदेवीसूक्तम्",
+      "titleEn": "Devī Sūktam — Main Recitation",
+      "items": [
+        {
+          "id": "devi-suktam-01",
+          "number": 1,
+          "sanskrit": "ॐ अहं रुद्रेभिर्वसुभिश्चराम्यहमादित्यैरुत विश्वदेवैः। अहं मित्रावरुणोभा बिभर्म्यहमिन्द्राग्नी अहमश्विनोभा॥१॥",
+          "iast": "oṃ ahaṃ rudrebhirvasubhiścarāmyahamādityairuta viśvadevaiḥ | ahaṃ mitrāvaruṇobhā bibharmyahamindrāgnī ahamaśvinobhā ||1||",
+          "meaning": {
+            "ne": "म रुद्रहरू, वसुहरू, आदित्यहरू र सबै विश्वदेवहरूसँग विचरण गर्छु। म मित्र र वरुण दुवैलाई धारण गर्छु, इन्द्र र अग्निलाई पनि, र अश्विनीकुमारहरूलाई पनि।",
+            "en": "I move with the Rudras, the Vasus, the Ādityas and all the Viśvadevas. I uphold Mitra and Varuṇa, Indra and Agni, and the Aśvin twins."
+          },
+          "commentary": {
+            "ne": "देवी आफ्नो सर्वव्यापकताको घोषणा गर्नुहुन्छ। रुद्र (संहार), वसु (ऐश्वर्य), आदित्य (प्रकाश), विश्वदेव (सबै देवता)—यी सबै देवीका अभिव्यक्ति हुन्। मित्र (मैत्री), वरुण (न्याय), इन्द्र (शक्ति), अग्नि (ज्ञान) र अश्विनीकुमार (उपचार)—यी सबै देवीका रूप हुन्। यसरी देवी सबै दिव्य शक्तिहरूको स्रोत हुन्।",
+            "en": "The Goddess proclaims her all-pervasiveness. Rudra (destruction), Vasu (wealth), Āditya (light), Viśvadeva (all gods) — all these are expressions of the Goddess. Mitra (friendship), Varuṇa (justice), Indra (power), Agni (knowledge) and the Aśvins (healing) — all these are forms of the Goddess. Thus the Goddess is the source of all divine powers."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam001.wav"
+        },
+        {
+          "id": "devi-suktam-02",
+          "number": 2,
+          "sanskrit": "अहं सोममाहनसं बिभर्म्यहं त्वष्टारमुत पूषणं भगम्। अहं दधामि द्रविणं हविष्मते सुप्राव्ये यजमानाय सुन्वते॥२॥",
+          "iast": "ahaṃ somamāhanasam bibharmyahaṃ tvaṣṭāramuta pūṣaṇaṃ bhagam | ahaṃ dadhāmi draviṇaṃ haviṣmate suprāvye yajamānāya sunvate ||2||",
+          "meaning": {
+            "ne": "म सोमलाई धारण गर्छु, म त्वष्टालाई, पूषालाई र भगलाई पनि। म हविष्युक्त यजमानलाई धन प्रदान गर्छु, जसले सोम रस अर्पण गर्छ।",
+            "en": "I uphold Soma, Tvaṣṭā, Pūṣan and Bhaga. I bestow wealth upon the sacrificer who offers oblations and presses the Soma."
+          },
+          "commentary": {
+            "ne": "सोम (अमृत), त्वष्टा (सृष्टिकर्ता), पूषा (पोषक) र भग (ऐश्वर्य)—यी सबै देवीका रूप हुन्। देवी यजमानलाई धन प्रदान गर्छिन्—अर्थात् साधकको सच्चो समर्पणले देवीको कृपा प्राप्त हुन्छ। यज्ञ र साधना दुवै देवीको कृपाको साधन हुन्।",
+            "en": "Soma (nectar), Tvaṣṭā (creator), Pūṣan (nourisher) and Bhaga (prosperity) — all these are forms of the Goddess. The Goddess bestows wealth upon the sacrificer — meaning the practitioner's true surrender earns the Goddess's grace. Both sacrifice and spiritual practice are means of the Goddess's grace."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam002.wav"
+        },
+        {
+          "id": "devi-suktam-03",
+          "number": 3,
+          "sanskrit": "अहं राष्ट्री संगमनी वसूनां चिकितुषी प्रथमा यज्ञियानाम्। तां मा देवा व्यदधुः पुरुत्रा भूरिस्थात्रां भूर्यावेशयन्तीम्॥३॥",
+          "iast": "ahaṃ rāṣṭrī saṅgamanī vasūnāṃ cikituṣī prathamā yajñiyānām | tāṃ mā devā vyadadhuḥ purutrā bhūristhātrāṃ bhūryāveśayantīm ||3||",
+          "meaning": {
+            "ne": "म राष्ट्री (साम्राज्ञी) हुँ, धनहरूको संगमनी हुँ, सबै यज्ञीय देवताहरूमा प्रथम हुँ र सर्वज्ञ हुँ। देवताहरूले मलाई धेरै स्थानहरूमा स्थापित गरे, जसले धेरै ठाउँमा व्याप्त छु।",
+            "en": "I am the queen, the gatherer of treasures, the foremost among those worthy of sacrifice, and the all-knowing one. The gods have placed me in many places, and I pervade many forms."
+          },
+          "commentary": {
+            "ne": "देवी आफूलाई राष्ट्री (साम्राज्ञी), वसुहरूको संगमनी र सर्वज्ञ भन्नुहुन्छ। देवताहरूले उनलाई धेरै स्थानहरूमा स्थापित गरे—अर्थात् देवी सर्वत्र व्याप्त छिन्। यज्ञमा देवी प्रथम पूजित हुन्। यो श्लोक देवीको सर्वोच्चता र सर्वव्यापकतालाई स्थापित गर्छ।",
+            "en": "The Goddess calls herself the queen, the gatherer of treasures and the all-knowing one. The gods established her in many places — meaning the Goddess is present everywhere. In sacrifice, the Goddess is the first to be worshipped. This verse establishes the Goddess's supremacy and all-pervasiveness."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam003.wav"
+        },
+        {
+          "id": "devi-suktam-04",
+          "number": 4,
+          "sanskrit": "मया सो अन्नमत्ति यो विपश्यति यः प्राणिति य ईं शृणोत्युक्तम्। अमन्तवो मां त उपक्षियन्ति श्रुधि श्रुत श्रद्धिवं ते वदामि॥४॥",
+          "iast": "mayā so annamatti yo vipaśyati yaḥ prāṇiti ya īṃ śṛṇotyuktam | amantavo māṃ ta upakṣiyanti śrudhi śruta śraddhivaṃ te vadāmi ||4||",
+          "meaning": {
+            "ne": "मेरै शक्तिले उसले अन्न खान्छ, जो देख्छ, जो श्वास फेर्छ र जसले भनिएको सुन्छ। जसले यो बुझ्दैन, तिनीहरू क्षय हुन्छन्। हे श्रोतामानव, सुन, म तिमीलाई श्रद्धापूर्वक भन्छु।",
+            "en": "By my power he eats food, sees, breathes, and hears what is spoken. Those who do not understand this are depleted. Listen, O one who has heard; I speak to you with faith."
+          },
+          "commentary": {
+            "ne": "देवी भन्नुहुन्छ—मेरै शक्तिले सबै प्राणीहरू देख्छन्, श्वास फेर्छन्, खान्छन् र सुन्छन्। देवी नै सबै जीवन-क्रियाको मूल आधार हुन्। जसले यो सत्य बुझ्दैन, तिनीहरू आध्यात्मिक रूपमा क्षय हुन्छन्। यो श्लोक देवीको सर्वव्यापकता र उनको कृपाको महिमालाई प्रकट गर्छ।",
+            "en": "The Goddess says — by her power all beings see, breathe, eat and hear. The Goddess is the root foundation of all life activities. Those who do not understand this truth are spiritually depleted. This verse reveals the Goddess's all-pervasiveness and the greatness of her grace."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam004.wav"
+        },
+        {
+          "id": "devi-suktam-05",
+          "number": 5,
+          "sanskrit": "अहमेव स्वयमिदं वदामि जुष्टं देवेभिरुत मानुषेभिः। यं कामये तं तमुग्रं कृणोमि तं ब्रह्माणं तमृषिं तं सुमेधाम्॥५॥",
+          "iast": "ahameva svayamidaṃ vadāmi juṣṭaṃ devebhiruta mānuṣebhiḥ | yaṃ kāmaye taṃ tamugraṃ kṛṇomi taṃ brahmāṇaṃ tamṛṣiṃ taṃ sumedhām ||5||",
+          "meaning": {
+            "ne": "म आफैं यो भन्छु—देवता र मनुष्यहरूले जसलाई सेवन गर्छन्। जसलाई म चाहन्छु, उसलाई म उग्र (शक्तिशाली) बनाउँछु, उसलाई ब्रह्मा, ऋषि र सुमेधा (बुद्धिमान्) बनाउँछु।",
+            "en": "I myself speak this, which is pleasing to gods and humans. Whomsoever I desire, I make him fierce, I make him Brahmā, a sage, or a man of wisdom."
+          },
+          "commentary": {
+            "ne": "देवी भन्नुहुन्छ—जसलाई म चाहन्छु, उसलाई म शक्तिशाली, ब्रह्मा, ऋषि वा बुद्धिमान् बनाउँछु। यो देवीको कृपाको महिमा हो—देवीको कृपाले साधक महान् पदमा पुग्छ। देवीको इच्छा नै सृष्टिको नियम हो। यसरी देवी सर्वोच्च नियन्त्रक हुन्।",
+            "en": "The Goddess says — whomsoever I desire, I make powerful, Brahmā, a sage, or wise. This is the greatness of the Goddess's grace — by the Goddess's grace the practitioner attains a great position. The Goddess's will is the law of creation. Thus the Goddess is the supreme controller."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam005.wav"
+        },
+        {
+          "id": "devi-suktam-06",
+          "number": 6,
+          "sanskrit": "अहं रुद्राय धनुरातनोमि ब्रह्मद्विषे शरवे हन्तवा उ। अहं जनाय समदं कृणोम्यहं द्यावापृथिवी आविवेश॥६॥",
+          "iast": "ahaṃ rudrāya dhanurātanomi brahmadviṣe śarave hantavā u | ahaṃ janāya samadaṃ kṛṇomyahaṃ dyāvāpṛthivī āviveśa ||6||",
+          "meaning": {
+            "ne": "म रुद्रका लागि धनुष तान्छु—ब्रह्मद्वेषी शत्रुको वधका लागि। म मानिसहरूका लागि युद्ध गर्छु र म आकाश र पृथ्वीमा व्याप्त छु।",
+            "en": "For Rudra I bend the bow, to slay the enemy of Brahman. I wage war for the sake of the people, and I pervade heaven and earth."
+          },
+          "commentary": {
+            "ne": "देवी भन्नुहुन्छ—म रुद्रका लागि धनुष तान्छु, ब्रह्मद्वेषी (अज्ञानी) को वधका लागि। म आकाश र पृथ्वीमा व्याप्त छु। यो देवीको वीर र सर्वव्यापक स्वरूपको वर्णन हो। देवी नै धर्मको रक्षा र अधर्मको नाश गर्ने शक्ति हुन्।",
+            "en": "The Goddess says — for Rudra I bend the bow, to slay the enemy of Brahman (the ignorant). I pervade heaven and earth. This is the description of the Goddess's heroic and all-pervading form. The Goddess is the power that protects dharma and destroys adharma."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam006.wav"
+        },
+        {
+          "id": "devi-suktam-07",
+          "number": 7,
+          "sanskrit": "अहं सुवे पितरमस्य मूर्धन्मम योनिरप्स्वन्तः समुद्रे। ततो वि तिष्ठे भुवनानु विश्वोतामूं द्यां वर्ष्मणोप स्पृशामि॥७॥",
+          "iast": "ahaṃ suve pitaramasya mūrdhanmama yonirapsvantaḥ samudre | tato vi tiṣṭhe bhuvanānu viśvotāmūṃ dyāṁ varṣmaṇopa spṛśāmi ||7||",
+          "meaning": {
+            "ne": "म यसको शिखरमा पिता (आकाश) लाई जन्म दिन्छु। मेरो योनि जलमा, भित्री समुद्रमा छ। त्यसपछि म सबै लोकहरूमा व्याप्त हुन्छु र त्यो आकाशलाई आफ्नो विस्तारले स्पर्श गर्छु।",
+            "en": "I give birth to the Father at the summit of this creation. My womb is in the waters, in the inner ocean. Thence I extend, pervading all the worlds, and I touch yonder heaven with my vastness."
+          },
+          "commentary": {
+            "ne": "देवी भन्नुहुन्छ—म आकाशलाई जन्म दिन्छु। मेरो योनि भित्री समुद्रमा छ। त्यसपछि म सबै लोकहरूमा व्याप्त हुन्छु। यो देवीको सृष्टिकर्त्री स्वरूपको वर्णन हो। देवी नै सबै सृष्टिको मूल हुन्—आकाश, जल र सम्पूर्ण लोक उनैबाट प्रकट हुन्छन्।",
+            "en": "The Goddess says — I give birth to the sky. My womb is in the inner ocean. Then I pervade all the worlds. This is the description of the Goddess's creative form. The Goddess is the root of all creation — sky, water and all worlds manifest from her."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam007.wav"
+        },
+        {
+          "id": "devi-suktam-08",
+          "number": 8,
+          "sanskrit": "अहमेव वात इव प्रवाम्यारभमाणा भुवनानि विश्वा। परो दिवा पर एना पृथिव्या तावती महिना संबभूव॥८॥",
+          "iast": "ahameva vāta iva pravāmyārabhamāṇā bhuvanāni viśvā | paro divā para enā pṛthivyā tāvatī mahinā sambabhūva ||8||",
+          "meaning": {
+            "ne": "म वायुले जसरी बग्छु, सबै लोकहरूलाई सृष्टि गर्दै। म आकाशभन्दा पर छु, पृथ्वीभन्दा पर छु—यति महिमाले युक्त छु।",
+            "en": "I blow like the wind, creating all the worlds. I am beyond the sky, beyond the earth — of such greatness am I."
+          },
+          "commentary": {
+            "ne": "अन्तिम श्लोकमा देवी आफ्नो सर्वोच्च महिमाको घोषणा गर्नुहुन्छ—म वायुले जसरी सबै लोकहरूलाई सृष्टि गर्छु। म आकाश र पृथ्वीभन्दा पनि पर छु। यो देवीको अनन्तता र अगम्यताको प्रतीक हो। देवी सबै सीमाहरूभन्दा पार हुन्—उनको महिमा असीमित छ।",
+            "en": "In the final verse, the Goddess proclaims her supreme greatness — I blow like the wind, creating all the worlds. I am beyond the sky and the earth. This symbolises the Goddess's infinity and incomprehensibility. The Goddess is beyond all boundaries — her greatness is limitless."
+          },
+          "audio": "audio/devi-mahatmya/devi-suktam/verses/devisuktam008.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "देवीसूक्तको सम्पूर्ण प्रवाहलाई हेर्दा देवीको सर्वोच्चता, सर्वव्यापकता, सृष्टिकर्त्रीत्व र सर्वशक्तिमत्ता देखिन्छ।\n\nसुरुवाती श्लोकहरूमा देवी आफूलाई सबै देवताहरूको स्रोत भन्नुहुन्छ—रुद्र, वसु, आदित्य, मित्र, वरुण, इन्द्र, अग्नि, अश्विनीकुमार, सोम, त्वष्टा, पूषा र भग सबै देवीका रूप हुन्।\n\nमध्य श्लोकहरूमा देवी आफूलाई राष्ट्री (साम्राज्ञी), वसुहरूको संगमनी र सर्वज्ञ भन्नुहुन्छ। देवी नै सबै जीवन-क्रियाको मूल आधार हुन्—देख्ने, श्वास फेर्ने, खाने र सुन्ने सबै देवीको शक्तिले हुन्छ।\n\nअन्तिम श्लोकहरूमा देवी आफ्नो सृष्टिकर्त्री स्वरूप र अनन्त महिमाको घोषणा गर्नुहुन्छ। देवी आकाश र पृथ्वीभन्दा पर हुन्—उनको महिमा असीमित छ।\n\nयस सूक्तलाई तीन तहमा पढ्न सकिन्छ: स्तुति, दर्शन र साधना। स्तुतिमा देवीको महिमा गाइन्छ, दर्शनमा देवीको सर्वोच्चता स्थापित हुन्छ, र साधनामा देवीको शरणागति र कृपाको मार्ग देखाइन्छ।",
+      "en": "Read as a whole, Devī Sūktam presents the Goddess's supremacy, all-pervasiveness, creativity and omnipotence.\n\nIn the opening verses, the Goddess declares herself the source of all the gods — Rudra, Vasu, Āditya, Mitra, Varuṇa, Indra, Agni, the Aśvins, Soma, Tvaṣṭā, Pūṣan and Bhaga are all forms of the Goddess.\n\nIn the middle verses, the Goddess calls herself the queen, the gatherer of treasures and the all-knowing one. The Goddess is the root foundation of all life activities — seeing, breathing, eating and hearing all happen by the Goddess's power.\n\nIn the final verses, the Goddess proclaims her creative form and infinite greatness. The Goddess is beyond the sky and the earth — her greatness is limitless.\n\nThe hymn can be studied through three layers: praise, philosophy and practice. In praise, the Goddess's greatness is sung; in philosophy, the Goddess's supremacy is established; and in practice, the path of surrender to the Goddess and her grace is shown."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "देवीसूक्तको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी देवीसूक्तको अध्ययन केवल आठ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Devī Sūktam, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Devī Sūktam does not end simply with reading eight verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

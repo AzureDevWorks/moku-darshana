@@ -1,0 +1,15 @@
+﻿{
+  "id": "adhyaya-03",
+  "title": "Adhyāya 3",
+  "sanskritTitle": "अध्याय 3",
+  "type": "chapter",
+  "collection": "saptashati",
+
+  "metadata": {
+    "chapterNumber": 3,
+    "language": "sa",
+    "sourceStatus": "content-to-be-entered"
+  },
+
+  "sections": []
+}

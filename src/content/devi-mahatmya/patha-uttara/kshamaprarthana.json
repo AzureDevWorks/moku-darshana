@@ -1,0 +1,240 @@
+{
+  "id": "kshamaprarthana",
+  "title": "Kṣamāprārthanā",
+  "sanskritTitle": "॥ क्षमाप्रार्थना ॥",
+  "type": "prayer",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 11,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Kṣamāprārthanā is the traditional prayer of forgiveness recited at the conclusion of the Devī Māhātmya patha. It is also known as Aparādhakṣamāpaṇa Stotram. The received recension preserves eleven verses. It is recited to seek pardon for any errors, omissions or faults committed during the recitation, and to offer the fruits of the recitation at the feet of the Goddess.",
+    "references": [
+      { "name": "Stotra Nidhi — Aparadha Kshamapana Stotram", "url": "https://stotranidhi.com/hi/durga-saptasati-aparadha-kshamapana-stotram-in-sanskrit/" },
+      { "name": "Hindupedia — Devi Kshama Prarthana Stotram", "url": "https://www.hindupedia.com/en/Devi_Kshama_Prarthana_Stotram" },
+      { "name": "Shivu360 — Kshama Prarthana Durga", "url": "https://shivu360.wordpress.com/category/kshama-prathana/" },
+      { "name": "Sanatanatva — Kshama Prarthana with meaning", "url": "https://sanatanatva.com/kshama-prarthana/" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "क्षमाप्रार्थनाया महिमा",
+      "titleEn": "The Nature and Place of Kṣamāprārthanā",
+      "ne": "क्षमाप्रार्थना देवीमाहात्म्यको पाठको अन्त्यमा पठन गरिने विनम्र क्षमायाचना हो। जब साधकले सप्तशतीको पाठ, अर्गला, कीलक, कवच र अन्य स्तोत्रहरूको पाठ गरिसक्छ, तब ऊ देवीसमक्ष नतमस्तक भई आफ्ना सम्पूर्ण त्रुटि, अपराध र अज्ञानताका लागि क्षमा माग्दछ।\n\nयस प्रार्थनाको मूल भाव हो—विनम्रता र समर्पण। साधक स्वीकार गर्दछ कि उसलाई न आह्वान आउँछ, न विसर्जन, न पूजा, न मन्त्र, न क्रिया, न भक्ति। तैपनि उसले जे पूजा गरेको छ, देवीको कृपाले त्यो पूर्ण होस् भन्ने प्रार्थना गर्दछ।\n\nयस प्रार्थनामा एउटा गहिरो विश्वास छ—जो एक पटक 'जगदम्बा' भनी देवीलाई सम्बोधन गर्छ, उसले सयौं अपराध गरे पनि देवी उसको उद्धार गर्छिन्। यो उद्धार ब्रह्मादि देवताहरूले पनि गर्न सक्दैनन्। यसरी यो प्रार्थना केवल क्षमायाचना मात्र नभई देवीको अटल करुणाको घोषणा पनि हो।\n\nअन्तिम श्लोकमा साधक देवीलाई सर्वरूपमयी र जगतलाई देवीमय घोषणा गर्दै विश्वरूपां देवीको नमस्कार गर्दछ। यसरी यो प्रार्थना आत्म-समर्पण, क्षमायाचना र देवीको सर्वव्यापकताको स्वीकारमा समापन हुन्छ।",
+      "en": "Kṣamāprārthanā is the humble prayer for forgiveness recited at the conclusion of the Devī Māhātmya patha. When the practitioner has completed the recitation of the Saptaśatī, Argala, Kīlaka, Kavaca and other stotras, he bows before the Goddess and begs pardon for all his errors, offences and ignorance.\n\nThe essential spirit of this prayer is humility and surrender. The practitioner admits that he knows neither invocation nor dismissal, neither worship nor mantra, neither ritual nor devotion. Yet whatever worship he has offered, he prays that by the Goddess's grace it may become complete.\n\nIn this prayer there is a profound trust — one who once addresses the Goddess as 'Jagadambā' (Mother of the World), even if he commits hundreds of offences, the Goddess still grants him liberation. This liberation even Brahmā and the other gods cannot grant. Thus this prayer is not merely a petition for forgiveness but also a proclamation of the Goddess's unwavering compassion.\n\nIn the final verse, the practitioner declares the Goddess to be the form of all and the world to be pervaded by the Goddess, offering salutations to the universal form of the Goddess. Thus this prayer concludes in self-surrender, seeking forgiveness, and the acceptance of the Goddess's all-pervasiveness."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीक्षमाप्रार्थनास्तोत्रस्य शङ्कराचार्य ऋषिः।\nश्रीदेवी देवता।\nअनुष्टुप् छन्दः।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-kṣamāprārthanā-stotrasya śaṅkarācārya ṛṣiḥ |\nśrī-devī devatā |\nanuṣṭup chandaḥ |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीक्षमाप्रार्थनास्तोत्रका शङ्कराचार्य ऋषि हुन्, श्रीदेवी देवता हुन्, अनुष्टुप् छन्द हो। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Kṣamāprārthanā Stotra, Śaṅkarācārya is the seer (ṛṣi), Śrī Devī is the presiding deity, and Anuṣṭup is the metre. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल प्रार्थनाका ११ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main prayer. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the eleven main verses."
+      },
+      "audio": "audio/devi-mahatmya/kshamaprarthana/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीक्षमाप्रार्थना",
+      "titleEn": "Kṣamāprārthanā — Main Recitation",
+      "items": [
+        {
+          "id": "kshama-01",
+          "number": 1,
+          "sanskrit": "अपराधसहस्राणि क्रियन्तेऽहर्निशं मया। दासोऽयमिति मां मत्वा क्षमस्व परमेश्वरि॥१॥",
+          "iast": "aparādhasahasrāṇi kriyante'harniśaṃ mayā | dāso'yamiti māṃ matvā kṣamasva parameśvari ||1||",
+          "meaning": {
+            "ne": "मैले दिनरात हजारौं अपराधहरू गरेको छु। हे परमेश्वरि, मलाई तपाईंको दास हो भनी मानेर क्षमा गर्नुहोस्।",
+            "en": "I commit thousands of offences day and night. O Supreme Goddess, considering me as Your servant, please forgive me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो अपराधको स्वीकार गर्छ—'अपराधसहस्राणि'—हजारौं अपराध। तर त्यो अपराधको स्वीकार निराशामा होइन, विनम्रतामा छ। साधक आफूलाई 'दास' भन्छ—देवीको सेवक। यो दासत्वको भाव नै क्षमाको आधार हो। जो आफूलाई दास मान्छ, उसलाई देवी कहिल्यै त्याग्दिनन्।",
+            "en": "In this verse, the practitioner acknowledges his offences — 'aparādhasahasrāṇi' — thousands of offences. But that acknowledgment is not in despair but in humility. The practitioner calls himself a 'dāsa' — a servant of the Goddess. This attitude of servitude is the very foundation of forgiveness. One who considers himself a servant is never abandoned by the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama001.wav"
+        },
+        {
+          "id": "kshama-02",
+          "number": 2,
+          "sanskrit": "आवाहनं न जानामि न जानामि विसर्जनम्। पूजां चैव न जानामि क्षम्यतां परमेश्वरि॥२॥",
+          "iast": "āvāhanaṃ na jānāmi na jānāmi visarjanam | pūjāṃ caiva na jānāmi kṣamyatāṃ parameśvari ||2||",
+          "meaning": {
+            "ne": "मलाई न आह्वान आउँछ, न विसर्जन आउँछ। मलाई पूजा पनि आउँदैन। हे परमेश्वरि, क्षमा गर्नुहोस्।",
+            "en": "I do not know how to invoke You, nor do I know how to dismiss You. I do not know how to worship You. O Supreme Goddess, please forgive me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो साधनाको अज्ञानता स्वीकार गर्छ। आह्वान, विसर्जन र पूजा—यी उपासनाका तीन आधारभूत अङ्ग हुन्। तर साधकलाई यीमध्ये केही पनि आउँदैन। यो अज्ञानता नै उसको क्षमायाचनाको आधार बन्छ। देवीको कृपाले अज्ञानता पनि पूर्णतामा परिणत हुन्छ।",
+            "en": "In this verse, the practitioner admits his ignorance of spiritual practice. Invocation, dismissal and worship — these are the three fundamental limbs of worship. But the practitioner knows none of them. This very ignorance becomes the basis of his plea for forgiveness. By the Goddess's grace, even ignorance is transformed into completeness."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama002.wav"
+        },
+        {
+          "id": "kshama-03",
+          "number": 3,
+          "sanskrit": "मन्त्रहीनं क्रियाहीनं भक्तिहीनं सुरेश्वरि। यत्पूजितं मया देवि परिपूर्णं तदस्तु मे॥३॥",
+          "iast": "mantrahīnaṃ kriyāhīnaṃ bhaktihīnaṃ sureśvari | yatpūjitaṃ mayā devi paripūrṇaṃ tadastu me ||3||",
+          "meaning": {
+            "ne": "हे सुरेश्वरि, मन्त्रहीन, क्रियाहीन र भक्तिहीन—मैले जे पूजा गरेको छु, हे देवि, त्यो मेरो लागि पूर्ण होस्।",
+            "en": "O Goddess of the gods, devoid of mantra, devoid of ritual, devoid of devotion — whatever worship I have offered, O Goddess, may it become complete for me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो पूजाको तीन अभावहरू स्वीकार गर्छ—मन्त्रहीन, क्रियाहीन, भक्तिहीन। तर अन्त्यमा एउटा आशावादी प्रार्थना छ—'परिपूर्णं तदस्तु मे'—त्यो पूर्ण होस्। देवीको कृपाले अपूर्ण पनि पूर्ण हुन्छ। यो श्लोकको सौन्दर्य यही हो—अभावको स्वीकारबाट पूर्णताको प्रार्थनासम्मको यात्रा।",
+            "en": "In this verse, the practitioner acknowledges three deficiencies of his worship — devoid of mantra, devoid of ritual, devoid of devotion. But at the end there is a hopeful prayer — 'paripūrṇaṃ tadastu me' — may it become complete. By the Goddess's grace, even the incomplete becomes complete. The beauty of this verse lies here — the journey from the acknowledgment of deficiency to the prayer for completeness."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama003.wav"
+        },
+        {
+          "id": "kshama-04",
+          "number": 4,
+          "sanskrit": "अपराधशतं कृत्वा जगदम्बेति चोच्चरेत्। यां गतिं समवाप्नोति न तां ब्रह्मादयः सुराः॥४॥",
+          "iast": "aparādhaśataṃ kṛtvā jagadambeti coccaret | yāṃ gatiṃ samavāpnoti na tāṃ brahmādayaḥ surāḥ ||4||",
+          "meaning": {
+            "ne": "जो सय अपराध गरेर पनि 'जगदम्बा' भनी उच्चारण गर्छ, उसले जुन गति प्राप्त गर्छ, त्यो ब्रह्मादि देवताहरूले पनि प्राप्त गर्न सक्दैनन्।",
+            "en": "Even after committing a hundred offences, one who utters 'Jagadambā' — the liberation that such a person attains, even Brahmā and the other gods cannot attain."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीनामको महिमा वर्णन गरिएको छ। 'जगदम्बा'—संसारकी माता। एक पटक यो नाम उच्चारण गर्ने पनि सय अपराध गरे पनि उद्धार पाउँछ। यो उद्धार ब्रह्मादि देवताहरूले पनि दिन सक्दैनन्। यसरी देवीनामको शक्ति सर्वोच्च छ। 'जगदम्बा' सम्बोधनमा नै शरणागति र विश्वासको भाव लुकेको छ।",
+            "en": "In this verse, the greatness of the Goddess's name is described. 'Jagadambā' — the Mother of the World. Even one who utters this name once, despite committing a hundred offences, attains liberation. This liberation even Brahmā and the other gods cannot grant. Thus the power of the Goddess's name is supreme. The very address 'Jagadambā' conceals the attitude of surrender and trust."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama004.wav"
+        },
+        {
+          "id": "kshama-05",
+          "number": 5,
+          "sanskrit": "सापराधोऽस्मि शरणं प्राप्तस्त्वां जगदम्बिके। इदानीमनुकम्प्योऽहं यथेच्छसि तथा कुरु॥५॥",
+          "iast": "sāparādho'smi śaraṇaṃ prāptastvāṃ jagadambike | idānīmanukampyo'haṃ yathecchasi tathā kuru ||5||",
+          "meaning": {
+            "ne": "हे जगदम्बिके, म अपराधी छु र तपाईंको शरणमा आएको छु। अब म अनुकम्पाको पात्र छु—तपाईंको इच्छा अनुसार गर्नुहोस्।",
+            "en": "O Mother of the World, I am an offender and I have taken refuge in You. Now I am worthy of Your compassion — do as You wish."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक पूर्ण समर्पणको भाव व्यक्त गर्छ। 'सापराधोऽस्मि'—म अपराधी छु। 'शरणं प्राप्तः'—शरणमा आएको छु। 'अनुकम्प्योऽहं'—म अनुकम्पाको पात्र छु। 'यथेच्छसि तथा कुरु'—तपाईंको इच्छा अनुसार गर्नुहोस्। यो श्लोक पूर्ण शरणागतिको चरम हो—जहाँ साधक आफ्नो इच्छा त्यागेर देवीको इच्छामा समर्पण गर्छ।",
+            "en": "In this verse, the practitioner expresses the attitude of complete surrender. 'Sāparādho'smi' — I am an offender. 'Śaraṇaṃ prāptaḥ' — I have taken refuge. 'Anukampyo'ham' — I am worthy of compassion. 'Yathecchasi tathā kuru' — do as You wish. This verse is the peak of complete surrender — where the practitioner abandons his own will and surrenders to the Goddess's will."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama005.wav"
+        },
+        {
+          "id": "kshama-06",
+          "number": 6,
+          "sanskrit": "अज्ञानाद्विस्मृतेर्भ्रान्त्या यन्न्यूनमधिकं कृतम्। विपरीतं च तत्सर्वं क्षमस्व परमेश्वरि॥६॥",
+          "iast": "ajñānādvismṛterbhrāntyā yannyūnamadhikaṃ kṛtam | viparītaṃ ca tatsarvaṃ kṣamasva parameśvari ||6||",
+          "meaning": {
+            "ne": "अज्ञानले, विस्मरणले, भ्रान्तिले जे न्यून वा अधिक गरिएको छ, र जे विपरीत गरिएको छ—हे परमेश्वरि, त्यो सबै क्षमा गर्नुहोस्।",
+            "en": "Whatever has been done deficient or excessive through ignorance, forgetfulness or delusion, and whatever has been done contrary — O Supreme Goddess, forgive all that."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्ना त्रुटिका तीन कारणहरू बताउँछ—अज्ञान, विस्मरण र भ्रान्ति। यी मानवीय सीमाहरू हुन्। 'न्यूनम्'—न्यून, 'अधिकम्'—अधिक, 'विपरीतम्'—विपरीत। यी सबै त्रुटिहरू देवीको कृपाले क्षम्य हुन्छन्। यो श्लोक मानवीय अपूर्णताको स्वीकार र देवीको पूर्ण क्षमाको प्रार्थना हो।",
+            "en": "In this verse, the practitioner states three causes of his errors — ignorance, forgetfulness and delusion. These are human limitations. 'Nyūnam' — deficient, 'adhikam' — excessive, 'viparītam' — contrary. All these errors are forgiven by the Goddess's grace. This verse is the acknowledgment of human imperfection and the prayer for the Goddess's complete forgiveness."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama006.wav"
+        },
+        {
+          "id": "kshama-07",
+          "number": 7,
+          "sanskrit": "कामेश्वरि जगन्मातः सच्चिदानन्दविग्रहे। गृहाणार्चामिमां प्रीत्या प्रसीद परमेश्वरि॥७॥",
+          "iast": "kāmeśvari jaganmātaḥ saccidānandavigrahe | gṛhāṇārcāmimāṃ prītyā prasīda parameśvari ||7||",
+          "meaning": {
+            "ne": "हे कामेश्वरि, हे जगन्माता, सच्चिदानन्द स्वरूपिणी, प्रीतिपूर्वक यो अर्चा (पूजा) ग्रहण गर्नुहोस्। हे परमेश्वरि, प्रसन्न हुनुहोस्।",
+            "en": "O Goddess of desire, O Mother of the world, whose form is existence, consciousness and bliss — accept this worship with love. O Supreme Goddess, be pleased."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई 'सच्चिदानन्दविग्रहे'—सत्, चित् र आनन्दको स्वरूप भनी सम्बोधन गर्छ। देवी केवल एक रूप मात्र नभई सर्वोच्च सत्य, चेतना र आनन्द हुन्। 'गृहाणार्चाम्'—यो अर्चा ग्रहण गर्नुहोस्। 'प्रसीद'—प्रसन्न हुनुहोस्। यो श्लोक देवीको दिव्य स्वरूपको स्तुति र उनको प्रसन्नताको प्रार्थना हो।",
+            "en": "In this verse, the practitioner addresses the Goddess as 'Saccidānandavigrahe' — whose form is existence, consciousness and bliss. The Goddess is not merely a form but the supreme reality, consciousness and bliss. 'Gṛhāṇārcām' — accept this worship. 'Prasīda' — be pleased. This verse is the praise of the Goddess's divine form and the prayer for her pleasure."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama007.wav"
+        },
+        {
+          "id": "kshama-08",
+          "number": 8,
+          "sanskrit": "यदक्षरपदभ्रष्टं मात्राहीनं च यद्भवेत्। तत्सर्वं क्षम्यतां देवि प्रसीद परमेश्वरि॥८॥",
+          "iast": "yadakṣarapadabhraṣṭaṃ mātrāhīnaṃ ca yadbhavet | tatsarvaṃ kṣamyatāṃ devi prasīda parameśvari ||8||",
+          "meaning": {
+            "ne": "जे अक्षर र पदबाट भ्रष्ट भयो, जे मात्राहीन भयो—हे देवि, त्यो सबै क्षमा गर्नुहोस्। हे परमेश्वरि, प्रसन्न हुनुहोस्।",
+            "en": "Whatever has been corrupted in letter or word, whatever has been deficient in metre — O Goddess, forgive all that. O Supreme Goddess, be pleased."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक पाठको त्रुटिहरूको क्षमा माग्छ—अक्षर, पद र मात्राको त्रुटि। यी मन्त्र उच्चारणका सूक्ष्म त्रुटिहरू हुन्। 'तत्सर्वं क्षम्यताम्'—त्यो सबै क्षमा होस्। 'प्रसीद'—प्रसन्न हुनुहोस्। यो श्लोक मन्त्र पाठको अपूर्णताको स्वीकार र देवीको क्षमाको प्रार्थना हो।",
+            "en": "In this verse, the practitioner seeks forgiveness for errors in recitation — errors of letters, words and metre. These are subtle errors in mantra pronunciation. 'Tatsarvaṃ kṣamyatām' — may all that be forgiven. 'Prasīda' — be pleased. This verse is the acknowledgment of the imperfection of mantra recitation and the prayer for the Goddess's forgiveness."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama008.wav"
+        },
+        {
+          "id": "kshama-09",
+          "number": 9,
+          "sanskrit": "गुह्यातिगुह्यगोप्त्री त्वं गृहाणास्मत्कृतं जपम्। सिद्धिर्भवतु मे देवि त्वत्प्रसादान्महेश्वरि॥९॥",
+          "iast": "guhyātiguhyagoptrī tvaṃ gṛhāṇāsmatkṛtaṃ japam | siddhirbhavatu me devi tvatprasādānmaheśvari ||9||",
+          "meaning": {
+            "ne": "तपाईं गुह्यभन्दा गुह्यको रक्षक हुनुहुन्छ। मैले गरेको जप ग्रहण गर्नुहोस्। हे देवि, तपाईंको प्रसादले मलाई सिद्धि प्राप्त होस्।",
+            "en": "You are the protector of the most secret of secrets. Accept the japa performed by me. O Goddess, by Your grace may I attain accomplishment."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई 'गुह्यातिगुह्यगोप्त्री'—गुह्यभन्दा गुह्यको रक्षक भनी सम्बोधन गर्छ। देवी नै सबैभन्दा गोप्य रहस्यको रक्षक हुन्। 'गृहाणास्मत्कृतं जपम्'—मेरो जप ग्रहण गर्नुहोस्। 'सिद्धिर्भवतु'—सिद्धि होस्। यो श्लोक जपको समर्पण र सिद्धिको प्रार्थना हो।",
+            "en": "In this verse, the practitioner addresses the Goddess as 'Guhyātiguhyagoptrī' — the protector of the most secret of secrets. The Goddess is the guardian of the deepest mystery. 'Gṛhāṇāsmatkṛtaṃ japam' — accept the japa performed by me. 'Siddhirbhavatu' — may there be accomplishment. This verse is the surrender of japa and the prayer for accomplishment."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama009.wav"
+        },
+        {
+          "id": "kshama-10",
+          "number": 10,
+          "sanskrit": "सर्वरूपमयी देवी सर्वं देवीमयं जगत्। अतोऽहं विश्वरूपां त्वां नमामि परमेश्वरीम्॥१०॥",
+          "iast": "sarvarūpamayī devī sarvaṃ devīmayaṃ jagat | ato'haṃ viśvarūpāṃ tvāṃ namāmi parameśvarīm ||10||",
+          "meaning": {
+            "ne": "देवी सर्वरूपमयी हुन् र सम्पूर्ण जगत् देवीमय छ। त्यसैले म विश्वरूपां परमेश्वरीलाई नमस्कार गर्छु।",
+            "en": "The Goddess is the form of all, and the entire world is pervaded by the Goddess. Therefore I bow to You, the universal form, the Supreme Goddess."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीको सर्वव्यापकताको घोषणा गर्छ—'सर्वरूपमयी देवी'—देवी सबै रूपमा छिन्। 'सर्वं देवीमयं जगत्'—सम्पूर्ण जगत् देवीमय छ। यो अद्वैतको भाव हो—देवी र जगत् अभिन्न छन्। 'विश्वरूपाम्'—विश्वरूप। 'नमामि'—नमस्कार गर्छु। यो श्लोक देवीको सर्वव्यापकता र साधकको पूर्ण समर्पणको घोषणा हो।",
+            "en": "In this verse, the practitioner proclaims the Goddess's all-pervasiveness — 'sarvarūpamayī devī' — the Goddess is in all forms. 'Sarvaṃ devīmayaṃ jagat' — the entire world is pervaded by the Goddess. This is the spirit of non-duality — the Goddess and the world are inseparable. 'Viśvarūpām' — the universal form. 'Namāmi' — I bow. This verse is the proclamation of the Goddess's all-pervasiveness and the practitioner's complete surrender."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama010.wav"
+        },
+        {
+          "id": "kshama-11",
+          "number": 11,
+          "sanskrit": "इति क्षमाप्रार्थना समाप्ता॥",
+          "iast": "iti kṣamāprārthanā samāptā ||",
+          "meaning": {
+            "ne": "यसरी क्षमाप्रार्थना समाप्त हुन्छ।",
+            "en": "Thus concludes the Kṣamāprārthanā."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक प्रार्थनाको समापन सूचक हो। यसले क्षमाप्रार्थनाको पूर्णतालाई घोषणा गर्छ। यसरी ११ श्लोकको यो प्रार्थना सम्पूर्ण हुन्छ।",
+            "en": "This final verse is the concluding indication of the prayer. It proclaims the completeness of the Kṣamāprārthanā. Thus this prayer of eleven verses is completed."
+          },
+          "audio": "audio/devi-mahatmya/kshamaprarthana/verses/kshama011.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "क्षमाप्रार्थनाको सम्पूर्ण प्रवाहलाई हेर्दा अपराधको स्वीकार, अज्ञानताको समर्पण, पूर्ण शरणागति, देवीनामको महिमा र देवीको सर्वव्यापकताको स्वीकार देखिन्छ।\n\nसुरुवाती श्लोकहरूमा साधक आफ्नो अपराध, अज्ञानता र पूजाको अभाव स्वीकार गर्छ। तर त्यो स्वीकार निराशामा होइन, देवीको कृपामा विश्वासमा छ। 'जगदम्बा' नामको महिमाले देवीको नामको शक्तिलाई प्रकट गर्छ—जो सय अपराध गरे पनि उद्धार गर्छ।\n\nमध्य श्लोकहरूमा साधक पूर्ण शरणागति गर्छ—'यथेच्छसि तथा कुरु'—तपाईंको इच्छा अनुसार गर्नुहोस्। देवीको सच्चिदानन्द स्वरूपको स्तुति र पाठको त्रुटिहरूको क्षमा मागिन्छ।\n\nअन्तिम श्लोकहरूमा साधक देवीलाई सर्वरूपमयी र जगतलाई देवीमय घोषणा गर्दै विश्वरूपां देवीको नमस्कार गर्दछ। यसरी यो प्रार्थना आत्म-समर्पण, क्षमायाचना र देवीको सर्वव्यापकताको स्वीकारमा समापन हुन्छ।\n\nयस प्रार्थनालाई तीन तहमा पढ्न सकिन्छ: स्वीकार, शरणागति र क्षमा। स्वीकारमा साधक आफ्नो अपराध र अज्ञानता स्वीकार गर्छ, शरणागतिमा देवीको शरणमा जान्छ, र क्षमामा देवीबाट क्षमा माग्छ। यी तीन तह मिलेर यो प्रार्थना आत्म-जागरूकता, विनम्रता र करुणाको पाठ बन्छ।",
+      "en": "Read as a whole, Kṣamāprārthanā presents the themes of acknowledging offences, surrendering ignorance, complete refuge, the greatness of the Goddess's name, and the acceptance of the Goddess's all-pervasiveness.\n\nIn the opening verses, the practitioner admits his offences, his ignorance and the deficiencies of his worship. But that admission is not in despair; it is in trust in the Goddess's grace. The greatness of the name 'Jagadambā' reveals the power of the Goddess's name — which grants liberation even to one who has committed a hundred offences.\n\nIn the middle verses, the practitioner offers complete surrender — 'yathecchasi tathā kuru' — do as You wish. The Goddess's nature as existence, consciousness and bliss is praised, and forgiveness is sought for errors in recitation.\n\nIn the final verses, the practitioner declares the Goddess to be the form of all and the world to be pervaded by the Goddess, offering salutations to the universal form. Thus the prayer concludes in self-surrender, seeking forgiveness, and the acceptance of the Goddess's all-pervasiveness.\n\nThe prayer can be studied through three layers: acceptance, surrender and forgiveness. In acceptance, the practitioner acknowledges his offences and ignorance; in surrender, he takes refuge in the Goddess; and in forgiveness, he seeks pardon from the Goddess. Together, these three layers make this prayer a teaching of self-awareness, humility and compassion."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "क्षमाप्रार्थनाको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी क्षमाप्रार्थनाको अध्ययन केवल ११ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Kṣamāprārthanā, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Kṣamāprārthanā does not end simply with reading eleven verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

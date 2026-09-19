@@ -1,0 +1,489 @@
+﻿{
+  "id": "argala-stotram",
+  "title": "Argala Stotram",
+  "sanskritTitle": "॥ श्रीअर्गलास्तोत्रम् ॥",
+  "type": "stotram",
+  "collection": "patha-purva",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 27,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Verse numbering follows the received Devi Saptasati recension as preserved in the Moku Darshana edition. Published recensions may differ in verse order and wording; the selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Auro Bharati — Argala Stotram", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/argalastotram-text/" },
+      { "name": "Stotra Nidhi — Durga Saptasati Argala Stotram", "url": "https://stotranidhi.com/hi/durga-saptasati-argala-stotram-in-sanskrit/" },
+      { "name": "Sanskrit Documents — Argalastotram", "url": "https://sanskritdocuments.org/doc_devii/argalaastotra.html" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "अर्गलस्य महिमा",
+      "titleEn": "The Nature and Place of Argala Stotram",
+      "ne": "अर्गलास्तोत्रम् देवीमाहात्म्यको पाठपरम्परामा विशेष स्थान राख्ने स्तोत्र हो। यसको पाठद्वारा साधकले देवीप्रति आफ्नो श्रद्धा, आश्रय र प्रार्थनालाई शब्दमा व्यक्त गर्दछ।\n\nअर्गला शब्दले ढोका थुन्ने वा खोल्ने काठको अडेसालाई जनाउँछ। परम्परामा यसलाई साधकको मार्गमा रहेका अवरोधहरू हटाउने र देवीकृपाको द्वार खोल्ने भावसँग जोडिन्छ।\n\nदुर्गा सप्तशतीको पाठमा अर्गलास्तोत्र कीलकस्तोत्रपछि र मूल सप्तशतीभन्दा पूर्व पठन गरिन्छ। यसरी यो स्तोत्र सप्तशतीको फल प्राप्तिका लागि ढोका खोल्ने कडीका रूपमा कार्य गर्छ।",
+      "en": "Argala Stotram holds an important place in the recitation sequence of the Devi Mahatmya. Through it the practitioner expresses devotion, reliance on the Goddess, and prayer.\n\nThe word argala refers to a bar or fastening used to secure a door. In the tradition it is associated with removing obstacles on the practitioner's path and opening the way to divine grace.\n\nIn the recitation of the Durga Saptashati, Argala Stotram is recited after the Kilaka Stotram and before the main Saptashati. It functions as a bolt that unlocks the fruits of the Saptashati recitation."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीअर्गलास्तोत्रमन्त्रस्य विष्णुरृषिः।\nअनुष्टुप्छन्दः।\nश्रीमहालक्ष्मीर्देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठाङ्गत्वेन जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-argalā-stotra-mantrasya viṣṇur ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-mahālakṣmīr devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhāṅgatvena jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस अर्गलास्तोत्र मन्त्रका विष्णु ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीमहालक्ष्मी देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अंगका रूपमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Argala Stotra mantra, Vishnu is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Mahālakṣmī is the presiding deity. It is recited as a limb (aṅga) of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका २७ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the twenty-seven main verses."
+      },
+      "audio": "audio/argala-stotram/viniyoga.mp3"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीअर्गलास्तोत्रम्",
+      "titleEn": "Argala Stotram — Main Recitation",
+      "items": [
+        {
+          "id": "argala-01",
+          "number": 1,
+          "sanskrit": "ॐ जयन्ती मङ्गला काली भद्रकाली कपालिनी। दुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते॥१॥",
+          "iast": "oṃ jayantī maṅgalā kālī bhadrakālī kapālinī | durgā kṣamā śivā dhātrī svāhā svadhā namo'stu te ||1||",
+          "meaning": {
+            "ne": "जयन्ती, मङ्गला, काली, भद्रकाली, कपालिनी, दुर्गा, क्षमा, शिवा र धात्री आदि नामले स्मरण गरिने देवीलाई नमस्कार। स्वाहा र स्वधाका रूपमा प्रतिष्ठित देवीलाई पनि नमस्कार।",
+            "en": "Salutations to You, O Goddess who is known as Jayantī (the ever-victorious), Maṅgalā (the bestower of auspiciousness), Kālī (she who is beyond time), Bhadrakālī (the auspicious Kālī), Kapālinī (she who wears a garland of skulls), Durgā (she who removes all difficulties), Kṣamā (forbearance itself), Śivā (the ever-auspicious consort of Śiva) and Dhātrī (the sustainer of all beings); salutations to You as Svāhā (the receiver of offerings to the gods) and Svadhā (the receiver of offerings to the ancestors)."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीका नौ नामहरूको माध्यमबाट उनको सर्वव्यापक शक्तिको स्तुति गर्छ। जयन्तीले सधैं विजयी हुने स्वभाव जनाउँछ, मङ्गलाले शुभता, कालीले समयभन्दा परको अस्तित्व, भद्रकालीले मृत्यु-जीवनको नियन्त्रक, कपालिनीले संसारलाई धारण गर्ने शक्ति, दुर्गाले कठिनाइबाट रक्षा, क्षमाले सहनशीलता, शिवाले चेतनास्वरूप, र धात्रीले पोषण गर्ने मातृशक्ति। स्वाहा र स्वधाले यज्ञ र पितृकार्यमा देवीको उपस्थिति जनाउँछन्। यी सबै नामहरू एउटै दिव्य शक्तिका विविध अभिव्यक्ति हुन्।",
+            "en": "This verse praises the Goddess through nine of her names, each revealing a different aspect of her all-pervading power. Jayantī indicates her ever-victorious nature; Maṅgalā, her auspiciousness; Kālī, her existence beyond time; Bhadrakālī, her control over life and death; Kapālinī, her power to hold the universe; Durgā, her protection from difficulties; Kṣamā, her forbearance; Śivā, her consciousness form; and Dhātrī, her nourishing mother-power. Svāhā and Svadhā indicate her presence in sacrifice and in offerings to the ancestors. All these names are expressions of one divine power."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala001.wav"
+        },
+        {
+          "id": "argala-02",
+          "number": 2,
+          "sanskrit": "जय त्वं देवि चामुण्डे जय भूतार्तिहारिणि। जय सर्वगते देवि कालरात्रि नमोऽस्तु ते॥२॥",
+          "iast": "jaya tvaṃ devi cāmuṇḍe jaya bhūtārtihāriṇi | jaya sarvagate devi kālarātri namo'stu te ||2||",
+          "meaning": {
+            "ne": "हे देवी चामुण्डे, तपाईंलाई जय होस्। प्राणीहरूको दुःख हटाउने देवीलाई जय होस्। सर्वत्र व्याप्त कालरात्रि देवीलाई नमस्कार।",
+            "en": "Victory to You, O Goddess Cāmuṇḍā; victory to You who remove the suffering of beings; victory to You who are present everywhere, O Goddess Kālarātri. Salutations to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई चामुण्डा र कालरात्रि नामले सम्बोधन गरिएको छ। चामुण्डा देवीका सात मातृकामध्ये एक हुन् जसले अहंकार र मूर्खताको नाश गर्छिन्। कालरात्रि प्रलयको रातको प्रतीक हुन् जसले सबै कुरालाई आफूमा समाहित गर्छिन्। दुःखहारिणी र सर्वव्यापिनी देवीको स्मरणले साधकलाई भयमुक्त र आश्रित बनाउँछ।",
+            "en": "The verse addresses the Goddess as Cāmuṇḍā and Kālarātri. Cāmuṇḍā is one of the seven Mātṛkās who destroys ego and ignorance. Kālarātri symbolises the night of dissolution in which all things are absorbed. Remembering her as the remover of suffering and as all-pervading frees the practitioner from fear and gives refuge."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala002.wav"
+        },
+        {
+          "id": "argala-03",
+          "number": 3,
+          "sanskrit": "मधुकैटभविद्रावि विधातृवरदे नमः। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥३॥",
+          "iast": "madhukaiṭabhavidrāvi vidhātṛvarade namaḥ | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||3||",
+          "meaning": {
+            "ne": "मधु र कैटभलाई पराजित गर्ने तथा विधातालाई वर प्रदान गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "Salutations to You who drove away Madhu and Kaiṭabha and who granted a boon to the Creator. Grant me beauty, grant me victory, grant me renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "मधु र कैटभ ब्रह्माजीको कानको मैलबाट उत्पन्न भएका दुई असुर थिए जसले ब्रह्माजीलाई मार्न खोजेका थिए। देवीले तिनको वध गरेर ब्रह्माजीलाई रक्षा गरिन्। यहाँ 'रूपं देहि जयं देहि यशो देहि द्विषो जहि' यो आवर्ती प्रार्थना पहिलो पटक आउँछ, जुन स्तोत्रभर दोहोरिन्छ। रूप, जय र यशलाई आध्यात्मिक अर्थमा पनि बुझ्न सकिन्छ—सद्गुणको शोभा, आन्तरिक शत्रुमाथिको विजय र सत्कर्मबाट प्राप्त प्रतिष्ठा।",
+            "en": "Madhu and Kaiṭabha were two demons born from the ear-wax of Brahmā who tried to kill him. The Goddess slew them and protected Brahmā. Here the recurring prayer 'rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi' appears for the first time and repeats throughout the hymn. Beauty, victory and renown may also be understood spiritually — the beauty of virtue, victory over inner enemies, and renown arising from worthy action."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala003.wav"
+        },
+        {
+          "id": "argala-04",
+          "number": 4,
+          "sanskrit": "महिषासुरनिर्णाशि भक्तानां सुखदे नमः। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥४॥",
+          "iast": "mahiṣāsuranirṇāśi bhaktānāṃ sukhade namaḥ | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||4||",
+          "meaning": {
+            "ne": "महिषासुरको पूर्ण विनाश गर्ने तथा भक्तहरूलाई सुख प्रदान गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "Salutations to You who completely destroyed Mahiṣāsura and who grant happiness to Your devotees. Grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "महिषासुर असुरहरूको सेनापति थियो जसले देवताहरूलाई पराजित गरेर स्वर्गमाथि अधिकार गरेको थियो। देवीले नौ दिनको युद्धपछि उसको वध गरिन्। महिषासुरको संहार जडता, अहंकार र अनुचित आग्रहमाथिको विजयको प्रतीक हो। 'निर्णाशि' शब्दले पूर्ण विनाशलाई जनाउँछ—केवल दमन नभई जरैदेखि उखेल्ने। भक्तहरूलाई सुख दिनु देवीको स्वभाव हो।",
+            "en": "Mahiṣāsura was the commander of the demons who had conquered the gods and usurped heaven. After a nine-day battle, the Goddess slew him. The destruction of Mahiṣāsura symbolises victory over inertia, ego and wrongful attachment. The word 'nirṇāśi' indicates complete destruction — not merely suppression but uprooting. It is the Goddess's nature to grant happiness to her devotees."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala004.wav"
+        },
+        {
+          "id": "argala-05",
+          "number": 5,
+          "sanskrit": "धूम्रनेत्रवधे देवि धर्मकामार्थदायिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥५॥",
+          "iast": "dhūmranetravadhe devi dharma-kāma-artha-dāyini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||5||",
+          "meaning": {
+            "ne": "हे देवी, धूम्रनेत्रको वध गर्ने तथा धर्म, काम र अर्थ प्रदान गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess who slew Dhūmranetra and who grant dharma, kāma and artha, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "धूम्रनेत्र (धूम्रलोचन) महिषासुरको सेनापति थियो जसको आँखाबाट धुवाँ निस्कन्थ्यो। देवीको हुँकारले उसको वध भयो। यस श्लोकमा देवीलाई धर्म, काम र अर्थ—जीवनका तीन पुरुषार्थका दात्रीका रूपमा स्तुति गरिएको छ। धर्म (धार्मिकता), अर्थ (समृद्धि) र काम (इच्छापूर्ति) मनुष्य जीवनका आधारभूत आवश्यकता हुन् जसलाई देवीको कृपाले सन्तुलित रूपमा प्राप्त गर्न सकिन्छ।",
+            "en": "Dhūmranetra (Dhūmralochana) was a commander of Mahiṣāsura whose eyes emitted smoke. He was slain by the Goddess's roar. In this verse the Goddess is praised as the giver of dharma, kāma and artha — the three aims of human life. Dharma (righteousness), artha (prosperity) and kāma (fulfilment of desire) are the fundamental needs of human existence, which by the Goddess's grace may be attained in balance."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala005.wav"
+        },
+        {
+          "id": "argala-06",
+          "number": 6,
+          "sanskrit": "रक्तबीजवधे देवि चण्डमुण्डविनाशिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥६॥",
+          "iast": "raktabījavadhe devi caṇḍamuṇḍavināśini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||6||",
+          "meaning": {
+            "ne": "हे देवी, रक्तबीजको वध गर्ने तथा चण्ड र मुण्डको विनाश गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess who destroyed Raktabīja and annihilated Caṇḍa and Muṇḍa, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "रक्तबीजलाई यस्तो वरदान थियो कि उसको रगतको प्रत्येक थोपा जमीनमा खस्नासाथ अर्को रक्तबीज उत्पन्न हुन्थ्यो। देवीले उसको रगत जमीनमा खस्न नदिई आफ्नो मुखमा ग्रहण गरेर उसको वध गरिन्। चण्ड र मुण्ड महिषासुरका सेनापति थिए जसलाई देवीले कालीको रूपमा वध गरिन्। रक्तबीजको प्रतीकात्मक भाव दोहोरिँदै जाने नकारात्मक विचार वा बानीसँग जोडिन्छ—जसलाई देवीको शक्तिले मूलबाटै नष्ट गर्छिन्।",
+            "en": "Raktabīja had a boon that every drop of his blood falling on the ground would produce another Raktabīja. The Goddess slew him by catching his blood in her mouth before it could touch the ground. Caṇḍa and Muṇḍa were commanders of Mahiṣāsura whom the Goddess destroyed in her Kālī form. Raktabīja symbolises recurring negative thoughts or habits that multiply when fed; the Goddess's power destroys them at the root."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala006.wav"
+        },
+        {
+          "id": "argala-07",
+          "number": 7,
+          "sanskrit": "शुम्भस्यैव निशुम्भस्य धूम्राक्षस्य च मर्दिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥७॥",
+          "iast": "śumbhasyaiva niśumbhasya dhūmrākṣasya ca mardini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||7||",
+          "meaning": {
+            "ne": "शुम्भ, निशुम्भ र धूम्राक्षको दमन गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess who crushed Śumbha, Niśumbha and Dhūmrākṣa, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "शुम्भ र निशुम्भ दुई भाइ असुर थिए जसले देवताहरूलाई स्वर्गबाट लखेटेका थिए। देवीले तिनको वध गरेर देवताहरूको राज्य फिर्ता दिलाइन्। धूम्राक्ष महिषासुरको अर्को सेनापति थियो। यी तीनैको दमनले देवीको शक्ति अत्याचार, अहंकार र विरोधी शक्तिमाथि विजय प्राप्त गर्ने शक्तिका रूपमा प्रकट हुन्छ। बाहिरी शत्रुभन्दा पहिले आफूभित्रका अहंकार, असन्तुलन र नकारात्मक प्रवृत्तिलाई हेर्नु यसको आध्यात्मिक सन्देश हो।",
+            "en": "Śumbha and Niśumbha were two demon brothers who had driven the gods out of heaven. The Goddess slew them and restored the kingdom to the gods. Dhūmrākṣa was another commander of Mahiṣāsura. The subduing of all three reveals the Goddess's power as the force that conquers oppression, ego and opposing forces. The spiritual message is to look first at the ego, imbalance and negative tendencies within oneself before looking at outer enemies."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala007.wav"
+        },
+        {
+          "id": "argala-08",
+          "number": 8,
+          "sanskrit": "वन्दिताङ्घ्रियुगे देवि सर्वसौभाग्यदायिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥८॥",
+          "iast": "vanditāṅghriyuge devi sarva-saubhāgyadāyini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||8||",
+          "meaning": {
+            "ne": "हे देवी, जसका दुवै चरण वन्दना गरिन्छ र जसले सबै प्रकारका सौभाग्य प्रदान गर्नुहुन्छ, मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess whose pair of feet are worshipped, bestower of every auspicious blessing, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "देवीका चरणकमल देवता, मुनि र भक्तहरू सबैद्वारा वन्दित छन्। 'सर्वसौभाग्यदायिनि' भन्नाले देवी केवल भौतिक सम्पन्नता मात्र नभई जीवनमा आउने हरेक मंगल, अवसर, सद्बुद्धि र अनुकूलता प्रदान गर्ने मातृशक्ति हुन्। सौभाग्यलाई केवल धन-सम्पत्तिमा सीमित नगरी जीवनको समग्र मंगलका रूपमा बुझ्नु यस श्लोकको सन्देश हो।",
+            "en": "The Goddess's lotus feet are worshipped by gods, sages and devotees alike. 'Sarva-saubhāgya-dāyini' means the Goddess is the mother-power who grants not only material prosperity but every auspiciousness, opportunity, right understanding and favourable condition in life. The teaching is to understand good fortune not merely as wealth but as the totality of well-being in life."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala008.wav"
+        },
+        {
+          "id": "argala-09",
+          "number": 9,
+          "sanskrit": "अचिन्त्यरूपचरिते सर्वशत्रुविनाशिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥९॥",
+          "iast": "acintyarūpacarite sarvaśatruvināśini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||9||",
+          "meaning": {
+            "ne": "हे देवी, जसको रूप र चरित्र चिन्तनभन्दा पर छन् र जसले सबै शत्रुहरूको विनाश गर्नुहुन्छ, मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess whose forms and deeds are beyond thought, destroyer of all enemies, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "देवीको स्वरूप र लीला मानवीय कल्पना र बुद्धिको सीमाभन्दा पूर्णतः पर छन्। 'अचिन्त्य' शब्दले देवीको अगम्यता र अनन्ततालाई जनाउँछ। जसलाई मनले चिन्तन गर्न सक्दैन, जसको वर्णन वाणीले गर्न सक्दैन, त्यो देवी नै सर्वशत्रुविनाशिनी हुन्। आफ्नो बुझाइको सीमालाई स्वीकार गर्दै श्रद्धा, विनम्रता र खुला मनले देवीको शरणमा जानु नै सच्चो ज्ञान हो।",
+            "en": "The Goddess's form and play are entirely beyond the limits of human imagination and intellect. The word 'acintya' indicates her incomprehensibility and infinity. She whom the mind cannot think and speech cannot describe is herself the destroyer of all enemies. Accepting the limits of one's understanding and approaching the Goddess with faith, humility and an open mind is itself true knowledge."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala009.wav"
+        },
+        {
+          "id": "argala-10",
+          "number": 10,
+          "sanskrit": "नतेभ्यः सर्वदा भक्त्या चण्डिके दुरितापहे। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१०॥",
+          "iast": "natebhyaḥ sarvadā bhaktyā caṇḍike duritāpahe | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||10||",
+          "meaning": {
+            "ne": "हे चण्डिके, भक्तिपूर्वक सधैं शरण पर्नेहरूका दुःख र दुरित हटाउने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Caṇḍikā, remover of the suffering caused by wrongdoing, who is ever approached with devotion, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "चण्डिका देवीको त्यो रूप हुन् जो क्रोध र न्यायको शक्ति हुन्। 'दुरितापहे' भन्नाले पाप, दुराचार र दुष्कर्मबाट उत्पन्न हुने दुःख हटाउने। भक्तिपूर्वक शरण पर्नेहरूका लागि देवी सधैं उपलब्ध छिन्। यस श्लोकले सिकाउँछ कि आफ्ना गल्ती वा दुरितलाई अरूमाथि सार्नुको सट्टा इमानदारीपूर्वक स्वीकार गर्नु र देवीसमक्ष समर्पण गर्नु नै मुक्तिको मार्ग हो।",
+            "en": "Caṇḍikā is that form of the Goddess who is the power of righteous anger and justice. 'Duritāpahe' means she who removes the suffering born of sin, misconduct and wrong action. For those who take refuge with devotion, the Goddess is always available. This verse teaches that instead of shifting one's mistakes onto others, honestly acknowledging them and surrendering them before the Goddess is the path to liberation."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala010.wav"
+        },
+        {
+          "id": "argala-11",
+          "number": 11,
+          "sanskrit": "स्तुवद्भ्यो भक्तिपूर्वं त्वां चण्डिके व्याधिनाशिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥११॥",
+          "iast": "stuvadbhyo bhaktipūrvaṃ tvāṃ caṇḍike vyādhināśini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||11||",
+          "meaning": {
+            "ne": "हे चण्डिके, भक्तिपूर्वक स्तुति गर्नेहरूका व्याधि नाश गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Caṇḍikā, destroyer of disease, who are praised with devotion, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "देवीलाई 'व्याधिनाशिनि' भन्नाले रोग र पीडाबाट मुक्ति दिने शक्तिका रूपमा सम्बोधन गरिएको छ। व्याधि केवल शारीरिक रोग मात्र नभई मानसिक, भावनात्मक र आध्यात्मिक असन्तुलन पनि हो। भक्तिपूर्वक स्तुति गर्नेहरूका लागि देवी आरोग्य, सन्तुलन र स्वस्थ जीवन प्रदान गर्नुहुन्छ। आरोग्यलाई शरीर, मन र आचरणको समग्र सन्तुलनका रूपमा बुझ्नु यस श्लोकको भाव हो।",
+            "en": "The Goddess is addressed as 'vyādhināśini' — the power that grants freedom from disease and pain. Disease is not only physical illness but also mental, emotional and spiritual imbalance. For those who praise her with devotion, the Goddess grants health, balance and a wholesome life. The teaching is to understand health as the total balance of body, mind and conduct."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala011.wav"
+        },
+        {
+          "id": "argala-12",
+          "number": 12,
+          "sanskrit": "चण्डिके सततं ये त्वामर्चयन्तीह भक्तितः। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१२॥",
+          "iast": "caṇḍike satataṃ ye tvām arcayantīha bhaktitaḥ | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||12||",
+          "meaning": {
+            "ne": "हे चण्डिके, जसले यस संसारमा तपाईंको निरन्तर भक्तिपूर्वक आराधना गर्छन्, तिनको भावलाई स्मरण गर्दै मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Caṇḍikā, those who continually worship You here with devotion — grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा निरन्तर भक्तिपूर्वक आराधना गर्नेहरूको भावलाई स्मरण गरिएको छ। 'सततम्' शब्दले निरन्तरता, नियमितता र स्थिरतालाई जनाउँछ। भक्ति केवल भावनाको क्षणिक उदय नभई दैनिक अभ्यास हो। जसले निरन्तर देवीको आराधना गर्छ, उसको जीवनमा क्रमशः रूपान्तरण हुन्छ। साधनाको नियमितता र स्थिरता नै सफलताको कुञ्जी हो।",
+            "en": "This verse remembers those who worship with unbroken devotion. The word 'satatam' indicates continuity, regularity and steadiness. Devotion is not a momentary surge of emotion but a daily practice. One who worships the Goddess without interruption undergoes gradual transformation. Regularity and steadiness in practice are the keys to success."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala012.wav"
+        },
+        {
+          "id": "argala-13",
+          "number": 13,
+          "sanskrit": "देहि सौभाग्यमारोग्यं देहि मे परमं सुखम्। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१३॥",
+          "iast": "dehi saubhāgyam ārogyaṃ dehi me paramaṃ sukham | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||13||",
+          "meaning": {
+            "ne": "मलाई सौभाग्य, आरोग्य र परम सुख प्रदान गर्नुहोस्। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "Grant me good fortune, grant me health, grant me supreme happiness; grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा सौभाग्य, आरोग्य र परम सुखको स्पष्ट प्रार्थना गरिएको छ। सौभाग्य भन्नाले मंगल, अवसर र सद्बुद्धि; आरोग्य भन्नाले शरीर, मन र आत्माको सन्तुलन; र परम सुख भन्नाले बाहिरी परिस्थितिभन्दा परको आन्तरिक शान्ति र आनन्द। सुख र सौभाग्यलाई केवल वस्तु वा उपलब्धिमा सीमित नगरी जीवनको समग्र मंगलका रूपमा विचार गर्नु यसको सन्देश हो।",
+            "en": "This verse clearly asks for good fortune, health and supreme happiness. Saubhāgya means auspiciousness, opportunity and right understanding; ārogya means the balance of body, mind and spirit; and paramaṃ sukham means inner peace and joy beyond outer circumstance. The teaching is not to limit happiness and fortune to possessions or achievements but to understand them as the totality of well-being in life."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala013.wav"
+        },
+        {
+          "id": "argala-14",
+          "number": 14,
+          "sanskrit": "विधेहि द्विषतां नाशं विधेहि बलमुच्चकैः। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१४॥",
+          "iast": "vidhehi dviṣatāṃ nāśaṃ vidhehi balam uccakaiḥ | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||14||",
+          "meaning": {
+            "ne": "द्वेष गर्ने शक्तिहरूको नाश गरिदिनुहोस् र उच्च तथा महान् बल प्रदान गर्नुहोस्। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "Bring about the destruction of those who are hostile; grant great strength. Grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "यहाँ देवीसमक्ष प्रतिकूल शक्तिहरूको नाश र बलको प्राप्तिका लागि प्रार्थना गरिएको छ। बललाई केवल शारीरिक शक्ति नभई धैर्य, विवेक, आत्मसंयम र कठिनाइ सामना गर्ने क्षमताका रूपमा पनि बुझ्नुपर्छ। 'उच्चकैः' शब्दले उच्चतम, श्रेष्ठ र महान् बललाई जनाउँछ। साँचो बल आन्तरिक हुन्छ—जसले साधकलाई कठिन परिस्थितिमा पनि स्थिर राख्छ।",
+            "en": "Here the prayer asks the Goddess to destroy opposing forces and grant strength. Strength should be understood not only as physical power but as patience, discernment, self-restraint and the capacity to face difficulty. The word 'uccakaiḥ' indicates the highest, noblest and greatest strength. True strength is inner strength — that which keeps the practitioner steady even in difficult circumstances."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala014.wav"
+        },
+        {
+          "id": "argala-15",
+          "number": 15,
+          "sanskrit": "विधेहि देवि कल्याणं विधेहि परमां श्रियम्। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१५॥",
+          "iast": "vidhehi devi kalyāṇaṃ vidhehi paramāṃ śriyam | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||15||",
+          "meaning": {
+            "ne": "हे देवी, कल्याण प्रदान गर्नुहोस्, परम श्री तथा समृद्धि प्रदान गर्नुहोस्। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess, bring about auspiciousness; grant supreme prosperity. Grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "कल्याण र श्रीको प्रार्थनाले जीवनमा मंगल, समृद्धि र शुभ अवस्थाको आकांक्षा व्यक्त गर्दछ। 'परमां श्रियम्' भन्नाले केवल धन-सम्पत्ति नभई आध्यात्मिक ऐश्वर्य, सद्गुण र दिव्य शोभा पनि। साँचो कल्याणमा आफ्नो मात्र होइन, परिवार, समाज र वरिपरिको जीवनको मंगल पनि समावेश हुन्छ। देवीको कृपाले प्राप्त समृद्धि अरूको हितमा प्रयोग गर्नु नै सच्चो कल्याण हो।",
+            "en": "The prayer for kalyāṇa and śrī expresses the aspiration for auspiciousness, prosperity and well-being in life. 'Paramāṃ śriyam' means not only wealth and possessions but also spiritual riches, virtue and divine radiance. True well-being includes not only one's own welfare but also the welfare of family, society and all around. To use the prosperity received by the Goddess's grace for the benefit of others is true auspiciousness."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala015.wav"
+        },
+        {
+          "id": "argala-16",
+          "number": 16,
+          "sanskrit": "सुरासुरशिरोरत्ननिघृष्टचरणेऽम्बिके। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१६॥",
+          "iast": "surāsura-śiroratna-nighṛṣṭa-caraṇe'mbike | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||16||",
+          "meaning": {
+            "ne": "हे अम्बिके, देवता र असुर दुवैका शिरमा रहेका रत्नहरूले जसका चरण स्पर्श गर्छन्, ती देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Ambikā, whose feet are touched by the jewels adorning the heads of gods and demons alike, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "देवता र असुर दुवैका शिरमा रहेका रत्नहरूले देवीका चरण स्पर्श गर्नु भन्नाले देवीको सर्वोच्च सार्वभौमिक शक्तिलाई जनाउँछ। देवता र असुर दुवै उनकै अधीनमा छन्। 'अम्बिके' सम्बोधनले देवीको मातृस्वरूपलाई जनाउँछ। साँचो श्रद्धामा अहंकार स्वतः झुक्छ—जब मनुष्य देवीको महिमा स्वीकार गर्छ, तब उसको अहंकार समाप्त हुन्छ।",
+            "en": "The jewels on the heads of both gods and demons touching the Goddess's feet indicates her supreme sovereign power. Both gods and demons are under her authority. The address 'Ambike' indicates the Goddess's mother-form. In true devotion, ego naturally bows — when a person accepts the Goddess's greatness, their ego dissolves."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala016.wav"
+        },
+        {
+          "id": "argala-17",
+          "number": 17,
+          "sanskrit": "विद्यावन्तं यशस्वन्तं लक्ष्मीवन्तं जनं कुरु। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१७॥",
+          "iast": "vidyāvantaṃ yaśasvantaṃ lakṣmīvantaṃ janaṃ kuru | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||17||",
+          "meaning": {
+            "ne": "मलाई विद्यायुक्त, यशस्वी र लक्ष्मीसम्पन्न व्यक्ति बनाउनुहोस्। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "Make me a person endowed with knowledge, renown and prosperity. Grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा विद्या (ज्ञान), यश (प्रतिष्ठा) र लक्ष्मी (समृद्धि)को प्रार्थना गरिएको छ। यी तीनै जीवनका महत्वपूर्ण सम्पन्नता हुन्। तर ज्ञान, प्रतिष्ठा र समृद्धि प्राप्त भएपछि तिनको प्रयोग कसरी जिम्मेवारीपूर्वक गर्ने भन्ने विषय महत्वपूर्ण छ। विद्याले सही मार्ग देखाउँछ, यशले प्रेरणा दिन्छ र लक्ष्मीले साधन उपलब्ध गराउँछ। यी तीनैको सन्तुलित प्रयोगले जीवनलाई सार्थक बनाउँछ।",
+            "en": "This verse asks for vidyā (knowledge), yaśas (renown) and lakṣmī (prosperity). All three are important endowments of life. But once knowledge, reputation and prosperity are obtained, how to use them responsibly is equally important. Knowledge shows the right path, renown inspires others, and prosperity provides the means. The balanced use of all three makes life meaningful."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala017.wav"
+        },
+        {
+          "id": "argala-18",
+          "number": 18,
+          "type": "verse",
+          "sanskrit": "देवि प्रचण्डदोर्दण्डदैत्यदर्पनिषूदिनि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१८॥",
+          "iast": "devi pracaṇḍa-dordaṇḍa-daitya-darpa-niṣūdini | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||18||",
+          "meaning": {
+            "ne": "हे देवी, प्रचण्ड भुजबलद्वारा दैत्यहरूको दर्प नाश गर्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess, destroyer of the pride of demons through Your mighty arms, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "देवीको प्रचण्ड भुजबलले दैत्यहरूको दर्प (अहंकार) को नाश गर्छ। 'निषूदिनि' शब्दले पूर्ण रूपमा नाश गर्ने शक्तिलाई जनाउँछ। दैत्यको दर्प केवल बाहिरी शत्रु नभई आफूभित्रको अहंकार, शक्तिको दुरुपयोग र अन्यायको प्रवृत्ति पनि हो। देवीको शक्ति यी सबैको नाश गर्ने सामर्थ्य राख्छ। आफ्नो शक्ति वा अधिकारलाई कसैको हितमा प्रयोग गर्नु यसको सकारात्मक सन्देश हो।",
+            "en": "The Goddess's mighty arms destroy the pride (darpa) of demons. The word 'niṣūdini' indicates the power that completely annihilates. The pride of demons is not only an outer enemy but also the ego, misuse of power and tendency towards injustice within oneself. The Goddess's power has the capacity to destroy all these. The positive message is to use one's power or authority for the benefit of others."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala018.wav"
+        },
+        {
+          "id": "argala-19",
+          "number": 19,
+          "type": "verse",
+          "sanskrit": "प्रचण्डदैत्यदर्पघ्ने चण्डिके प्रणताय मे। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥१९॥",
+          "iast": "pracaṇḍadaityadarpaghne caṇḍike praṇatāya me | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||19||",
+          "meaning": {
+            "ne": "हे चण्डिके, प्रचण्ड दैत्यहरूको दर्प नाश गर्ने देवीसमक्ष म नतमस्तक छु। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Caṇḍikā, destroyer of the fierce pride of demons, I bow before You. Grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधकले देवीसमक्ष नतमस्तक भई प्रार्थना गरेको छ। 'प्रणताय मे' भन्नाले 'नतमस्तक भएको मलाई' भन्ने अर्थ लाग्छ। दैत्यहरूको दर्पको नाश गर्ने देवीसमक्ष आफूलाई समर्पण गर्नु नै साधकको सच्चो स्थिति हो। शक्ति वा सफलता प्राप्त हुँदा त्यसले अहंकार नबढाओस् भनेर सचेत रहनु यस श्लोकको शिक्षा हो।",
+            "en": "In this verse the practitioner bows before the Goddess and prays. 'Praṇatāya me' means 'to me who am bowed down'. Surrendering oneself before the Goddess who destroys the pride of demons is the true position of the practitioner. The lesson is to remain vigilant so that power or success does not increase one's ego."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala019.wav"
+        },
+        {
+          "id": "argala-20",
+          "number": 20,
+          "type": "verse",
+          "sanskrit": "चतुर्भुजे चतुर्वक्त्रसंस्तुते परमेश्वरि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२०॥",
+          "iast": "caturbhuje caturvaktra-saṃstute parameśvari | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||20||",
+          "meaning": {
+            "ne": "हे परमेश्वरि, चार भुजा भएकी तथा चतुर्मुख ब्रह्माद्वारा स्तुत गरिएकी देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Supreme Goddess, four-armed and praised by the four-faced one (Brahmā), grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "देवीलाई चतुर्भुजा र चतुर्वक्त्र ब्रह्माद्वारा स्तुत भनिएको छ। चार भुजाले देवीको सर्वव्यापकता र चार दिशामा फैलिएको शक्तिलाई जनाउँछ। ब्रह्माजीले देवीको स्तुति गर्नु भन्नाले सृष्टिकर्ता पनि देवीको महिमा स्वीकार गर्छन् भन्ने भाव प्रकट हुन्छ। 'परमेश्वरि' सम्बोधनले देवीलाई सर्वोच्च ईश्वरीका रूपमा स्थापित गर्छ। आफ्नो जीवनका विभिन्न जिम्मेवारीलाई सन्तुलित रूपमा सम्हाल्नु यसको व्यावहारिक शिक्षा हो।",
+            "en": "The Goddess is described as four-armed and praised by the four-faced Brahmā. The four arms indicate the Goddess's all-pervasiveness and her power spread in the four directions. That Brahmā praises the Goddess shows that even the creator acknowledges her greatness. The address 'Parameśvari' establishes the Goddess as the supreme Goddess. The practical teaching is to manage the various responsibilities of life in balance."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala020.wav"
+        },
+        {
+          "id": "argala-21",
+          "number": 21,
+          "type": "verse",
+          "sanskrit": "कृष्णेन संस्तुते देवि शश्वद्भक्त्या सदाम्बिके। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२१॥",
+          "iast": "kṛṣṇena saṃstute devi śaśvadbhaktyā sadāmbike | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||21||",
+          "meaning": {
+            "ne": "हे देवी, हे सदा अम्बिके, कृष्णद्वारा निरन्तर भक्तिपूर्वक स्तुत गरिएकी देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Goddess, O ever-present Ambikā, praised by Kṛṣṇa with continual devotion, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "कृष्णद्वारा निरन्तर भक्तिपूर्वक देवीको स्तुति गरिनु भन्नाले भगवान् कृष्ण पनि देवीको भक्त हुन् भन्ने भाव प्रकट हुन्छ। 'शश्वद्भक्त्या' भन्नाले निरन्तर, सधैं रहने भक्ति। 'सदाम्बिके' सम्बोधनले देवीलाई सधैं उपस्थित मातृशक्तिका रूपमा स्थापित गर्छ। भक्तिमा निरन्तरता कसरी ल्याउने र कठिन समयमा पनि श्रद्धा कसरी कायम राख्ने भन्ने विषयमा यस श्लोकले मनन गराउँछ।",
+            "en": "That Kṛṣṇa praises the Goddess with continual devotion indicates that even Lord Kṛṣṇa is a devotee of the Goddess. 'Śaśvadbhaktyā' means continuous, ever-present devotion. The address 'Sadāmbike' establishes the Goddess as the ever-present mother-power. This verse invites contemplation on how to bring continuity into devotion and how to maintain faith even in difficult times."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala021.wav"
+        },
+        {
+          "id": "argala-22",
+          "number": 22,
+          "type": "verse",
+          "sanskrit": "हिमाचलसुतानाथसंस्तुते परमेश्वरि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२२॥",
+          "iast": "himācalasutānāthasaṃstute parameśvari | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||22||",
+          "meaning": {
+            "ne": "हे परमेश्वरि, हिमाचलकी पुत्रीका नाथद्वारा स्तुत गरिएकी देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Supreme Goddess, praised by the Lord of the daughter of Himācala, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "हिमाचलकी पुत्री पार्वती हुन् र तिनका नाथ भगवान् शिव हुन्। शिवद्वारा देवीको स्तुति गरिनु भन्नाले शिव पनि देवीको महिमा स्वीकार गर्छन् भन्ने भाव प्रकट हुन्छ। देवीलाई 'परमेश्वरि' भनी सम्बोधन गरिएको छ जसले उनलाई सर्वोच्च ईश्वरीका रूपमा स्थापित गर्छ। आफ्नो व्यक्तिगत सीमाभन्दा ठूलो कुनै उच्च आदर्श वा सत्यप्रति समर्पणको भावमा मनन गर्नु यसको शिक्षा हो।",
+            "en": "The daughter of Himācala is Pārvatī and her Lord is Śiva. That Śiva praises the Goddess indicates that even Śiva acknowledges her greatness. The Goddess is addressed as 'Parameśvari', establishing her as the supreme Goddess. The teaching is to contemplate surrender to a higher ideal or truth beyond one's personal limitations."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala022.wav"
+        },
+        {
+          "id": "argala-23",
+          "number": 23,
+          "type": "verse",
+          "sanskrit": "इन्द्राणीपतिसद्भावपूजिते परमेश्वरि। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२३॥",
+          "iast": "indrāṇīpatisadbhāvapūjite parameśvari | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||23||",
+          "meaning": {
+            "ne": "हे परमेश्वरि, इन्द्राणीका पतिद्वारा सद्भावपूर्वक पूजित देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Supreme Goddess, worshipped with true devotion by the husband of Indrāṇī, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "इन्द्राणीका पति इन्द्र हुन्। इन्द्रद्वारा देवीको पूजा गरिनु भन्नाले देवताहरूका राजा पनि देवीको भक्त हुन् भन्ने भाव प्रकट हुन्छ। 'सद्भाव' शब्दले सच्चो भाव, शुद्ध हृदय र सद्भक्तिलाई जनाउँछ। देवीप्रतिको श्रद्धा र पूजा देवताहरूबाट समेत गरिने उच्च सम्मानका रूपमा चित्रित गरिएको छ। साँचो श्रद्धा केवल शब्दमा होइन, व्यवहार र भावनामा प्रकट हुन्छ।",
+            "en": "The husband of Indrāṇī is Indra. That Indra worships the Goddess indicates that even the king of the gods is a devotee of the Goddess. The word 'sadbhāva' indicates true feeling, a pure heart and genuine devotion. Devotion and worship of the Goddess are depicted as the highest honour even by the gods. True devotion is expressed not only in words but in conduct and feeling."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala023.wav"
+        },
+        {
+          "id": "argala-24",
+          "number": 24,
+          "type": "verse",
+          "sanskrit": "देवि भक्तजनोद्दामदत्तानन्दोदयेऽम्बिके। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२४॥",
+          "iast": "devi bhaktajanoddāma-dattānandodaye'mbike | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||24||",
+          "meaning": {
+            "ne": "हे अम्बिके, भक्तजनहरूमा आनन्दको उदय गराउने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Ambikā, Goddess who brings about the arising of joy in Your devotees, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई भक्तजनहरूमा आनन्दको उदय गराउने शक्तिका रूपमा स्तुति गरिएको छ। 'उद्दाम' शब्दले उच्च, महान् र अपार आनन्दलाई जनाउँछ। देवीको स्मरण र भक्तिले साधकको मनमा गहिरो शान्ति र प्रसन्नता उत्पन्न गर्छ। यो आनन्द बाहिरी परिस्थितिमा निर्भर हुँदैन—यो आन्तरिक, स्थिर र दिव्य हुन्छ। भक्तिमा देवीको स्मरणले आनन्द र आन्तरिक प्रसन्नताको उदय गराउने भाव यहाँ प्रस्तुत गरिएको छ।",
+            "en": "In this verse the Goddess is praised as the power that brings about joy in her devotees. The word 'uddāma' indicates high, great and boundless joy. The remembrance and devotion of the Goddess produces deep peace and contentment in the practitioner's mind. This joy does not depend on outer circumstances — it is inner, steady and divine. Devotional remembrance of the Goddess gives rise to joy and inner contentment."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala024.wav"
+        },
+        {
+          "id": "argala-25",
+          "number": 25,
+          "type": "verse",
+          "sanskrit": "पत्नीं मनोरमां देहि मनोवृत्तानुसारिणीम्। तारिणीं दुर्गसंसारसागरस्य कुलोद्भवाम्॥२५॥",
+          "iast": "patnīṃ manoramāṃ dehi manovṛttānusāriṇīm | tāriṇīṃ durgasaṃsārasāgarasya kulodbhavām ||25||",
+          "meaning": {
+            "ne": "मनलाई रमाउने, मनोभावअनुकूल हुने, कुलमा जन्मिएकी तथा कठिन संसारसागरबाट तार्न सहयोग गर्ने पत्नी प्रदान गर्नुहोस्।",
+            "en": "Grant me an agreeable wife, one who shares the movement of my heart, born of a good family and able to carry me across the difficult ocean of worldly existence."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा गृहस्थ जीवनका लागि उपयुक्त जीवनसाथीको प्रार्थना गरिएको छ। पत्नीलाई केवल सांसारिक सम्बन्धका रूपमा नभई जीवनयात्रामा सहयात्री, सहयोगी र संसारसागरबाट तार्ने नौकाका रूपमा प्रस्तुत गरिएको छ। 'मनोवृत्तानुसारिणीम्' भन्नाले मनको गतिअनुसार चल्ने, समझदार र सहयोगी। जीवनसाथीको सम्बन्धमा पारस्परिक सम्मान, समझदारी, सहयोग र साझा आध्यात्मिक यात्राको महत्व यसले देखाउँछ।",
+            "en": "This verse prays for a suitable life partner for household life. The wife is presented not merely as a worldly relationship but as a companion on the journey of life, a helper and a boat to cross the ocean of worldly existence. 'Manovṛttānusāriṇīm' means one who moves according to the movements of the mind, understanding and supportive. The verse shows the importance of mutual respect, understanding, cooperation and a shared spiritual journey in the relationship of life partners."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala025.wav"
+        },
+        {
+          "id": "argala-26",
+          "number": 26,
+          "type": "verse",
+          "sanskrit": "तारिणि दुर्गसंसारसागरस्याचलोद्भवे। रूपं देहि जयं देहि यशो देहि द्विषो जहि॥२६॥",
+          "iast": "tāriṇi durgasaṃsārasāgarasyācalodbhave | rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi ||26||",
+          "meaning": {
+            "ne": "हे दुर्गे, पर्वतराजकी पुत्रीका रूपमा प्रकट भई कठिन संसारसागरबाट तार्ने देवीलाई नमस्कार। मलाई रूप, विजय र यश प्रदान गर्नुहोस् तथा द्वेषी शक्तिहरूको नाश गर्नुहोस्।",
+            "en": "O Durgā, who took birth from the mountain, who ferry us across the difficult ocean of worldly existence, grant me beauty, victory and renown, and destroy those who are hostile."
+          },
+          "commentary": {
+            "ne": "'अचलोद्भवे' भन्नाले पर्वतराज हिमालयकी पुत्री पार्वतीलाई जनाउँछ। देवीलाई 'तारिणि' भनी सम्बोधन गरिएको छ—संसारसागरबाट तार्ने नौका। संसारसागर भन्नाले जन्म-मृत्युको चक्र, दुःख, मोह र अज्ञानको सागर। देवीको कृपाले साधकलाई यो कठिन सागर पार गर्न सहयोग मिल्छ। देवीकृपा र आत्मप्रयास दुवै आवश्यक छन्—देवीले मार्ग देखाउँछिन्, साधकले हिँड्नुपर्छ।",
+            "en": "'Acalodbhave' refers to Pārvatī, the daughter of the mountain king Himālaya. The Goddess is addressed as 'Tāriṇi' — the boat that carries one across the ocean of worldly existence. The ocean of saṃsāra means the cycle of birth and death, sorrow, delusion and ignorance. By the Goddess's grace, the practitioner is helped across this difficult ocean. Both the Goddess's grace and one's own effort are necessary — the Goddess shows the way, the practitioner must walk."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala026.wav"
+        },
+        {
+          "id": "argala-27",
+          "number": 27,
+          "type": "verse",
+          "sanskrit": "इदं स्तोत्रं पठित्वा तु महास्तोत्रं पठेन्नरः। स तु सप्तशतीसंख्यावरमाप्नोति सम्पदाम्॥२७॥",
+          "iast": "idaṃ stotraṃ paṭhitvā tu mahāstotraṃ paṭhen naraḥ | sa tu saptaśatīsaṃkhyāvaram āpnoti sampadām ||27||",
+          "meaning": {
+            "ne": "यो स्तोत्र पाठ गरेर त्यसपछि महास्तोत्र पाठ गर्छ, उसले सप्तशतीसँग सम्बन्धित श्रेष्ठ सम्पदाको वर प्राप्त गर्छ भन्ने फलश्रुति यस श्लोकमा उल्लेख गरिएको छ।",
+            "en": "Having recited this hymn, a person should recite the great hymn; by doing so, one obtains the stated abundance associated with the recitation of the Saptaśatī."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोकले अर्गलास्तोत्रको पाठलाई यसको व्यापक पाठपरम्परासँग जोड्छ। अर्गलास्तोत्र पाठ गरेपछि महास्तोत्र (दुर्गा सप्तशती) पाठ गर्नुपर्छ भन्ने विधि बताइएको छ। फलश्रुतिलाई केवल भौतिक प्राप्तिको प्रतिज्ञाका रूपमा नभई पाठप्रतिको श्रद्धा, नियमितता र परम्परागत साधनाको समापन भावका रूपमा पनि विचार गर्नु उपयुक्त हुन्छ। मुख्य पाठ समाप्त भएपछि केही क्षण शान्त बसेर पाठको भाव र आफ्नो संकल्पलाई स्मरण गर्नु यसको अभ्यास हो।",
+            "en": "This final verse connects the recitation of Argala Stotram with its broader recitation tradition. It states the method that after reciting Argala Stotram, one should recite the Mahāstotra (Durga Saptashati). The phala-shruti should be contemplated not merely as a promise of material gain but as the concluding attitude of faith, regularity and traditional practice. The practice is to remain quiet for a few moments after the main recitation and recall the spirit of the text and one's own resolve."
+          },
+          "audio": "audio/devi-mahatmya/argala-stotram/verses/argala027.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "अर्गलास्तोत्रको सम्पूर्ण प्रवाहलाई हेर्दा देवीप्रति शरणागति, संरक्षणको आकांक्षा, विजयको प्रार्थना, कल्याणको इच्छा र जीवनलाई मंगलमय बनाउने साधनाको भाव देखिन्छ।\n\nसुरुवाती श्लोकहरूले देवीका विभिन्न नाम र विजयस्वरूपहरूको स्मरण गर्छन्। त्यसपछि बारम्बार आउने 'रूपं देहि जयं देहि यशो देहि द्विषो जहि' प्रार्थनाले साधकका इच्छा र आकांक्षालाई स्पष्ट शब्दमा व्यक्त गर्छ।\n\nस्तोत्रको मध्य भागमा बल, सौभाग्य, आरोग्य, कल्याण, श्री, विद्या, यश र सुखजस्ता जीवनका विभिन्न पक्षहरूको प्रार्थना आउँछ।\n\nअन्तिमतर्फ गृहस्थ जीवनसँग सम्बन्धित विशेष प्रार्थना पनि आउँछ। यसले स्तोत्रको प्रार्थनालाई केवल एक प्रकारको आध्यात्मिक अनुभवमा सीमित नराखी मानव जीवनका विभिन्न आवश्यकतासँग जोडिएको देखाउँछ।\n\nअन्तिम श्लोकले अर्गलास्तोत्रलाई सप्तशतीको व्यापक पाठपरम्परासँग जोड्छ। यसैले अर्गलास्तोत्रलाई तीन तहमा पढ्न सकिन्छ: स्तुति, प्रार्थना र साधना। यी तीन तह एकसाथ राख्दा स्तोत्र केवल माग्ने प्रार्थना नभई श्रद्धा, आत्मचिन्तन र नियमित साधनाको पाठ बन्न सक्छ।",
+      "en": "Read as a whole, Argala Stotram expresses surrender to the Goddess, the desire for protection, prayer for victory, aspiration for auspiciousness, and the wish to bring greater harmony into life.\n\nThe opening verses remember different names and victorious forms of the Goddess. The recurring prayer 'rūpaṃ dehi jayaṃ dehi yaśo dehi dviṣo jahi' then gives direct expression to the practitioner's aspirations.\n\nThe middle portion includes prayers concerning strength, good fortune, health, auspiciousness, prosperity, knowledge, renown and happiness.\n\nToward the end, the hymn also contains a specific prayer concerning household life. This places the hymn's prayers within the varied needs and responsibilities of human life rather than limiting them to a single type of spiritual experience.\n\nThe final verse connects Argala Stotram with the broader recitation tradition of the Saptaśatī. The hymn can therefore be studied through three complementary layers: praise, prayer and practice. Taken together, these layers allow the hymn to function not only as devotional prayer but also as a text for reflection and regular practice."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "अर्गलास्तोत्रको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी अर्गलास्तोत्रको अध्ययन केवल २७ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Argala Stotram, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Argala Stotram does not end simply with reading twenty-seven verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

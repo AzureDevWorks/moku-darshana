@@ -1,0 +1,300 @@
+{
+  "id": "siddha-kunjika-stotram",
+  "title": "Siddhakuñjikā Stotram",
+  "sanskritTitle": "॥ श्रीसिद्धकुञ्जिकास्तोत्रम् ॥",
+  "type": "stotram",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 15,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Siddhakuñjikā Stotram is a tantric hymn from the Rudrayāmala Tantra (Gaurī Tantra), taught by Lord Śiva to Goddess Pārvatī. It is traditionally recited before the Devī Māhātmya patha and is held to be the 'key' (kuñjikā) that unlocks the full potency of the Saptaśatī. The received recension preserves fifteen verses including the phala-śruti. Some editions contain additional or variant verses; the selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Stotra Nidhi — Siddha Kunjika Stotram", "url": "https://stotranidhi.com/en/siddha-kunjika-stotram-in-english/" },
+      { "name": "Guru Ramana — Siddhakunjika Stotram (PDF)", "url": "https://www.gururamana.org/Resources/Books/siddhakunjikaa24.pdf" },
+      { "name": "Hinduism Stack Exchange — What is Siddha Kunjika Stotra?", "url": "https://hinduism.stackexchange.com/questions/15300/what-is-siddha-kunjika-stotra" },
+      { "name": "Stotra Ratna — Sidha Kunjika Stotram (Translation by P.R. Ramachander)", "url": "http://stotrarathna.blogspot.com/2012/01/sidha-kunjika-stotram.html" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "सिद्धकुञ्जिकास्तोत्रस्य महिमा",
+      "titleEn": "The Nature and Place of Siddhakuñjikā Stotram",
+      "ne": "सिद्धकुञ्जिकास्तोत्रम् रुद्रयामल तन्त्रको गौरीतन्त्र खण्डबाट प्राप्त एक अत्यन्त गुह्य तान्त्रिक स्तोत्र हो। यसलाई भगवान् शिवले स्वयं माता पार्वतीलाई भन्नुभएको थियो। यसको नामले नै यसको कार्य बताउँछ—'कुञ्जिका' भन्नाले कुञ्जी वा साँचो। जसरी साँचोले बन्द ढोका खोल्छ, त्यसरी नै यो स्तोत्रले दुर्गा सप्तशतीको गुप्त शक्तिलाई खोल्छ। 'सिद्ध' भन्नाले सिद्धि वा पूर्णता—अर्थात् यो स्तोत्र पूर्णताको साँचो हो।\n\nपरम्परामा विश्वास गरिन्छ कि जसले दुर्गा सप्तशतीको पाठ गर्नुअघि यो स्तोत्र पाठ गर्दैन, उसको सप्तशती पाठले पूर्ण फल दिँदैन। यो स्तोत्र नै सप्तशतीको मन्त्र-शक्तिको जागरणको कारण हो। यस स्तोत्रमा शिव भन्छन्—'यो स्तोत्रको पाठ मात्रले नै दुर्गा सप्तशतीको पाठको फल प्राप्त हुन्छ।' यो कति गुह्य छ भने देवताहरूलाई पनि यो दुर्लभ छ।\n\nयस स्तोत्रमा शिवले पार्वतीलाई यसको गोपनीयताको महत्व बताउँदै भन्छन्—'यसलाई आफ्नै योनि (गर्भ) झैं रक्षा गर्नु।' यसको पाठ मात्रले मारण, मोहन, वशीकरण, स्तम्भन र उच्चाटन जस्ता सबै कर्महरू सिद्ध हुन्छन्। यो स्तोत्र केवल भक्तहरूका लागि हो, अभक्तहरूलाई दिनु हुँदैन।\n\nयस स्तोत्रको पाठले साधकको मन्त्र-शक्ति जागृत हुन्छ। यो स्तोत्र दुर्गा सप्तशतीको हृदय हो—जसले सप्तशतीको सात सय श्लोकको सारलाई सघन रूपमा समेट्छ। जसले यसलाई नियमित पाठ गर्छ, उसको जीवनमा देवीको कृपा सदा प्रवाहित रहन्छ।",
+      "en": "Siddhakuñjikā Stotram is an extremely secret tantric hymn from the Gaurī Tantra section of the Rudrayāmala Tantra. It was spoken by Lord Śiva himself to Mother Pārvatī. Its very name declares its function — 'kuñjikā' means key or unlocker. Just as a key opens a locked door, so this stotra unlocks the hidden power of the Durga Saptashati. 'Siddha' means perfection or accomplishment — thus this stotra is the key of perfection.\n\nTradition holds that one who does not recite this stotra before the Durga Saptashati patha does not receive the complete fruit of the Saptashati recitation. This stotra is the very cause of awakening the mantra-power of the Saptashati. In this stotra, Śiva says — 'By the mere recitation of this stotra alone, the fruit of reciting the Durga Saptashati is obtained.' So secret is it that even the gods find it difficult to obtain.\n\nIn this stotra, Śiva tells Pārvatī the importance of its secrecy — 'Protect it as you would your own womb.' By its mere recitation, all actions such as māraṇa (killing), mohana (enchanting), vaśya (subjugating), stambhana (paralysing) and ucchāṭana (driving away) are accomplished. This stotra is for devotees alone; it should not be given to the non-devout.\n\nThe recitation of this stotra awakens the practitioner's mantra-power. This stotra is the heart of the Durga Saptashati — condensing the essence of the seven hundred verses into a concentrated form. One who recites it regularly has the Goddess's grace flowing in their life always."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीकुञ्जिकास्तोत्रमन्त्रस्य सदाशिव ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीत्रिगुणात्मिका देवता।\nॐ ऐं बीजम्।\nॐ ह्रीं शक्तिः।\nॐ क्रीं कीलकम्।\nमम सर्वाभीष्टसिद्ध्यर्थे जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-kuñjikā-stotra-mantrasya sadāśiva ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-triguṇātmikā devatā |\noṃ aiṃ bījam |\noṃ hrīṃ śaktiḥ |\noṃ klīṃ kīlakam |\nmama sarvābhīṣṭa-siddhyarthe jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीकुञ्जिकास्तोत्र मन्त्रका सदाशिव ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीत्रिगुणात्मिका देवता हुन्। ऐं बीज हो, ह्रीं शक्ति हो, क्रीं कीलक हो। मेरो सम्पूर्ण अभीष्टको सिद्धिका लागि यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Kuñjikā Stotra mantra, Sadāśiva is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Triguṇātmikā (the Goddess who is the essence of the three guṇas) is the presiding deity. Aiṃ is the seed (bīja), Hrīṃ is the power (śakti), Klīṃ is the bolt (kīlaka). It is recited for the fulfilment of all my desires."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यहाँ तीन बीजमन्त्रहरूको उल्लेखले यस स्तोत्रको तान्त्रिक स्वरूपलाई प्रकट गर्छ—ऐं सृष्टिको, ह्रीं पालनको र क्रीं संहारको बीज हो।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. The mention of three seed-mantras here reveals the tantric nature of this stotra — Aiṃ is the seed of creation, Hrīṃ of preservation, and Klīṃ of dissolution."
+      },
+      "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीसिद्धकुञ्जिकास्तोत्रम्",
+      "titleEn": "Siddhakuñjikā Stotram — Main Recitation",
+      "items": [
+        {
+          "id": "kunjika-01",
+          "number": 1,
+          "sanskrit": "ॐ शिव उवाच। शृणु देवि प्रवक्ष्यामि कुञ्जिकास्तोत्रमुत्तमम्। येन मन्त्रप्रभावेण चण्डीजापः शुभो भवेत्॥१॥",
+          "iast": "oṃ śiva uvāca | śṛṇu devi pravakṣyāmi kuñjikāstotramuttamam | yena mantraprabhāveṇa caṇḍījāpaḥ śubho bhavet ||1||",
+          "meaning": {
+            "ne": "ॐ शिवले भने: हे देवी, सुन्नुहोस्। म उत्तम कुञ्जिकास्तोत्र भन्छु, जसको मन्त्र-प्रभावले चण्डी (दुर्गा सप्तशती) को जप शुभ हुन्छ।",
+            "en": "Oṁ. Śiva said: Listen, O Goddess, I shall tell you the supreme Kuñjikā Stotram, by the power of whose mantra the japa of Caṇḍī (Durga Saptashati) becomes auspicious."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले स्तोत्रको प्रारम्भ गर्छ। शिव स्वयं यो स्तोत्र भन्नुहुन्छ—यसैले यो स्तोत्र अत्यन्त प्रामाणिक र दिव्य छ। 'चण्डीजापः शुभो भवेत्'—चण्डीको जप शुभ हुन्छ। यसले यो स्तोत्रको मुख्य कार्य बताउँछ—सप्तशती पाठलाई फलदायी बनाउनु।",
+            "en": "This verse begins the stotra. Śiva himself speaks this stotra — thus it is supremely authentic and divine. 'Caṇḍījāpaḥ śubho bhavet' — the japa of Caṇḍī becomes auspicious. This states the primary function of this stotra — to make the Saptashati recitation fruitful."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika001.wav"
+        },
+        {
+          "id": "kunjika-02",
+          "number": 2,
+          "sanskrit": "न कवचं नार्गलास्तोत्रं कीलकं न रहस्यकम्। न सूक्तं नापि ध्यानं च न न्यासो न च वार्चनम्॥२॥",
+          "iast": "na kavacaṃ nārgalāstotraṃ kīlakaṃ na rahasyakam | na sūktaṃ nāpi dhyānaṃ ca na nyāso na ca vārcanam ||2||",
+          "meaning": {
+            "ne": "न कवच, न अर्गलास्तोत्र, न कीलक, न रहस्य। न सूक्त, न ध्यान, न न्यास र न अर्चनको आवश्यकता।",
+            "en": "Neither Kavaca, nor Argala Stotra, nor Kīlaka, nor Rahasya. Neither Sūkta, nor Dhyāna, nor Nyāsa, nor worship is needed."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शिव भन्छन्—यो स्तोत्र पाठ गरेपछि कवच, अर्गला, कीलक, रहस्य, सूक्त, ध्यान, न्यास र अर्चन—यी सबैको आवश्यकता पर्दैन। यसले यस स्तोत्रको सर्वोच्चतालाई स्थापित गर्छ। यो स्तोत्र नै सबैको सार हो।",
+            "en": "In this verse, Śiva says — once this stotra is recited, there is no need for Kavaca, Argala, Kīlaka, Rahasya, Sūkta, Dhyāna, Nyāsa or Arcanā. This establishes the supremacy of this stotra. This stotra is the essence of all."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika002.wav"
+        },
+        {
+          "id": "kunjika-03",
+          "number": 3,
+          "sanskrit": "कुञ्जिकापाठमात्रेण दुर्गापाठफलं लभेत्। अति गुह्यतरं देवि देवानामपि दुर्लभम्॥३॥",
+          "iast": "kuñjikāpāṭhamātreṇa durgāpāṭhaphalaṃ labhet | ati guhyataraṃ devi devānāmapi durlabham ||3||",
+          "meaning": {
+            "ne": "कुञ्जिकाको पाठ मात्रले दुर्गा पाठको फल प्राप्त हुन्छ। हे देवी, यो अत्यन्त गुह्यतर छ र देवताहरूलाई पनि दुर्लभ छ।",
+            "en": "By the mere recitation of Kuñjikā, one obtains the fruit of the Durgā recitation. O Goddess, this is extremely secret and rare even for the gods."
+          },
+          "commentary": {
+            "ne": "'कुञ्जिकापाठमात्रेण'—कुञ्जिकाको पाठ मात्रले। यसले यस स्तोत्रको असाधारण शक्तिलाई प्रकट गर्छ—यो स्तोत्र एक्लैले सम्पूर्ण सप्तशतीको फल दिन्छ। 'देवानामपि दुर्लभम्'—देवताहरूलाई पनि दुर्लभ। यो स्तोत्र यति गुह्य छ कि देवताहरूले पनि यसलाई सजिलै प्राप्त गर्न सक्दैनन्।",
+            "en": "'Kuñjikāpāṭhamātreṇa' — by the mere recitation of Kuñjikā. This reveals the extraordinary power of this stotra — this stotra alone grants the fruit of the entire Saptashati. 'Devānāmapi durlabham' — rare even for the gods. This stotra is so secret that even the gods cannot easily obtain it."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika003.wav"
+        },
+        {
+          "id": "kunjika-04",
+          "number": 4,
+          "sanskrit": "गोपनीयं प्रयत्नेन स्वयोनिरिव पार्वति। मारणं मोहनं वश्यं स्तम्भनोच्चाटनादिकम्। पाठमात्रेण संसिद्ध्येत् कुञ्जिकास्तोत्रमुत्तमम्॥४॥",
+          "iast": "gopanīyaṃ prayatnena svayoniriva pārvati | māraṇaṃ mohanaṃ vaśyaṃ stambhanoccāṭanādikam | pāṭhamātreṇa saṃsiddhyet kuñjikāstotramuttamam ||4||",
+          "meaning": {
+            "ne": "हे पार्वती, यसलाई आफ्नै योनि (गर्भ) झैं प्रयत्नपूर्वक गोप्य राख्नु। मारण, मोहन, वशीकरण, स्तम्भन, उच्चाटन आदि सबै कर्महरू यो उत्तम कुञ्जिकास्तोत्रको पाठ मात्रले सिद्ध हुन्छन्।",
+            "en": "O Pārvatī, you should keep it secret with effort, as you would your own womb. Māraṇa, Mohana, Vaśya, Stambhana, Uccāṭana and the rest are all accomplished by the mere recitation of this supreme Kuñjikā Stotram."
+          },
+          "commentary": {
+            "ne": "'स्वयोनिरिव'—आफ्नै गर्भ झैं। शिव पार्वतीलाई यो स्तोत्रको गोपनीयताको महत्व बताउँछन्। यो स्तोत्र यति शक्तिशाली छ कि यसको पाठ मात्रले मारण, मोहन, वशीकरण, स्तम्भन र उच्चाटन जस्ता सबै तान्त्रिक कर्महरू सिद्ध हुन्छन्। यसैले यसलाई गोप्य राख्नु आवश्यक छ।",
+            "en": "'Svayoniriva' — like your own womb. Śiva tells Pārvatī the importance of keeping this stotra secret. This stotra is so powerful that by its mere recitation, all tantric actions such as Māraṇa, Mohana, Vaśya, Stambhana and Uccāṭana are accomplished. Therefore it must be kept secret."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika004.wav"
+        },
+        {
+          "id": "kunjika-05",
+          "number": 5,
+          "sanskrit": "अथ मन्त्रः। ॐ ऐं ह्रीं क्रीं चामुण्डायै विच्चे। ॐ ग्लौं हुं क्रीं जूं सः ज्वालय ज्वालय ज्वल ज्वल प्रज्वल प्रज्वल ऐं ह्रीं क्रीं चामुण्डायै विच्चे ज्वल हं सं लं क्षं फट् स्वाहा॥५॥ इति मन्त्रः।",
+          "iast": "atha mantraḥ | oṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce | oṃ glauṃ huṃ klīṃ jūṃ saḥ jvālaya jvālaya jvala jvala prajvala prajvala aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce jvala haṃ saṃ laṃ kṣaṃ phaṭ svāhā ||5|| iti mantraḥ |",
+          "meaning": {
+            "ne": "अब मन्त्र: ॐ ऐं ह्रीं क्रीं चामुण्डायै विच्चे। ॐ ग्लौं हुं क्रीं जूं सः ज्वालय ज्वालय ज्वल ज्वल प्रज्वल प्रज्वल ऐं ह्रीं क्रीं चामुण्डायै विच्चे ज्वल हं सं लं क्षं फट् स्वाहा। यो मन्त्र हो।",
+            "en": "Now the mantra: Oṁ Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce. Oṁ Glauṃ Huṃ Klīṃ Jūṃ Saḥ Jvālaya Jvālaya Jvala Jvala Prajvala Prajvala Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce Jvala Haṃ Saṃ Laṃ Kṣaṃ Phaṭ Svāhā. This is the mantra."
+          },
+          "commentary": {
+            "ne": "यो स्तोत्रको मूल तान्त्रिक मन्त्र हो। 'ऐं' सरस्वतीको बीज, 'ह्रीं' महालक्ष्मीको, 'क्रीं' कालीको। 'चामुण्डायै विच्चे'—चामुण्डालाई नमस्कार। 'ज्वालय ज्वालय'—जलाउ, जलाउ। 'प्रज्वल प्रज्वल'—प्रज्वलित गर, प्रज्वलित गर। 'फट् स्वाहा'—तोड, स्वाहा। यो मन्त्र अग्नि-बीजहरूले भरिएको छ—जसले साधकको मन्त्र-शक्तिलाई जगाउँछ।",
+            "en": "This is the core tantric mantra of the stotra. 'Aiṃ' is the seed of Sarasvatī, 'Hrīṃ' of Mahālakṣmī, 'Klīṃ' of Kālī. 'Cāmuṇḍāyai vicce' — salutations to Cāmuṇḍā. 'Jvālaya jvālaya' — burn, burn. 'Prajvala prajvala' — blaze, blaze. 'Phaṭ svāhā' — break, svāhā. This mantra is filled with fire-seeds — which awaken the practitioner's mantra-power."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika005.wav"
+        },
+        {
+          "id": "kunjika-06",
+          "number": 6,
+          "sanskrit": "नमस्ते रुद्ररूपिण्यै नमस्ते मधुमर्दिनि। नमः कैटभहारिण्यै नमस्ते महिषार्दिनि॥६॥",
+          "iast": "namaste rudrarūpiṇyai namaste madhumardini | namaḥ kaiṭabhahāriṇyai namaste mahiṣārdini ||6||",
+          "meaning": {
+            "ne": "तपाईंलाई नमस्कार, हे रुद्ररूपिणी। तपाईंलाई नमस्कार, हे मधुमर्दिनि। तपाईंलाई नमस्कार, हे कैटभहारिणी। तपाईंलाई नमस्कार, हे महिषार्दिनी।",
+            "en": "Salutations to You, O Goddess of the form of Rudra. Salutations to You, O slayer of Madhu. Salutations to You, O destroyer of Kaiṭabha. Salutations to You, O slayer of Mahiṣa."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई चार नामहरूले सम्बोधन गरिएको छ। रुद्ररूपिणी—रुद्रको रूप धारण गर्ने। मधुमर्दिनि—मधुको मर्दन गर्ने। कैटभहारिणी—कैटभको हरण गर्ने। महिषार्दिनि—महिषको मर्दन गर्ने। यी सबै नामहरूले देवीको संहारक शक्तिलाई प्रकट गर्छन्।",
+            "en": "In this verse, the Goddess is addressed by four names. Rudrarūpiṇī — she who assumes the form of Rudra. Madhumardinī — she who crushes Madhu. Kaiṭabhahāriṇī — she who destroys Kaiṭabha. Mahiṣārdinī — she who slays Mahiṣa. All these names reveal the Goddess's destructive power."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika006.wav"
+        },
+        {
+          "id": "kunjika-07",
+          "number": 7,
+          "sanskrit": "नमस्ते शुम्भहन्त्र्यै च निशुम्भासुरघातिनि। जाग्रतं हि महादेवि जपं सिद्धं कुरुष्व मे॥७॥",
+          "iast": "namaste śumbhahantryai ca niśumbhāsuraghātini | jāgrataṃ hi mahādevi japaṃ siddhaṃ kuruṣva me ||7||",
+          "meaning": {
+            "ne": "तपाईंलाई नमस्कार, हे शुम्भको हनन गर्ने। तपाईंलाई नमस्कार, हे निशुम्भासुरको घात गर्ने। हे महादेवि, मेरो जपलाई जागृत र सिद्ध गर्नुहोस्।",
+            "en": "Salutations to You, O slayer of Śumbha. Salutations to You, O destroyer of Niśumbhāsura. O Mahādevī, awaken and accomplish my japa."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई शुम्भ र निशुम्भका संहारकका रूपमा सम्बोधन गरिन्छ। अन्त्यमा एउटा प्रार्थना छ—'जाग्रतं हि महादेवि जपं सिद्धं कुरुष्व मे'—हे महादेवि, मेरो जपलाई जागृत र सिद्ध गर्नुहोस्। यो साधकको हार्दिक प्रार्थना हो—देवीले उसको जपलाई सफल बनाउन्।",
+            "en": "In this verse, the Goddess is addressed as the destroyer of Śumbha and Niśumbha. At the end there is a prayer — 'jāgrataṃ hi mahādevi japaṃ siddhaṃ kuruṣva me' — O Mahādevī, awaken and accomplish my japa. This is the practitioner's heartfelt prayer — may the Goddess make his japa successful."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika007.wav"
+        },
+        {
+          "id": "kunjika-08",
+          "number": 8,
+          "sanskrit": "ऐंकारी सृष्टिरूपायै ह्रींकारी प्रतिपालिका। क्लींकारी कामरूपिण्यै बीजरूपे नमोऽस्तु ते॥८॥",
+          "iast": "aiṅkārī sṛṣṭirūpāyai hrīṅkārī pratipālikā | klīṅkārī kāmarūpiṇyai bījarūpe namo'stu te ||8||",
+          "meaning": {
+            "ne": "ऐंकारी सृष्टिरूपा हुन्, ह्रींकारी प्रतिपालिका हुन्, क्लींकारी कामरूपिणी हुन्। हे बीजरूपे, तपाईंलाई नमस्कार।",
+            "en": "She whose form is creation is Aiṅkārī; she who is the protector is Hrīṅkārī; she whose form is desire is Klīṅkārī. O Goddess of the form of the seed, salutations to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका तीन बीज-रूपहरूको वर्णन छ। ऐंकारी—सृष्टिको बीज। ह्रींकारी—पालनको बीज। क्लींकारी—काम (इच्छा) को बीज। यसरी देवी सृष्टि, स्थिति र संहारको तीन शक्तिहरूकी स्वामिनी हुन्। 'बीजरूपे'—बीजको रूपमा स्थित।",
+            "en": "This verse describes the three seed-forms of the Goddess. Aiṅkārī — the seed of creation. Hrīṅkārī — the seed of preservation. Klīṅkārī — the seed of desire. Thus the Goddess is the mistress of the three powers of creation, preservation and dissolution. 'Bījarūpe' — stationed in the form of the seed."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika008.wav"
+        },
+        {
+          "id": "kunjika-09",
+          "number": 9,
+          "sanskrit": "चामुण्डा चण्डघाती च यैकारी वरदायिनी। विच्चे चाभयदा नित्यं नमस्ते मन्त्ररूपिणि॥९॥",
+          "iast": "cāmuṇḍā caṇḍaghātī ca yaikārī varadāyinī | vicce cābhayadā nityaṃ namaste mantrarūpiṇi ||9||",
+          "meaning": {
+            "ne": "चामुण्डा, चण्डको घात गर्ने, यैकारी, वर दिने, विच्चे, सधैं अभय दिने—हे मन्त्ररूपिणि, तपाईंलाई नमस्कार।",
+            "en": "Cāmuṇḍā, slayer of Caṇḍa, the one of the letter Yai, the giver of boons, Vicce, the ever fearlessness-giver — O Goddess of the form of mantra, salutations to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका विभिन्न मन्त्र-रूपहरूको वर्णन छ। चामुण्डा, चण्डघाती, यैकारी, वरदायिनी, विच्चे, अभयदा। 'मन्त्ररूपिणि'—मन्त्रको रूप धारण गर्ने। देवी नै सबै मन्त्रहरूको स्रोत हुन्।",
+            "en": "This verse describes various mantra-forms of the Goddess. Cāmuṇḍā, Caṇḍaghātī, Yaikārī, Varadāyinī, Vicce, Abhayadā. 'Mantrarūpiṇi' — she who assumes the form of mantra. The Goddess is the source of all mantras."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika009.wav"
+        },
+        {
+          "id": "kunjika-10",
+          "number": 10,
+          "sanskrit": "धां धीं धूं धूर्जटेः पत्नी वां वीं वूं वागधीश्वरी। क्रां क्रीं क्रूं कालिका देवि शां शीं शूं मे शुभं कुरु॥१०॥",
+          "iast": "dhāṃ dhīṃ dhūṃ dhūrjaṭeḥ patnī vāṃ vīṃ vūṃ vāgadhīśvarī | krāṃ krīṃ krūṃ kālikā devi śāṃ śīṃ śūṃ me śubhaṃ kuru ||10||",
+          "meaning": {
+            "ne": "धां धीं धूं—धूर्जटि (शिव) की पत्नी। वां वीं वूं—वागधीश्वरी (वाणीकी ईश्वरी)। क्रां क्रीं क्रूं—कालिका देवी। शां शीं शूं—मेरो शुभ गर्नुहोस्।",
+            "en": "Dhāṃ Dhīṃ Dhūṃ — the wife of Dhūrjaṭi (Śiva). Vāṃ Vīṃ Vūṃ — the Goddess of speech. Krāṃ Krīṃ Krūṃ — the Goddess Kālikā. Śāṃ Śīṃ Śūṃ — grant me auspiciousness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका तीन समूहका बीज-अक्षरहरूको वर्णन छ। धां धीं धूं—शिवकी पत्नी। वां वीं वूं—वाणीकी ईश्वरी। क्रां क्रीं क्रूं—कालिका। शां शीं शूं—शुभकर्त्री। यी सबै बीज-अक्षरहरूले देवीको विविध शक्तिहरूलाई प्रकट गर्छन्।",
+            "en": "This verse describes three groups of seed-syllables of the Goddess. Dhāṃ Dhīṃ Dhūṃ — the wife of Śiva. Vāṃ Vīṃ Vūṃ — the Goddess of speech. Krāṃ Krīṃ Krūṃ — Kālikā. Śāṃ Śīṃ Śūṃ — the grantor of auspiciousness. All these seed-syllables reveal the various powers of the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika010.wav"
+        },
+        {
+          "id": "kunjika-11",
+          "number": 11,
+          "sanskrit": "हुं हुं हुंकाररूपिण्यै जं जं जं जम्भनादिनि। भ्रां भ्रीं भ्रूं भैरवी भद्रे भवान्यै ते नमो नमः॥११॥",
+          "iast": "huṃ huṃ huṃkārarūpiṇyai jaṃ jaṃ jaṃ jambhanādini | bhrāṃ bhrīṃ bhrūṃ bhairavī bhadre bhavānyai te namo namaḥ ||11||",
+          "meaning": {
+            "ne": "हुं हुं हुंकार-रूपिणी, जं जं जं जम्भनादिनी, भ्रां भ्रीं भ्रूं भैरवी, भद्रे, भवानी—तपाईंलाई नमो नमः।",
+            "en": "Huṃ Huṃ — she whose form is the sound Huṃ. Jaṃ Jaṃ Jaṃ — she who is the origin of Jambhana. Bhrāṃ Bhrīṃ Bhrūṃ — Bhairavī. O Bhadre, O Bhavāni, salutations to You again and again."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका थप बीज-रूपहरूको वर्णन छ। हुं हुं हुंकार—हुंकारको रूप। जं जं जं—जम्भन (स्तम्भन) को आदि। भ्रां भ्रीं भ्रूं—भैरवी। भद्रे, भवानी—कल्याणकारी। नमो नमः—बारम्बार नमस्कार।",
+            "en": "This verse describes further seed-forms of the Goddess. Huṃ Huṃ Huṃkāra — the form of the sound Huṃ. Jaṃ Jaṃ Jaṃ — the origin of Jambhana (paralysing). Bhrāṃ Bhrīṃ Bhrūṃ — Bhairavī. Bhadre, Bhavāni — the auspicious one. Namo Namaḥ — salutations again and again."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika011.wav"
+        },
+        {
+          "id": "kunjika-12",
+          "number": 12,
+          "sanskrit": "अं कं चं टं तं पं यं शं वीं दुं ऐं वीं हं क्षं। धिजाग्रं धिजाग्रं त्रोटय त्रोटय दीप्तं कुरु कुरु स्वाहा॥१२॥",
+          "iast": "aṃ kaṃ caṃ ṭaṃ taṃ paṃ yaṃ śaṃ vīṃ duṃ aiṃ vīṃ haṃ kṣaṃ | dhijāgraṃ dhijāgraṃ troṭaya troṭaya dīptaṃ kuru kuru svāhā ||12||",
+          "meaning": {
+            "ne": "अं कं चं टं तं पं यं शं वीं दुं ऐं वीं हं क्षं। धिजाग्रं धिजाग्रं—त्रोटय त्रोटय—दीप्तं कुरु कुरु—स्वाहा।",
+            "en": "Aṃ Kaṃ Caṃ Ṭaṃ Taṃ Paṃ Yaṃ Śaṃ Vīṃ Duṃ Aiṃ Vīṃ Haṃ Kṣaṃ. Dhijāgraṃ Dhijāgraṃ — Troṭaya Troṭaya — Dīptaṃ Kuru Kuru — Svāhā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका सबै बीज-अक्षरहरूको संग्रह छ—अं देखि क्षं सम्म। 'धिजाग्रं धिजाग्रं'—जगाउ, जगाउ। 'त्रोटय त्रोटय'—तोड, तोड। 'दीप्तं कुरु कुरु'—दीप्त गर, दीप्त गर। 'स्वाहा'—स्वाहा। यो मन्त्र साधकको मन्त्र-शक्तिलाई जगाउने र शत्रुहरूको शक्तिलाई तोड्ने मन्त्र हो।",
+            "en": "This verse gathers all the seed-syllables of the Goddess — from Aṃ to Kṣaṃ. 'Dhijāgraṃ Dhijāgraṃ' — awaken, awaken. 'Troṭaya Troṭaya' — break, break. 'Dīptaṃ Kuru Kuru' — make radiant, make radiant. 'Svāhā' — svāhā. This mantra awakens the practitioner's mantra-power and breaks the power of enemies."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika012.wav"
+        },
+        {
+          "id": "kunjika-13",
+          "number": 13,
+          "sanskrit": "पां पीं पूं पार्वती पूर्णा खां खीं खूं खेचरी तथा। सां सीं सूं सप्तशती देव्या मन्त्रसिद्धिं कुरुष्व मे॥१३॥",
+          "iast": "pāṃ pīṃ pūṃ pārvatī pūrṇā khāṃ khīṃ khūṃ khecarī tathā | sāṃ sīṃ sūṃ saptaśatī devyā mantrasiddhiṃ kuruṣva me ||13||",
+          "meaning": {
+            "ne": "पां पीं पूं—पार्वती पूर्णा। खां खीं खूं—खेचरी। सां सीं सूं—सप्तशती देवी। मेरो मन्त्रसिद्धि गर्नुहोस्।",
+            "en": "Pāṃ Pīṃ Pūṃ — Pārvatī, the full one. Khāṃ Khīṃ Khūṃ — Khecarī. Sāṃ Sīṃ Sūṃ — the Goddess of the Saptaśatī. Grant me mantra-siddhi."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीका तीन समूहका बीज-अक्षरहरूको वर्णन छ। पां पीं पूं—पार्वती। खां खीं खूं—खेचरी। सां सीं सूं—सप्तशती देवी। 'मन्त्रसिद्धिं कुरुष्व मे'—मेरो मन्त्रसिद्धि गर्नुहोस्। यो साधकको अन्तिम प्रार्थना हो—देवीले उसको मन्त्र-सिद्धि प्रदान गरुन्।",
+            "en": "This verse describes three groups of seed-syllables of the Goddess. Pāṃ Pīṃ Pūṃ — Pārvatī. Khāṃ Khīṃ Khūṃ — Khecarī. Sāṃ Sīṃ Sūṃ — the Goddess of the Saptaśatī. 'Mantrasiddhiṃ kuruṣva me' — grant me mantra-siddhi. This is the practitioner's final prayer — may the Goddess grant him mantra-siddhi."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika013.wav"
+        },
+        {
+          "id": "kunjika-14",
+          "number": 14,
+          "sanskrit": "इदं तु कुञ्जिकास्तोत्रं मन्त्रजागर्तिहेतवे। अभक्ते नैव दातव्यं गोपितं रक्ष पार्वति॥१४॥",
+          "iast": "idaṃ tu kuñjikāstotraṃ mantrajāgartihetave | abhakte naiva dātavyaṃ gopitaṃ rakṣa pārvati ||14||",
+          "meaning": {
+            "ne": "यो कुञ्जिकास्तोत्र मन्त्रको जागरणको कारण हो। हे पार्वती, यसलाई अभक्तलाई कहिल्यै दिनु हुँदैन, गोप्य राखी रक्षा गर्नुहोस्।",
+            "en": "This Kuñjikā Stotram is the cause of awakening the mantra. O Pārvatī, it should never be given to the non-devout; protect it, keeping it secret."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शिव पुनः यस स्तोत्रको गोपनीयताको महत्व बताउँछन्। 'मन्त्रजागर्तिहेतवे'—मन्त्रको जागरणको कारण। 'अभक्ते नैव दातव्यम्'—अभक्तलाई कहिल्यै दिनु हुँदैन। 'गोपितं रक्ष'—गोप्य राखी रक्षा गर्नु। यो स्तोत्र केवल श्रद्धालु भक्तहरूका लागि हो।",
+            "en": "In this verse, Śiva again states the importance of the secrecy of this stotra. 'Mantrajāgartihetave' — the cause of awakening the mantra. 'Abhakte naiva dātavyam' — it should never be given to the non-devout. 'Gopitaṃ rakṣa' — protect it, keeping it secret. This stotra is only for faithful devotees."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika014.wav"
+        },
+        {
+          "id": "kunjika-15",
+          "number": 15,
+          "sanskrit": "यस्तु कुञ्जिकया देवि हीनां सप्तशतीं पठेत्। न तस्य जायते सिद्धिररण्ये रोदनं यथा॥१५॥",
+          "iast": "yastu kuñjikayā devi hīnāṃ saptaśatīṃ paṭhet | na tasya jāyate siddhiraraṇye rodanaṃ yathā ||15||",
+          "meaning": {
+            "ne": "हे देवी, जो कुञ्जिकाबाट हीन (रहित) सप्तशती पाठ गर्छ, उसलाई सिद्धि हुँदैन—जसरी वनमा रुवाबासी गर्नु व्यर्थ हुन्छ।",
+            "en": "O Goddess, one who recites the Saptaśatī devoid of Kuñjikā does not attain siddhi — just as weeping in the forest is futile."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक फलश्रुति हो। 'कुञ्जिकया हीनाम्'—कुञ्जिकाबाट रहित। 'न तस्य जायते सिद्धिः'—उसलाई सिद्धि हुँदैन। 'अरण्ये रोदनं यथा'—जसरी वनमा रुवाबासी गर्नु व्यर्थ। यसरी कुञ्जिकास्तोत्रको पाठ बिना सप्तशतीको पाठ निष्फल हुन्छ। यो श्लोकले स्तोत्रको अनिवार्यतालाई स्थापित गर्छ।",
+            "en": "This final verse is the phala-śruti. 'Kuñjikayā hīnām' — devoid of Kuñjikā. 'Na tasya jāyate siddhiḥ' — he does not attain siddhi. 'Araṇye rodanaṃ yathā' — just as weeping in the forest is futile. Thus the recitation of the Saptaśatī without the Kuñjikā Stotram is fruitless. This verse establishes the necessity of this stotra."
+          },
+          "audio": "audio/devi-mahatmya/siddha-kunjika-stotram/verses/kunjika015.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "सिद्धकुञ्जिकास्तोत्रको सम्पूर्ण प्रवाहलाई हेर्दा यसको गुह्यता, शक्ति, तान्त्रिक बीजमन्त्र, देवीका विविध रूप र सप्तशतीसँगको अभिन्न सम्बन्ध देखिन्छ।\n\nसुरुवाती श्लोकहरूमा शिव स्वयं यो स्तोत्र भन्छन् र यसको महिमा बताउँछन्—यो स्तोत्रको पाठले सप्तशतीको फल दिन्छ, यो देवताहरूलाई पनि दुर्लभ छ, र यसलाई आफ्नै गर्भ झैं रक्षा गर्नुपर्छ।\n\nमध्य श्लोकहरूमा तान्त्रिक बीजमन्त्रहरूको वर्णन छ—ऐं, ह्रीं, क्रीं, धां, वां, क्रां, हुं, जं, भ्रां आदि। देवीका विविध रूपहरू—रुद्ररूपिणी, मधुमर्दिनी, कैटभहारिणी, महिषार्दिनी, शुम्भहन्त्री, निशुम्भघातिनी—को स्तुति गरिन्छ।\n\nअन्तिम श्लोकहरूमा देवीको मन्त्र-रूपको स्तुति, मन्त्रसिद्धिको प्रार्थना, गोपनीयताको महत्व र कुञ्जिका बिना सप्तशती पाठ निष्फल हुने कुरा बताइन्छ।\n\nयस स्तोत्रलाई तीन तहमा पढ्न सकिन्छ: गुह्यता, शक्ति र सिद्धि। गुह्यतामा यसको रहस्यको रक्षा, शक्तिमा यसको मन्त्र-शक्ति, र सिद्धिमा यसको पाठको फल देखिन्छ। यो स्तोत्र दुर्गा सप्तशतीको हृदय हो—जसले साधकलाई मन्त्र-सिद्धि र देवीको कृपा प्रदान गर्छ।",
+      "en": "Read as a whole, Siddhakuñjikā Stotram presents its secrecy, power, tantric seed-mantras, the various forms of the Goddess, and its inseparable connection with the Saptaśatī.\n\nIn the opening verses, Śiva himself speaks this stotra and declares its greatness — its recitation grants the fruit of the Saptaśatī, it is rare even for the gods, and it must be protected as one's own womb.\n\nIn the middle verses, tantric seed-mantras are described — Aiṃ, Hrīṃ, Klīṃ, Dhāṃ, Vāṃ, Krāṃ, Huṃ, Jaṃ, Bhrāṃ and others. The various forms of the Goddess — Rudrarūpiṇī, Madhumardinī, Kaiṭabhahāriṇī, Mahiṣārdinī, Śumbhahantrī, Niśumbhaghātinī — are praised.\n\nIn the final verses, the Goddess's mantra-form is praised, mantra-siddhi is prayed for, the importance of secrecy is stated, and it is declared that the Saptaśatī recitation without Kuñjikā is fruitless.\n\nThe stotra can be studied through three layers: secrecy, power and siddhi. In secrecy, its mystery is protected; in power, its mantra-power is revealed; and in siddhi, the fruit of its recitation is obtained. This stotra is the heart of the Durga Saptashati — granting the practitioner mantra-siddhi and the Goddess's grace."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "सिद्धकुञ्जिकास्तोत्रको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी सिद्धकुञ्जिकास्तोत्रको अध्ययन केवल १५ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Siddhakuñjikā Stotram, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Siddhakuñjikā Stotram does not end simply with reading fifteen verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

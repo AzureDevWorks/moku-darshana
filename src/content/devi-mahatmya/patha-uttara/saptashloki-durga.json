@@ -1,0 +1,197 @@
+{
+  "id": "saptashloki-durga",
+  "title": "Śrī Saptashlokī Durgā",
+  "sanskritTitle": "॥ श्रीसप्तश्लोकी दुर्गा ॥",
+  "type": "stotram",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 7,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Saptashlokī Durgā is a selection of seven verses from the Devī Māhātmya (Mārkaṇḍeya Purāṇa), traditionally taught by the Goddess herself to Lord Śiva for the attainment of all aims in the Kali age. It is also known as Amba Stuti or Sapta Shloki Chandi. The seven verses are drawn from Chapters 1, 2, 4, 5 and 11 of the Devī Māhātmya, and together they are held to contain the essence of the entire Saptaśatī. Recitation of these seven verses is considered equivalent to reciting the full Devī Māhātmya.",
+    "references": [
+      { "name": "Kamakoti — Shri Durga Sapta Shloki", "url": "https://www.kamakoti.org/kamakoti/stotras/stotra11.html" },
+      { "name": "Archive.org — A Jewel from My Mother's Crown (Sapta Sloki Durga)", "url": "https://archive.org/stream/a-jewel-from-my-mothers-crown-sri-amritananda-natha-saraswati/" },
+      { "name": "Utsav App — Durga Saptashloki Stotram", "url": "https://utsavapp.in/gyan/g/significance-of-saptasloki-chandi" },
+      { "name": "Hinduism Stack Exchange — Durga Sapta Sloki", "url": "https://hinduism.stackexchange.com/revisions/0c9457fa-54b6-480b-ac19-9fceaa78297f/view-source" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "सप्तश्लोकीदुर्गाया महिमा",
+      "titleEn": "The Nature and Place of Saptashlokī Durgā",
+      "ne": "श्रीसप्तश्लोकी दुर्गा देवीमाहात्म्यको सार हो। यो सात श्लोकहरूको स्तोत्र हो जसलाई देवी आफैंले भगवान् शिवलाई कलियुगमा सम्पूर्ण कार्यसिद्धिको उपायका रूपमा बताएकी थिइन्। यसलाई 'अम्बास्तुति' वा 'सप्तश्लोकी चण्डी' पनि भनिन्छ।\n\nपरम्परामा विश्वास गरिन्छ कि यी सात श्लोकहरूको पाठ सम्पूर्ण देवीमाहात्म्यको पाठको बराबर फल दिन्छ। देवीमाहात्म्य सात सय श्लोकको विशाल ग्रन्थ हो, जसको नियमित पाठ सबैका लागि सम्भव हुँदैन। त्यसैले देवीले आफ्ना भक्तहरूप्रति करुणावश यो सात श्लोकको स्तोत्र प्रकट गरिन्—जसले सम्पूर्ण सप्तशतीको सारलाई सात श्लोकमा समेट्छ।\n\nयी सात श्लोकहरू देवीमाहात्म्यका विभिन्न अध्यायहरूबाट चुनिएका छन्। पहिलो श्लोक पहिलो अध्यायबाट, दोस्रो दोस्रो अध्यायबाट, तेस्रो र चौथो चौथो अध्यायबाट, पाँचौं पाँचौं अध्यायबाट, छैटौं एघारौं अध्यायबाट र सातौं पनि एघारौं अध्यायबाट लिइएको छ। यसरी यो स्तोत्र देवीमाहात्म्यको समग्र प्रवाहको प्रतिनिधित्व गर्छ।\n\nयस स्तोत्रको विनियोगमा नारायण ऋषि, अनुष्टुप् छन्द र महाकाली, महालक्ष्मी तथा महासरस्वती देवता बताइएका छन्। यसले दुर्गालाई तीनै महादेवीहरूको संयुक्त स्वरूपका रूपमा स्थापित गर्छ—जो एकैचोटि सृष्टि, स्थिति र संहारको शक्ति हुन्।",
+      "en": "Śrī Saptashlokī Durgā is the essence of the Devī Māhātmya. It is a hymn of seven verses taught by the Goddess herself to Lord Śiva as the means for accomplishing all aims in the Kali age. It is also known as Amba Stuti or Sapta Shloki Chandi.\n\nTradition holds that reciting these seven verses yields the same fruit as reciting the entire Devī Māhātmya. The Devī Māhātmya is a vast text of seven hundred verses whose regular recitation is not possible for everyone. Therefore, out of compassion for her devotees, the Goddess revealed this seven-verse hymn — which gathers the essence of the entire Saptaśatī into seven verses.\n\nThese seven verses are selected from different chapters of the Devī Māhātmya. The first verse is from Chapter 1, the second from Chapter 2, the third and fourth from Chapter 4, the fifth from Chapter 5, the sixth from Chapter 11, and the seventh also from Chapter 11. Thus this hymn represents the entire flow of the Devī Māhātmya.\n\nIn the viniyoga, Nārāyaṇa is the seer, Anuṣṭup is the metre, and Mahākālī, Mahālakṣmī and Mahāsarasvatī are the deities. This establishes Durgā as the combined form of all three Great Goddesses — who are simultaneously the powers of creation, preservation and dissolution."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीदुर्गासप्तश्लोकीस्तोत्रमहामन्त्रस्य नारायण ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीमहाकालीमहालक्ष्मीमहासरस्वत्यो देवताः।\nश्रीजगदम्बाप्रीत्यर्थे सप्तश्लोकीदुर्गापाठे विनियोगः॥",
+      "iast": "oṃ asya śrī-durgā-saptaślokī-stotra-mahāmantrasya nārāyaṇa ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-mahākālī-mahālakṣmī-mahāsarasvatyo devatāḥ |\nśrī-jagadambā-prītyarthe saptaślokī-durgā-pāṭhe viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीदुर्गासप्तश्लोकीस्तोत्र महामन्त्रका नारायण ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीमहाकाली, महालक्ष्मी र महासरस्वती देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तश्लोकी दुर्गाको पाठ गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Durgā Saptaślokī Stotra Mahāmantra, Nārāyaṇa is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Mahākālī, Mahālakṣmī and Mahāsarasvatī are the deities. It is recited for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका सात श्लोकमध्ये गणना गरिँदैन। यहाँ तीन देवताहरूको उल्लेखले दुर्गालाई त्रिमूर्ति स्वरूपा सिद्ध गर्छ।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the seven main verses. The mention of three deities here establishes Durgā as the threefold Goddess."
+      },
+      "audio": "audio/devi-mahatmya/saptashloki-durga/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ शिव उवाच। देवि त्वं भक्तसुलभे सर्वकार्यविधायिनि। कलौ हि कार्यसिद्ध्यर्थमुपायं ब्रूहि यत्नतः॥\nदेव्युवाच। शृणु देव प्रवक्ष्यामि कलौ सर्वेष्टसाधनम्। मया तवैव स्नेहेनाप्यम्बास्तुतिः प्रकाश्यते॥",
+      "iast": "oṃ śiva uvāca | devi tvaṃ bhaktasulabhe sarvakāryavidhāyini | kalau hi kāryasiddhyarthamupāyaṃ brūhi yatnataḥ ||\ndevyuvāca | śṛṇu deva pravakṣyāmi kalau sarveṣṭasādhanam | mayā tavaiva snehenāpyambāstutiḥ prakāśyate ||",
+      "meaning": {
+        "ne": "शिवले भने: हे देवी, तपाईं भक्तहरूलाई सुलभ हुनुहुन्छ र सबै कार्यहरू सिद्ध गराउनुहुन्छ। कलियुगमा कार्यसिद्धिका लागि उपाय यत्नपूर्वक भन्नुहोस्।\nदेवीले भने: हे देव, सुन्नुहोस्, म कलियुगमा सम्पूर्ण इच्छाहरूको साधन भन्छु। तपाईंप्रतिको स्नेहले म यो अम्बास्तुति प्रकाश गर्छु।",
+        "en": "Śiva said: O Goddess, You are easily accessible to devotees and accomplish all actions. Tell me with care the means for the accomplishment of aims in the Kali age.\nThe Goddess said: Listen, O God, I shall tell you the means for the fulfilment of all desires in the Kali age. Out of love for you alone, I reveal this Amba Stuti."
+      },
+      "commentary": {
+        "ne": "यो संवाद श्लोक स्तोत्रको पृष्ठभूमि हो। शिवले देवीलाई कलियुगमा सुलभ उपाय सोध्छन्। देवी भन्छिन्—तपाईंप्रतिको स्नेहले यो स्तोत्र प्रकाश गर्छु। यो संवादले स्तोत्रको दिव्य स्रोत र करुणामय उद्देश्यलाई प्रकट गर्छ। कलियुगमा जीवहरूको क्षमता कम हुन्छ, त्यसैले देवीले सात श्लोकको सुलभ साधन दिन्छिन्।",
+        "en": "This dialogue verse is the background of the stotra. Śiva asks the Goddess for an easy means in the Kali age. The Goddess says — out of love for you, I reveal this hymn. This dialogue reveals the divine source and compassionate purpose of the stotra. In the Kali age, the capacity of beings is diminished, so the Goddess provides the easy means of seven verses."
+      },
+      "audio": "audio/devi-mahatmya/saptashloki-durga/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीसप्तश्लोकी दुर्गा",
+      "titleEn": "Śrī Saptashlokī Durgā — Main Recitation",
+      "items": [
+        {
+          "id": "saptashloki-01",
+          "number": 1,
+          "sanskrit": "ज्ञानिनामपि चेतांसि देवी भगवती हि सा। बलादाकृष्य मोहाय महामाया प्रयच्छति॥१॥",
+          "iast": "jñānināmapi cetāṃsi devī bhagavatī hi sā | balādākṛṣya mohāya mahāmāyā prayacchati ||1||",
+          "meaning": {
+            "ne": "त्यो भगवती देवी महामाया हुन्, जसले ज्ञानीहरूका चित्तहरूलाई पनि बलपूर्वक तानेर मोहमा डुबाउँछिन्।",
+            "en": "She is the Goddess Mahāmāyā, who forcibly draws away the minds even of the wise and deludes them."
+          },
+          "commentary": {
+            "ne": "यो श्लोक देवीमाहात्म्यको पहिलो अध्यायबाट लिइएको हो, जहाँ ऋषि मेधाले राजा सुरथ र वैश्य समाधिलाई महामायाको रहस्य बताउँछन्। यस श्लोकको गहिराइ यही छ—महामाया केवल अज्ञानीहरूलाई मात्र होइन, ज्ञानीहरूलाई पनि मोहित गर्छिन्। 'ज्ञानिनामपि'—ज्ञानीहरूका पनि। 'बलात्'—बलपूर्वक, जबरजस्ती। 'मोहाय'—मोहका लागि। यो मोह केवल भ्रम होइन, यो महामायाको लीला हो—जसले संसारको चक्र चलाइरहन्छ। ज्ञानले पनि जसलाई जित्न सक्दैन, त्यो महामाया हो। यसरी यो श्लोक महामायाको सर्वोच्च शक्तिको घोषणा हो—जो सृष्टिको आधार हो।",
+            "en": "This verse is from the first chapter of the Devī Māhātmya, where Sage Medhas reveals the mystery of Mahāmāyā to King Suratha and the Vaiśya Samādhi. The depth of this verse lies here — Mahāmāyā deludes not only the ignorant but even the wise. 'Jñānināmapi' — even of the wise. 'Balāt' — forcibly, by force. 'Mohāya' — for delusion. This delusion is not merely confusion; it is the play of Mahāmāyā — which keeps the wheel of the world turning. That which even knowledge cannot conquer is Mahāmāyā. Thus this verse is the proclamation of Mahāmāyā's supreme power — which is the foundation of creation."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki001.wav"
+        },
+        {
+          "id": "saptashloki-02",
+          "number": 2,
+          "sanskrit": "दुर्गे स्मृता हरसि भीतिमशेषजन्तोः स्वस्थैः स्मृता मतिमतीव शुभां ददासि। दारिद्र्यदुःखभयहारिणि का त्वदन्या सर्वोपकारकरणाय सदार्द्रचित्ता॥२॥",
+          "iast": "durge smṛtā harasi bhītimaśeṣajantoḥ svasthaiḥ smṛtā matimativā śubhāṃ dadāsi | dāridryaduḥkhabhayahāriṇi kā tvadanyā sarvopakārakaraṇāya sadārdracittā ||2||",
+          "meaning": {
+            "ne": "हे दुर्गे, स्मरण गरिएकी तपाईंले सम्पूर्ण प्राणीहरूको भय हरण गर्नुहुन्छ। स्वस्थ मन भएकाहरूले स्मरण गर्दा तपाईं अत्यन्त शुभ बुद्धि प्रदान गर्नुहुन्छ। हे दारिद्र्य, दुःख र भय हरण गर्ने, तपाईंबाहेक अरू को छ जो सबैको उपकार गर्न सदा आर्द्रचित्त छ?",
+            "en": "O Durgā, when remembered, You remove the fear of all beings. When remembered by the healthy, You grant an exceedingly auspicious mind. O remover of poverty, suffering and fear, who else but You is ever soft-hearted for the welfare of all?"
+          },
+          "commentary": {
+            "ne": "यो श्लोक दोस्रो अध्यायबाट लिइएको हो, जहाँ देवताहरूले देवीको स्तुति गर्छन्। यस श्लोकमा देवीको दुई पक्षहरू प्रकट हुन्छन्—भयहरण र शुभबुद्धिदायिनी। 'दुर्गे स्मृता'—हे दुर्गे, स्मरण गरिएकी। 'भीतिमशेषजन्तोः'—सम्पूर्ण प्राणीहरूको भय। 'स्वस्थैः स्मृता'—स्वस्थ मन भएकाहरूले स्मरण गर्दा। 'मतिमतीव शुभाम्'—अत्यन्त शुभ बुद्धि। देवी केवल संकटमा मात्र नभई सुखमा पनि स्मरणीय छिन्—कारण उनी शुभ बुद्धिको स्रोत हुन्। अन्तिम प्रश्न—'का त्वदन्या'—तपाईंबाहेक अरू को? यो प्रश्नको उत्तर देवी आफैं हुन्। देवीको चित्त सदा आर्द्र (करुणाले भरिएको) छ—सबैको उपकारका लागि।",
+            "en": "This verse is from the second chapter, where the gods praise the Goddess. In this verse, two aspects of the Goddess are revealed — the remover of fear and the giver of auspicious intellect. 'Durge smṛtā' — O Durgā, when remembered. 'Bhītimaśeṣajantoḥ' — the fear of all beings. 'Svasthaiḥ smṛtā' — when remembered by the healthy-minded. 'Matimativā śubhām' — an exceedingly auspicious mind. The Goddess is to be remembered not only in danger but also in happiness — for she is the source of auspicious intellect. The final question — 'kā tvadanyā' — who else but You? The answer to this question is the Goddess herself. The Goddess's heart is ever moist (sadārdracittā) with compassion — for the welfare of all."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki002.wav"
+        },
+        {
+          "id": "saptashloki-03",
+          "number": 3,
+          "sanskrit": "सर्वमङ्गलमाङ्गल्ये शिवे सर्वार्थसाधिके। शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥३॥",
+          "iast": "sarvamaṅgalamāṅgalye śive sarvārthasādhike | śaraṇye tryambake gauri nārāyaṇi namo'stu te ||3||",
+          "meaning": {
+            "ne": "सबै मंगलहरूमा मंगलमयी, शिवा, सबै अर्थहरूको साधक, शरण दिने, त्र्यम्बके, गौरी, नारायणी—तपाईंलाई नमस्कार।",
+            "en": "O Goddess who is the auspiciousness of all that is auspicious, auspicious one, accomplisher of all aims, giver of refuge, three-eyed one, Gaurī, Nārāyaṇī — salutations to You."
+          },
+          "commentary": {
+            "ne": "यो श्लोक चौथो अध्यायबाट लिइएको हो र यो सप्तश्लोकीको सर्वाधिक प्रसिद्ध श्लोक हो। यसमा देवीका सात नामहरूको स्तुति गरिन्छ। 'सर्वमङ्गलमाङ्गल्ये'—सबै मंगलहरूमा सर्वोच्च मंगल। 'शिवे'—कल्याणकारी। 'सर्वार्थसाधिके'—सबै उद्देश्य पूर्ण गर्ने। 'शरण्ये'—शरण दिने। 'त्र्यम्बके'—त्रिनेत्री। 'गौरि'—गौर वर्णकी। 'नारायणि'—विष्णुकी शक्ति। यी सात नामहरूले देवीको बहुआयामिक स्वरूपलाई प्रकट गर्छन्। 'नारायणि' भन्नाले देवी केवल दुर्गा मात्र नभई विष्णुकी शक्ति पनि हुन्—यसरी शाक्त र वैष्णव परम्पराहरूको एकीकरण हुन्छ। यो श्लोक भक्तिको चरम हो—जहाँ साधक देवीका सबै नामहरूमा समर्पण गर्छ।",
+            "en": "This verse is from the fourth chapter and is the most famous verse of the Saptashlokī. It praises the Goddess through seven names. 'Sarvamaṅgalamāṅgalye' — the supreme auspiciousness among all auspicious things. 'Śive' — the beneficent one. 'Sarvārthasādhike' — accomplisher of all aims. 'Śaraṇye' — giver of refuge. 'Tryambake' — the three-eyed one. 'Gauri' — the fair-complexioned one. 'Nārāyaṇi' — the power of Viṣṇu. These seven names reveal the multidimensional nature of the Goddess. 'Nārāyaṇi' means the Goddess is not only Durgā but also the power of Viṣṇu — thus integrating the Śākta and Vaiṣṇava traditions. This verse is the peak of devotion — where the practitioner surrenders to all the names of the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki003.wav"
+        },
+        {
+          "id": "saptashloki-04",
+          "number": 4,
+          "sanskrit": "शरणागतदीनार्तपरित्राणपरायणे। सर्वस्यार्तिहरे देवि नारायणि नमोऽस्तु ते॥४॥",
+          "iast": "śaraṇāgatadīnārtaparitrāṇaparāyaṇe | sarvasyārtihare devi nārāyaṇi namo'stu te ||4||",
+          "meaning": {
+            "ne": "शरणमा आएका दीन, दुःखीहरूको त्राण गर्न परायण, सबैको आर्ति (पीडा) हरण गर्ने देवी नारायणीलाई नमस्कार।",
+            "en": "O Goddess Nārāyaṇī, devoted to the protection of the humble and afflicted who take refuge, remover of the suffering of all — salutations to You."
+          },
+          "commentary": {
+            "ne": "यो श्लोक पनि चौथो अध्यायबाट लिइएको हो। 'शरणागत'—शरणमा आएका। 'दीन'—दीन। 'आर्त'—दुःखी। 'परित्राणपरायणे'—त्राण गर्न तत्पर। देवी केवल शक्तिशालीहरूको मात्र नभई दीन, दुःखी र शरणागतहरूको पनि रक्षक हुन्। 'सर्वस्यार्तिहरे'—सबैको पीडा हरण गर्ने। यो श्लोक देवीको करुणामय पक्षलाई प्रकट गर्छ—उनी केवल संहारक नभई पालक र त्राता पनि हुन्। 'नारायणि' सम्बोधनले देवीलाई विष्णुकी शक्तिका रूपमा स्थापित गर्छ—जो सृष्टिको पालन गर्छिन्।",
+            "en": "This verse is also from the fourth chapter. 'Śaraṇāgata' — those who have taken refuge. 'Dīna' — the humble. 'Ārta' — the afflicted. 'Paritrāṇaparāyaṇe' — devoted to protection. The Goddess is the protector not only of the powerful but also of the humble, the afflicted and those who take refuge. 'Sarvasyārtihare' — remover of the suffering of all. This verse reveals the compassionate aspect of the Goddess — she is not only a destroyer but also a nurturer and saviour. The address 'Nārāyaṇi' establishes the Goddess as the power of Viṣṇu — who sustains creation."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki004.wav"
+        },
+        {
+          "id": "saptashloki-05",
+          "number": 5,
+          "sanskrit": "सर्वस्वरूपे सर्वेशे सर्वशक्तिसमन्विते। भयेभ्यस्त्राहि नो देवि दुर्गे देवि नमोऽस्तु ते॥५॥",
+          "iast": "sarvasvarūpe sarveśe sarvaśaktisamanvite | bhayebhyastrāhi no devi durge devi namo'stu te ||5||",
+          "meaning": {
+            "ne": "सबै स्वरूपहरूमा विद्यमान, सबैकी ईश्वरी, सबै शक्तिहरूले समन्वित—हे देवी, हामीलाई भयहरूबाट त्राण दिनुहोस्। हे दुर्गे देवी, तपाईंलाई नमस्कार।",
+            "en": "O Goddess who is the form of all, the sovereign of all, endowed with all powers — protect us from fears. O Durgā Devī, salutations to You."
+          },
+          "commentary": {
+            "ne": "यो श्लोक पाँचौं अध्यायबाट लिइएको हो। 'सर्वस्वरूपे'—सबै स्वरूपहरूमा विद्यमान। 'सर्वेशे'—सबैकी ईश्वरी। 'सर्वशक्तिसमन्विते'—सबै शक्तिहरूले युक्त। देवी केवल एक स्वरूप मात्र नभई सबै स्वरूपहरू हुन्। 'भयेभ्यस्त्राहि'—भयहरूबाट त्राण दिनुहोस्। यो श्लोक भयमुक्तिको प्रार्थना हो। देवी सर्वशक्तिमयी छिन्—त्यसैले उनी सबै भयहरूबाट रक्षा गर्न सक्छिन्। 'दुर्गे देवि'—दुर्गम पार गराउने देवी। यो श्लोक साधकलाई अभयताको वरदान दिन्छ।",
+            "en": "This verse is from the fifth chapter. 'Sarvasvarūpe' — present in all forms. 'Sarveśe' — sovereign of all. 'Sarvaśaktisamanvite' — endowed with all powers. The Goddess is not merely one form but all forms. 'Bhayebhyastrāhi' — protect us from fears. This verse is a prayer for freedom from fear. The Goddess is all-powerful — therefore she can protect from all fears. 'Durge Devi' — Goddess who carries across the impassable. This verse grants the practitioner the boon of fearlessness."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki005.wav"
+        },
+        {
+          "id": "saptashloki-06",
+          "number": 6,
+          "sanskrit": "रोगानशेषानपहंसि तुष्टा रुष्टा तु कामान् सकलानभीष्टान्। त्वमाश्रितानां न विपन्नराणां त्वमाश्रिता ह्याश्रयतां प्रयान्ति॥६॥",
+          "iast": "rogānaśeṣānapahaṃsi tuṣṭā ruṣṭā tu kāmān sakalānabhīṣṭān | tvamāśritānāṃ na vipannarāṇāṃ tvamāśritā hyāśrayatāṃ prayānti ||6||",
+          "meaning": {
+            "ne": "तपाईं प्रसन्न हुँदा सम्पूर्ण रोगहरू हरण गर्नुहुन्छ, रुष्ट हुँदा सम्पूर्ण अभीष्ट कामनाहरू नष्ट गर्नुहुन्छ। तपाईंको आश्रितहरूको विपत्ति हुँदैन, तपाईंको आश्रयमा आएकाहरू आश्रय दिने बन्छन्।",
+            "en": "When pleased, You remove all diseases; when angry, You destroy all desired wishes. Those who have taken refuge in You do not suffer calamity; those who have taken refuge in You become themselves a refuge for others."
+          },
+          "commentary": {
+            "ne": "यो श्लोक एघारौं अध्यायबाट लिइएको हो। 'रोगानशेषान्'—सम्पूर्ण रोगहरू। 'अपहंसि'—हरण गर्नुहुन्छ। 'तुष्टा'—प्रसन्न हुँदा। 'रुष्टा'—रुष्ट हुँदा। 'कामान् सकलान्'—सबै कामनाहरू। देवीको प्रसन्नता र रुष्टताको द्वैध स्वभाव यहाँ प्रकट हुन्छ। तर अन्तिम दुई चरणहरूमा एउटा गहिरो सत्य छ—'त्वमाश्रितानां न विपन्नराणाम्'—तपाईंको आश्रितहरूको विपत्ति हुँदैन। 'त्वमाश्रिता ह्याश्रयतां प्रयान्ति'—तपाईंको आश्रयमा आएकाहरू आफैं आश्रय दिने बन्छन्। यो श्लोकको सौन्दर्य यही हो—जो देवीको शरणमा जान्छ, ऊ केवल रक्षित मात्र हुँदैन, ऊ आफैं अरूको रक्षक बन्छ। यो करुणाको शृंखला हो—जो देवीबाट प्राप्त हुन्छ, त्यो अरूलाई दिइन्छ।",
+            "en": "This verse is from the eleventh chapter. 'Rogānaśeṣān' — all diseases. 'Apahaṃsi' — You remove. 'Tuṣṭā' — when pleased. 'Ruṣṭā' — when angry. 'Kāmān sakalān' — all desires. The dual nature of the Goddess's pleasure and wrath is revealed here. But in the final two quarters there is a profound truth — 'tvamāśritānāṃ na vipannarāṇām' — those who have taken refuge in You do not suffer calamity. 'Tvamāśritā hyāśrayatāṃ prayānti' — those who have taken refuge in You themselves become a refuge for others. The beauty of this verse lies here — one who goes to the Goddess's refuge is not merely protected; they themselves become a protector of others. This is the chain of compassion — what is received from the Goddess is given to others."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki006.wav"
+        },
+        {
+          "id": "saptashloki-07",
+          "number": 7,
+          "sanskrit": "सर्वाबाधाप्रशमनं त्रैलोक्यस्याखिलेश्वरि। एवमेव त्वया कार्यमस्मद्वैरिविनाशनम्॥७॥",
+          "iast": "sarvābādhāpraśamanaṃ trailokyasya akhileśvari | evameva tvayā kāryamasmadvairivināśanam ||7||",
+          "meaning": {
+            "ne": "हे त्रैलोक्यकी अखिलेश्वरी, सम्पूर्ण बाधाहरूको प्रशमन गर्नुहोस्। त्यसैगरी तपाईंले हाम्रो शत्रुहरूको विनाश गर्नुपर्छ।",
+            "en": "O Sovereign of all the three worlds, pacify all obstacles. Even so, You must destroy our enemies."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक पनि एघारौं अध्यायबाट लिइएको हो। 'सर्वाबाधाप्रशमनम्'—सम्पूर्ण बाधाहरूको प्रशमन। 'त्रैलोक्यस्य अखिलेश्वरि'—तीनै लोकहरूकी अखिलेश्वरी। 'अस्मद्वैरिविनाशनम्'—हाम्रो शत्रुहरूको विनाश। यो श्लोक देवताहरूको प्रार्थना हो—जहाँ तिनीहरूले देवीलाई सम्पूर्ण बाधाहरू हटाउन र शत्रुहरूको नाश गर्न प्रार्थना गर्छन्। 'शत्रु' यहाँ केवल बाह्य शत्रु मात्र नभई आन्तरिक शत्रुहरू पनि हुन्—क्रोध, लोभ, मोह, अहंकार। यसरी यो श्लोक आन्तरिक शुद्धिको प्रार्थना पनि हो। जब आन्तरिक शत्रुहरू नष्ट हुन्छन्, तब बाह्य शत्रुहरू पनि स्वतः शान्त हुन्छन्। यो सप्तश्लोकीको समापन श्लोक हो—जसले सम्पूर्ण बाधाहरूको नाश र शत्रुहरूको विनाशको प्रार्थनामा स्तोत्रलाई पूर्ण गर्छ।",
+            "en": "This final verse is also from the eleventh chapter. 'Sarvābādhāpraśamanam' — pacification of all obstacles. 'Trailokyasya akhileśvari' — Sovereign of all the three worlds. 'Asmadvairivināśanam' — destruction of our enemies. This verse is the prayer of the gods — where they pray to the Goddess to remove all obstacles and destroy the enemies. 'Enemies' here are not merely outer enemies but also inner enemies — anger, greed, delusion, ego. Thus this verse is also a prayer for inner purification. When inner enemies are destroyed, outer enemies are automatically pacified. This is the concluding verse of the Saptashlokī — which completes the hymn with the prayer for the destruction of all obstacles and the annihilation of enemies."
+          },
+          "audio": "audio/devi-mahatmya/saptashloki-durga/verses/saptashloki007.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "सप्तश्लोकी दुर्गाको सम्पूर्ण प्रवाहलाई हेर्दा महामायाको शक्ति, देवीको करुणा, शरणागति, सर्वव्यापकता, भयमुक्ति, रोगनाश, समृद्धि र शत्रुनाशको भाव देखिन्छ।\n\nपहिलो श्लोक महामायाको सर्वोच्च शक्तिको घोषणा हो—जसले ज्ञानीहरूलाई पनि मोहित गर्छिन्। दोस्रो श्लोक देवीको द्वैध स्वभाव देखाउँछ—भयहरण र शुभबुद्धिदायिनी। तेस्रो श्लोक देवीका सात नामहरूद्वारा स्तुति गर्छ—जसले देवीलाई सर्वोच्च मंगल, सर्वार्थसाधिक, शरण्य, त्र्यम्बके, गौरी र नारायणीका रूपमा स्थापित गर्छ।\n\nचौथो श्लोक देवीको करुणामय पक्षलाई प्रकट गर्छ—दीन, दुःखी र शरणागतहरूको त्राण। पाँचौं श्लोक देवीको सर्वस्वरूपता र सर्वशक्तिमत्ताको घोषणा गर्दै भयमुक्तिको प्रार्थना गर्छ। छैटौं श्लोकमा देवीको प्रसन्नता र रुष्टताको द्वैध स्वभाव र आश्रितहरूको रक्षाको सत्य प्रकट हुन्छ। सातौं श्लोक सम्पूर्ण बाधाहरूको नाश र शत्रुहरूको विनाशको प्रार्थनामा समापन गर्छ।\n\nयस स्तोत्रलाई तीन तहमा पढ्न सकिन्छ: महिमा, शरणागति र फल। महिमामा देवीको शक्ति र करुणा गाइन्छ, शरणागतिमा साधक देवीको शरणमा जान्छ, र फलमा भयमुक्ति, रोगनाश, समृद्धि र शत्रुनाश प्राप्त हुन्छ। यी सात श्लोकहरूमा सम्पूर्ण देवीमाहात्म्यको सार समेटिएको छ—जसले साधकलाई जीवनका सबै पक्षहरूमा देवीको कृपा प्रदान गर्छ।",
+      "en": "Read as a whole, Saptashlokī Durgā presents the themes of Mahāmāyā's power, the Goddess's compassion, surrender, all-pervasiveness, freedom from fear, destruction of disease, prosperity, and the annihilation of enemies.\n\nThe first verse is the proclamation of Mahāmāyā's supreme power — who deludes even the wise. The second verse shows the Goddess's dual nature — remover of fear and giver of auspicious intellect. The third verse praises the Goddess through seven names — establishing her as the supreme auspiciousness, accomplisher of all aims, giver of refuge, three-eyed one, Gaurī and Nārāyaṇī.\n\nThe fourth verse reveals the compassionate aspect of the Goddess — the protection of the humble, afflicted and those who take refuge. The fifth verse proclaims the Goddess's omniformity and omnipotence, praying for freedom from fear. The sixth verse reveals the dual nature of the Goddess's pleasure and wrath, and the truth of the protection of those who take refuge. The seventh verse concludes with the prayer for the destruction of all obstacles and the annihilation of enemies.\n\nThe hymn can be studied through three layers: greatness, surrender and fruit. In greatness, the Goddess's power and compassion are sung; in surrender, the practitioner takes refuge in the Goddess; and in fruit, freedom from fear, destruction of disease, prosperity and annihilation of enemies are attained. In these seven verses is gathered the essence of the entire Devī Māhātmya — which grants the practitioner the Goddess's grace in all aspects of life."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "सप्तश्लोकी दुर्गाको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी सप्तश्लोकी दुर्गाको अध्ययन केवल सात श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Saptashlokī Durgā, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Saptashlokī Durgā does not end simply with reading seven verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

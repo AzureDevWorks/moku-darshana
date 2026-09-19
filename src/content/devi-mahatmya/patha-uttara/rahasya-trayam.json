@@ -1,0 +1,1618 @@
+{
+  "id": "rahasya-trayam",
+  "title": "Rahasyatrayam",
+  "sanskritTitle": "॥ श्रीरहस्यत्रयम् ॥",
+  "type": "rahasya",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 103,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Rahasyatrayam (Three Secrets) comprises the Prādhānika Rahasya, the Vaikṛtika Rahasya and the Mūrti Rahasya, which together form the esoteric conclusion of the Devī Māhātmya. These three secrets are traditionally recited after the thirteen chapters of the Saptaśatī. The Prādhānika Rahasya (32 verses) teaches the philosophical essence — the Goddess as the root of all existence. The Vaikṛtika Rahasya (39 verses) describes the three great streams of cosmic energy — Mahākālī, Mahālakṣmī and Mahāsarasvatī. The Mūrti Rahasya (30 verses) describes the five primary forms — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī. The received recension preserves 101 verses across the three secrets, plus two invocation verses. The selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Digital Temple of the Divine Mother — The Three Secrets", "url": "https://devimahatmya.com/angas/" },
+      { "name": "Vedadhara — Rahasyatrayam of Devi Mahatmya", "url": "https://www.vedadhara.com/rahasyatrayam" },
+      { "name": "Stotra Nidhi — Durga Saptashati Rahasyatrayam", "url": "https://stotranidhi.com/hi/durga-saptashati-rahasyatrayam-in-sanskrit/" },
+      { "name": "Shodhganga — A Study of Rahasyatraya of Devi Mahatmya", "url": "https://shodhganga.inflibnet.ac.in" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "रहस्यत्रयस्य महिमा",
+      "titleEn": "The Nature and Place of Rahasyatrayam",
+      "ne": "रहस्यत्रयम् देवीमाहात्म्यको तीन गुह्य शिक्षाहरूको संग्रह हो। यो सप्तशतीको तेह्र अध्यायहरूको पाठ पूरा भएपछि पठन गरिन्छ र यसले सम्पूर्ण देवीमाहात्म्यको दार्शनिक, तान्त्रिक र उपासनात्मक सारलाई समेट्छ।\n\nरहस्यत्रयम् तीन भागहरूमा विभाजित छ—प्राधानिकरहस्यम्, वैकृतिकरहस्यम् र मूर्तिरहस्यम्। प्रत्येक रहस्यले देवीको एक फरक आयामलाई प्रकट गर्छ।\n\nप्राधानिकरहस्यम् (३२ श्लोक) देवीमाहात्म्यको दार्शनिक हृदय हो। यसले देवीलाई सम्पूर्ण सृष्टिको मूल कारण, आदि शक्ति र परम सत्ताका रूपमा स्थापित गर्छ। यो अद्वैत वेदान्त र शाक्त दर्शनको संगम हो—जहाँ महामायाको शक्तिले ज्ञानीलाई पनि मोहित गर्छ भन्ने सत्य प्रकट हुन्छ।\n\nवैकृतिकरहस्यम् (३९ श्लोक) देवीको तीन प्रमुख शक्ति-धाराहरू—महाकाली, महालक्ष्मी र महासरस्वती—को वर्णन गर्छ, जो क्रमशः तमस्, रजस् र सत्त्व गुणसँग सम्बन्धित छन्। यो सृष्टिको मूल प्रक्रियाको गूढ ज्ञान हो—जसले एकत्वबाट अनेकत्वको यात्रा देखाउँछ।\n\nमूर्तिरहस्यम् (३० श्लोक) देवीका पाँच मुख्य मूर्तिहरू—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी—को वर्णन गर्छ। प्रत्येक मूर्ति ब्रह्माण्डीय संकटको एक फरक क्षण र दिव्य प्रतिक्रियासँग सम्बन्धित छ। यो भक्ति र ध्यानको एक अद्भुत मार्गदर्शक हो।\n\nयी तीनै रहस्यहरू मिलेर देवीमाहात्म्यको पूर्णता प्रदान गर्छन्। जसले सप्तशतीको पाठ गरेर यी रहस्यहरूको पाठ गर्दैन, उसको पाठ अपूर्ण रहन्छ। यसरी रहस्यत्रयम् देवी-उपासनाको चरम रहस्य हो—जसले साधकलाई देवीसायुज्यको मार्ग देखाउँछ।",
+      "en": "Rahasyatrayam is the collection of the three secret teachings of the Devī Māhātmya. It is recited after the completion of the thirteen chapters of the Saptaśatī and contains the philosophical, tantric and devotional essence of the entire Devī Māhātmya.\n\nRahasyatrayam is divided into three parts — Prādhānika Rahasya, Vaikṛtika Rahasya and Mūrti Rahasya. Each secret reveals a different dimension of the Goddess.\n\nPrādhānika Rahasya (32 verses) is the philosophical heart of the Devī Māhātmya. It establishes the Goddess as the root cause of all creation, the primordial energy and the supreme reality. It is the confluence of Advaita Vedānta and Śākta philosophy — where the truth that Mahāmāyā deludes even the wise is revealed.\n\nVaikṛtika Rahasya (39 verses) describes the Goddess's three primary streams of energy — Mahākālī, Mahālakṣmī and Mahāsarasvatī — corresponding respectively to the guṇas of tamas, rajas and sattva. This is the esoteric knowledge of the fundamental process of creation — showing the journey from unity to multiplicity.\n\nMūrti Rahasya (30 verses) describes the Goddess's five primary forms — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī. Each form is associated with a different moment of cosmic crisis and divine response. It is a wonderful guide to devotion and meditation.\n\nAll three secrets together grant the completeness of the Devī Māhātmya. One who recites the Saptaśatī but does not recite these secrets leaves their recitation incomplete. Thus Rahasyatrayam is the ultimate secret of Goddess worship — showing the practitioner the path to union with the Goddess."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीरहस्यत्रयस्तोत्रमहामन्त्रस्य मार्कण्डेय ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीचण्डिका देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-rahasyatraya-stotra-mahāmantrasya mārkaṇḍeya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-caṇḍikā devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीरहस्यत्रयस्तोत्र महामन्त्रका मार्कण्डेय ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचण्डिका देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Rahasyatraya Stotra Mahāmantra, Mārkaṇḍeya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Caṇḍikā is the presiding deity. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका १०१ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the 101 main verses."
+      },
+      "audio": "audio/devi-mahatmya/rahasya-trayam/viniyoga.wav"
+    },
+    {
+      "id": "prathamam-rahasya",
+      "type": "rahasya",
+      "title": "प्रथमं रहस्यम् — प्राधानिकरहस्यम्",
+      "titleEn": "First Secret — Prādhānika Rahasya",
+      "description": {
+        "ne": "प्राधानिकरहस्यम् देवीमाहात्म्यको पहिलो र सर्वाधिक महत्वपूर्ण रहस्य हो। यसले देवीलाई सम्पूर्ण सृष्टिको मूल कारण, आदि शक्ति र परम सत्ताका रूपमा स्थापित गर्छ। यो अद्वैत वेदान्त र शाक्त दर्शनको संगम हो।",
+        "en": "Prādhānika Rahasya is the first and most important secret of the Devī Māhātmya. It establishes the Goddess as the root cause of all creation, the primordial energy and the supreme reality. It is the confluence of Advaita Vedānta and Śākta philosophy."
+      },
+      "items": [
+        {
+          "id": "pradhanika-01",
+          "number": 1,
+          "sanskrit": "ॐ ऋषिरुवाच। सावर्णिः सूर्यतनयो यो मनुः कथ्यतेऽष्टमः। निशामय तदुत्पत्तिं विस्तराद्गदतो मम॥१॥",
+          "iast": "oṃ ṛṣiruvāca | sāvarṇiḥ sūryatanayo yo manuḥ kathyate'ṣṭamaḥ | niśāmaya tadutpattiṃ vistarādgadato mama ||1||",
+          "meaning": {
+            "ne": "ॐ ऋषिले भने: सावर्णि, सूर्यका पुत्र, जो आठौं मनु भनिन्छन्—मैले विस्तारै भनिरहेको उनको उत्पत्ति सुन्नुहोस्।",
+            "en": "Oṁ. The sage said: Sāvarṇi, son of Sūrya, is said to be the eighth Manu. Hear from me about his birth, while I narrate in detail."
+          },
+          "commentary": {
+            "ne": "यो श्लोक प्राधानिकरहस्यको प्रारम्भ हो। ऋषि मार्कण्डेयले राजा सुरथलाई सावर्णि मनुको कथा सुनाउन सुरु गर्छन्। यो कथा देवीमाहात्म्यको पहिलो अध्यायसँग सम्बन्धित छ।",
+            "en": "This verse begins the Prādhānika Rahasya. Sage Mārkaṇḍeya begins narrating the story of Sāvarṇi Manu to King Suratha. This story is connected with the first chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika001.wav"
+        },
+        {
+          "id": "pradhanika-02",
+          "number": 2,
+          "sanskrit": "महामायानुभावेन यथा मन्वन्तराधिपः। स बभूव महाभागः सावर्णिस्तनयो रवेः॥२॥",
+          "iast": "mahāmāyānubhāvena yathā manvantarādhipaḥ | sa babhūva mahābhāgaḥ sāvarṇistanayo raveḥ ||2||",
+          "meaning": {
+            "ne": "महामायाको प्रभावले कसरी महाभाग्यशाली सावर्णि, रविका पुत्र, मन्वन्तरका अधिपति भए।",
+            "en": "Hear how that illustrious Sāvarṇi, the son of Ravi, became the lord of a Manvantara through the influence of Mahāmāyā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महामायाको प्रभावले सावर्णि मन्वन्तरका अधिपति भएको वर्णन छ। 'महामायानुभावेन'—महामायाको प्रभावले। यो महामायाको शक्तिको प्रतीक हो।",
+            "en": "In this verse, the influence of Mahāmāyā in making Sāvarṇi the lord of a Manvantara is described. 'Mahāmāyānubhāvena' — through the influence of Mahāmāyā. This symbolises the power of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika002.wav"
+        },
+        {
+          "id": "pradhanika-03",
+          "number": 3,
+          "sanskrit": "स्वारोचिषेऽन्तरे पूर्वं चैत्रवंशसमुद्भवः। सुरथो नाम राजाभूत्समस्ते क्षितिमण्डले॥३॥",
+          "iast": "svārociṣe'ntare pūrvaṃ caitravaṃśasamudbhavaḥ | suratho nāma rājābhūtsamaste kṣitimaṇḍale ||3||",
+          "meaning": {
+            "ne": "पहिले स्वारोचिष मन्वन्तरमा, चैत्र वंशमा उत्पन्न भएका सुरथ नामका राजा सम्पूर्ण पृथ्वीमण्डलमा राजा थिए।",
+            "en": "Formerly, in the period of Manu Svarochiṣa, there was a king named Suratha, born in the family of Chaitra, who ruled over the entire earth."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको परिचय दिइएको छ। 'समस्ते क्षितिमण्डले'—सम्पूर्ण पृथ्वीमण्डलमा। यो कथा देवीमाहात्म्यको पहिलो अध्यायसँग सम्बन्धित छ।",
+            "en": "In this verse, the introduction of King Suratha is given. 'Samaste kṣitimaṇḍale' — over the entire earth. This story is connected with the first chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika003.wav"
+        },
+        {
+          "id": "pradhanika-04",
+          "number": 4,
+          "sanskrit": "तस्य पालयतः सम्यक् प्रजाः पुत्रानिवौरसान्। बभूवुः शत्रवो भूपाः कोलाविध्वंसिनस्तदा॥४॥",
+          "iast": "tasya pālayataḥ samyak prajāḥ putrānivaurasān | babhūvuḥ śatravo bhūpāḥ kolāvidhvaṃsinastadā ||4||",
+          "meaning": {
+            "ne": "उनले आफ्ना प्रजाहरूलाई आफ्नै पुत्रहरूझैं राम्ररी पालन गर्दा, कोलाविध्वंसी राजाहरू उनका शत्रु भए।",
+            "en": "When he was protecting his subjects well as he would his own legitimate sons, the kings who were destroyers of Kolas became his enemies."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको शत्रुताको वर्णन छ। 'पुत्रानिव'—पुत्रहरूझैं। 'शत्रवः'—शत्रुहरू। यो संसारिक जीवनको संघर्षको प्रतीक हो।",
+            "en": "In this verse, King Suratha's enmity is described. 'Putrāniva' — like sons. 'Śatravaḥ' — enemies. This symbolises the struggle of worldly life."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika004.wav"
+        },
+        {
+          "id": "pradhanika-05",
+          "number": 5,
+          "sanskrit": "तस्य तैरभवद् युद्धमतिप्रबलदण्डिनः। न्यूनैरपि स तैर्युद्धे कोलाविध्वंसिभिर्जितः॥५॥",
+          "iast": "tasya tairabhavad yuddhamatiprabaladaṇḍinaḥ | nyūnairapi sa tairyuddhe kolāvidhvaṃsibhirjitaḥ ||5||",
+          "meaning": {
+            "ne": "अत्यन्त बलवान् दण्ड भएका उनको तिनीहरूसँग युद्ध भयो। तर तिनीहरूभन्दा कम भए पनि कोलाविध्वंसीहरूबाट उनी युद्धमा पराजित भए।",
+            "en": "There was a battle between him, possessed of very strong forces, and them. But he was conquered in battle by the destroyers of Kolas though they were inferior to him."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको पराजयको वर्णन छ। 'न्यूनैः'—कम भए पनि। 'जितः'—पराजित। यो दैव र महामायाको शक्तिको प्रतीक हो।",
+            "en": "In this verse, King Suratha's defeat is described. 'Nyūnaiḥ' — though inferior. 'Jitaḥ' — conquered. This symbolises the power of destiny and Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika005.wav"
+        },
+        {
+          "id": "pradhanika-06",
+          "number": 6,
+          "sanskrit": "ततः स्वपुरमायातो निजदेशाधिपोऽभवत्। आक्रान्तः स महाभागस्तैस्तदा प्रबलारिभिः॥६॥",
+          "iast": "tataḥ svapuramāyāto nijadeśādhipo'bhavat | ākrāntaḥ sa mahābhāgastaistadā prabalāribhiḥ ||6||",
+          "meaning": {
+            "ne": "त्यसपछि उनी आफ्नै नगरमा फर्किए र आफ्नो देशका अधिपति भए। तर त्यहाँ पनि ती प्रबल शत्रुहरूले उनलाई आक्रमण गरे।",
+            "en": "Then he returned to his city and became the head of his own country. There again that illustrious one was attacked by powerful enemies."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथ आफ्नै नगरमा फर्किए पनि शत्रुहरूले पछ्याएको वर्णन छ। यो संसारिक जीवनमा शत्रुता र संघर्षको निरन्तरतालाई देखाउँछ।",
+            "en": "In this verse, King Suratha's return to his own city and the pursuit by enemies is described. This shows the continuity of hostility and struggle in worldly life."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika006.wav"
+        },
+        {
+          "id": "pradhanika-07",
+          "number": 7,
+          "sanskrit": "अमात्यैर्बलिभिर्दुष्टैर्दुर्बलस्य दुरात्मभिः। कोशो बलं चापहृतं तत्रापि स्वपुरे ततः॥७॥",
+          "iast": "amātyairbalibhirduṣṭairdurbalasya durātmabhiḥ | kośo balaṃ cāpahṛtaṃ tatrāpi svapure tataḥ ||7||",
+          "meaning": {
+            "ne": "दुर्बल राजाको कोश र बल त्यसैको नगरमा बलवान् दुष्ट र दुरात्मा अमात्यहरूले हरण गरे।",
+            "en": "The treasury and army of the weak king were seized by his strong wicked ministers of evil designs, that too in his own city."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथका अमात्यहरूले विश्वासघात गरेको वर्णन छ। यो आन्तरिक शत्रु बाह्य शत्रुभन्दा खतरनाक हुन्छन् भन्ने देखाउँछ।",
+            "en": "In this verse, the betrayal by King Suratha's ministers is described. This shows that internal enemies are more dangerous than external ones."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika007.wav"
+        },
+        {
+          "id": "pradhanika-08",
+          "number": 8,
+          "sanskrit": "ततो मृगयाव्याजेन हृतस्वाम्यः स भूपतिः। एकाकी हयमारुह्य जगाम गहनं वनम्॥८॥",
+          "iast": "tato mṛgayāvyājena hṛtasvāmyaḥ sa bhūpatiḥ | ekākī hayamāruhya jagāma gahanaṃ vanam ||8||",
+          "meaning": {
+            "ne": "त्यसपछि आफ्नो सार्वभौमिकता हरण भएको त्यो राजा, शिकारको बहाना गरी, एक्लै घोडामा चढेर घना वनमा गए।",
+            "en": "Then the king, deprived of authority, on the pretext of hunting, mounted on a horse and proceeded to the dense forest, all alone."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथ वनमा गएको वर्णन छ। यो वन प्रवेश आन्तरिक यात्राको प्रतीक हो—जहाँ उनी आफ्नो मनको प्रश्नको उत्तर खोज्छन्।",
+            "en": "In this verse, King Suratha's departure to the forest is described. This entry into the forest symbolises an inner journey — where he seeks the answer to his mind's question."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika008.wav"
+        },
+        {
+          "id": "pradhanika-09",
+          "number": 9,
+          "sanskrit": "स तत्राश्रममद्राक्षीद्द्विजवर्यस्य मेधसः। प्रशान्तश्वापदाकीर्णं मुनिशिष्योपशोभितम्॥९॥",
+          "iast": "sa tatrāśramamadrākṣīddvijavaryasya medhasaḥ | praśāntaśvāpadākīrṇaṃ muniśiṣyopaśobhitam ||9||",
+          "meaning": {
+            "ne": "त्यहाँ उनले द्विजश्रेष्ठ मेधाको आश्रम देखे—शान्त भएका हिंस्रक पशुहरूले भरिएको र मुनिका शिष्यहरूले सुशोभित।",
+            "en": "There he saw the hermitage of Medhas, the supreme among the twice-born, the place filled with beasts of prey whose ferocity was tamed, and radiant with the disciples of the sage."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथले मेधा ऋषिको आश्रम देखेको वर्णन छ। यो आश्रम गुरुको स्थानको प्रतीक हो—जहाँ साधकले आत्म-ज्ञान प्राप्त गर्छ।",
+            "en": "In this verse, King Suratha's sighting of Sage Medhas's hermitage is described. This hermitage symbolises the Guru's place — where the practitioner attains self-knowledge."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika009.wav"
+        },
+        {
+          "id": "pradhanika-10",
+          "number": 10,
+          "sanskrit": "तस्थौ कञ्चित्स कालं च मुनिना तेन सत्कृतः। इतश्चेतश्च विचरंस्तस्मिन् मुनिवराश्रमे॥१०॥",
+          "iast": "tasthau kañcitsa kālaṃ ca muninā tena satkṛtaḥ | itaścetaśca vicaraṃstasmin munivarāśrame ||10||",
+          "meaning": {
+            "ne": "मुनिबाट सत्कार पाएर उनी केही समय त्यहीँ रहे र त्यस मुनिवरको आश्रममा यताउता विचरण गरे।",
+            "en": "Receiving the hospitality of the sage, he remained there for some time, moving about hither and thither in the hermitage of the great sage."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथ आश्रममा केही समय बसेको वर्णन छ। यो समय उनको आन्तरिक चिन्तन र आत्म-अन्वेषणको काल थियो।",
+            "en": "In this verse, King Suratha's stay at the hermitage for some time is described. This period was a time of inner reflection and self-inquiry for him."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika010.wav"
+        },
+        {
+          "id": "pradhanika-11",
+          "number": 11,
+          "sanskrit": "सोऽचिन्तयत्तदा तत्र ममत्वाकृष्टमानसः॥११॥",
+          "iast": "so'cintayattadā tatra mamatvākṛṣṭamānasaḥ ||11||",
+          "meaning": {
+            "ne": "त्यस समय त्यहाँ उनको मन ममत्वले तानिएर चिन्तनमा डुब्यो।",
+            "en": "At that time he fell into thought, his mind gravitating towards the sense of 'my-ness'."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको मन ममत्वले तानिएको वर्णन छ। यो ममत्व र मोहको शक्तिलाई देखाउँछ।",
+            "en": "In this verse, King Suratha's mind being drawn by 'my-ness' is described. This shows the power of 'my-ness' and attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika011.wav"
+        },
+        {
+          "id": "pradhanika-12",
+          "number": 12,
+          "sanskrit": "मत्पूर्वैः पालितं पूर्वं मया हीनं पुरं हि तत्। मद्भृत्यैस्तैरसद्वृत्तैर्धर्मतः पाल्यते न वा॥१२॥",
+          "iast": "matpūrvaiḥ pālitaṃ pūrvaṃ mayā hīnaṃ puraṃ hi tat | madbhṛtyaistairasadvṛttairdharmataḥ pālyate na vā ||12||",
+          "meaning": {
+            "ne": "मेरा पूर्वजहरूले पालन गरेको त्यो नगर मबाट हीन भएर, मेरा दुश्चरित्र भृत्यहरूद्वारा धर्मतः पालन भइरहेको छ कि छैन?",
+            "en": "Ah, I have deserted the city formerly guarded by my forefathers. Is it being guarded righteously or not by my bearers of evil conduct?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको नगरको चिन्ताको वर्णन छ। यो चिन्ता मोहको प्रतीक हो।",
+            "en": "In this verse, King Suratha's worry about his city is described. This worry is a sign of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika012.wav"
+        },
+        {
+          "id": "pradhanika-13",
+          "number": 13,
+          "sanskrit": "न जाने स प्रधानो मे शूरो हस्ती सदामदः। मम वैरिवशं यातः कान् भोगानुपलप्स्यते॥१३॥",
+          "iast": "na jāne sa pradhāno me śūro hastī sadāmadaḥ | mama vairivaśaṁ yātaḥ kān bhogānupalapsyate ||13||",
+          "meaning": {
+            "ne": "मलाई थाहा छैन—मेरो प्रधान, शूर र सधैं मत्त हात्ती शत्रुहरूको वशमा गएर कस्ता भोगहरू प्राप्त गर्नेछ?",
+            "en": "I do not know. My chief elephant, valorous and always in rut, has fallen into the hands of my enemies. What experiences is it going to get?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको हात्तीको चिन्ताको वर्णन छ। यसले उनको मोह कति गहिरो छ भन्ने देखाउँछ।",
+            "en": "In this verse, King Suratha's worry about his elephant is described. This shows how deep his attachment is."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika013.wav"
+        },
+        {
+          "id": "pradhanika-14",
+          "number": 14,
+          "sanskrit": "ये ममानुगता नित्यं प्रसादधनभोजनैः। अनुवृत्तिं ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम्॥१४॥",
+          "iast": "ye mamānugatā nityaṃ prasādadhanabhojanaiḥ | anuvṛttiṃ dhruvaṃ te'dya kurvantyanyamahībhṛtām ||14||",
+          "meaning": {
+            "ne": "जो मेरो कृपा, धन र भोजनका लागि सधैं मेरो पछि लाग्थे, ती अब निश्चय नै अरू राजाहरूको सेवा गरिरहेका छन्।",
+            "en": "Those who were my constant followers for the sake of my favour, money and food are now surely rendering service to other monarchs."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथका अनुयायीहरू अरू राजाकहाँ गएको वर्णन छ। यो संसारिक स्वार्थ र अस्थिरताको चित्रण हो।",
+            "en": "In this verse, King Suratha's followers going to other kings is described. This depicts the selfishness and impermanence of worldly life."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika014.wav"
+        },
+        {
+          "id": "pradhanika-15",
+          "number": 15,
+          "sanskrit": "असम्यग्व्ययशीलैस्तैः कुर्वद्भिः सततं व्ययम्। सञ्चितः सोऽतिदुःखेन क्षयं कोशो गमिष्यति॥१५॥",
+          "iast": "asamyagvyayaśīlaistaiḥ kurvadbhiḥ satataṁ vyayam | sañcitaḥ so'tiduḥkhena kṣayaṁ kośo gamiṣyati ||15||",
+          "meaning": {
+            "ne": "असम्यक् व्ययशील ती व्यक्तिहरूले निरन्तर व्यय गर्दा, अत्यन्त दुःखले सञ्चित गरेको त्यो कोश क्षय हुनेछ।",
+            "en": "The treasury, accumulated with great difficulty, will be depleted, with these spendthrifts spending ceaselessly."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथको कोशको चिन्ताको वर्णन छ। यो मोहको अर्को पक्ष हो।",
+            "en": "In this verse, King Suratha's worry about his treasury is described. This is another aspect of his attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika015.wav"
+        },
+        {
+          "id": "pradhanika-16",
+          "number": 16,
+          "sanskrit": "एतच्चान्यच्च सततं चिन्तयामास पार्थिवः। तत्र विप्राश्रमाभ्याशे वैश्यमेकं ददर्श सः॥१६॥",
+          "iast": "etaccānyacca satataṃ cintayāmāsa pārthivaḥ | tatra viprāśramābhyāśe vaiśyamekaṃ dadarśa saḥ ||16||",
+          "meaning": {
+            "ne": "राजाले यी र अन्य कुराहरूको निरन्तर चिन्तन गरे। त्यहाँ ब्राह्मणको आश्रम नजिकै उनले एक वैश्यलाई देखे।",
+            "en": "The lord of the earth was constantly thinking of these and other things. There, in the vicinity of the Brāhmaṇa's hermitage, he saw a Vaiśya."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथले वैश्यलाई देखेको वर्णन छ। यो भेट दुई साधकहरूको भेटको प्रतीक हो।",
+            "en": "In this verse, King Suratha's sighting of the Vaiśya is described. This meeting symbolises the meeting of two practitioners."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika016.wav"
+        },
+        {
+          "id": "pradhanika-17",
+          "number": 17,
+          "sanskrit": "स पृष्टस्तेन कस्त्वं भो हेतुश्चागमनेऽत्र कः। सशोक इव कस्मात्त्वं दुर्मना इव लक्ष्यसे॥१७॥",
+          "iast": "sa pṛṣṭastena kastvaṃ bho hetuścāgamane'tra kaḥ | saśoka iva kasmāttvaṃ durmanā iva lakṣyase ||17||",
+          "meaning": {
+            "ne": "उनले सोधे: हे भद्र, तपाईं को हुनुहुन्छ? यहाँ आउनुको कारण के हो? तपाईं शोकग्रस्त र मनमा दुःखी देखिनुहुन्छ, किन?",
+            "en": "He asked him: Who are you, Sir? What is the reason of your coming here? Why do you appear to be sad and ill at ease?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथले वैश्यलाई सोधेको वर्णन छ। यो प्रश्न आत्म-अन्वेषणको सुरुवात हो।",
+            "en": "In this verse, King Suratha's questioning of the Vaiśya is described. This question marks the beginning of self-inquiry."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika017.wav"
+        },
+        {
+          "id": "pradhanika-18",
+          "number": 18,
+          "sanskrit": "इत्याकर्ण्य वचस्तस्य भूपतेः प्रणयोदितम्। प्रत्युवाच स तं वैश्यः प्रश्रयावनतो नृपम्॥१८॥",
+          "iast": "ityākarṇya vacastasya bhūpateḥ praṇayoditam | pratyuvāca sa taṁ vaiśyaḥ praśrayāvanato nṛpam ||18||",
+          "meaning": {
+            "ne": "राजाको प्रेमपूर्वक भनिएको वचन सुनेर, वैश्य नम्र भएर राजालाई जवाफ दिए।",
+            "en": "Hearing the words of the king uttered in candour, the Vaiśya bowed in courtesy to the king and replied."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्यले राजालाई जवाफ दिएको वर्णन छ। यो संवादले दुवैको साझा दुःख र ममत्वको समस्यालाई जोड्छ।",
+            "en": "In this verse, the Vaiśya's reply to the king is described. This dialogue connects their shared suffering and the problem of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika018.wav"
+        },
+        {
+          "id": "pradhanika-19",
+          "number": 19,
+          "sanskrit": "वैश्य उवाच। समाधिर्नाम वैश्योऽहमुत्पन्नो धनिनां कुले। पुत्रदारैर्निरस्तश्च धनलोभादसाधुभिः॥१९॥",
+          "iast": "vaiśya uvāca | samādhirnāma vaiśyo'hamutpanno dhanināṁ kule | putradārairnirastaśca dhanalobhādasādhubhiḥ ||19||",
+          "meaning": {
+            "ne": "वैश्यले भने: म समाधि नामको वैश्य हुँ, धनीहरूको कुलमा जन्मेको। धनको लोभले असाधु पुत्र र पत्नीद्वारा त्यागिएको छु।",
+            "en": "The Vaiśya said: I am a Vaiśya named Samādhi, born in a family of monied men; and now cast away by unworthy sons and wife, out of greed for my wealth."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधिको परिचय दिइएको छ। यसले धन र मोहको दुःखद परिणामलाई देखाउँछ।",
+            "en": "In this verse, the introduction of the Vaiśya Samādhi is given. This shows the painful consequence of wealth and attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika019.wav"
+        },
+        {
+          "id": "pradhanika-20",
+          "number": 20,
+          "sanskrit": "विहीनश्च धनैर्दारैः पुत्रैरादाय मे धनम्। वनमभ्यागतो दुःखी निरस्तश्चाप्तबन्धुभिः॥२०॥",
+          "iast": "vihīnaśca dhanairdāraiḥ putrairādāya me dhanam | vanamabhyāgato duḥkhī nirastaścāptabandhubhiḥ ||20||",
+          "meaning": {
+            "ne": "पुत्र र पत्नीले मेरो धन लिएर मलाई धनहीन बनाए। विश्वासपात्र बन्धुहरूबाट त्यागिएको म दुःखी भई वनमा आएको छु।",
+            "en": "My sons and my wife took from me all the money and made me devoid of wealth; I have come to the forest in sorrow, abandoned by my trusted kinsmen."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि वनमा आएको वर्णन छ। यो संसारिक मोहको कठोर वास्तविकता हो।",
+            "en": "In this verse, the Vaiśya Samādhi's arrival in the forest is described. This is the harsh reality of worldly attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika020.wav"
+        },
+        {
+          "id": "pradhanika-21",
+          "number": 21,
+          "sanskrit": "सोऽहं न वेद्मि पुत्राणां कुशलाकुशलात्मिकाम्। प्रवृत्तिं स्वजनानां च दाराणां चात्र संस्थितः॥२१॥",
+          "iast": "so'haṁ na vedmi putrāṇāṁ kuśalākuśalātmikām | pravṛttiṁ svajanānāṁ ca dārāṇāṁ cātra saṁsthitaḥ ||21||",
+          "meaning": {
+            "ne": "यहाँ बसेको मलाई थाहा छैन—मेरा पुत्रहरू, स्वजनहरू र पत्नीहरूको कुशल वा अकुशल प्रवृत्ति के छ।",
+            "en": "Stationed here I do not know the state of affairs, good or bad, of my sons, wife and kinsmen."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि आफ्नो परिवारको चिन्ता गरेको वर्णन छ। यो ममत्वको गहिरो पकडलाई देखाउँछ।",
+            "en": "In this verse, the Vaiśya Samādhi's worry about his family is described. This shows the deep grip of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika021.wav"
+        },
+        {
+          "id": "pradhanika-22",
+          "number": 22,
+          "sanskrit": "किं नु तेषां गृहे क्षेममक्षेमं किं नु साम्प्रतम्॥२२॥",
+          "iast": "kiṁ nu teṣāṁ gṛhe kṣemamakṣemaṁ kiṁ nu sāmpratam ||22||",
+          "meaning": {
+            "ne": "के अहिले तिनीहरूको घरमा क्षेम छ वा अक्षेम?",
+            "en": "At the present moment, are things well or not well with them at home?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि आफ्नो परिवारको क्षेमको चिन्ता गरेको वर्णन छ। यो मोहको स्वाभाविक प्रवृत्ति हो।",
+            "en": "In this verse, the Vaiśya Samādhi's worry about his family's well-being is described. This is the natural tendency of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika022.wav"
+        },
+        {
+          "id": "pradhanika-23",
+          "number": 23,
+          "sanskrit": "कथं ते किं नु सद्वृत्ता दुर्वृत्ताः किं नु मे सुताः॥२३॥",
+          "iast": "kathaṁ te kiṁ nu sadvṛttā durvṛttāḥ kiṁ nu me sutāḥ ||23||",
+          "meaning": {
+            "ne": "मेरा पुत्रहरू कस्ता छन्? के तिनीहरू सद्वृत्त छन् वा दुर्वृत्त?",
+            "en": "How are they, my sons? Are they of good conduct or of evil ways?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि आफ्ना पुत्रहरूको चरित्रको चिन्ता गरेको वर्णन छ। यो मोहको अर्को पक्ष हो।",
+            "en": "In this verse, the Vaiśya Samādhi's worry about his sons' character is described. This is another aspect of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika023.wav"
+        },
+        {
+          "id": "pradhanika-24",
+          "number": 24,
+          "sanskrit": "राजोवाच। यैर्निरस्तो भवाँल्लुब्धैः पुत्रदारादिभिर्धनैः। तेषु किं भवतः स्नेहमनुबध्नाति मानसम्॥२४॥",
+          "iast": "rājovāca | yairnirasto bhavāllubdhaiḥ putradārādibhirdhanaiḥ | teṣu kiṁ bhavataḥ snehamanubadhnāti mānasam ||24||",
+          "meaning": {
+            "ne": "राजाले भने: जसले धनका लोभी भई तपाईंलाई त्यागे—ती पुत्र, पत्नी आदिप्रति तपाईंको मन किन स्नेहले बाँधिएको छ?",
+            "en": "The king said: Why is your mind bound in endearment to that crowd, the covetous sons and wife who deprived you of your wealth?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथले वैश्यलाई सोधेको वर्णन छ। यो प्रश्न ममत्वको रहस्यलाई उजागर गर्छ।",
+            "en": "In this verse, King Suratha's question to the Vaiśya is described. This question reveals the mystery of 'my-ness'."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika024.wav"
+        },
+        {
+          "id": "pradhanika-25",
+          "number": 25,
+          "sanskrit": "वैश्य उवाच। एवमेतद्यथा प्राह भवानस्मद्गतं वचः। किं करोमि न बध्नाति मम निष्ठुरतां मनः॥२५॥",
+          "iast": "vaiśya uvāca | evametadyathā prāha bhavānasmadgataṁ vacaḥ | kiṁ karomi na badhnāti mama niṣṭhuratāṁ manaḥ ||25||",
+          "meaning": {
+            "ne": "वैश्यले भने: तपाईंले भनेझैं यो सत्य हो। तर म के गरूँ? मेरो मन कठोरता धारण गर्दैन।",
+            "en": "The Vaiśya said: The same thought struck me exactly as you have uttered; but what can I do? My mind does not entertain harshness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि आफ्नो मोहको स्वीकार गरेको वर्णन छ। यो मोहको शक्ति हो—ज्ञानले पनि जसलाई जित्न सक्दैन।",
+            "en": "In this verse, the Vaiśya Samādhi's acknowledgment of his attachment is described. This is the power of attachment — which even knowledge cannot overcome."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika025.wav"
+        },
+        {
+          "id": "pradhanika-26",
+          "number": 26,
+          "sanskrit": "यैः सन्त्यज्य पितृस्नेहं धनलुब्धैर्निराकृतः। पतिस्वजनहार्दं च हार्दितेष्वेव मे मनः॥२६॥",
+          "iast": "yaiḥ santyajya pitṛsnehaṁ dhanalubdhairnirākṛtaḥ | patisvajanahārdaṁ ca hārditeṣveva me manaḥ ||26||",
+          "meaning": {
+            "ne": "जसले पितृस्नेह त्यागेर धनलोभले मलाई त्यागे, पति र स्वजनको हार्दिकता त्यागे—तैपनि मेरो मन तिनैप्रति हार्दिक छ।",
+            "en": "Throwing away filial attachment and affection towards one's husband and one's kinsman, they spurned me out of greed for my wealth; but yet my mind goes to them in affection."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधिको मन त्याग गर्नेहरूप्रति पनि प्रेमले भरिएको वर्णन छ। यो मोहको विरोधाभास हो।",
+            "en": "In this verse, the Vaiśya Samādhi's mind being full of love even towards those who abandoned him is described. This is the paradox of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika026.wav"
+        },
+        {
+          "id": "pradhanika-27",
+          "number": 27,
+          "sanskrit": "किमेतन्नाभिजानामि जानन्नपि महामते। यत्प्रेमप्रवणं चित्तं विगुणेष्वपि बन्धुषु॥२७॥",
+          "iast": "kimetannābhijānāmi jānannapi mahāmate | yatpremapravaṇaṃ cittaṃ viguṇeṣvapi bandhuṣu ||27||",
+          "meaning": {
+            "ne": "हे महामते, जान्दाजान्दै पनि म यो बुझ्दिन—गुणहीन बन्धुहरूप्रति पनि मन किन प्रेममा ढल्किन्छ?",
+            "en": "O great-minded king, though knowing, I do not understand how it is that the mind is prone to love even towards worthless relations."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि मोहको रहस्य बुझ्न नसकेको वर्णन छ। यो महामायाको खेल हो।",
+            "en": "In this verse, the Vaiśya Samādhi's inability to understand the mystery of attachment is described. This is the play of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika027.wav"
+        },
+        {
+          "id": "pradhanika-28",
+          "number": 28,
+          "sanskrit": "तेषां कृते मे निःश्वासो दौर्मनस्यं च जायते। करोमि किं यन्न मनस्तेष्वप्रीतिषु निष्ठुरम्॥२८॥",
+          "iast": "teṣāṁ kṛte me niḥśvāso daurmanasyaṁ ca jāyate | karomi kiṁ yanna manasteṣvaprītiṣu niṣṭhuram ||28||",
+          "meaning": {
+            "ne": "तिनीहरूको लागि मेरो निःश्वास र मनको दुःख उत्पन्न हुन्छ। म के गरूँ, जसले मेरो मन ती अप्रिय व्यक्तिहरूप्रति कठोर हुँदैन?",
+            "en": "For their sake comes forth my sigh and dejection in my mind. What can I do as my mind does not become harsh towards those unloving ones?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य समाधि आफ्नो दुःख र मनको कठोरता नभएको वर्णन गर्छन्। यो मोहको फल हो।",
+            "en": "In this verse, the Vaiśya Samādhi describes his suffering and the mind's inability to become harsh. This is the fruit of attachment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika028.wav"
+        },
+        {
+          "id": "pradhanika-29",
+          "number": 29,
+          "sanskrit": "मार्कण्डेय उवाच। ततस्तौ सहितौ विप्र तं मुनिं समुपस्थितौ। समाधिर्नाम वैश्योऽसौ स च पार्थिवसत्तमः॥२९॥",
+          "iast": "mārkaṇḍeya uvāca | tatastau sahitau vipra taṁ muniṁ samupasthitau | samādhirnāma vaiśyo'sau sa ca pārthivasattamaḥ ||29||",
+          "meaning": {
+            "ne": "मार्कण्डेयले भने: हे विप्र, त्यसपछि ती दुवै—वैश्य समाधि र उत्तम राजा—मुनिको नजिक गए।",
+            "en": "Mārkaṇḍeya said: O Brahman, they then jointly approached the sage — the Vaiśya named Samādhi and that noble monarch."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा र वैश्य दुवै मेधा ऋषिको शरणमा गएको वर्णन छ। यो आध्यात्मिक यात्राको सुरुवात हो।",
+            "en": "In this verse, both the king and the Vaiśya taking refuge in Sage Medhas is described. This is the beginning of the spiritual journey."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika029.wav"
+        },
+        {
+          "id": "pradhanika-30",
+          "number": 30,
+          "sanskrit": "कृत्वा तु तौ यथान्यायं यथार्हं तेन संविदम्। उपविष्टौ कथाः काश्चिच्चक्रतुर्वैश्यपार्थिवौ॥३०॥",
+          "iast": "kṛtvā tu tau yathānyāyaṁ yathārhaṁ tena saṁvidam | upaviṣṭau kathāḥ kāściccakraturvaiśyapārthivau ||30||",
+          "meaning": {
+            "ne": "वैश्य र राजाले यथाविधि र यथायोग्य सम्मान गरेर बसे र केही कथाहरू गरे।",
+            "en": "The Vaiśya and the king, observing due and proper etiquette towards him, seated themselves and conversed on some topics."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा वैश्य र राजाले मुनिको सम्मान गरेको वर्णन छ। यो शिष्यत्वको भाव हो।",
+            "en": "In this verse, the Vaiśya and the king honouring the sage is described. This is the attitude of discipleship."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika030.wav"
+        },
+        {
+          "id": "pradhanika-31",
+          "number": 31,
+          "sanskrit": "राजोवाच। भगवंस्त्वामहं प्रष्टुमिच्छाम्येकं वदस्व तत्। दुःखाय यन्मे मनसः स्वचित्तायत्ततां विना॥३१॥",
+          "iast": "rājovāca | bhagavaṁstvāmahaṁ praṣṭumicchāmyekaṁ vadasva tat | duḥkhāya yanme manasaḥ svacittāyattatāṁ vinā ||31||",
+          "meaning": {
+            "ne": "राजाले भने: हे भगवन्, म तपाईंलाई एउटा प्रश्न सोध्न चाहन्छु—त्यसको उत्तर दिनुहोस्। मेरो मन आफ्नै वशमा नभई दुःखतिर किन जान्छ?",
+            "en": "The king said: Sire, I wish to ask you something. Pray, reply to it — without any dependence on my thoughts, my mind gives itself to grief."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा राजा सुरथले मुनिसमक्ष आफ्नो प्रश्न राखेको वर्णन छ। यो मानव अस्तित्वको मूल प्रश्न हो।",
+            "en": "In this verse, King Suratha's question to the sage is described. This is the fundamental question of human existence."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika031.wav"
+        },
+        {
+          "id": "pradhanika-32",
+          "number": 32,
+          "sanskrit": "ममत्वं गतराज्यस्य राज्याङ्गेष्वखिलेष्वपि। जानतोऽपि यथाज्ञस्य किमेतन्मुनिसत्तम॥३२॥",
+          "iast": "mamatvaṁ gatarājyasya rājyāṅgeṣvakhileṣvapi | jānato'pi yathājñasya kimetanmunisattama ||32||",
+          "meaning": {
+            "ne": "हे मुनिश्रेष्ठ, राज्य गुमाएको मलाई राज्यका सबै अङ्गहरूमा ममत्व किन छ? जान्दाजान्दै पनि अज्ञानीझैं किन?",
+            "en": "O best of sages, I have lost my kingdom; but yet this sense of 'mine' in all the limbs of the government — why is this, as if I were ignorant, though I know?"
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। यो मोहको रहस्य हो जसलाई महामाया नै खडा गर्छिन्। यसरी प्राधानिकरहस्यको समापन हुन्छ।",
+            "en": "This is the final verse. This is the mystery of delusion that Mahāmāyā herself creates. Thus Prādhānika Rahasya concludes."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/pradhanika/pradhanika032.wav"
+        }
+      ]
+    },
+    {
+      "id": "dvitiyam-rahasya",
+      "type": "rahasya",
+      "title": "द्वितीयं रहस्यम् — वैकृतिकरहस्यम्",
+      "titleEn": "Second Secret — Vaikṛtika Rahasya",
+      "description": {
+        "ne": "वैकृतिकरहस्यम् देवीमाहात्म्यको दोस्रो रहस्य हो। यसले देवीको तीन प्रमुख शक्ति-धाराहरू—महाकाली, महालक्ष्मी र महासरस्वती—को वर्णन गर्छ, जो क्रमशः तमस्, रजस् र सत्त्व गुणसँग सम्बन्धित छन्। यो सृष्टिको मूल प्रक्रियाको गूढ ज्ञान हो।",
+        "en": "Vaikṛtika Rahasya is the second secret of the Devī Māhātmya. It describes the Goddess's three primary streams of energy — Mahākālī, Mahālakṣmī and Mahāsarasvatī — corresponding respectively to the guṇas of tamas, rajas and sattva. This is the esoteric knowledge of the fundamental process of creation."
+      },
+      "items": [
+        {
+          "id": "vaikritika-01",
+          "number": 1,
+          "sanskrit": "ॐ ऋषिरुवाच। त्रिगुणा तामसी देवी सात्त्विकी या त्रिधोदिता। सा शर्वा चण्डिका दुर्गा भद्रा भगवतीर्यते॥१॥",
+          "iast": "oṃ ṛṣiruvāca | triguṇā tāmasī devī sāttvikī yā tridhoditā | sā śarvā caṇḍikā durgā bhadrā bhagavatīryate ||1||",
+          "meaning": {
+            "ne": "ॐ ऋषिले भने: तीन गुणहरूमा प्रकट हुने, तामसी र सात्त्विकी—यसरी तीन प्रकारले प्रकट हुने देवी शर्वा, चण्डिका, दुर्गा, भद्रा र भगवती भनी कथन गरिन्छिन्।",
+            "en": "Oṁ. The sage said: The Goddess who is threefold in the three guṇas — tamasic and sattvic — she is proclaimed as Śarvā, Caṇḍikā, Durgā, Bhadrā and Bhagavatī."
+          },
+          "commentary": {
+            "ne": "यो श्लोक वैकृतिकरहस्यको प्रारम्भ हो। ऋषि मार्कण्डेयले देवीलाई तीन गुणहरूमा प्रकट हुने बताउँछन्। यसरी देवीका पाँच नामहरूद्वारा उनको त्रिगुणात्मिका स्वरूपलाई स्थापित गरिन्छ।",
+            "en": "This verse begins the Vaikṛtika Rahasya. Sage Mārkaṇḍeya states that the Goddess manifests through the three guṇas. Thus the Goddess's triguṇātmikā nature is established through her five names."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika001.wav"
+        },
+        {
+          "id": "vaikritika-02",
+          "number": 2,
+          "sanskrit": "योगनिद्रा हरेरुक्ता महाकाली तमोगुणा। मधुकैटभनाशार्थं यां तुष्टावाम्बुजासनः॥२॥",
+          "iast": "yoganidrā hareruktā mahākālī tamoguṇā | madhukaiṭabhanāśārthaṃ yāṃ tuṣṭāvāmbujāsanaḥ ||2||",
+          "meaning": {
+            "ne": "हरिकी योगनिद्रा महाकाली भनी कथन गरिन्छिन्, जो तमोगुणकी छिन्। मधु र कैटभको नाशका लागि कमलासन (ब्रह्मा) ले जसको स्तुति गरे।",
+            "en": "She is spoken of as the Yoga-nidrā of Hari, Mahākālī of tamas guṇa — whom the lotus-seated one (Brahmā) praised for the destruction of Madhu and Kaiṭabha."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको स्वरूपको वर्णन छ। यो देवीमाहात्म्यको पहिलो अध्यायको कथासँग सम्बन्धित छ।",
+            "en": "In this verse, the form of Mahākālī is described. This is connected with the story of the first chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika002.wav"
+        },
+        {
+          "id": "vaikritika-03",
+          "number": 3,
+          "sanskrit": "दशवक्त्रा दशभुजा दशपादाञ्जनप्रभा। विशालया राजमाना त्रिंशल्लोचनमालया॥३॥",
+          "iast": "daśavaktrā daśabhujā daśapādāñjanaprabhā | viśālayā rājamānā triṃśallocanamālayā ||3||",
+          "meaning": {
+            "ne": "दस मुख, दस भुजा र दस चरण भएकी, अञ्जन (काजल) को प्रभा भएकी, विशाल तीस नेत्रहरूको मालाले शोभित।",
+            "en": "She has ten faces, ten arms and ten feet, radiant like collyrium; she shines with a vast garland of thirty eyes."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको विराट स्वरूपको वर्णन छ। दस मुख, दस भुजा, दस चरण—यी सबै देवीको सर्वव्यापकताको प्रतीक हुन्।",
+            "en": "In this verse, the cosmic form of Mahākālī is described. Ten faces, ten arms, ten feet — all these symbolise the Goddess's all-pervasiveness."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika003.wav"
+        },
+        {
+          "id": "vaikritika-04",
+          "number": 4,
+          "sanskrit": "स्फुरद्दशनदंष्ट्रा सा भीमरूपापि भूमिप। रूपसौभाग्यकान्तीनां सा प्रतिष्ठा महाश्रियाम्॥४॥",
+          "iast": "sphuraddaśanadaṃṣṭrā sā bhīmarūpāpi bhūmipa | rūpasaubhāgyakāntīnāṃ sā pratiṣṭhā mahāśriyām ||4||",
+          "meaning": {
+            "ne": "हे राजन्, दीप्तिमान दाँत र दंष्ट्रा भएकी, भयानक रूप भए पनि उनी रूप, सौभाग्य र कान्तिको प्रतिष्ठा हुन्—महाश्रीको।",
+            "en": "O King, though she has flashing teeth and fangs and a terrifying form, she is the foundation of beauty, good fortune and radiance — of Mahāśrī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको विरोधाभासी स्वरूपको वर्णन छ। यो विरोधाभास देवीको दिव्य स्वभावको प्रतीक हो।",
+            "en": "In this verse, the paradoxical nature of Mahākālī is described. This paradox symbolises the Goddess's divine nature."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika004.wav"
+        },
+        {
+          "id": "vaikritika-05",
+          "number": 5,
+          "sanskrit": "खड्गबाणगदाशूलशङ्खचक्रभुशुण्डिभृत्। परिघं कार्मुकं शीर्षं निश्च्योतद्रुधिरं दधौ॥५॥",
+          "iast": "khaḍgabāṇagadāśūlaśaṅkhacakrabhuśuṇḍibhṛt | parighaṃ kārmukaṃ śīrṣaṃ niścyotadrudhiraṃ dadhau ||5||",
+          "meaning": {
+            "ne": "खड्ग, बाण, गदा, शूल, शङ्ख, चक्र, भुशुण्डि, परिघ, कार्मुक र रगत चुहिरहेको शीर्ष धारण गर्छिन्।",
+            "en": "She bears sword, arrow, mace, spear, conch, discus and bhuśuṇḍi; she holds an iron club, a bow, and a severed head dripping with blood."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीका आयुधहरूको वर्णन छ। यसरी महाकाली संहारका सबै आयुधहरूले सुसज्जित छिन्।",
+            "en": "In this verse, Mahākālī's weapons are described. Thus Mahākālī is equipped with all the weapons of destruction."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika005.wav"
+        },
+        {
+          "id": "vaikritika-06",
+          "number": 6,
+          "sanskrit": "एषा सा वैष्णवी माया महाकाली दुरत्यया। आराधिता वशीकुर्यात् पूजाकर्तुश्चराचरम्॥६॥",
+          "iast": "eṣā sā vaiṣṇavī māyā mahākālī duratyayā | ārādhitā vaśīkuryāt pūjākartuścarācaram ||6||",
+          "meaning": {
+            "ne": "यी नै त्यो वैष्णवी माया हुन्, महाकाली, जो दुर्लङ्घ्य छिन्। आराधना गरिएकी उनी पूजा गर्नेको चराचरलाई वशीभूत गराउँछिन्।",
+            "en": "This is that Vaiṣṇavī Māyā, Mahākālī, hard to overcome. When worshipped, she brings the moving and unmoving under the control of her worshipper."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको वैष्णवी मायाको स्वरूपको वर्णन छ। यसरी महाकाली विष्णुकी माया हुन्।",
+            "en": "In this verse, Mahākālī's form as Vaiṣṇavī Māyā is described. Thus Mahākālī is the māyā of Viṣṇu."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika006.wav"
+        },
+        {
+          "id": "vaikritika-07",
+          "number": 7,
+          "sanskrit": "सर्वदेवशरीरेभ्यो याऽऽविर्भूताऽमितप्रभा। त्रिगुणा सा महालक्ष्मीः साक्षान्महिषमर्दिनी॥७॥",
+          "iast": "sarvadevaśarīrebhyo yā''virbhūtā'mitaprabhā | triguṇā sā mahālakṣmīḥ sākṣānmahiṣamardinī ||7||",
+          "meaning": {
+            "ne": "सबै देवताहरूको शरीरबाट अमित प्रभासहित जो प्रकट भइन्, ती त्रिगुणात्मिका महालक्ष्मी नै साक्षात् महिषमर्दिनी हुन्।",
+            "en": "She who manifested from the bodies of all the gods with immeasurable radiance — she is the three-guṇa Mahālakṣmī, directly the slayer of Mahiṣa."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको स्वरूपको वर्णन छ। यो देवीमाहात्म्यको दोस्रो अध्यायको कथासँग सम्बन्धित छ।",
+            "en": "In this verse, the form of Mahālakṣmī is described. This is connected with the story of the second chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika007.wav"
+        },
+        {
+          "id": "vaikritika-08",
+          "number": 8,
+          "sanskrit": "श्वेतानना नीलभुजा सुश्वेतस्तनमण्डला। रक्तमध्या रक्तपादा नीलजङ्घोरुरुन्मदा॥८॥",
+          "iast": "śvetānanā nīlabhujā suśvetastanamaṇḍalā | raktamadhyā raktapādā nīlajaṅghorurundmadā ||8||",
+          "meaning": {
+            "ne": "श्वेत मुख भएकी, नील भुजा भएकी, अत्यन्त श्वेत स्तनमण्डल भएकी, रक्त कटि भएकी, रक्त चरण भएकी, नील जङ्घा र उरु भएकी, उन्मदा (मत्त)।",
+            "en": "White is her face, deep blue her arms, brilliantly white the orbs of her breasts, red her waist, red her feet, deep blue her shanks and thighs — she is radiant with beauty."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको दिव्य शरीरको वर्णन छ। यसरी महालक्ष्मीको स्वरूप विविध वर्णहरूले सुशोभित छ।",
+            "en": "In this verse, Mahālakṣmī's divine body is described. Thus Mahālakṣmī's form is adorned with various colours."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika008.wav"
+        },
+        {
+          "id": "vaikritika-09",
+          "number": 9,
+          "sanskrit": "सुचित्रजघना चित्रमाल्याम्बरविभूषणा। चित्रानुलेपना कान्तिरूपसौभाग्यशालिनी॥९॥",
+          "iast": "sucitrajaghanā citramālyāmbaravibhūṣaṇā | citrānulepanā kāntirūpasaubhāgyaśālinī ||9||",
+          "meaning": {
+            "ne": "सुन्दर विचित्र कटि भएकी, विचित्र माला र वस्त्रले विभूषित, विचित्र अनुलेपन (सुगन्ध) भएकी, कान्ति, रूप र सौभाग्यले शालिनी।",
+            "en": "Many-coloured is her lap. Bedecked with multihued garlands and raiment, she is variously anointed and abounds in beauty that is pure loveliness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको अलंकार र सौन्दर्यको वर्णन छ। यसरी महालक्ष्मी विविध अलंकारहरूले सुसज्जित छिन्।",
+            "en": "In this verse, Mahālakṣmī's ornaments and beauty are described. Thus Mahālakṣmī is adorned with various ornaments."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika009.wav"
+        },
+        {
+          "id": "vaikritika-10",
+          "number": 10,
+          "sanskrit": "अष्टादशभुजा पूज्या सा सहस्रभुजा सती। आयुधान्यत्र वक्ष्यन्ते दक्षिणाधःकरक्रमात्॥१०॥",
+          "iast": "aṣṭādaśabhujā pūjyā sā sahasrabhujā satī | āyudhānyatra vakṣyante dakṣiṇādhaḥkarakramāt ||10||",
+          "meaning": {
+            "ne": "उनी सहस्र भुजा भएकी हुन् तर अठारह भुजा भएकी रूपमा पूज्य छिन्। यहाँ आयुधहरू दाहिने तल्लो हातबाट क्रमशः बताइनेछन्।",
+            "en": "Although she has a thousand arms, she is to be worshipped in her eighteen-armed form. The weapons here described proceed in order from her lower right hand."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको अठारह भुजा भएकी पूज्य स्वरूपको वर्णन छ। यो श्लोक आयुधहरूको क्रमको प्रारम्भ हो।",
+            "en": "In this verse, Mahālakṣmī's eighteen-armed worship form is described. This verse begins the sequence of weapons."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika010.wav"
+        },
+        {
+          "id": "vaikritika-11",
+          "number": 11,
+          "sanskrit": "अक्षमाला च कमलं बाणोऽसिः कुलिशं गदा। चक्रं त्रिशूलं परशुः शङ्खो घण्टा च पाशकः॥११॥",
+          "iast": "akṣamālā ca kamalaṃ bāṇo'siḥ kuliśaṃ gadā | cakraṃ triśūlaṃ paraśuḥ śaṅkho ghaṇṭā ca pāśakaḥ ||11||",
+          "meaning": {
+            "ne": "अक्षमाला, कमल, बाण, तरवार, कुलिश, गदा, चक्र, त्रिशूल, परशु, शङ्ख, घण्टा र पाश।",
+            "en": "Prayer beads, lotus, arrow, sword, thunderbolt, mace, discus, trident, axe, conch, bell, and noose."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीका आयुधहरूको क्रमको वर्णन छ। यी सबै देवीको बाह्र हातमा क्रमशः धारण गरिन्छन्।",
+            "en": "In this verse, the sequence of Mahālakṣmī's weapons is described. All these are held in the Goddess's twelve hands in order."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika011.wav"
+        },
+        {
+          "id": "vaikritika-12",
+          "number": 12,
+          "sanskrit": "शक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः। अलङ्कृतभुजामेभिरायुधैः कमलासनाम्॥१२॥",
+          "iast": "śaktirdaṇḍaścarma cāpaṃ pānapātraṃ kamaṇḍaluḥ | alaṅkṛtabhujāmebhirāyudhaiḥ kamalāsanām ||12||",
+          "meaning": {
+            "ne": "शक्ति, दण्ड, चर्म, चाप, पानपात्र र कमण्डलु—यी आयुधहरूले अलंकृत भुजा भएकी कमलासना।",
+            "en": "Spear, staff, shield, bow, drinking-vessel and waterpot — she whose arms are adorned with these weapons, seated on the lotus."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीका बाँकी आयुधहरूको वर्णन छ। यसरी कुल अठारह आयुधहरू पूरा हुन्छन्।",
+            "en": "In this verse, Mahālakṣmī's remaining weapons are described. Thus the total of eighteen weapons is completed."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika012.wav"
+        },
+        {
+          "id": "vaikritika-13",
+          "number": 13,
+          "sanskrit": "सर्वदेवमयीमीशां महालक्ष्मीमिमां नृप। पूजयेत्सर्वलोकानां स देवानां प्रभुर्भवेत्॥१३॥",
+          "iast": "sarvadevamayīmīśāṃ mahālakṣmīmimāṃ nṛpa | pūjayetsarvalokānāṃ sa devānāṃ prabhurbhavet ||13||",
+          "meaning": {
+            "ne": "हे राजन्, सबै देवतामयी ईश्वरी महालक्ष्मीको जो पूजा गर्छ, उनी सबै लोकहरूको र देवताहरूको प्रभु हुन्छ।",
+            "en": "O King, one who worships this Mahālakṣmī, the sovereign who encompasses all the gods — he becomes the master of all the worlds and of the gods."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको फल वर्णन गरिएको छ। यसरी महालक्ष्मीको पूजाले भक्त सबै लोक र देवताहरूको प्रभु बन्छ।",
+            "en": "In this verse, the fruit of worshipping Mahālakṣmī is described. Thus by worshipping Mahālakṣmī, the devotee becomes the master of all the worlds and the gods."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika013.wav"
+        },
+        {
+          "id": "vaikritika-14",
+          "number": 14,
+          "sanskrit": "गौरीदेहात्समुद्भूता या सत्त्वैकगुणाश्रया। साक्षात्सरस्वती प्रोक्ता शुम्भासुरनिबर्हिणी॥१४॥",
+          "iast": "gaurīdehātsamudbhūtā yā sattvaikaguṇāśrayā | sākṣātsarasvatī proktā śumbhāsuranibarhiṇī ||14||",
+          "meaning": {
+            "ne": "गौरीको देहबाट प्रकट भएकी, जो सत्त्व गुणको एकमात्र आश्रय हुन्—ती साक्षात् सरस्वती भनी कथन गरिन्छिन्, शुम्भासुरको नाश गर्ने।",
+            "en": "She who was born from the body of Gaurī and who embodies the sole energy of sattva — she is proclaimed as Sarasvatī herself, the destroyer of the demon Śumbha."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीको स्वरूपको वर्णन छ। यो देवीमाहात्म्यको पाँचौं अध्यायको कथासँग सम्बन्धित छ।",
+            "en": "In this verse, the form of Mahāsarasvatī is described. This is connected with the story of the fifth chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika014.wav"
+        },
+        {
+          "id": "vaikritika-15",
+          "number": 15,
+          "sanskrit": "दधौ चाष्टभुजा बाणान्मुसलं शूलचक्रभृत्। शङ्खं घण्टां लाङ्गलं च कार्मुकं वसुधाधिप॥१५॥",
+          "iast": "dadhau cāṣṭabhujā bāṇānmusalaṃ śūlacakrabhṛt | śaṅkhaṃ ghaṇṭāṃ lāṅgalaṃ ca kārmukaṃ vasudhādhipa ||15||",
+          "meaning": {
+            "ne": "हे राजन्, अठारह भुजा भएकी उनले बाण, मुसल, शूल, चक्र, शङ्ख, घण्टा, लाङ्गल (हल) र कार्मुक (धनुष) धारण गर्छिन्।",
+            "en": "O King, she of eight arms holds arrows, pestle, spear, discus, conch, bell, ploughshare and bow."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीका आयुधहरूको वर्णन छ। यसरी महासरस्वती सत्त्वगुणकी देवी हुन्—जो ज्ञान, वाणी र सृजनको शक्ति हुन्।",
+            "en": "In this verse, Mahāsarasvatī's weapons are described. Thus Mahāsarasvatī is the Goddess of sattva — the power of knowledge, speech and creation."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika015.wav"
+        },
+        {
+          "id": "vaikritika-16",
+          "number": 16,
+          "sanskrit": "एषा सम्पूजिता भक्त्या सर्वज्ञत्वं प्रयच्छति। निशुम्भमथिनी देवी शुम्भासुरनिबर्हिणी॥१६॥",
+          "iast": "eṣā sampūjitā bhaktyā sarvajñatvaṃ prayacchati | niśumbhamathinī devī śumbhāsuranibarhiṇī ||16||",
+          "meaning": {
+            "ne": "यी भक्तिपूर्वक सम्पूजित हुँदा सर्वज्ञत्व प्रदान गर्छिन्। निशुम्भको मर्दन गर्ने र शुम्भासुरको नाश गर्ने देवी।",
+            "en": "When worshipped with devotion, she grants omniscience. She is the Goddess who crushed Niśumbha and destroyed the demon Śumbha."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीको पूजाको फल वर्णन गरिएको छ। यसरी महासरस्वतीको पूजाले भक्तलाई सर्वज्ञत्व प्रदान गर्छ।",
+            "en": "In this verse, the fruit of worshipping Mahāsarasvatī is described. Thus the worship of Mahāsarasvatī grants the devotee omniscience."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika016.wav"
+        },
+        {
+          "id": "vaikritika-17",
+          "number": 17,
+          "sanskrit": "इत्युक्तानि स्वरूपाणि मूर्तीनां तव पार्थिव। उपासनं जगन्मातुः पृथगासां निशामय॥१७॥",
+          "iast": "ityuktāni svarūpāṇi mūrtīnāṃ tava pārthiva | upāsanaṃ jaganmātuḥ pṛthagāsāṃ niśāmaya ||17||",
+          "meaning": {
+            "ne": "हे राजन्, यसरी तपाईंलाई मूर्तिहरूको स्वरूप भनिएको छ। अब जगन्माताको पृथक्-पृथक् उपासना सुन्नुहोस्।",
+            "en": "Thus, O King, the true nature of the Goddess's embodied forms has been told to you. Now hear how the Mother of the world is worshipped in her individual forms."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ऋषिले मूर्तिहरूको स्वरूपको वर्णन पूर्ण गरेर उपासनाको वर्णन गर्ने वचन दिन्छन्। यसरी अब तिनको पृथक् उपासनाको वर्णन सुरु हुन्छ।",
+            "en": "In this verse, the sage completes the description of the forms and promises to describe the worship. Thus the description of their individual worship begins."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika017.wav"
+        },
+        {
+          "id": "vaikritika-18",
+          "number": 18,
+          "sanskrit": "महालक्ष्मीर्यदा पूज्या महाकाली सरस्वती। दक्षिणोत्तरयोः पूज्ये पृष्ठतो मिथुनत्रयम्॥१८॥",
+          "iast": "mahālakṣmīryadā pūjyā mahākālī sarasvatī | dakṣiṇottarayoḥ pūjye pṛṣṭhato mithunatrayam ||18||",
+          "meaning": {
+            "ne": "जब महालक्ष्मीको पूजा गरिन्छ, तब महाकाली र सरस्वती दाहिने र बायाँ पूज्य हुन्छिन्, पछाडि तीन युगलहरू।",
+            "en": "When Mahālakṣmī is worshipped, Mahākālī and Sarasvatī are to be worshipped on her right and left; behind are the three couples."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको क्रम वर्णन गरिएको छ। यो पूजाको मण्डल-विधि हो।",
+            "en": "In this verse, the sequence of Mahālakṣmī's worship is described. This is the maṇḍala method of worship."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika018.wav"
+        },
+        {
+          "id": "vaikritika-19",
+          "number": 19,
+          "sanskrit": "विरञ्चिः स्वरया मध्ये रुद्रो गौर्या च दक्षिणे। वामे लक्ष्म्या हृषीकेशः पुरतो देवतात्रयम्॥१९॥",
+          "iast": "virañciḥ svarayā madhye rudro gauryā ca dakṣiṇe | vāme lakṣmyā hṛṣīkeśaḥ purato devatātrayam ||19||",
+          "meaning": {
+            "ne": "ब्रह्मा सरस्वतीसहित मध्यमा, रुद्र गौरीसहित दाहिने, विष्णु लक्ष्मीसहित बायाँ, अगाडि तीन देवता।",
+            "en": "Brahmā with Sarasvatī in the middle, Rudra with Gaurī on the right, Viṣṇu with Lakṣmī on the left, and before them the three deities."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजा-मण्डलको विस्तृत वर्णन छ। यसरी यो पूजा-मण्डलमा नौ देवताहरूको स्थापना हुन्छ।",
+            "en": "In this verse, the detailed description of the worship maṇḍala is given. Thus in this worship maṇḍala, nine deities are established."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika019.wav"
+        },
+        {
+          "id": "vaikritika-20",
+          "number": 20,
+          "sanskrit": "अष्टादशभुजा मध्ये वामे चास्या दशानना। दक्षिणेऽष्टभुजा लक्ष्मीर्महतीति समर्चयेत्॥२०॥",
+          "iast": "aṣṭādaśabhujā madhye vāme cāsyā daśānanā | dakṣiṇe'ṣṭabhujā lakṣmīrmahatīti samarcayet ||20||",
+          "meaning": {
+            "ne": "मध्यमा अठारह भुजा भएकी, बायाँ दस मुख भएकी, दाहिने आठ भुजा भएकी महती लक्ष्मी—यसरी पूजा गर्नुपर्छ।",
+            "en": "In the middle the eighteen-armed one, on her left the ten-faced one, on her right the eight-armed great Lakṣmī — thus one should worship."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजा-मण्डलको केन्द्रको वर्णन छ। यसरी तीनै देवीहरू एकै मण्डलमा पूजित हुन्छिन्।",
+            "en": "In this verse, the centre of the worship maṇḍala is described. Thus all three Goddesses are worshipped in one maṇḍala."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika020.wav"
+        },
+        {
+          "id": "vaikritika-21",
+          "number": 21,
+          "sanskrit": "अष्टादशभुजा चैषा यदा पूज्या नराधिप। दशानना चाष्टभुजा दक्षिणोत्तरयोस्तदा॥२१॥",
+          "iast": "aṣṭādaśabhujā caiṣā yadā pūjyā narādhipa | daśānanā cāṣṭabhujā dakṣiṇottarayostadā ||21||",
+          "meaning": {
+            "ne": "हे राजन्, जब यी अठारह भुजा भएकी पूज्य हुन्छिन्, तब दस मुख भएकी र आठ भुजा भएकी दाहिने र बायाँ हुन्छिन्।",
+            "en": "O King, when this eighteen-armed one is worshipped, then the ten-faced one and the eight-armed one are on the right and left."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको क्रम पुनः वर्णन गरिएको छ। यो पूजा-विधिको स्थिरतालाई जनाउँछ।",
+            "en": "In this verse, the sequence of Mahālakṣmī's worship is again described. This indicates the stability of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika021.wav"
+        },
+        {
+          "id": "vaikritika-22",
+          "number": 22,
+          "sanskrit": "कालमृत्यू च सम्पूज्यौ सर्वारिष्टप्रशान्तये। यदा चाष्टभुजा पूज्या शुम्भासुरनिबर्हिणी॥२२॥",
+          "iast": "kālamṛtyū ca sampūjyau sarvāriṣṭapraśāntaye | yadā cāṣṭabhujā pūjyā śumbhāsuranibarhiṇī ||22||",
+          "meaning": {
+            "ne": "सबै अरिष्टहरूको शान्तिका लागि काल र मृत्युको पूजा गर्नुपर्छ। जब आठ भुजा भएकी शुम्भासुरनिबर्हिणीको पूजा गरिन्छ।",
+            "en": "Kāla and Mṛtyu are to be worshipped for the pacification of all evils. When the eight-armed destroyer of Śumbha is worshipped..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीको पूजाको क्रम वर्णन गरिएको छ। यसरी महासरस्वतीको पूजामा काल र मृत्युको पनि पूजा गरिन्छ।",
+            "en": "In this verse, the sequence of Mahāsarasvatī's worship is described. Thus in Mahāsarasvatī's worship, Kāla and Mṛtyu are also worshipped."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika022.wav"
+        },
+        {
+          "id": "vaikritika-23",
+          "number": 23,
+          "sanskrit": "नवास्याः शक्तयः पूज्यास्तदा रुद्रविनायकौ। नमो देव्या इति स्तोत्रैर्महालक्ष्मीं समर्चयेत्॥२३॥",
+          "iast": "navāsyāḥ śaktayaḥ pūjyāstadā rudravināyakau | namo devyā iti stotrairmahālakṣmīṃ samarcayet ||23||",
+          "meaning": {
+            "ne": "उनका नौ शक्तिहरू पूज्य हुन्छन्, तब रुद्र र विनायक। 'नमो देव्यै' यी स्तोत्रहरूले महालक्ष्मीको पूजा गर्नुपर्छ।",
+            "en": "Her nine śaktis are to be worshipped, then Rudra and Vināyaka. With hymns beginning 'Namo Devyai', one should worship Mahālakṣmī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको विस्तृत वर्णन छ। यो पूजा-विधि तान्त्रिक परम्परामा महत्वपूर्ण छ।",
+            "en": "In this verse, the detailed description of Mahālakṣmī's worship is given. This worship method is important in the tantric tradition."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika023.wav"
+        },
+        {
+          "id": "vaikritika-24",
+          "number": 24,
+          "sanskrit": "अवतारत्रयार्चायां स्तोत्रमन्त्रास्तदाश्रयाः। अष्टादशभुजा चैषा पूज्या महिषमर्दिनी॥२४॥",
+          "iast": "avatāratrayārcāyāṃ stotramantrāstadāśrayāḥ | aṣṭādaśabhujā caiṣā pūjyā mahiṣamardinī ||24||",
+          "meaning": {
+            "ne": "तीन अवतारहरूको अर्चनामा स्तोत्र र मन्त्रहरू तिनैका आश्रय हुन्छन्। यी अठारह भुजा भएकी महिषमर्दिनी पूज्य हुन्छिन्।",
+            "en": "In the worship of the three avatāras, the hymns and mantras are dependent on them. This eighteen-armed Mahiṣamardinī is to be worshipped."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा तीन अवतारहरूको अर्चनाको वर्णन छ। यसरी महाकाली, महालक्ष्मी र महासरस्वती—यी तीन अवतारहरूको अर्चनामा तिनैका स्तोत्र र मन्त्रहरू प्रयोग गरिन्छन्।",
+            "en": "In this verse, the worship of the three avatāras is described. Thus in the worship of Mahākālī, Mahālakṣmī and Mahāsarasvatī — these three avatāras — their respective hymns and mantras are used."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika024.wav"
+        },
+        {
+          "id": "vaikritika-25",
+          "number": 25,
+          "sanskrit": "महालक्ष्मीर्महाकाली सैव प्रोक्ता सरस्वती। ईश्वरी पुण्यपापानां सर्वलोकमहेश्वरी॥२५॥",
+          "iast": "mahālakṣmīrmahākālī saiva proktā sarasvatī | īśvarī puṇyapāpānāṃ sarvalokamaheśvarī ||25||",
+          "meaning": {
+            "ne": "महालक्ष्मी, महाकाली र सरस्वती—उनै हुन्। पुण्य र पापकी ईश्वरी, सबै लोकहरूकी महेश्वरी।",
+            "en": "Mahālakṣmī, Mahākālī and Sarasvatī — she is proclaimed as all these. She is the sovereign of merit and sin, the Great Goddess of all the worlds."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा तीनै देवीहरूको एकत्वको घोषणा गरिएको छ। यो अद्वैतको घोषणा हो—जसले तीन गुणहरूको एकीकरणलाई प्रकट गर्छ।",
+            "en": "In this verse, the unity of the three Goddesses is proclaimed. This is the proclamation of non-duality — revealing the integration of the three guṇas."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika025.wav"
+        },
+        {
+          "id": "vaikritika-26",
+          "number": 26,
+          "sanskrit": "महिषान्तकरी येन पूजिता स जगत्प्रभुः। पूजयेज्जगतां धात्रीं चण्डिकां भक्तवत्सलाम्॥२६॥",
+          "iast": "mahiṣāntakarī yena pūjitā sa jagatprabhuḥ | pūjayejjagatāṃ dhātrīṃ caṇḍikāṃ bhaktavatsalām ||26||",
+          "meaning": {
+            "ne": "जसले महिषको अन्त गर्ने देवीको पूजा गर्छ, उनी जगत्प्रभु हुन्छ। जगतकी धात्री, भक्तवत्सला चण्डिकाको पूजा गर्नुपर्छ।",
+            "en": "One who worships her who is the ender of Mahiṣa becomes the lord of the world. One should worship Caṇḍikā, the sustainer of the world, affectionate to her devotees."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महिषमर्दिनीको पूजाको फल वर्णन गरिएको छ। 'भक्तवत्सला'—भक्तप्रति वात्सल्य भएकी। यो देवीको भक्तप्रतिको प्रेमको प्रतीक हो।",
+            "en": "In this verse, the fruit of worshipping Mahiṣamardinī is described. 'Bhaktavatsalā' — affectionate to devotees. This symbolises the Goddess's love for her devotee."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika026.wav"
+        },
+        {
+          "id": "vaikritika-27",
+          "number": 27,
+          "sanskrit": "अर्घ्यादिभिरलङ्कारैर्गन्धपुष्पैस्तथाक्षतैः। धूपैर्दीपैश्च नैवेद्यैर्नानाभक्ष्यसमन्वितैः॥२७॥",
+          "iast": "arghyādibhiralaṅkārairgandhapuṣpaistathākṣataiḥ | dhūpairdīpaiśca naivedyairnānābhakṣyasamanvitaiḥ ||27||",
+          "meaning": {
+            "ne": "अर्घ्य आदि, अलंकार, गन्ध, पुष्प, अक्षत, धूप, दीप र नाना भक्ष्यहरूसहित नैवेद्यले।",
+            "en": "With arghya and other offerings, ornaments, fragrance, flowers, unbroken rice, incense, lamps, and naivedya accompanied by various foods."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाका उपचारहरूको वर्णन छ। यसरी देवीको पूजामा सोह्र उपचारहरू अर्पण गरिन्छन्।",
+            "en": "In this verse, the offerings of worship are described. Thus in the Goddess's worship, sixteen offerings are made."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika027.wav"
+        },
+        {
+          "id": "vaikritika-28",
+          "number": 28,
+          "sanskrit": "रुधिराक्तेन बलिना मांसेन सुरया नृप। प्रणामाचमनीयेन चन्दनेन सुगन्धिना॥२८॥",
+          "iast": "rudhirāktena balinā māṃsena surayā nṛpa | praṇāmācamanīyena candanena sugandhinā ||28||",
+          "meaning": {
+            "ne": "हे राजन्, रगतले अक्त बलि, मांस, सुरा, प्रणाम, आचमनीय र सुगन्धित चन्दनले।",
+            "en": "O King, with blood-smeared bali, flesh, liquor, prostration, water for sipping, and fragrant sandalwood."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा तान्त्रिक पूजाका विशेष उपचारहरूको वर्णन छ। यो पूजा-विधि विशेष रूपमा महाकालीको पूजामा प्रयोग गरिन्छ।",
+            "en": "In this verse, the special offerings of tantric worship are described. This worship method is especially used in the worship of Mahākālī."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika028.wav"
+        },
+        {
+          "id": "vaikritika-29",
+          "number": 29,
+          "sanskrit": "सकर्पूरैश्च ताम्बूलैर्भक्तिभावसमन्वितैः। वामभागेऽग्रतो देव्याश्छिन्नशीर्षं महासुरम्॥२९॥",
+          "iast": "sakarpūraiśca tāmbūlairbhaktibhāvasamanvitaiḥ | vāmabhāge'grato devyāśchinnaśīrṣaṃ mahāsuram ||29||",
+          "meaning": {
+            "ne": "कर्पूरसहित ताम्बूलले भक्तिभावसहित, देवीको बायाँ भागमा अगाडि छिन्न शीर्ष महासुर।",
+            "en": "With camphor and tāmbūla accompanied by devotional feeling; on the left side before the Goddess, the great demon with severed head."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाका थप उपचारहरूको वर्णन छ। यसरी देवीको पूजामा महिषासुरको छिन्न शीर्षलाई पनि स्थापित गरिन्छ।",
+            "en": "In this verse, further offerings of worship are described. Thus in the Goddess's worship, the severed head of Mahiṣāsura is also established."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika029.wav"
+        },
+        {
+          "id": "vaikritika-30",
+          "number": 30,
+          "sanskrit": "पूजयेन्महिषं येन प्राप्तं सायुज्यमीशया। दक्षिणे पुरतः सिंहं समग्रं धर्ममीश्वरम्॥३०॥",
+          "iast": "pūjayenmahiṣaṃ yena prāptaṃ sāyujyamīśayā | dakṣiṇe purataḥ siṃhaṃ samagraṃ dharmamīśvaram ||30||",
+          "meaning": {
+            "ne": "महिषको पूजा गर्नुपर्छ, जसद्वारा ईश्वरीसँग सायुज्य प्राप्त भयो। दाहिने अगाडि सिंह, समग्र धर्म र ईश्वर।",
+            "en": "One should worship Mahiṣa, by whom sāyujya with the Goddess was attained. On the right front, the lion, the entire dharma and the Lord."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महिषको पूजाको वर्णन छ। यसरी महिषको पूजा गरिन्छ—जसले देवीसँग सायुज्य प्राप्त गर्‍यो।",
+            "en": "In this verse, the worship of Mahiṣa is described. Thus Mahiṣa is worshipped — who attained sāyujya with the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika030.wav"
+        },
+        {
+          "id": "vaikritika-31",
+          "number": 31,
+          "sanskrit": "वाहनं पूजयेद्देव्या धृतं येन चराचरम्। कुर्याच्च स्तवनं धीमांस्तस्या एकाग्रमानसः॥३१॥",
+          "iast": "vāhanaṃ pūjayeddevyā dhṛtaṃ yena carācaram | kuryācca stavanaṃ dhīmāṃstasyā ekāgramānasaḥ ||31||",
+          "meaning": {
+            "ne": "देवीको वाहनको पूजा गर्नुपर्छ, जसले चराचरलाई धारण गरेको छ। बुद्धिमानले एकाग्रचित्त भई उनको स्तवन गर्नुपर्छ।",
+            "en": "One should worship the Goddess's vehicle, by which the moving and unmoving is upheld. The wise one, with a one-pointed mind, should praise her."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको वाहनको पूजाको वर्णन छ। यो पूजा-विधिको अन्तिम चरण हो।",
+            "en": "In this verse, the worship of the Goddess's vehicle is described. This is the final stage of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika031.wav"
+        },
+        {
+          "id": "vaikritika-32",
+          "number": 32,
+          "sanskrit": "ततः कृताञ्जलिर्भूत्वा स्तुवीत चरितैरिमैः। एकेन वा मध्यमेन नैकेनेतरयोरिह॥३२॥",
+          "iast": "tataḥ kṛtāñjalirbhūtvā stuvīta caritairimaiḥ | ekena vā madhyamena naikenetarayoriha ||32||",
+          "meaning": {
+            "ne": "त्यसपछि कृताञ्जलि भई यी चरितहरूले स्तुति गर्नुपर्छ। एकले वा मध्यमले, तर दुईमध्ये एकलाई छोडेर होइन।",
+            "en": "Then, having folded one's hands, one should praise with these deeds — with one, or with the middle one, but not leaving out one of the other two."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा स्तुतिको विधि वर्णन गरिएको छ। यसरी स्तुति गर्दा तीनै चरितहरूको स्तुति गर्नुपर्छ।",
+            "en": "In this verse, the method of praise is described. Thus while praising, one should praise all three deeds."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika032.wav"
+        },
+        {
+          "id": "vaikritika-33",
+          "number": 33,
+          "sanskrit": "चरितार्धं तु न जपेज्जपञ्छिद्रमवाप्नुयात्। स्तोत्रमन्त्रैः स्तुवीतेमां यदि वा जगदम्बिकाम्॥३३॥",
+          "iast": "caritārdhaṃ tu na japejjapañchidramavāpnuyāt | stotramantraiḥ stuvītemāṃ yadi vā jagadambikām ||33||",
+          "meaning": {
+            "ne": "चरितको आधा जप गर्नु हुँदैन—जप गर्दा छिद्र प्राप्त हुन्छ। स्तोत्र र मन्त्रहरूले यी जगदम्बिकाको स्तुति गर्नुपर्छ।",
+            "en": "One should not recite half a deed — by reciting, one would obtain a flaw. One should praise this Mother of the World with hymns and mantras."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा जपको विधि वर्णन गरिएको छ। यसरी चरितको आधा जप गर्नु हुँदैन—जसले छिद्र उत्पन्न गर्छ।",
+            "en": "In this verse, the method of japa is described. Thus one should not recite half a deed — which creates a flaw."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika033.wav"
+        },
+        {
+          "id": "vaikritika-34",
+          "number": 34,
+          "sanskrit": "प्रदक्षिणनमस्कारान् कृत्वा मूर्ध्नि कृताञ्जलिः। क्षमापयेज्जगद्धात्रीं मुहुर्मुहुरतन्द्रितः॥३४॥",
+          "iast": "pradakṣiṇanamaskārān kṛtvā mūrdhni kṛtāñjaliḥ | kṣamāpayejjagaddhātrīṃ muhurmuhuratandritaḥ ||34||",
+          "meaning": {
+            "ne": "प्रदक्षिणा र नमस्कार गरी, शिरमा कृताञ्जलि राखी, जगद्धात्रीसँग बारम्बार क्षमा माग्नुपर्छ, अतन्द्रित भई।",
+            "en": "Having performed circumambulation and salutations, with folded hands on the head, one should repeatedly beg forgiveness of the sustainer of the world, without laziness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा क्षमाप्रार्थनाको विधि वर्णन गरिएको छ। यो पूजा-विधिको अन्तिम चरण हो।",
+            "en": "In this verse, the method of seeking forgiveness is described. This is the final stage of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika034.wav"
+        },
+        {
+          "id": "vaikritika-35",
+          "number": 35,
+          "sanskrit": "प्रतिश्लोकं च जुहुयात् पायसं तिलसर्पिषा। जुहुयात् स्तोत्रमन्त्रैर्वा चण्डिकायै शुभं हविः॥३५॥",
+          "iast": "pratiślokaṃ ca juhuyāt pāyasaṃ tilasarpiṣā | juhuyāt stotramantrairvā caṇḍikāyai śubhaṃ haviḥ ||35||",
+          "meaning": {
+            "ne": "प्रत्येक श्लोकमा पायस, तिल र घ्यूले हवन गर्नुपर्छ। स्तोत्र र मन्त्रहरूले वा चण्डिकालाई शुभ हवि अर्पण गर्नुपर्छ।",
+            "en": "For each verse, one should offer pāyasa with sesame and ghee. One should offer auspicious oblations to Caṇḍikā with hymns and mantras."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा हवनको विधि वर्णन गरिएको छ। यो हवन-विधिको विस्तृत वर्णन हो।",
+            "en": "In this verse, the method of oblation is described. This is the detailed description of the oblation method."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika035.wav"
+        },
+        {
+          "id": "vaikritika-36",
+          "number": 36,
+          "sanskrit": "नमो नमः पदैर्देवीं पूजयेत् सुसमाहितः। प्रयतः प्राञ्जलिः प्रह्वः प्राणानारोप्य चात्मनि॥३६॥",
+          "iast": "namo namaḥ padairdevīṃ pūjayet susamāhitaḥ | prayataḥ prāñjaliḥ prahvaḥ prāṇānāropya cātmani ||36||",
+          "meaning": {
+            "ne": "समाहित भई 'नमो नमः' पदहरूले देवीको पूजा गर्नुपर्छ। प्रयत, प्राञ्जलि, प्रह्व भई प्राणहरूलाई आत्मामा आरोपण गर्नुपर्छ।",
+            "en": "With a collected mind, one should worship the Goddess with the words 'Namo Namaḥ'. Pure, with folded hands, humble, having raised the prāṇas into the self..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाको अन्तिम चरण वर्णन गरिएको छ। यो पूजाको अन्तिम र सर्वोच्च चरण हो—जहाँ साधक आफ्नो प्राणलाई देवीमा समर्पण गर्छ।",
+            "en": "In this verse, the final stage of worship is described. This is the final and supreme stage of worship — where the practitioner surrenders his very life-breath to the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika036.wav"
+        },
+        {
+          "id": "vaikritika-37",
+          "number": 37,
+          "sanskrit": "सुचिरं भावयेद्देवीं चण्डिकां तन्मयो भवेत्। एवं यः पूजयेद्भक्त्या प्रत्यहं परमेश्वरीम्॥३७॥",
+          "iast": "suciraṃ bhāvayeddevīṃ caṇḍikāṃ tanmayo bhavet | evaṃ yaḥ pūjay edbhaktyā pratyahaṃ parameśvarīm ||37||",
+          "meaning": {
+            "ne": "धेरै समयसम्म देवी चण्डिकाको भावना गर्नुपर्छ र तन्मय हुनुपर्छ। यसरी जो भक्तिपूर्वक प्रतिदिन परमेश्वरीको पूजा गर्छ।",
+            "en": "For a long time one should contemplate the Goddess Caṇḍikā and become absorbed in her. Thus, one who worships the Supreme Goddess daily with devotion..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ध्यानको फल वर्णन गरिएको छ। यो ध्यानको सर्वोच्च फल हो—जहाँ साधक देवीमय हुन्छ।",
+            "en": "In this verse, the fruit of meditation is described. This is the supreme fruit of meditation — where the practitioner becomes one with the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika037.wav"
+        },
+        {
+          "id": "vaikritika-38",
+          "number": 38,
+          "sanskrit": "भुक्त्वा भोगान् यथाकामं देवीसायुज्यमाप्नुयात्। यो न पूजयते नित्यं चण्डिकां भक्तवत्सलाम्॥३८॥",
+          "iast": "bhuktvā bhogān yathākāmaṃ devīsāyujyamāpnuyāt | yo na pūjayate nityaṃ caṇḍikāṃ bhaktavatsalām ||38||",
+          "meaning": {
+            "ne": "इच्छानुसार भोगहरू भोगेर देवीसायुज्य प्राप्त गर्छ। जो नित्य भक्तवत्सला चण्डिकाको पूजा गर्दैन।",
+            "en": "Having enjoyed pleasures according to desire, one attains union with the Goddess. One who does not worship Caṇḍikā, affectionate to devotees, daily..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाको फल वर्णन गरिएको छ। यो पूजाको पूर्ण फल हो—जसले सांसारिक र आध्यात्मिक दुवै सुख प्रदान गर्छ।",
+            "en": "In this verse, the fruit of worship is described. This is the complete fruit of worship — granting both worldly and spiritual happiness."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika038.wav"
+        },
+        {
+          "id": "vaikritika-39",
+          "number": 39,
+          "sanskrit": "भस्मीकृत्यास्य पुण्यानि निर्दहेत् परमेश्वरी। तस्मात् पूजय भूपाल सर्वलोकमहेश्वरीम्॥३९॥",
+          "iast": "bhasmīkṛtyāsya puṇyāni nirdahet parameśvarī | tasmāt pūjaya bhūpāla sarvalokamaheśvarīm ||39||",
+          "meaning": {
+            "ne": "परमेश्वरीले उसका पुण्यहरूलाई भस्म गरी जलाउँछिन्। त्यसैले हे राजन्, सबै लोकहरूकी महेश्वरीको पूजा गर्नुहोस्।",
+            "en": "The Supreme Goddess reduces his merits to ashes and burns them. Therefore, O King, worship the Great Goddess of all the worlds."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। यो वैकृतिकरहस्यको अन्तिम श्लोक हो—जसले पूजाको अनिवार्यतालाई स्थापित गर्छ।",
+            "en": "This is the final verse. This is the final verse of the Vaikṛtika Rahasya — establishing the necessity of worship."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/vaikritika/vaikritika039.wav"
+        }
+      ]
+    },
+    {
+      "id": "tritiyam-rahasya",
+      "type": "rahasya",
+      "title": "तृतीयं रहस्यम् — मूर्तिरहस्यम्",
+      "titleEn": "Third Secret — Mūrti Rahasya",
+      "description": {
+        "ne": "मूर्तिरहस्यम् देवीमाहात्म्यको तेस्रो रहस्य हो। यसले देवीका पाँच मुख्य मूर्तिहरू—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी—को वर्णन गर्छ। प्रत्येक मूर्ति ब्रह्माण्डीय संकटको एक फरक क्षण र दिव्य प्रतिक्रियासँग सम्बन्धित छ।",
+        "en": "Mūrti Rahasya is the third secret of the Devī Māhātmya. It describes the Goddess's five primary forms — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī. Each form is associated with a different moment of cosmic crisis and divine response."
+      },
+      "items": [
+        {
+          "id": "murti-01",
+          "number": 1,
+          "sanskrit": "ॐ ऋषिरुवाच। नन्दा भगवती नाम या भविष्यति नन्दजा। सा स्तुता पूजिता ध्याता वशीकुर्याज्जगत्त्रयम्॥१॥",
+          "iast": "oṃ ṛṣiruvāca | nandā bhagavatī nāma yā bhaviṣyati nandajā | sā stutā pūjitā dhyātā vaśīkuryājjagattrayam ||1||",
+          "meaning": {
+            "ne": "ॐ ऋषिले भने: नन्दकी पुत्रीका रूपमा जन्म लिने नन्दा भगवती नामकी देवी—जब उनको स्तुति, पूजा र ध्यान गरिन्छ, तब उनी भक्तको तीनै लोकलाई वशीभूत गराउँछिन्।",
+            "en": "Oṁ. The sage said: The Goddess named Nandā, who will be born as the daughter of Nanda — when she is praised, worshipped and meditated upon, she brings the three worlds under the control of the devotee."
+          },
+          "commentary": {
+            "ne": "यो श्लोक मूर्तिरहस्यको प्रारम्भ हो। ऋषि मार्कण्डेयले देवी नन्दाको वर्णन गर्छन्—जो नन्दकी पुत्रीका रूपमा जन्म लिनेछिन्। यो भविष्यवाणी कृष्णको जन्मसँग सम्बन्धित छ।",
+            "en": "This verse is the beginning of Mūrti Rahasya. Sage Mārkaṇḍeya describes the Goddess Nandā — who will be born as the daughter of Nanda. This prophecy is connected with the birth of Kṛṣṇa."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti001.wav"
+        },
+        {
+          "id": "murti-02",
+          "number": 2,
+          "sanskrit": "कनकोत्तमकान्तिः सा सुकान्तिकनकाम्बरा। देवी कनकवर्णाभा कनकोत्तमभूषणा॥२॥",
+          "iast": "kanakottamakāntiḥ sā sukāntikanakāmbarā | devī kanakavarṇābhā kanakottamabhūṣaṇā ||2||",
+          "meaning": {
+            "ne": "उनको कान्ति उत्तम सुनझैं छ, उनको वस्त्र सुन्दर सुनको छ, देवीको वर्ण सुनको जस्तै छ र उनका आभूषण उत्तम सुनका छन्।",
+            "en": "Her radiance is like the finest gold, her garments are of beautiful gold, the Goddess shines with a golden hue, and her ornaments are of the finest gold."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवी नन्दाको सौन्दर्यको वर्णन गरिएको छ। सुनको वर्ण शुद्धता, ऐश्वर्य र दिव्यताको प्रतीक हो।",
+            "en": "In this verse, the beauty of Goddess Nandā is described. The colour gold symbolises purity, sovereignty and divinity."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti002.wav"
+        },
+        {
+          "id": "murti-03",
+          "number": 3,
+          "sanskrit": "कमलाङ्कुशपाशाब्जैरलङ्कृतचतुर्भुजा। इन्दिरा कमला लक्ष्मीः सा श्री रुक्माम्बुजासना॥३॥",
+          "iast": "kamalāṅkuśapāśābjairalaṅkṛtacaturbhujā | indirā kamalā lakṣmīḥ sā śrī rukmāmbujāsanā ||3||",
+          "meaning": {
+            "ne": "कमल, अङ्कुश, पाश र शङ्खले अलंकृत चार भुजा भएकी, इन्दिरा, कमला, लक्ष्मी, श्री—उनी सुनको कमलमा आसीन छिन्।",
+            "en": "Adorned with four arms holding a lotus, goad, noose and conch, she is Indirā, Kamalā, Lakṣmī and Śrī, seated on a golden lotus."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवी नन्दाको स्वरूपको वर्णन छ। यसरी देवी नन्दा लक्ष्मीको स्वरूप हुन्—जो ऐश्वर्य, सौन्दर्य र समृद्धिकी देवी हुन्।",
+            "en": "In this verse, the form of Goddess Nandā is described. Thus Goddess Nandā is the form of Lakṣmī — the Goddess of sovereignty, beauty and prosperity."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti003.wav"
+        },
+        {
+          "id": "murti-04",
+          "number": 4,
+          "sanskrit": "या रक्तदन्तिका नाम देवी प्रोक्ता मयानघ। तस्याः स्वरूपं वक्ष्यामि शृणु सर्वभयापहम्॥४॥",
+          "iast": "yā raktadantikā nāma devī proktā mayānagha | tasyāḥ svarūpaṃ vakṣyāmi śṛṇu sarvabhayāpaham ||4||",
+          "meaning": {
+            "ne": "हे निर्दोष राजा, मैले रक्तदन्तिका नामकी देवीको वर्णन गरेको छु। अब म उनको स्वरूप बताउँछु—सुन्नुहोस्, जो सबै भय हरण गर्ने छ।",
+            "en": "O faultless king, I have spoken of the Goddess named Raktadantikā. Now I shall describe her form — listen, for it destroys all fears."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ऋषिले रक्तदन्तिकाको स्वरूपको वर्णन गर्ने वचन दिन्छन्। यो संक्रमणकालको देवी हुन्—जो महामारी र रोगबाट रक्षा गर्छिन्।",
+            "en": "In this verse, the sage promises to describe the form of Raktadantikā. She is the Goddess of times of epidemic — who protects from pestilence and disease."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti004.wav"
+        },
+        {
+          "id": "murti-05",
+          "number": 5,
+          "sanskrit": "रक्ताम्बरा रक्तवर्णा रक्तसर्वाङ्गभूषणा। रक्तायुधा रक्तनेत्रा रक्तकेशातिभीषणा॥५॥",
+          "iast": "raktāmbarā raktavarṇā raktasarvāṅgabhūṣaṇā | raktāyudhā raktanetrā raktakeśātibhīṣaṇā ||5||",
+          "meaning": {
+            "ne": "रक्त वस्त्र भएकी, रक्त वर्णकी, सबै अङ्गमा रक्त आभूषण भएकी, रक्त आयुध भएकी, रक्त नेत्र भएकी र रक्त केशले अत्यन्त भयानक।",
+            "en": "Clothed in red, red in complexion, with red ornaments on all her limbs, red weapons, red eyes, and red hair — utterly terrifying."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको रूपको वर्णन छ। रक्त वर्ण यहाँ क्रोध, शक्ति र रक्षाको प्रतीक हो।",
+            "en": "In this verse, the form of Raktadantikā is described. The colour red here symbolises anger, power and protection."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti005.wav"
+        },
+        {
+          "id": "murti-06",
+          "number": 6,
+          "sanskrit": "रक्ततीक्ष्णनखा रक्तदशना रक्तदन्तिका। पतिं नारीवानुरक्ता देवी भक्तं भजेज्जनम्॥६॥",
+          "iast": "raktatīkṣṇanakhā raktadaśanā raktadantikā | patiṃ nārīvānuraktā devī bhaktaṃ bhajejjanam ||6||",
+          "meaning": {
+            "ne": "रक्त तीक्ष्ण नख भएकी, रक्त दाँत भएकी, रक्तदन्तिका—जसरी स्त्री आफ्नो पतिप्रति अनुरक्त हुन्छिन्, त्यसरी नै देवी आफ्नो भक्तजनको भजन गर्छिन्।",
+            "en": "With sharp red nails, red teeth, she is Raktadantikā. As a woman is devoted to her husband, so the Goddess is devoted to her devotee."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको भक्तप्रतिको प्रेमको वर्णन छ। देवीको भयानक रूप भए पनि उनको हृदय भक्तप्रतिको प्रेमले भरिएको छ।",
+            "en": "In this verse, Raktadantikā's love for her devotee is described. Though the Goddess's form is terrifying, her heart is filled with love for her devotee."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti006.wav"
+        },
+        {
+          "id": "murti-07",
+          "number": 7,
+          "sanskrit": "वसुधेव विशाला सा सुमेरुयुगलस्तनी। दीर्घौ लम्बावतिस्थूलौ तावतीव मनोहरौ॥७॥",
+          "iast": "vasudheva viśālā sā sumeruyugalastanī | dīrghau lambāvatisthūlau tāvatīva manoharau ||7||",
+          "meaning": {
+            "ne": "उनी पृथ्वीझैं विशाल छिन्, उनका दुई स्तन सुमेरु पर्वतझैं छन्—लामा, फराकिला र अत्यन्त आकर्षक।",
+            "en": "She is vast like the earth, her two breasts are like Mount Sumeru — long, broad and exceedingly beautiful."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको विशालताको वर्णन छ। यो वर्णन देवीको मातृ-स्वरूपलाई प्रकट गर्छ।",
+            "en": "In this verse, the vastness of Raktadantikā is described. This description reveals the Goddess's mother-form."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti007.wav"
+        },
+        {
+          "id": "murti-08",
+          "number": 8,
+          "sanskrit": "कर्कशावतिकान्तौ तौ सर्वानन्दपयोनिधी। भक्तान् सम्पाययेद्देवी सर्वकामदुघौ स्तनौ॥८॥",
+          "iast": "karkkhaśāvatikāntau tau sarvānandapayonidhī | bhaktān sampāyayet devī sarvakāmadughau stanau ||8||",
+          "meaning": {
+            "ne": "ती दुई स्तन कठोर भए पनि अत्यन्त सुन्दर छन् र सबै आनन्दका सागर हुन्। देवीले आफ्ना भक्तहरूलाई ती स्तनहरूबाट दुध पिलाउँछिन्—जो सबै कामनाहरू पूर्ण गर्ने छन्।",
+            "en": "Those two breasts, though firm, are exceedingly beautiful and are oceans of all joy. The Goddess makes her devotees drink from those breasts — which fulfil all desires."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको मातृ-स्वरूपको वर्णन छ। देवी आफ्ना भक्तहरूलाई आफ्नो स्तनबाट दुध पिलाउँछिन्—यो मातृ-प्रेमको चरम प्रतीक हो।",
+            "en": "In this verse, the Goddess's mother-form is described. The Goddess makes her devotees drink from her breasts — this is the ultimate symbol of motherly love."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti008.wav"
+        },
+        {
+          "id": "murti-09",
+          "number": 9,
+          "sanskrit": "खड्गं पात्रं च मुसलं लाङ्गलं च बिभर्ति सा। आख्याता रक्तचामुण्डा देवी योगेश्वरीति च॥९॥",
+          "iast": "khaḍgaṃ pātraṃ ca musalaṃ lāṅgalaṃ ca bibharti sā | ākhyātā raktacāmuṇḍā devī yogeśvarīti ca ||9||",
+          "meaning": {
+            "ne": "उनी खड्ग, पात्र, मुसल र हल धारण गर्छिन्। उनलाई रक्तचामुण्डा र योगेश्वरी पनि भनिन्छ।",
+            "en": "She holds a sword, a drinking vessel, a pestle and a plough. She is known as Raktacāmuṇḍā and also as Yogeśvarī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाका आयुधहरूको वर्णन छ। यसरी देवी संहार र सृजन दुवैकी स्वामिनी हुन्।",
+            "en": "In this verse, Raktadantikā's weapons are described. Thus the Goddess is the mistress of both destruction and creation."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti009.wav"
+        },
+        {
+          "id": "murti-10",
+          "number": 10,
+          "sanskrit": "अनया व्याप्तमखिलं जगत्स्थावरजङ्गमम्। इमां यः पूजयेद्भक्त्या स व्याप्नोति चराचरम्॥१०॥",
+          "iast": "anayā vyāptamakhilaṃ jagatsthāvarajaṅgamam | imāṃ yaḥ pūjayedbhaktyā sa vyāpnoti carācaram ||10||",
+          "meaning": {
+            "ne": "यी देवीद्वारा सम्पूर्ण जगत्—स्थिर र चल—व्याप्त छ। जो भक्तिपूर्वक उनको पूजा गर्छ, उनी सम्पूर्ण चराचरलाई व्याप्त गर्छ।",
+            "en": "By her the entire world — moving and unmoving — is pervaded. One who worships her with devotion pervades the entire moving and unmoving creation."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको सर्वव्यापकताको वर्णन छ। यो देवीको कृपाको फल हो—भक्त देवीको स्वरूपमा परिणत हुन्छ।",
+            "en": "In this verse, the Goddess's all-pervasiveness is described. This is the fruit of the Goddess's grace — the devotee is transformed into the Goddess's own nature."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti010.wav"
+        },
+        {
+          "id": "murti-11",
+          "number": 11,
+          "sanskrit": "अधीते य इमं नित्यं रक्तदन्त्यावपुःस्तवम्। तं सा परिचरेद्देवी पतिं प्रियमिवाङ्गना॥११॥",
+          "iast": "adhīte ya imaṃ nityaṃ raktadantyāvapuḥstavam | taṃ sā paricareddevī patiṃ priyamivāṅganā ||11||",
+          "meaning": {
+            "ne": "जो नित्य रक्तदन्तिकाको स्वरूपको स्तवन पाठ गर्छ, देवी उसको सेवा गर्छिन्—जसरी स्त्री आफ्नो प्रिय पतिको सेवा गर्छिन्।",
+            "en": "One who daily recites this hymn to the form of Raktadantikā — the Goddess serves him as a woman serves her beloved husband."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा रक्तदन्तिकाको स्तवनको फल वर्णन गरिएको छ। यो देवीको भक्त-वात्सल्यको चरम हो—देवी आफ्नो भक्तको सेविका बन्छिन्।",
+            "en": "In this verse, the fruit of reciting Raktadantikā's hymn is described. This is the peak of the Goddess's affection for her devotee — the Goddess becomes the servant of her devotee."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti011.wav"
+        },
+        {
+          "id": "murti-12",
+          "number": 12,
+          "sanskrit": "शाकम्भरी नीलवर्णा नीलोत्पलविलोचना। गम्भीरनाभिस्त्रिवलीविभूषिततनूदरी॥१२॥",
+          "iast": "śākambharī nīlavarṇā nīlotpalavilocanā | gambhīranābhistrivalīvibhūṣitatanūdarī ||12||",
+          "meaning": {
+            "ne": "शाकम्भरी नील वर्णकी छिन्, नील कमलझैं नेत्र भएकी, गम्भीर नाभि भएकी, तीन वल्लीले विभूषित पातलो कमर भएकी।",
+            "en": "Śākambharī is blue in complexion, with eyes like blue lotuses, a deep navel, and a slender waist adorned with three folds."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको रूपको वर्णन छ। नील वर्ण शान्ति, गहिराइ र अनन्तताको प्रतीक हो।",
+            "en": "In this verse, the form of Śākambharī is described. The colour blue symbolises peace, depth and infinity."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti012.wav"
+        },
+        {
+          "id": "murti-13",
+          "number": 13,
+          "sanskrit": "सुकर्कशसमोत्तुङ्गवृत्तपीनघनस्तनी। मुष्टिं शिलीमुखैः पूर्णं कमलं कमलालया॥१३॥",
+          "iast": "sukarkkhaśasamottuṅgavṛttapīnaghanastanī | muṣṭiṃ śilīmukhaiḥ pūrṇaṃ kamalaṃ kamalālayā ||13||",
+          "meaning": {
+            "ne": "कठोर, समान, उच्च, गोलो र पूर्ण स्तन भएकी, मुट्ठीमा बाणहरूले भरिएको कमल धारण गर्ने कमलालया (कमलमा निवास गर्ने)।",
+            "en": "With firm, even, high, round and full breasts, holding in her fist a lotus filled with arrows — she is Kamalālayā (she whose abode is the lotus)."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको शरीरको वर्णन छ। यसरी देवी कमलमा आसीन छिन् र उनको हातमा बाणहरूले भरिएको कमल छ।",
+            "en": "In this verse, Śākambharī's body is described. Thus the Goddess is seated on a lotus and holds a lotus filled with arrows."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti013.wav"
+        },
+        {
+          "id": "murti-14",
+          "number": 14,
+          "sanskrit": "पुष्पपल्लवमूलादिफलाढ्यं शाकसञ्चयम्। काम्यानन्तरसैर्युक्तं क्षुत्तृण्मृत्युजराऽपहम्॥१४॥",
+          "iast": "puṣpapallavamūlādiphalāḍhyaṃ śākasañcayam | kāmyānantarasairyuktaṃ kṣuttṛṇmṛtyujarā'paham ||14||",
+          "meaning": {
+            "ne": "फूल, पल्लव, मूल र फलहरूले युक्त, शाकहरूको समूह, काम्य र अनन्त रसहरूले युक्त—जो भोक, तृष्णा, मृत्यु र जरालाई हरण गर्छ।",
+            "en": "Abundant with flowers, leaves, roots and fruits, a collection of vegetables, endowed with desirable and infinite flavours — removing hunger, thirst, death and old age."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको पोषण-स्वरूपको वर्णन छ। यसरी देवी केवल आध्यात्मिक मात्र नभई भौतिक पोषणकी पनि देवी हुन्।",
+            "en": "In this verse, Śākambharī's nourishing form is described. Thus the Goddess is not only spiritual but also the Goddess of physical nourishment."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti014.wav"
+        },
+        {
+          "id": "murti-15",
+          "number": 15,
+          "sanskrit": "कार्मुकं च स्फुरत्कान्तिबिभ्रति परमेश्वरी। शाकम्भरी शताक्षी स्यात् सैव दुर्गा प्रकीर्तिता॥१५॥",
+          "iast": "kārmukaṃ ca sphuratkāntibibhrati parameśvarī | śākambharī śatākṣī syāt saiva durgā prakīrtitā ||15||",
+          "meaning": {
+            "ne": "दीप्तिमान कान्ति भएको धनुष धारण गर्ने परमेश्वरी, शाकम्भरी, शताक्षी—उनै दुर्गा भनी प्रकीर्तित छिन्।",
+            "en": "The Supreme Goddess holding a bow of sparkling radiance — she is Śākambharī, Śatākṣī, and she is proclaimed as Durgā herself."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको धनुष धारण गर्ने स्वरूपको वर्णन छ। यसरी शाकम्भरी, शताक्षी र दुर्गा—यी सबै एउटै देवीका नाम हुन्।",
+            "en": "In this verse, Śākambharī's form holding a bow is described. Thus Śākambharī, Śatākṣī and Durgā — all these are names of the same Goddess."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti015.wav"
+        },
+        {
+          "id": "murti-16",
+          "number": 16,
+          "sanskrit": "शाकम्भरीं स्तुवन् ध्यायन् जपन् सम्पूजयन् नमन्। अक्षय्यमश्नुते शीघ्रमन्नपानादि सर्वशः॥१६॥",
+          "iast": "śākambharīṃ stuvan dhyāyan japan sampūjayan naman | akṣayyamaśnute śīghramannapānādi sarvaśaḥ ||16||",
+          "meaning": {
+            "ne": "शाकम्भरीको स्तुति, ध्यान, जप, पूजन र नमन गर्नेले तुरन्त अक्षय अन्न, पानी आदि सबै प्राप्त गर्छ।",
+            "en": "One who praises, meditates on, recites the name of, worships and salutes Śākambharī quickly attains inexhaustible food, drink and all else."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शाकम्भरीको उपासनाको फल वर्णन गरिएको छ। यो देवीको पोषण-शक्तिको फल हो—जो भक्तलाई कहिल्यै भोकाउँदैन।",
+            "en": "In this verse, the fruit of worshipping Śākambharī is described. This is the fruit of the Goddess's nourishing power — she who never lets her devotee go hungry."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti016.wav"
+        },
+        {
+          "id": "murti-17",
+          "number": 17,
+          "sanskrit": "भीमाऽपि नीलवर्णा सा दंष्ट्रादशनभासुरा। विशाललोचना नारी वृत्तपीनघनस्तनी॥१७॥",
+          "iast": "bhīmā'pi nīlavarṇā sā daṃṣṭrādaśanabhāsurā | viśālalocanā nārī vṛttapīnaghanastanī ||17||",
+          "meaning": {
+            "ne": "भीमा पनि नील वर्णकी छिन्, दंष्ट्रा र दाँतले दीप्तिमान, विशाल नेत्र भएकी, गोलो र पूर्ण स्तन भएकी नारी।",
+            "en": "Bhīmā is also blue in complexion, radiant with fangs and teeth, with large eyes, a woman with round and full breasts."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा भीमाको रूपको वर्णन छ। भीमा भयानक रूप भएकी देवी हुन्—जो डरलाग्दो संकटहरूबाट रक्षा गर्छिन्।",
+            "en": "In this verse, the form of Bhīmā is described. Bhīmā is the Goddess with a terrifying form — who protects from dreadful crises."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti017.wav"
+        },
+        {
+          "id": "murti-18",
+          "number": 18,
+          "sanskrit": "चन्द्रहासं च डमरुं शिरःपात्रं च बिभ्रती। एकवीरा कालरात्रिः सैवोक्ता कामदा स्तुता॥१८॥",
+          "iast": "candrahāsaṃ ca ḍamaruṃ śiraḥpātraṃ ca bibhratī | ekavīrā kālarātriḥ saivoktā kāmadā stutā ||18||",
+          "meaning": {
+            "ne": "चन्द्रहास (तरवार), डमरु र शिरको पात्र धारण गर्ने, एकवीरा, कालरात्रि—उनै कामदा भनी स्तुत गरिन्छिन्।",
+            "en": "Holding the crescent sword, the drum and the skull-cup, she is Ekavīrā, Kālarātri — she is praised as Kāmadā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा भीमाका आयुधहरूको वर्णन छ। यसरी देवी भीमा एक्लै संघर्ष गर्ने शक्ति हुन्—जो कालरात्रिको रूपमा अज्ञानको नाश गर्छिन्।",
+            "en": "In this verse, Bhīmā's weapons are described. Thus Goddess Bhīmā is the power that struggles alone — who as Kālarātri destroys ignorance."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti018.wav"
+        },
+        {
+          "id": "murti-19",
+          "number": 19,
+          "sanskrit": "भ्रामरी चैव ताः पञ्च देव्या मूर्तयो मताः। ध्यायेत् ध्यानेन यो देवीमेकैकां वा समग्रशः॥१९॥",
+          "iast": "bhrāmarī caiva tāḥ pañca devyā mūrtayo matāḥ | dhyāyet dhyānena yo devīmekaikāṃ vā samagraśaḥ ||19||",
+          "meaning": {
+            "ne": "भ्रामरी पनि—यी पाँच देवीका मूर्तिहरू मानिएका छन्। जो ध्यानले देवीको एक-एक वा समग्र रूपमा ध्यान गर्छ।",
+            "en": "Bhrāmarī as well — these five are considered the forms of the Goddess. One who meditates on the Goddess individually or collectively with meditation."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पाँच मूर्तिहरूको गणना गरिएको छ—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी। यसरी मूर्तिरहस्य भक्तलाई देवीको ध्यानको लचिलो मार्ग देखाउँछ।",
+            "en": "In this verse, the five forms are enumerated — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī. Thus Mūrti Rahasya shows the devotee a flexible path of meditation on the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti019.wav"
+        },
+        {
+          "id": "murti-20",
+          "number": 20,
+          "sanskrit": "स सर्वपापनिर्मुक्तो दिवि देवैः सह मोदते। अनया विधिना ध्यानं यः करोति नरोत्तमः॥२०॥",
+          "iast": "sa sarvapāpanirmukto divi devaiḥ saha modate | anayā vidhinā dhyānaṃ yaḥ karoti narottamaḥ ||20||",
+          "meaning": {
+            "ne": "उनी सबै पापबाट मुक्त भई स्वर्गमा देवताहरूसँग आनन्द गर्छ। जो उत्तम मनुष्य यस विधिले ध्यान गर्छ।",
+            "en": "He is freed from all sins and rejoices in heaven with the gods. The noble person who meditates by this method..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ध्यानको फल वर्णन गरिएको छ। यो देवीको ध्यानको फल हो—जसले भक्तलाई पापबाट मुक्त गरी दिव्य आनन्द प्रदान गर्छ।",
+            "en": "In this verse, the fruit of meditation is described. This is the fruit of the Goddess's meditation — which frees the devotee from sin and grants divine joy."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti020.wav"
+        },
+        {
+          "id": "murti-21",
+          "number": 21,
+          "sanskrit": "स सर्वदा सुखी लोके सर्वकामसमृद्धिमान्। इत्येतन्मूर्तिरहस्यं देव्यास्तु कथितं मया॥२१॥",
+          "iast": "sa sarvadā sukhī loke sarvakāmasamṛddhimān | ityetanmūrtirahasyaṃ devyāstu kathitaṃ mayā ||21||",
+          "meaning": {
+            "ne": "उनी संसारमा सधैं सुखी र सबै कामनाहरूले समृद्ध हुन्छन्। यसरी मैले देवीको यो मूर्तिरहस्य भनेको छु।",
+            "en": "He is always happy in the world and enriched with all desires. Thus I have spoken this Mūrti Rahasya of the Goddess."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ध्यानको पार्थिव फल वर्णन गरिएको छ। यसरी ऋषिले मूर्तिरहस्यको वर्णन पूर्ण गर्छन्।",
+            "en": "In this verse, the worldly fruit of meditation is described. Thus the sage completes the description of Mūrti Rahasya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti021.wav"
+        },
+        {
+          "id": "murti-22",
+          "number": 22,
+          "sanskrit": "गोपनीयं प्रयत्नेन न देयं यस्य कस्यचित्। इदं तु मूर्तिरहस्यं देव्याः परमदुर्लभम्॥२२॥",
+          "iast": "gopanīyaṃ prayatnena na deyaṃ yasya kasyacit | idaṃ tu mūrtirahasyaṃ devyāḥ paramadurlabham ||22||",
+          "meaning": {
+            "ne": "यसलाई प्रयत्नपूर्वक गोप्य राख्नु, कसैलाई पनि दिनु हुँदैन। यो देवीको मूर्तिरहस्य अत्यन्त दुर्लभ छ।",
+            "en": "This should be kept secret with effort, and should not be given to just anyone. This Mūrti Rahasya of the Goddess is extremely rare."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा मूर्तिरहस्यको गोपनीयताको महत्व बताइएको छ। यो रहस्य केवल श्रद्धालु भक्तहरूलाई मात्र दिनुपर्छ।",
+            "en": "In this verse, the importance of the secrecy of Mūrti Rahasya is stated. This secret should be given only to faithful devotees."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti022.wav"
+        },
+        {
+          "id": "murti-23",
+          "number": 23,
+          "sanskrit": "श्रृणु राजन् प्रवक्ष्यामि मूर्तिरहस्यमुत्तमम्। यथा देव्या नवदुर्गाः कथिता लोकपूजिताः॥२३॥",
+          "iast": "śṛṇu rājan pravakṣyāmi mūrtirahasyamuttamam | yathā devyā navadurgāḥ kathitā lokapūjitāḥ ||23||",
+          "meaning": {
+            "ne": "हे राजा, सुन्नुहोस्, म उत्तम मूर्तिरहस्य भन्छु—जसरी देवीका नवदुर्गा लोकपूजित भनी कथन गरिएका छन्।",
+            "en": "Listen, O King, I shall speak the supreme Mūrti Rahasya — how the Goddess's Navadurgās are proclaimed, worshipped by the world."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ऋषिले मूर्तिरहस्यको वर्णन गर्न सुरु गर्छन्। यो श्लोक मूर्तिरहस्यको दोस्रो भागको प्रारम्भ हो—जहाँ नवदुर्गाको वर्णन गरिन्छ।",
+            "en": "In this verse, the sage begins the description of Mūrti Rahasya. This verse is the beginning of the second part of Mūrti Rahasya — where the Navadurgās are described."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti023.wav"
+        },
+        {
+          "id": "murti-24",
+          "number": 24,
+          "sanskrit": "शैलपुत्री ब्रह्मचारिणी चन्द्रघण्टा कूष्माण्डा। स्कन्दमाता कात्यायनी कालरात्री महागौरी॥२४॥",
+          "iast": "śailaputrī brahmacāriṇī candraghaṇṭā kūṣmāṇḍā | skandamātā kātyāyanī kālarātrī mahāgaurī ||24||",
+          "meaning": {
+            "ne": "शैलपुत्री, ब्रह्मचारिणी, चन्द्रघण्टा, कूष्माण्डा, स्कन्दमाता, कात्यायनी, कालरात्री, महागौरी।",
+            "en": "Śailaputrī, Brahmacāriṇī, Candraghaṇṭā, Kūṣmāṇḍā, Skandamātā, Kātyāyanī, Kālarātrī, Mahāgaurī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा नवदुर्गाका आठ नामहरूको गणना गरिएको छ। यी सबै नवदुर्गाका रूप हुन्—जो नवरात्रिमा पूजित हुन्छन्।",
+            "en": "In this verse, eight names of the Navadurgās are enumerated. All these are forms of the Navadurgās — worshipped during Navarātri."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti024.wav"
+        },
+        {
+          "id": "murti-25",
+          "number": 25,
+          "sanskrit": "सिद्धिदात्री च नवमी ता नवदुर्गाः प्रकीर्तिताः। महाकाली महालक्ष्मी महासरस्वती तथा॥२५॥",
+          "iast": "siddhidātrī ca navamī tā navadurgāḥ prakīrtitāḥ | mahākālī mahālakṣmī mahāsarasvatī tathā ||25||",
+          "meaning": {
+            "ne": "सिद्धिदात्री नवौं—यी नवदुर्गा भनी प्रकीर्तित छन्। महाकाली, महालक्ष्मी र महासरस्वती पनि।",
+            "en": "Siddhidātrī is the ninth — these are proclaimed as the Navadurgās. Mahākālī, Mahālakṣmī and Mahāsarasvatī as well."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा नवदुर्गाको गणना पूर्ण गरिन्छ। यसरी नवदुर्गा र तीन महादेवीहरूको सम्बन्ध स्थापित गरिन्छ।",
+            "en": "In this verse, the enumeration of the Navadurgās is completed. Thus the relationship between the Navadurgās and the three Great Goddesses is established."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti025.wav"
+        },
+        {
+          "id": "murti-26",
+          "number": 26,
+          "sanskrit": "नन्दा भगवती दुर्गा शाकम्भरी च भीमदा। भ्रामरी चैव ताः पञ्च देव्या मूर्तयो मताः॥२६॥",
+          "iast": "nandā bhagavatī durgā śākambharī ca bhīmadā | bhrāmarī caiva tāḥ pañca devyā mūrtayo matāḥ ||26||",
+          "meaning": {
+            "ne": "नन्दा भगवती, दुर्गा, शाकम्भरी, भीमदा र भ्रामरी—यी पाँच देवीका मूर्तिहरू मानिएका छन्।",
+            "en": "Nandā Bhagavatī, Durgā, Śākambharī, Bhīmadā and Bhrāmarī — these five are considered the forms of the Goddess."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पाँच मूर्तिहरूको पुनः गणना गरिएको छ। यसरी मूर्तिरहस्य देवीका पाँच प्रमुख रूपहरूको वर्णन गर्छ।",
+            "en": "In this verse, the five forms are again enumerated. Thus Mūrti Rahasya describes the Goddess's five primary forms."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti026.wav"
+        },
+        {
+          "id": "murti-27",
+          "number": 27,
+          "sanskrit": "ध्यायेद्ध्यानेन यो देवीमेकैकां वा समग्रशः। स सर्वपापनिर्मुक्तो दिवि देवैः सह मोदते॥२७॥",
+          "iast": "dhyāyeddhyānena yo devīmekaikāṃ vā samagraśaḥ | sa sarvapāpanirmukto divi devaiḥ saha modate ||27||",
+          "meaning": {
+            "ne": "जो ध्यानले देवीको एक-एक वा समग्र रूपमा ध्यान गर्छ, उनी सबै पापबाट मुक्त भई स्वर्गमा देवताहरूसँग आनन्द गर्छ।",
+            "en": "One who meditates on the Goddess individually or collectively with meditation — he is freed from all sins and rejoices in heaven with the gods."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २० को पुनरावृत्ति हो। यसले ध्यानको फललाई पुनः स्थापित गर्छ।",
+            "en": "This verse is a repetition of verse 20. It re-establishes the fruit of meditation."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti027.wav"
+        },
+        {
+          "id": "murti-28",
+          "number": 28,
+          "sanskrit": "अनया विधिना ध्यानं यः करोति नरोत्तमः। स सर्वदा सुखी लोके सर्वकामसमृद्धिमान्॥२८॥",
+          "iast": "anayā vidhinā dhyānaṃ yaḥ karoti narottamaḥ | sa sarvadā sukhī loke sarvakāmasamṛddhimān ||28||",
+          "meaning": {
+            "ne": "जो उत्तम मनुष्य यस विधिले ध्यान गर्छ, उनी संसारमा सधैं सुखी र सबै कामनाहरूले समृद्ध हुन्छन्।",
+            "en": "The noble person who meditates by this method is always happy in the world and enriched with all desires."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २१ को पुनरावृत्ति हो। यसले मूर्तिरहस्यको पार्थिव फलको पुनरावृत्ति गर्छ।",
+            "en": "This verse is a repetition of verse 21. It repeats the worldly fruit of Mūrti Rahasya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti028.wav"
+        },
+        {
+          "id": "murti-29",
+          "number": 29,
+          "sanskrit": "इत्येतन्मूर्तिरहस्यं देव्यास्तु कथितं मया। गोपनीयं प्रयत्नेन न देयं यस्य कस्यचित्॥२९॥",
+          "iast": "ityetanmūrtirahasyaṃ devyāstu kathitaṃ mayā | gopanīyaṃ prayatnena na deyaṃ yasya kasyacit ||29||",
+          "meaning": {
+            "ne": "यसरी मैले देवीको यो मूर्तिरहस्य भनेको छु। यसलाई प्रयत्नपूर्वक गोप्य राख्नु, कसैलाई पनि दिनु हुँदैन।",
+            "en": "Thus I have spoken this Mūrti Rahasya of the Goddess. This should be kept secret with effort, and should not be given to just anyone."
+          },
+          "commentary": {
+            "ne": "यो श्लोक २२ को पुनरावृत्ति हो। यसले मूर्तिरहस्यको गोपनीयताको महत्वलाई पुनः स्थापित गर्छ।",
+            "en": "This verse is a repetition of verse 22. It re-establishes the importance of the secrecy of Mūrti Rahasya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti029.wav"
+        },
+        {
+          "id": "murti-30",
+          "number": 30,
+          "sanskrit": "इति श्रीमार्कण्डेयपुराणे देवीमाहात्म्ये मूर्तिरहस्यं सम्पूर्णम्॥३०॥",
+          "iast": "iti śrīmārkaṇḍeyapurāṇe devīmāhātmye mūrtirahasyaṃ sampūrṇam ||30||",
+          "meaning": {
+            "ne": "यसरी श्रीमार्कण्डेयपुराणको देवीमाहात्म्यमा मूर्तिरहस्य सम्पूर्ण भयो।",
+            "en": "Thus concludes the Mūrti Rahasya in the Devī Māhātmya of the Śrī Mārkaṇḍeya Purāṇa."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। यसरी मूर्तिरहस्यको समापन हुन्छ। यो रहस्य देवीमाहात्म्यको तेस्रो रहस्य हो।",
+            "en": "This is the final verse. Thus Mūrti Rahasya concludes. This secret is the third secret of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/rahasya-trayam/murti/murti030.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "रहस्यत्रयको सम्पूर्ण प्रवाहलाई हेर्दा तीन रहस्यहरू—प्राधानिकरहस्यम्, वैकृतिकरहस्यम् र मूर्तिरहस्यम्—को संग्रह देखिन्छ, जसले सम्पूर्ण देवीमाहात्म्यको दार्शनिक, तान्त्रिक र उपासनात्मक सारलाई समेट्छ।\n\nप्राधानिकरहस्यम् (३२ श्लोक) देवीमाहात्म्यको दार्शनिक हृदय हो। यसले देवीलाई सम्पूर्ण सृष्टिको मूल कारण, आदि शक्ति र परम सत्ताका रूपमा स्थापित गर्छ। यो अद्वैत वेदान्त र शाक्त दर्शनको संगम हो—जहाँ महामायाको शक्तिले ज्ञानीलाई पनि मोहित गर्छ भन्ने सत्य प्रकट हुन्छ।\n\nवैकृतिकरहस्यम् (३९ श्लोक) देवीको तीन प्रमुख शक्ति-धाराहरू—महाकाली, महालक्ष्मी र महासरस्वती—को वर्णन गर्छ, जो क्रमशः तमस्, रजस् र सत्त्व गुणसँग सम्बन्धित छन्। यो सृष्टिको मूल प्रक्रियाको गूढ ज्ञान हो—जसले एकत्वबाट अनेकत्वको यात्रा देखाउँछ।\n\nमूर्तिरहस्यम् (३० श्लोक) देवीका पाँच मुख्य मूर्तिहरू—नन्दा, रक्तदन्तिका, शाकम्भरी, भीमा र भ्रामरी—को वर्णन गर्छ। प्रत्येक मूर्ति ब्रह्माण्डीय संकटको एक फरक क्षण र दिव्य प्रतिक्रियासँग सम्बन्धित छ। यो भक्ति र ध्यानको एक अद्भुत मार्गदर्शक हो।\n\nयी तीनै रहस्यहरू मिलेर देवीमाहात्म्यको पूर्णता प्रदान गर्छन्। जसले सप्तशतीको पाठ गरेर यी रहस्यहरूको पाठ गर्दैन, उसको पाठ अपूर्ण रहन्छ। यसरी रहस्यत्रयम् देवी-उपासनाको चरम रहस्य हो—जसले साधकलाई देवीसायुज्यको मार्ग देखाउँछ।",
+      "en": "Read as a whole, Rahasyatrayam presents the collection of the three secrets — Prādhānika Rahasya, Vaikṛtika Rahasya and Mūrti Rahasya — which together contain the philosophical, tantric and devotional essence of the entire Devī Māhātmya.\n\nPrādhānika Rahasya (32 verses) is the philosophical heart of the Devī Māhātmya. It establishes the Goddess as the root cause of all creation, the primordial energy and the supreme reality. It is the confluence of Advaita Vedānta and Śākta philosophy — where the truth that Mahāmāyā deludes even the wise is revealed.\n\nVaikṛtika Rahasya (39 verses) describes the Goddess's three primary streams of energy — Mahākālī, Mahālakṣmī and Mahāsarasvatī — corresponding respectively to the guṇas of tamas, rajas and sattva. This is the esoteric knowledge of the fundamental process of creation — showing the journey from unity to multiplicity.\n\nMūrti Rahasya (30 verses) describes the Goddess's five primary forms — Nandā, Raktadantikā, Śākambharī, Bhīmā and Bhrāmarī. Each form is associated with a different moment of cosmic crisis and divine response. It is a wonderful guide to devotion and meditation.\n\nAll three secrets together grant the completeness of the Devī Māhātmya. One who recites the Saptaśatī but does not recite these secrets leaves their recitation incomplete. Thus Rahasyatrayam is the ultimate secret of Goddess worship — showing the practitioner the path to union with the Goddess."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "रहस्यत्रयको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी रहस्यत्रयको अध्ययन केवल १०१ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Rahasyatrayam, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Rahasyatrayam does not end simply with reading 101 verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

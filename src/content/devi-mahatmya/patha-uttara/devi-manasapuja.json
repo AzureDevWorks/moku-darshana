@@ -1,0 +1,1173 @@
+{
+  "id": "devi-manasapuja",
+  "title": "Devī Mānasapūjā",
+  "sanskritTitle": "॥ श्रीदेवीमानसपूजा ॥",
+  "type": "stotram",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 72,
+    "author": "Ādi Śaṅkarācārya",
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "This is the Devī Mānasapūjā, also known as Devī Chatuḥṣaṣṭyupacāra Pūjā Stotram or Parā Mānasikā Pūjā. It is attributed to Ādi Śaṅkarācārya and consists of seventy-two verses describing the mental worship of the Goddess with sixty-four offerings (upacāras). The text is preserved in the Śāradā Tilaka and is traditionally recited as a complete mental worship (mānasapūjā) for those who cannot perform external ritual worship. The received recension preserves seventy-two verses including the phala-śruti.",
+    "references": [
+      { "name": "Sanskrit Documents — devIchatuHShaShTyupachArapUjAstotram", "url": "https://sanskritdocuments.org/doc_devii/devIpUjA.html" },
+      { "name": "Wikisource — देवीचतुःषष्ट्युपचारपूजास्तोत्रम्", "url": "https://sa.wikisource.org/wiki/देवीचतुःषष्ट्युपचारपूजास्तोत्रम्" },
+      { "name": "Stotra Nidhi — Devi Chatushasti Upachara Puja Stotram", "url": "https://stotranidhi.com/hi/devi-chatushasti-upachara-puja-stotram-in-sanskrit/" },
+      { "name": "Shodhganga — Devī Mānasapūjā", "url": "https://shodhganga.inflibnet.ac.in" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "देवीमानसपूजाया महिमा",
+      "titleEn": "The Nature and Place of Devī Mānasapūjā",
+      "ne": "देवीमानसपूजा आदि शङ्कराचार्यद्वारा विरचित एक अत्यन्त सुन्दर र गहिरो मानसिक पूजा स्तोत्र हो। यसलाई 'देवीचतुःषष्ट्युपचारपूजास्तोत्रम्' वा 'परा मानसिका पूजा' पनि भनिन्छ। यसमा चौसठ्ठी उपचारहरू (षोडशोपचारभन्दा विस्तृत) द्वारा देवीको मानसिक पूजाको वर्णन गरिएको छ।\n\nयस स्तोत्रको मूल भाव हो—बाह्य सामग्रीको अभावमा पनि मनले नै देवीको पूर्ण पूजा गर्न सकिन्छ। साधकले कल्पना गर्दछ कि उसले देवीलाई सिंहासनमा विराजमान गराएको छ, उनको पाद्य, अर्घ्य, आचमन, स्नान, वस्त्र, आभूषण, गन्ध, पुष्प, धूप, दीप, नैवेद्य, ताम्बूल, आरार्तिक, छत्र, चामर, दर्पण, वाहन, सेना, नृत्य, गीत आदि सबै अर्पण गरेको छ। यो पूजा मनको एकाग्रताले गरिन्छ—जहाँ बाह्य वस्तुहरूको आवश्यकता पर्दैन।\n\nयस स्तोत्रमा शङ्कराचार्यले देवीको दिव्य स्वरूपको वर्णन गर्दै भक्तको हृदयमा देवीको निवासको प्रार्थना गरेका छन्। अन्तिम श्लोकहरूमा फलश्रुति दिइएको छ—जो यो पूजाको पाठ गर्छ, उसलाई धर्म, अर्थ, काम र मोक्ष प्राप्त हुन्छ र देहावसानमा शिवभाव (मोक्ष) प्राप्त हुन्छ। यसरी यो स्तोत्र केवल पूजा मात्र नभई साधकको आत्म-रूपान्तरणको साधन हो।\n\nयस स्तोत्रको विनियोगमा शङ्कराचार्य ऋषि, अनुष्टुप् छन्द र महात्रिपुरसुन्दरी देवता बताइएका छन्। यो स्तोत्र उनै साधकहरूका लागि हो जो बाह्य सामग्री वा कर्मकाण्डको आडम्बरबाट मुक्त भई शुद्ध भक्ति र मनको एकाग्रताले देवीको पूजा गर्न चाहन्छन्।",
+      "en": "Devī Mānasapūjā is an exquisitely beautiful and profound mental worship stotra composed by Ādi Śaṅkarācārya. It is also known as Devī Chatuḥṣaṣṭyupacāra Pūjā Stotram or Parā Mānasikā Pūjā. It describes the mental worship of the Goddess through sixty-four offerings (more elaborate than the sixteen-upacāra worship).\n\nThe essential spirit of this stotra is that even in the absence of external materials, the Goddess can be fully worshipped through the mind alone. The practitioner imagines that he has seated the Goddess on a throne and offers her pādya, arghya, ācamana, bathing, clothes, ornaments, fragrance, flowers, incense, lamp, food, tāmbūla, ārātrika, umbrella, chowries, mirror, vehicles, armies, dance, music and all else. This worship is performed through concentration of mind — where external objects are not required.\n\nIn this stotra, Śaṅkarācārya describes the Goddess's divine form and prays for her dwelling in the devotee's heart. In the final verses, the phala-śruti is given — one who recites this worship attains dharma, artha, kāma and mokṣa, and at the end of the body attains Śiva-bhāva (liberation). Thus this stotra is not merely worship but a means of the practitioner's self-transformation.\n\nIn the viniyoga, Śaṅkarācārya is the seer, Anuṣṭup is the metre, and Mahātripurasundarī is the deity. This stotra is for those practitioners who, free from the pomp of external materials and ritual, wish to worship the Goddess through pure devotion and concentration of mind."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीदेवीमानसपूजास्तोत्रस्य शङ्कराचार्य ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीमहात्रिपुरसुन्दरी देवता।\nश्रीमत्त्रिपुरसुन्दरीप्रीत्यर्थे मानसपूजापाठे विनियोगः॥",
+      "iast": "oṃ asya śrī-devī-mānasa-pūjā-stotrasya śaṅkarācārya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-mahātripurasundarī devatā |\nśrīmat-tripurasundarī-prītyarthe mānasa-pūjā-pāṭhe viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीदेवीमानसपूजास्तोत्रका शङ्कराचार्य ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीमहात्रिपुरसुन्दरी देवता हुन्। श्रीमत्त्रिपुरसुन्दरीको प्रसन्नताका लागि मानसपूजाको पाठ गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Devī Mānasapūjā Stotra, Śaṅkarācārya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Mahātripurasundarī is the presiding deity. It is recited for the pleasure of Śrīmat Tripurasundarī."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका ७२ श्लोकमध्ये गणना गरिँदैन। यहाँ महात्रिपुरसुन्दरी देवताको उल्लेखले यस स्तोत्रलाई श्रीविद्या परम्परासँग जोड्छ।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the seventy-two main verses. The mention of Mahātripurasundarī connects this stotra with the Śrīvidyā tradition."
+      },
+      "audio": "audio/devi-mahatmya/devi-manasapuja/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ मुक्ताकुन्देन्दुगौरां मणिमयमकुटां रत्नताटङ्कयुक्तां अक्षस्रक्पुष्पहस्तामभयवरकरां चन्द्रचूडां त्रिनेत्राम्। नानालंकारयुक्तां सुरमकुटमणिद्योतितस्वर्णपीठां सानन्दां सुप्रसन्नां त्रिभुवनजननीं चेतसा चिन्तयामि॥",
+      "iast": "oṃ muktākundendugaurāṃ maṇimayamakuṭāṃ ratnatāṭaṅkayuktām akṣasrakpuṣpahastāmabhayavarakarāṃ candracūḍāṃ trinetrām | nānālaṅkārayuktāṃ suramakuṭamaṇidyotitasvarṇapīṭhāṃ sānandāṃ suprasannāṃ tribhuvanajaninīṃ cetasā cintayāmi ||",
+      "meaning": {
+        "ne": "मुक्ता, कुन्द र चन्द्रमा झैं गौर वर्णकी, मणिमय मुकुट धारण गर्ने, रत्नका ताटङ्क लगाउने, हातमा अक्षमाला र पुष्प धारण गर्ने, अभय र वर मुद्रा दिने, चन्द्रचूडा, त्रिनेत्री, नाना अलंकारले युक्त, देवताहरूका मुकुटका मणिले दीप्तिमान स्वर्ण पीठमा विराजमान, आनन्दयुक्त, अत्यन्त प्रसन्न, त्रिभुवनकी जननी देवीलाई म मनले चिन्तन गर्दछु।",
+        "en": "I contemplate with my mind the Mother of the three worlds — white as pearl, jasmine and moon, wearing a crown of jewels, adorned with gem-studded earrings, holding a rosary and flowers in her hands, granting fearlessness and boons, crowned with the moon, three-eyed, adorned with various ornaments, seated on a golden throne radiant with the gems of the gods' crowns, joyful, supremely pleased."
+      },
+      "commentary": {
+        "ne": "यो ध्यान श्लोक देवीको दिव्य स्वरूपको वर्णन गर्छ। मुक्ता, कुन्द र चन्द्रमाको गौर वर्ण—शुद्धता र शान्तिको प्रतीक। मणिमय मुकुट र रत्नताटङ्क—ऐश्वर्यको। अक्षमाला र पुष्प—जप र भक्तिको। अभय र वर मुद्रा—रक्षा र कृपाको। त्रिनेत्र—भूत, वर्तमान र भविष्यको ज्ञान। स्वर्ण पीठ—दिव्य स्थान। यसरी यो ध्यानले देवीको सर्वाङ्गीण स्वरूपलाई प्रकट गर्छ—जो सौन्दर्य, शक्ति, करुणा र ऐश्वर्यको संगम हो।",
+        "en": "This dhyāna verse describes the divine form of the Goddess. The white colour of pearl, jasmine and moon — symbols of purity and peace. The jeweled crown and gem earrings — symbols of sovereignty. The rosary and flowers — symbols of japa and devotion. The gestures of fearlessness and boon-giving — symbols of protection and grace. Three eyes — knowledge of past, present and future. Golden throne — the divine seat. Thus this meditation reveals the Goddess's complete form — the confluence of beauty, power, compassion and sovereignty."
+      },
+      "audio": "audio/devi-mahatmya/devi-manasapuja/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीदेवीमानसपूजा",
+      "titleEn": "Devī Mānasapūjā — Main Recitation",
+      "items": [
+        {
+          "id": "manasapuja-01",
+          "number": 1,
+          "sanskrit": "उषसि मागधमङ्गलगायनैर्झटिति जागृहि जागृहि जागृहि। अतिकृपार्द्रकटाक्षनिरीक्षणैर्जगदिदं जगदम्ब सुखीकुरु॥१॥",
+          "iast": "uṣasi māgadhamaṅgalagāyanairjhaṭiti jāgṛhi jāgṛhi jāgṛhi | atikṛpārdrakaṭākṣanirīkṣaṇairjagadidaṃ jagadamba sukhīkuru ||1||",
+          "meaning": {
+            "ne": "प्रभातमा मागधहरूको मंगलगानले हे जगदम्बा, तुरन्त जाग्नुहोस्, जाग्नुहोस्, जाग्नुहोस्। अत्यन्त करुणाले आर्द्र भएको कटाक्षले यो संसारलाई सुखी गर्नुहोस्।",
+            "en": "At dawn, with the auspicious songs of the Māgadhas, O Mother of the World, awaken quickly, awaken, awaken! With Your glance moistened by extreme compassion, make this world happy."
+          },
+          "commentary": {
+            "ne": "यो स्तोत्रको पहिलो श्लोक हो। प्रभातको समयमा मागधहरू (राजगायकहरू) ले मंगलगान गाएर देवीलाई जगाउँछन्। 'जागृहि जागृहि जागृहि'—तीन पटकको आह्वानले देवीलाई जगाउने तीव्रता देखाउँछ। देवीको कटाक्ष करुणाले आर्द्र छ—त्यसैले यो संसारलाई सुखी बनाउनुहोस्। यो श्लोकमा साधकले देवीलाई मानवीय माताको रूपमा सम्बोधन गरेको छ—जो निद्राबाट जगाइन्छिन् र आफ्ना सन्तानलाई सुख दिन्छिन्। यो मानसपूजाको प्रारम्भ हो—जहाँ साधक कल्पना गर्छ कि उसले देवीलाई जगाएर पूजाको निमन्त्रणा दिइरहेको छ।",
+            "en": "This is the first verse of the stotra. At dawn, the Māgadhas (royal bards) awaken the Goddess with auspicious songs. 'Jāgṛhi jāgṛhi jāgṛhi' — the threefold invocation shows the urgency of awakening the Goddess. The Goddess's glance is moist with compassion — therefore, make this world happy. In this verse, the practitioner addresses the Goddess as a human mother — who is awakened from sleep and gives happiness to her children. This is the beginning of the mānasa-pūjā — where the practitioner imagines that he is awakening the Goddess and inviting her for worship."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja001.wav"
+        },
+        {
+          "id": "manasapuja-02",
+          "number": 2,
+          "sanskrit": "कनकमयवितर्दिशोभमानं दिशि दिशि पूर्णसुवर्णकुम्भयुक्तम्। मणिमयमण्टपमध्यमेहि मातर्मयि कृपयाशु समर्चनं ग्रहीतुम्॥२॥",
+          "iast": "kanakamayavitardiśobhamānaṃ diśi diśi pūrṇasuvarṇakumbhayuktam | maṇimayamaṇṭapamadhyamehi mātarmayi kṛpayāśu samarcanaṃ grahītum ||2||",
+          "meaning": {
+            "ne": "सुनको वितर्दिले शोभित, सबै दिशामा पूर्ण सुवर्णकुम्भहरूले युक्त, मणिमय मण्डपको मध्यभागमा हे माता, ममाथि कृपा गरी मेरो पूजा ग्रहण गर्नका लागि तुरन्त आउनुहोस्।",
+            "en": "O Mother, who is radiant with golden pavilions, with full golden pots in every direction, come quickly to the centre of the jewelled hall, out of compassion for me, to accept my worship."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधकले देवीलाई मणिमय मण्डपमा आउन निमन्त्रणा दिन्छ। सुनको वितर्दि, पूर्ण सुवर्णकुम्भ र मणिमय मण्डप—यी सबै दिव्य ऐश्वर्यका प्रतीक हुन्। 'मयि कृपया'—ममाथि कृपा गरी। 'आशु'—तुरन्त। साधक देवीलाई पूजा ग्रहण गर्नका लागि विनम्रतापूर्वक निमन्त्रणा दिन्छ। यो श्लोकमा साधकको विनम्रता र देवीको करुणाको सम्बन्ध प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner invites the Goddess to the jewelled hall. Golden pavilions, full golden pots and the jewelled hall — all these symbolise divine sovereignty. 'Mayi kṛpayā' — out of compassion for me. 'Āśu' — quickly. The practitioner humbly invites the Goddess to accept his worship. This verse reveals the relationship between the practitioner's humility and the Goddess's compassion."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja002.wav"
+        },
+        {
+          "id": "manasapuja-03",
+          "number": 3,
+          "sanskrit": "कनककलशशोभमानशीर्षं जलधरलम्बि समुल्लसत्पताकम्। भगवति तव संनिवासहेतोर्मणिमयमन्दिरमेतदर्पयामि॥३॥",
+          "iast": "kanakakalaśaśobhamānaśīrṣaṃ jaladharalambi samullasatpatākam | bhagavati tava saṃnivāsahetormaṇimayamandiraṃ etadarpayāmi ||3||",
+          "meaning": {
+            "ne": "सुनका कलशहरूले शोभित शिखर भएको, मेघहरूमा झुण्डिएका उल्लासमय पताकाहरू भएको यो मणिमय मन्दिर हे भगवति, तपाईंको निवासको लागि म अर्पण गर्दछु।",
+            "en": "O Goddess, this jewelled temple, whose summit is radiant with golden pots and whose joyful banners hang from the clouds — I offer this for Your dwelling."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई मणिमय मन्दिर अर्पण गर्छ। सुनका कलश, मेघहरूमा झुण्डिएका पताकाहरू—यी सबै दिव्य मन्दिरका अलंकार हुन्। 'तव संनिवासहेतोः'—तपाईंको निवासको कारण। साधक देवीलाई आफ्नो हृदयमा निवास गराउनको लागि यो मन्दिर अर्पण गर्छ। यो श्लोकमा बाह्य मन्दिरको कल्पना गर्दै साधक आन्तरिक मन्दिर (हृदय) को तयारी गर्छ।",
+            "en": "In this verse, the practitioner offers a jewelled temple to the Goddess. Golden pots and banners hanging from the clouds — all these are ornaments of the divine temple. 'Tava saṃnivāsahetoḥ' — for the cause of Your dwelling. The practitioner offers this temple to establish the Goddess's dwelling in his heart. In this verse, while imagining the external temple, the practitioner prepares the inner temple (the heart)."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja003.wav"
+        },
+        {
+          "id": "manasapuja-04",
+          "number": 4,
+          "sanskrit": "तपनीयमयी सुतूलिका कमनीया मृदुलोत्तरच्छदा। नवरत्नविभूषिता मया शिबिकेयं जगदम्ब तेऽर्पिता॥४॥",
+          "iast": "tapanīyamayī sutūlikā kamanīyā mṛdulottaracchadā | navaratnavibhūṣitā mayā śibikeyaṃ jagadamba te'rpitā ||4||",
+          "meaning": {
+            "ne": "सुनको सुन्दर तूलिका, कोमल उत्तरच्छदले युक्त, नवरत्नहरूले विभूषित यो शिविका हे जगदम्बा, मैले तपाईंलाई अर्पण गरेको छु।",
+            "en": "O Mother of the World, this palanquin made of gold, beautiful with a soft upper cover, adorned with nine gems — I have offered it to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई शिविका (पालकी) अर्पण गर्छ। सुनको तूलिका, कोमल उत्तरच्छद र नवरत्नका भूषणहरू—यी सबै दिव्य यानका अलंकार हुन्। शिविका देवीलाई एक स्थानबाट अर्को स्थानमा लैजानको लागि प्रयोग गरिन्छ—यसरी साधक देवीलाई आफ्नो हृदयमा ल्याउनको लागि शिविका अर्पण गर्छ। यो श्लोकमा साधकको भक्ति र सेवाको भाव प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a palanquin (śibikā) to the Goddess. The golden palanquin, the soft upper cover and the ornaments of nine gems — all these are ornaments of the divine vehicle. The palanquin is used to carry the Goddess from one place to another — thus the practitioner offers the palanquin to bring the Goddess into his heart. This verse reveals the practitioner's devotion and attitude of service."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja004.wav"
+        },
+        {
+          "id": "manasapuja-05",
+          "number": 5,
+          "sanskrit": "कनकमयवितर्दिस्थापिते तूलिकाढ्ये विविधकुसुमकीर्णे कोटिबालार्कवर्णे। भगवति रमणीये रत्नसिंहासनेऽस्मिन्नुपविश पदयुग्मं हेमपीठे निधाय॥५॥",
+          "iast": "kanakamayavitardisthāpite tūlikāḍhye vividhakusumakīrṇe koṭibālārkavarṇe | bhagavati ramaṇīye ratnasiṃhāsane'sminnupaviśa padayugmaṃ hemapīṭhe nidhāya ||5||",
+          "meaning": {
+            "ne": "सुनको वितर्दिमा स्थापित, तूलिकाले युक्त, विविध फूलहरूले छरिएको, करोडौं बालसूर्यको वर्ण भएको यो रमणीय रत्नसिंहासनमा हे भगवति, स्वर्ण पीठमा पादयुग्म राखेर विराजमान हुनुहोस्।",
+            "en": "O Goddess, seated on this beautiful jewelled throne, placed on a golden pavilion, adorned with a cushion, strewn with various flowers, radiant as millions of rising suns — place Your two feet on the golden seat and be seated."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई रत्नसिंहासनमा विराजमान हुन आग्रह गर्छ। सुनको वितर्दि, तूलिका, विविध फूल, करोडौं बालसूर्यको वर्ण—यी सबै सिंहासनको दिव्यताका प्रतीक हुन्। 'हेमपीठे'—स्वर्ण पीठमा। 'पदयुग्मं निधाय'—दुवै चरण राखेर। साधक देवीलाई आफ्नो हृदयको सिंहासनमा विराजमान गराउनको लागि निमन्त्रणा दिन्छ। यो श्लोकमा साधकको आतिथ्य-भाव र देवीको राजसी स्वरूपको वर्णन छ।",
+            "en": "In this verse, the practitioner requests the Goddess to be seated on the jewelled throne. The golden pavilion, the cushion, the various flowers, the radiance of millions of rising suns — all these symbolise the divinity of the throne. 'Hemapīṭhe' — on the golden seat. 'Padayugmaṃ nidhāya' — placing both feet. The practitioner invites the Goddess to be seated on the throne of his heart. This verse describes the practitioner's attitude of hospitality and the Goddess's royal form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja005.wav"
+        },
+        {
+          "id": "manasapuja-06",
+          "number": 6,
+          "sanskrit": "मणिमौक्तिकनिर्मितं महान्तं कनकस्तम्भचतुष्टयेन युक्तम्। कमनीयतमं भवानि तुभ्यं नवमुल्लोचमहं समर्पयामि॥६॥",
+          "iast": "maṇimauktikanirmitaṃ mahāntaṃ kanakastambhacatuṣṭayena yuktam | kamanīyatamaṃ bhavāni tubhyaṃ navamullocamahaṃ samarpayāmi ||6||",
+          "meaning": {
+            "ne": "मणि र मोतीले निर्मित, महान्, सुनका चार स्तम्भहरूले युक्त, अत्यन्त सुन्दर यो नवमुल्लोच (तम्बू) हे भवानी, मैले तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Bhavāni, this great canopy made of jewels and pearls, supported by four golden pillars, supremely beautiful — I offer it to You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई नवमुल्लोच (तम्बू) अर्पण गर्छ। मणि र मोतीले निर्मित, सुनका चार स्तम्भहरूले युक्त—यो दिव्य तम्बू हो। 'नवमुल्लोच'—नौ रत्नहरूले बनेको तम्बू। यो तम्बू देवीलाई छाया र सुरक्षा दिन्छ। साधक देवीलाई आफ्नो हृदयमा आश्रय दिनको लागि यो तम्बू अर्पण गर्छ। यसरी यो श्लोकमा साधकको रक्षा-भाव र देवीको आश्रय-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a canopy (navamulloca) to the Goddess. Made of jewels and pearls, supported by four golden pillars — this is the divine canopy. 'Navamulloca' — a canopy made of nine gems. This canopy gives shade and protection to the Goddess. The practitioner offers this canopy to give shelter to the Goddess in his heart. Thus this verse reveals the practitioner's protective attitude and the Goddess's sheltering nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja006.wav"
+        },
+        {
+          "id": "manasapuja-07",
+          "number": 7,
+          "sanskrit": "दूर्वया सरसिजान्वितविष्णुक्रान्तया च सहितं कुसुमाढ्यम्। पद्मयुग्मसदृशे पदयुग्मे पाद्यमेतदुररीकुरु मातः॥७॥",
+          "iast": "dūrvayā sarasijānvitaviṣṇukrāntayā ca sahitaṃ kusumāḍhyam | padmayugmasadṛśe padayugme pādyametadurarīkuru mātaḥ ||7||",
+          "meaning": {
+            "ne": "दूर्वा, कमल, विष्णुक्रान्ता र फूलहरूले युक्त यो पाद्य हे माता, कमलयुग्मसदृश तपाईंको पादयुग्ममा ग्रहण गर्नुहोस्।",
+            "en": "O Mother, this pādya (water for washing the feet) mixed with dūrvā grass, lotuses, Viṣṇukrāntā and flowers — please accept it for Your two feet, which are like a pair of lotuses."
+          },
+          "commentary": {
+            "ne": "यस श्लोकबाट षोडशोपचार पूजाको प्रारम्भ हुन्छ। पाद्य—चरण धुने जल। दूर्वा, कमल, विष्णुक्रान्ता र फूलहरूले युक्त यो पाद्य देवीको पादयुग्ममा अर्पण गरिन्छ। 'पद्मयुग्मसदृशे'—कमलयुग्मसदृश। देवीका चरण कमलझैं सुन्दर छन्। साधक देवीलाई पाद्य अर्पण गरेर उनको आतिथ्य गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको पादपद्मको महिमा प्रकट हुन्छ।",
+            "en": "From this verse begins the sixteen-upacāra worship. Pādya — water for washing the feet. This pādya mixed with dūrvā grass, lotuses, Viṣṇukrāntā and flowers is offered at the Goddess's feet. 'Padmayugmasadṛśe' — like a pair of lotuses. The Goddess's feet are beautiful like lotuses. The practitioner offers pādya to the Goddess, honouring her as a guest. This verse reveals the practitioner's attitude of service and the greatness of the Goddess's lotus feet."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja007.wav"
+        },
+        {
+          "id": "manasapuja-08",
+          "number": 8,
+          "sanskrit": "गन्धपुष्पयवसर्षपदूर्वासंयुतं तिलकुशाक्षतमिश्रम्। हेमपात्रनिहितं सह रत्नैरर्घ्यमेतदुररीकुरु मातः॥८॥",
+          "iast": "gandhapuṣpayavasarṣapadūrvāsaṃyutaṃ tilakuśākṣatamiśram | hemapātranihitaṃ saha ratnairarghyametadurarīkuru mātaḥ ||8||",
+          "meaning": {
+            "ne": "गन्ध, पुष्प, जौ, सर्षप, दूर्वा, तिल, कुश र अक्षतले मिश्रित, स्वर्णपात्रमा रत्नहरूसहित राखिएको यो अर्घ्य हे माता, ग्रहण गर्नुहोस्।",
+            "en": "O Mother, this arghya (offering of water and auspicious items) mixed with fragrance, flowers, barley, mustard seeds, dūrvā grass, sesame, kuśa grass and unbroken rice, placed in a golden vessel with jewels — please accept it."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई अर्घ्य अर्पण गर्छ। गन्ध, पुष्प, जौ, सर्षप, दूर्वा, तिल, कुश र अक्षत—यी सबै मंगल वस्तुहरू हुन्। स्वर्णपात्र र रत्नहरूले अर्घ्यको मूल्य बढाउँछ। 'अर्घ्य'—पूजामा अर्पण गरिने पवित्र जल। साधक देवीलाई अर्घ्य अर्पण गरेर उनको स्वागत गर्छ। यो श्लोकमा साधकको आदर-भाव र देवीको मंगलमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers arghya to the Goddess. Fragrance, flowers, barley, mustard seeds, dūrvā grass, sesame, kuśa grass and unbroken rice — all these are auspicious items. The golden vessel and jewels enhance the value of the arghya. 'Arghya' — sacred water offered in worship. The practitioner offers arghya to the Goddess, welcoming her. This verse reveals the practitioner's attitude of respect and the Goddess's auspicious nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja008.wav"
+        },
+        {
+          "id": "manasapuja-09",
+          "number": 9,
+          "sanskrit": "जलजद्युतिना करेण जातीफलतक्कोललवङ्गगन्धयुक्तैः। अमृतैरमृतैरिवातिशीतैर्भगवत्याचमनं विधीयताम्॥९॥",
+          "iast": "jalajadyutinā kareṇa jātīphalatakkolalavaṅgagandhayuktaiḥ | amṛtairamṛtairivātiśītairbhagavatyācamanaṃ vidhīyatām ||9||",
+          "meaning": {
+            "ne": "कमलको दीप्ति भएको हातले, जातीफल, तक्कोल, लवङ्ग र गन्धले युक्त, अमृतझैं अत्यन्त शीतल जलले हे भगवति, आचमन गरिनुहोस्।",
+            "en": "O Goddess, with a hand radiant like a lotus, perform ācamana (sipping water) with water mixed with the fragrance of jātīphala, takkola and lavaṅga, extremely cool like nectar."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई आचमन अर्पण गर्छ। 'आचमन'—मुख शुद्ध गर्नको लागि जल पिउनु। जातीफल, तक्कोल, लवङ्ग र गन्धले युक्त जल अमृतझैं शीतल छ। 'जलजद्युतिना करेण'—कमलको दीप्ति भएको हातले। देवीको हात कमलझैं सुन्दर छ। साधक देवीलाई आचमन अर्पण गरेर उनको शुद्धि गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको सौन्दर्य प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers ācamana to the Goddess. 'Ācamana' — sipping water to purify the mouth. Water mixed with jātīphala, takkola, lavaṅga and fragrance is cool like nectar. 'Jalajadyutinā kareṇa' — with a hand radiant like a lotus. The Goddess's hand is beautiful like a lotus. The practitioner offers ācamana to purify the Goddess. This verse reveals the practitioner's attitude of service and the Goddess's beauty."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja009.wav"
+        },
+        {
+          "id": "manasapuja-10",
+          "number": 10,
+          "sanskrit": "निहितं कनकस्य संपुटे पिहितं रत्नपिधानकेन यत्। तदिदं जगदम्ब तेऽर्पितं मधुपर्कं जननि प्रगृह्यताम्॥१०॥",
+          "iast": "nihitaṃ kanakasya saṃpuṭe pihitaṃ ratnapidhānakena yat | tadidaṃ jagadamba te'rpitaṃ madhuparkaṃ janani pragṛhyatām ||10||",
+          "meaning": {
+            "ne": "सुनको सम्पुटमा राखिएको, रत्नको ढक्कनले ढाकिएको यो मधुपर्क हे जगदम्बा, तपाईंलाई अर्पण गरिएको छ, हे जननि, ग्रहण गर्नुहोस्।",
+            "en": "O Mother of the World, this madhuparka (offering of honey and other auspicious items) placed in a golden box and covered with a jewelled lid — it is offered to You, O Mother, please accept it."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई मधुपर्क अर्पण गर्छ। 'मधुपर्क'—मह, दही, घ्यू, शहद आदिको मिश्रण, जो अतिथिको स्वागतमा अर्पण गरिन्छ। सुनको सम्पुट र रत्नको ढक्कनले यसको मूल्य बढाउँछ। 'प्रगृह्यताम्'—ग्रहण गर्नुहोस्। साधक देवीलाई मधुपर्क अर्पण गरेर उनको आतिथ्य गर्छ। यो श्लोकमा साधकको आतिथ्य-भाव र देवीको अतिथि-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers madhuparka to the Goddess. 'Madhuparka' — a mixture of honey, curd, ghee, honey, etc., offered to welcome a guest. The golden box and jewelled lid enhance its value. 'Pragṛhyatām' — please accept. The practitioner offers madhuparka to the Goddess, honouring her as a guest. This verse reveals the practitioner's attitude of hospitality and the Goddess's guest-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja010.wav"
+        },
+        {
+          "id": "manasapuja-11",
+          "number": 11,
+          "sanskrit": "एतच्चम्पकतैलमम्ब विविधैः पुष्पैर्मुहुर्वासितं न्यस्तं रत्नमये सुवर्णचषके भृङ्गैर्भ्रमद्भिर्वृतम्। सानन्दं सुरसुन्दरीभिरभितो हस्तैर्धृतं ते मया केशेषु भ्रमरभ्रमेषु सकलेष्वङ्गेषु चालिप्यते॥११॥",
+          "iast": "etaccampakatailamamba vividhaiḥ puṣpairmuhurvāsitaṃ nyastaṃ ratnamaye suvarṇacaṣake bhṛṅgairbhramadbhirvṛtam | sānandaṃ surasundarībhirabhito hastairdṛtaṃ te mayā keśeṣu bhramarabhrameṣu sakaleṣvaṅgeṣu cālipyate ||11||",
+          "meaning": {
+            "ne": "हे अम्ब, विविध फूलहरूले वासित यो चम्पक तेल, रत्नमय सुवर्ण चषकमा राखिएको, भ्रमरहरूले घेरिएको, आनन्दसहित देवसुन्दरीहरूले हातले धारण गरेको—मैले तपाईंको केश र सबै अङ्गहरूमा अर्पण गरेको छु।",
+            "en": "O Mother, this champaka oil, repeatedly scented with various flowers, placed in a jewelled golden cup, surrounded by bees, held joyfully by the hands of divine damsels — I offer it to Your hair and all Your limbs."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई चम्पक तेल अर्पण गर्छ। विविध फूलहरूले वासित तेल, रत्नमय सुवर्ण चषक, भ्रमरहरूको घेरा, देवसुन्दरीहरूको हात—यी सबै दिव्य सौन्दर्यका प्रतीक हुन्। 'केशेषु'—केशमा। 'सकलेष्वङ्गेषु'—सबै अङ्गहरूमा। साधक देवीलाई तेल अर्पण गरेर उनको शृंगार गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको दिव्य शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers champaka oil to the Goddess. Oil scented with various flowers, a jewelled golden cup, a circle of bees, the hands of divine damsels — all these symbolise divine beauty. 'Keśeṣu' — in the hair. 'Sakaleṣvaṅgeṣu' — in all limbs. The practitioner offers oil to the Goddess, adorning her. This verse reveals the practitioner's love for beauty and the Goddess's divine adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja011.wav"
+        },
+        {
+          "id": "manasapuja-12",
+          "number": 12,
+          "sanskrit": "मातः कुङ्कुमपङ्कनिर्मितमिदं देहे तवोद्वर्तनं भक्त्याहं कलयामि हेमरजसा संमिश्रितं केसरैः। केशानामलकैर्विशोध्य विशदान्कस्तूरिकोदञ्चितैः स्नानं ते नवरत्नकुम्भसहितैः संवासितोष्णोदकैः॥१२॥",
+          "iast": "mātaḥ kuṅkumapaṅkanirmitamidaṃ dehe tavodvartanaṃ bhaktyāhaṃ kalayāmi Hemarajasā saṃmiśritaṃ kesaraiḥ | keśānāmalakairviśodhya viśadānkastūrikodañcitaiḥ snānaṃ te navaratnakumbhasahitaiḥ saṃvāsitoṣṇodakaiḥ ||12||",
+          "meaning": {
+            "ne": "हे माता, कुङ्कुमको पङ्कले निर्मित यो उद्वर्तन (शरीरमा लगाउने) मैले भक्तिपूर्वक तपाईंको देहमा गर्दछु, सुनको धूलो र केसरले मिश्रित। अमलकीले केशहरूलाई शुद्ध गरी, कस्तूरीले सुगन्धित गरी, नवरत्न कुम्भसहित सुगन्धित उष्णोदकले तपाईंको स्नान गर्दछु।",
+            "en": "O Mother, this udvartana (body scrub) made of saffron paste, mixed with golden dust and saffron — I apply it to Your body with devotion. Having cleansed Your hair with āmalakī and perfumed it with musk, I bathe You with fragrant warm water in a vessel of nine gems."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई उद्वर्तन (शरीर स्क्रब) र स्नान गराउँछ। कुङ्कुमको पङ्क, सुनको धूलो, केसर—यी सबै दिव्य सौन्दर्यका सामग्री हुन्। अमलकी, कस्तूरी र नवरत्न कुम्भसहित उष्णोदक—यी स्नानका सामग्री हुन्। साधक देवीलाई स्नान गराएर उनको शुद्धि गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको दिव्य शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner applies udvartana (body scrub) and bathes the Goddess. Saffron paste, golden dust, saffron — all these are materials of divine beauty. Āmalakī, musk and warm water in a vessel of nine gems — these are materials for bathing. The practitioner bathes the Goddess, purifying her. This verse reveals the practitioner's attitude of service and the Goddess's divine adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja012.wav"
+        },
+        {
+          "id": "manasapuja-13",
+          "number": 13,
+          "sanskrit": "दधिदुग्धघृतैः समाक्षिकैः सितया शर्करया समन्वितैः। स्नपयामि तवाहमादराज्जननि त्वां पुनरुष्णवारिभिः॥१३॥",
+          "iast": "dadhidugdhaghṛtaiḥ samākṣikaiḥ sitayā śarkarayā samanvitaiḥ | snapayāmi tavāhamādarājjanani tvāṃ punaruṣṇavāribhiḥ ||13||",
+          "meaning": {
+            "ne": "दही, दूध, घ्यू, मह, चिनी र शर्कराले युक्त पदार्थले हे जननि, मैले आदरपूर्वक तपाईंको स्नान गराउँछु, पुनः उष्ण जलले पनि।",
+            "en": "O Mother, with curd, milk, ghee, honey, sugar and candy — I reverently bathe You, and again with warm water."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई पञ्चामृत स्नान गराउँछ। दही, दूध, घ्यू, मह, चिनी र शर्करा—यी पञ्चामृतका सामग्री हुन्। 'आदरात्'—आदरपूर्वक। 'पुनरुष्णवारिभिः'—पुनः उष्ण जलले। साधक देवीलाई पञ्चामृतले स्नान गराएर पुनः उष्ण जलले शुद्ध गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको दिव्य स्नान प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner bathes the Goddess with panchāmṛta. Curd, milk, ghee, honey, sugar and candy — these are the materials of panchāmṛta. 'Ādarāt' — with reverence. 'Punaruṣṇavāribhiḥ' — again with warm water. The practitioner bathes the Goddess with panchāmṛta and then purifies her with warm water. This verse reveals the practitioner's attitude of service and the Goddess's divine bath."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja013.wav"
+        },
+        {
+          "id": "manasapuja-14",
+          "number": 14,
+          "sanskrit": "एलोशीरसुवासितैः सकुसुमैर्गङ्गादितीर्थोदकैर्माणिक्यामलमौक्तिकामृतरसैः स्वच्छैः सुवर्णोदकैः। मन्त्रान्वैदिकतान्त्रिकान्परिपठन्सानन्दमत्यादरात्स्नानं ते परिकल्पयामि जननि स्नेहात्त्वमङ्गीकुरु॥१४॥",
+          "iast": "elośīrasuvāsitaiḥ sakusumairgaṅgāditīrthodakairmāṇikyāmalamauktikāmṛtarasaiḥ svacchaiḥ suvarṇodakaiḥ | mantrānvaidikatāntrikānparipaṭhansānandamatyādarātsnānaṃ te parikalpayāmi janani snehāttvamaṅgīkuru ||14||",
+          "meaning": {
+            "ne": "एला, उशीरले सुवासित, फूलहरूसहित, गङ्गादि तीर्थको जल, माणिक्य, मोती र अमृतको रस, स्वच्छ सुवर्णोदक—यी सबैले वैदिक र तान्त्रिक मन्त्रहरू पढ्दै, आनन्दसहित अत्यन्त आदरपूर्वक हे जननि, मैले तपाईंको स्नानको कल्पना गर्दछु। हे जननि, स्नेहपूर्वक स्वीकार गर्नुहोस्।",
+            "en": "With water scented with cardamom and uśīra, with flowers, with water from Gaṅgā and other holy places, with the pure juices of rubies, pearls and nectar, with clear golden water — reciting Vedic and tantric mantras, I joyfully and reverently imagine Your bath. O Mother, accept it with love."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई दिव्य स्नान गराउँछ। एला, उशीर, फूल, गङ्गादि तीर्थको जल, माणिक्य, मोती, अमृत र सुवर्णोदक—यी सबै दिव्य स्नानका सामग्री हुन्। वैदिक र तान्त्रिक मन्त्रहरू पढ्दै स्नान गराइन्छ। 'स्नेहात्'—स्नेहपूर्वक। साधक देवीलाई दिव्य स्नान गराएर उनको शुद्धि गर्छ। यो श्लोकमा साधकको भक्ति-भाव र देवीको दिव्य स्नानको महिमा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner gives a divine bath to the Goddess. Cardamom, uśīra, flowers, water from Gaṅgā and other holy places, rubies, pearls, nectar and golden water — all these are materials for the divine bath. The bath is performed while reciting Vedic and tantric mantras. 'Snehāt' — with love. The practitioner gives a divine bath to the Goddess, purifying her. This verse reveals the practitioner's devotion and the greatness of the Goddess's divine bath."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja014.wav"
+        },
+        {
+          "id": "manasapuja-15",
+          "number": 15,
+          "sanskrit": "बालार्कद्युति दाडिमीयकुसुमप्रस्पर्धि सर्वोत्तमं मातस्त्वं परिधेहि दिव्यवसनं भक्त्या मया कल्पितम्। मुक्ताभिर्ग्रथितं सुकञ्चुकमिदं स्वीकृत्य पीतप्रभं तप्तस्वर्णसमानवर्णमतुलं प्रावर्णमङ्गीकुरु॥१५॥",
+          "iast": "bālārkadyuti dāḍimīyakusumapraspardhi sarvottamaṃ mātastvaṃ paridhehi divyavasanaṃ bhaktyā mayā kalpitam | muktābhirgrathitaṃ sukañcukamidaṃ svīkṛtya pītaprabhaṃ taptasvarṇasamānavarṇamatulaṃ prāvarṇamaṅgīkuru ||15||",
+          "meaning": {
+            "ne": "बालसूर्यको दीप्ति भएको, दाडिमको फूलसँग प्रतिस्पर्धा गर्ने, सर्वोत्तम यो दिव्य वस्त्र हे माता, भक्तिपूर्वक मैले कल्पना गरेको छु—तपाईं धारण गर्नुहोस्। मोतीहरूले ग्रथित यो सुन्दर कञ्चुक स्वीकार गरी, पीत वर्णको, तप्त सुवर्णसमान वर्ण भएको, अतुलनीय प्रावर्ण (उत्तरीय वस्त्र) ग्रहण गर्नुहोस्।",
+            "en": "O Mother, wear this divine garment, radiant as the rising sun, rivalling the pomegranate flower, the finest of all, conceived by me with devotion. Accept this beautiful bodice strung with pearls, and accept the peerless upper garment of yellow hue, equal in colour to molten gold."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई दिव्य वस्त्र अर्पण गर्छ। बालसूर्यको दीप्ति, दाडिमको फूलको वर्ण, मोतीले ग्रथित कञ्चुक, पीत वर्णको प्रावर्ण—यी सबै दिव्य वस्त्रका अलंकार हुन्। 'भक्त्या'—भक्तिपूर्वक। 'कल्पितम्'—कल्पना गरिएको। साधक देवीलाई दिव्य वस्त्र अर्पण गरेर उनको शृंगार गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको दिव्य शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers divine garments to the Goddess. The radiance of the rising sun, the colour of the pomegranate flower, the pearl-strung bodice, the yellow upper garment — all these are ornaments of divine clothing. 'Bhaktyā' — with devotion. 'Kalpitam' — conceived. The practitioner offers divine garments to the Goddess, adorning her. This verse reveals the practitioner's love for beauty and the Goddess's divine adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja015.wav"
+        },
+        {
+          "id": "manasapuja-16",
+          "number": 16,
+          "sanskrit": "नवरत्नमये मयार्पिते कमनीये तपनीयपादुके। सविलासमिदं पदद्वयं कृपया देवि तयोर्निधीयताम्॥१६॥",
+          "iast": "navaratnamaye mayārpite kamanīye tapanīyapāduke | savilāsamidaṃ padadvayaṃ kṛpayā devi tayornidhīyatām ||16||",
+          "meaning": {
+            "ne": "नवरत्नमय, मैले अर्पण गरेको, सुन्दर स्वर्ण पादुका—हे देवि, कृपा गरी यी दुई चरणहरूलाई त्यसमा विलासपूर्वक राख्नुहोस्।",
+            "en": "O Goddess, graciously place these two feet with grace in these beautiful golden sandals made of nine gems, which I have offered."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई पादुका (चप्पल) अर्पण गर्छ। नवरत्नमय, सुन्दर स्वर्ण पादुका—यो दिव्य पादुका हो। 'सविलासम्'—विलासपूर्वक। 'पदद्वयम्'—दुई चरण। साधक देवीलाई पादुका अर्पण गरेर उनको चरणको रक्षा गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको चरण-सेवाको महिमा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers sandals (pādukā) to the Goddess. Nine-gemmed, beautiful golden sandals — this is the divine footwear. 'Savilāsam' — with grace. 'Padadvayam' — two feet. The practitioner offers sandals to the Goddess, protecting her feet. This verse reveals the practitioner's attitude of service and the greatness of the Goddess's foot-worship."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja016.wav"
+        },
+        {
+          "id": "manasapuja-17",
+          "number": 17,
+          "sanskrit": "बहुभिरगरुधूपैः सादरं धूपयित्वा भगवति तव केशान्कङ्कतैर्मार्जयित्वा। सुरभिभिररविन्दैश्चम्पकैश्चार्चयित्वा झटिति कनकसूत्रैर्जूटयन्वेष्टयामि॥१७॥",
+          "iast": "bahubhiragarudhūpaiḥ sādaraṃ dhūpayitvā bhagavati tava keśānkaṅkatairmārjayitvā | surabhibhiraravindaiścampakaiścārcayitvā jhaṭiti kanakasūtrairjūṭayanveṣṭayāmi ||17||",
+          "meaning": {
+            "ne": "धेरै अगरु धूपले आदरपूर्वक धूप दिएर, हे भगवति, तपाईंको केशहरूलाई कंघीले सफा गरी, सुगन्धित कमल र चम्पक फूलहरूले पूजा गरी, तुरन्त सुनको धागोले जूटा बनाई वेष्टन गर्दछु।",
+            "en": "Having reverently fumigated Your hair with much agaru incense, O Goddess, and having combed Your hair, and having worshipped it with fragrant lotuses and champaka flowers, I quickly braid it and wrap it with golden threads."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीको केश-शृंगार गर्छ। अगरु धूप, कंघी, कमल र चम्पक फूल, सुनको धागो—यी सबै केश-शृंगारका सामग्री हुन्। 'सादरम्'—आदरपूर्वक। 'जूटयन्'—जूटा बनाउँदै। साधक देवीको केशलाई धूप दिएर, कंघी गरेर, फूलले पूजा गरेर, सुनको धागोले वेष्टन गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको केश-शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner adorns the Goddess's hair. Agaru incense, comb, lotus and champaka flowers, golden thread — all these are materials for hair-adornment. 'Sādaram' — with reverence. 'Jūṭayan' — braiding. The practitioner fumigates the Goddess's hair, combs it, worships it with flowers and wraps it with golden thread. This verse reveals the practitioner's love for beauty and the Goddess's hair-adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja017.wav"
+        },
+        {
+          "id": "manasapuja-18",
+          "number": 18,
+          "sanskrit": "सौवीराञ्जनमिदमम्ब चक्षुषोस्ते विन्यस्तं कनकशलाकया मया यत्। तन्न्यूनं मलिनमपि त्वदक्षिसङ्गात्ब्रह्मेन्द्राद्यभिलषणीयतामियाय॥१८॥",
+          "iast": "sauvīrāñjanamidamamba cakṣuṣoste vinyastaṃ kanakaśalākayā mayā yat | tannyūnaṃ malinamapi tvadakṣisaṅgātbrahmendrādyabhilaṣaṇīyatāmiyāya ||18||",
+          "meaning": {
+            "ne": "हे अम्ब, सुनको शलाकाले मैले तपाईंको आँखामा यो सौवीराञ्जन (काजल) लगाएको छु। त्यो न्यून वा मलिन भए पनि तपाईंको आँखाको संगतले ब्रह्मा र इन्द्र आदिको अभिलाषाको पात्र बनेको छ।",
+            "en": "O Mother, this sauvīrāñjana (collyrium) applied by me with a golden stick to Your eyes — even if it is deficient or impure, by contact with Your eyes it has become desirable even to Brahmā and Indra."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई काजल अर्पण गर्छ। सौवीराञ्जन—एक प्रकारको काजल। सुनको शलाकाले लगाइन्छ। 'न्यूनम्'—न्यून। 'मलिनम्'—मलिन। तर देवीको आँखाको संगतले त्यो काजल ब्रह्मा र इन्द्रका लागि पनि अभिलाषणीय बन्छ। यो श्लोकमा देवीको आँखाको महिमा र साधकको सेवा-भाव प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers collyrium to the Goddess. Sauvīrāñjana — a type of collyrium. It is applied with a golden stick. 'Nyūnam' — deficient. 'Malinam' — impure. But by contact with the Goddess's eyes, that collyrium becomes desirable even to Brahmā and Indra. This verse reveals the greatness of the Goddess's eyes and the practitioner's attitude of service."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja018.wav"
+        },
+        {
+          "id": "manasapuja-19",
+          "number": 19,
+          "sanskrit": "मञ्जीरे पदयोर्निधाय रुचिरां विन्यस्य काञ्चीं कटौ मुक्ताहारमुरोजयोरनुपमां नक्षत्रमालां गले। केयूराणि भुजेषु रत्नवलयश्रेणीं करेषु क्रमात्ताटङ्के तव कर्णयोर्विनिदधे शीर्षे च चूडामणिम्॥१९॥",
+          "iast": "mañjīre padayornidhāya rucirāṃ vinyasya kāñcīṃ kaṭau muktāhāramurojayoranupamāṃ nakṣatramālāṃ gale | keyūrāṇi bhujeṣu ratnavalayaśreṇīṃ kareṣu kramāttāṭaṅke tava karṇayorvinidadhe śīrṣe ca cūḍāmaṇim ||19||",
+          "meaning": {
+            "ne": "चरणमा नूपुर, कटिमा सुन्दर काञ्ची, वक्षस्थलमा मुक्ताहार, गलामा अनुपम नक्षत्रमाला, भुजामा केयूर, हातमा रत्नवलय श्रेणी, कानमा ताटङ्क र शिरमा चूडामणि—मैले क्रमशः तपाईंलाई धारण गराएको छु।",
+            "en": "Placing anklets on Your feet, fastening a beautiful girdle on Your waist, a pearl necklace on Your breasts, a peerless star-garland on Your neck, armlets on Your arms, a row of gem-bangles on Your hands, earrings on Your ears, and a crest-jewel on Your head — I have adorned You in order."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई सर्वाङ्गीण आभूषण अर्पण गर्छ। नूपुर, काञ्ची, मुक्ताहार, नक्षत्रमाला, केयूर, रत्नवलय, ताटङ्क र चूडामणि—यी सबै दिव्य आभूषण हुन्। 'क्रमात्'—क्रमशः। साधक देवीलाई शिरदेखि पैतालासम्म आभूषण अर्पण गरेर उनको शृंगार गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको दिव्य शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers complete ornaments to the Goddess. Anklets, girdle, pearl necklace, star-garland, armlets, gem-bangles, earrings and crest-jewel — all these are divine ornaments. 'Kramāt' — in order. The practitioner adorns the Goddess with ornaments from head to foot. This verse reveals the practitioner's love for beauty and the Goddess's divine adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja019.wav"
+        },
+        {
+          "id": "manasapuja-20",
+          "number": 20,
+          "sanskrit": "धम्मिल्ले तव देवि हेमकुसुमान्याधाय फालस्थले मुक्ताराजिविराजमानतिलकं नासापुटे मौक्तिकम्। मातर्मौक्तिकजालिकां च कुचयोः सर्वाङ्गुलीषूर्मिकाः कट्यां काञ्चनकिङ्किणीर्विनिदधे रत्नावतंसं श्रुतौ॥२०॥",
+          "iast": "dhammille tava devi hemakusumānyādhāya phālasthale muktārājivirājamānatilakaṃ nāsāpuṭe mauktikam | mātarmauktikajālikāṃ ca kucayoḥ sarvāṅgulīṣūrmikāḥ kaṭyāṃ kāñcanakiṅkiṇīrvinidadhe ratnāvataṃsaṃ śrutau ||20||",
+          "meaning": {
+            "ne": "हे देवि, तपाईंको धम्मिल्ल (केश-विन्यास) मा सुनका फूलहरू राखी, फालस्थलमा मोतीको राजिले शोभित तिलक, नासापुटमा मोती, हे माता, वक्षस्थलमा मोतीको जाली, सबै औंलामा ऊर्मिका (औंठी), कटिमा सुनको किङ्किणी र कानमा रत्नावतंस धारण गराएको छु।",
+            "en": "O Goddess, placing golden flowers in Your hair-braid, a tilaka radiant with rows of pearls on Your forehead, a pearl in Your nostril, O Mother, a pearl-net on Your breasts, rings on all Your fingers, golden bells on Your waist, and a jewelled ear-ornament in Your ear — I have adorned You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई थप आभूषण अर्पण गर्छ। धम्मिल्लमा सुनका फूल, फालस्थलमा तिलक, नासापुटमा मोती, कुचमा मोतीको जाली, औंलामा ऊर्मिका, कटिमा किङ्किणी, कानमा रत्नावतंस—यी सबै दिव्य आभूषण हुन्। साधक देवीलाई सर्वाङ्गीण शृंगार गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको दिव्य शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers further ornaments to the Goddess. Golden flowers in the hair-braid, tilaka on the forehead, pearl in the nostril, pearl-net on the breasts, rings on the fingers, bells on the waist, jewelled ear-ornament in the ear — all these are divine ornaments. The practitioner adorns the Goddess completely. This verse reveals the practitioner's love for beauty and the Goddess's divine adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja020.wav"
+        },
+        {
+          "id": "manasapuja-21",
+          "number": 21,
+          "sanskrit": "मातः फालतले तवातिविमले काश्मीरकस्तूरिकाकर्पूरागरुभिः करोमि तिलकं देहेऽङ्गरागं ततः। वक्षोजादिषु यक्षकर्दमरसं सिक्त्वा च पुष्पद्रवं पादौ चन्दनलेपनादिभिरहं संपूजयामि क्रमात्॥२१॥",
+          "iast": "mātaḥ phālatale tavātivimale kāśmīrakastūrikākarpūrāgarubhiḥ karomi tilakaṃ dehe'ṅgarāgaṃ tataḥ | vakṣojādiṣu yakṣakardamarasaṃ siktvā ca puṣpadravaṃ pādau candanalepanādibhirahaṃ saṃpūjayāmi kramāt ||21||",
+          "meaning": {
+            "ne": "हे माता, तपाईंको अत्यन्त निर्मल फालतलमा काश्मीर, कस्तूरी, कर्पूर र अगरुले तिलक गर्दछु, त्यसपछि देहमा अङ्गराग गर्दछु। वक्ष आदिमा यक्षकर्दम रस र पुष्पद्रव सिँच्छु, र चरणहरूलाई चन्दन लेपन आदिले क्रमशः पूजा गर्दछु।",
+            "en": "O Mother, on Your exceedingly pure forehead I make a tilaka with saffron, musk, camphor and agaru, and then anoint Your body with fragrant paste. I sprinkle the juice of yakṣakardama and flower-essence on Your breasts and other parts, and worship Your feet in order with sandal-paste and other offerings."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई तिलक, अङ्गराग, यक्षकर्दम र चन्दन अर्पण गर्छ। काश्मीर, कस्तूरी, कर्पूर, अगरु—यी सबै सुगन्धित द्रव्य हुन्। यक्षकर्दम र पुष्पद्रव—यी अङ्गरागका सामग्री हुन्। चन्दन लेपन—चरणको पूजा। 'क्रमात्'—क्रमशः। साधक देवीलाई सर्वाङ्गीण सुगन्धित शृंगार गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको दिव्य शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers tilaka, body-ointment, yakṣakardama and sandalwood to the Goddess. Saffron, musk, camphor, agaru — all these are fragrant substances. Yakṣakardama and flower-essence — these are materials for body-ointment. Sandal-paste — worship of the feet. 'Kramāt' — in order. The practitioner gives a complete fragrant adornment to the Goddess. This verse reveals the practitioner's love for beauty and the Goddess's divine adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja021.wav"
+        },
+        {
+          "id": "manasapuja-22",
+          "number": 22,
+          "sanskrit": "रत्नाक्षतैस्त्वां परिपूजयामि मुक्ताफलैर्वा रुचिरैरविद्धैः। अखण्डितैर्देवि यवादिभिर्वा काश्मीरपङ्काङ्किततण्डुलैर्वा॥२२॥",
+          "iast": "ratnākṣataistvāṃ paripūjayāmi muktāphalairvā rucirairaviddhaiḥ | akhaṇḍitairdevi yavādibhirvā kāśmīrapaṅkāṅkitataṇḍulairvā ||22||",
+          "meaning": {
+            "ne": "हे देवि, मैले रत्नाक्षत, सुन्दर अविद्ध मुक्ताफल, अखण्डित जौ आदि, वा काश्मीर पङ्कले अङ्कित तण्डुलहरूले तपाईंको पूजा गर्दछु।",
+            "en": "O Goddess, I worship You with gem-akṣatas, with beautiful unbroken pearls, with unbroken barley and other grains, or with rice grains marked with saffron paste."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई अक्षत अर्पण गर्छ। रत्नाक्षत, मुक्ताफल, जौ, काश्मीर पङ्कले अङ्कित तण्डुल—यी सबै अक्षतका प्रकार हुन्। 'अखण्डितैः'—अखण्डित। साधक देवीलाई अक्षत अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको भक्ति-भाव र देवीको मंगलमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers akṣata (unbroken rice) to the Goddess. Gem-akṣatas, pearls, barley, rice marked with saffron paste — all these are types of akṣata. 'Akhaṇḍitaiḥ' — unbroken. The practitioner offers akṣata to the Goddess, worshipping her. This verse reveals the practitioner's devotion and the Goddess's auspicious nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja022.wav"
+        },
+        {
+          "id": "manasapuja-23",
+          "number": 23,
+          "sanskrit": "जननि चम्पकतैलमिदं पुरो मृगमदोपयुतं पटवासकम्। सुरभिगन्धमिदं च चतुःसमं सपदि सर्वमिदं परिगृह्यताम्॥२३॥",
+          "iast": "janani campakatailamidaṃ puro mṛgamadopayutaṃ paṭavāsakam | surabhigandhamidaṃ ca catuḥsamaṃ sapadi sarvamidaṃ parigṛhyatām ||23||",
+          "meaning": {
+            "ne": "हे जननि, यो चम्पक तेल, मृगमद (कस्तूरी) युक्त पटवासक (सुगन्धित वस्त्र), सुगन्धित गन्ध र यो चतुःसम (चार सुगन्धित द्रव्यको मिश्रण)—यी सबै तुरन्त ग्रहण गर्नुहोस्।",
+            "en": "O Mother, this champaka oil, the perfume of musk, the fragrant cloth, this fragrant scent and this catuḥsama (mixture of four fragrant substances) — accept all this quickly."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई सुगन्धित द्रव्य अर्पण गर्छ। चम्पक तेल, मृगमद, पटवासक, सुरभिगन्ध र चतुःसम—यी सबै सुगन्धित द्रव्य हुन्। 'सपदि'—तुरन्त। साधक देवीलाई सुगन्धित द्रव्य अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको सुगन्धित स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers fragrant substances to the Goddess. Champaka oil, musk, fragrant cloth, fragrant scent and catuḥsama — all these are fragrant substances. 'Sapadi' — quickly. The practitioner offers fragrant substances to the Goddess, worshipping her. This verse reveals the practitioner's love for fragrance and the Goddess's fragrant nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja023.wav"
+        },
+        {
+          "id": "manasapuja-24",
+          "number": 24,
+          "sanskrit": "सीमन्ते ते भगवति मया सादरं न्यस्तमेतत्सिन्दूरं मे हृदयकमले हर्षवर्ष तनोति। बालादित्यद्युतिरिव सदा लोहिता यस्य कान्तीरन्तर्धान्तं हरति सकलं चेतसा चिन्तयैव॥२४॥",
+          "iast": "sīmante te bhagavati mayā sādaraṃ nyastametatsindūraṃ me hṛdayakamale harṣavarṣa tanoti | bālādityadyutiriva sadā lohitā yasya kāntīrantardhāntaṃ harati sakalaṃ cetasā cintayaiva ||24||",
+          "meaning": {
+            "ne": "हे भगवति, मैले आदरपूर्वक तपाईंको सीमन्तमा यो सिन्दूर राखेको छु, जसले मेरो हृदयकमलमा हर्षको वर्षा गर्छ। जसको कान्ति बालसूर्यको दीप्तिझैं सधैं रक्त वर्णको छ, जो चिन्तन मात्रले सबै आन्तरिक अन्धकार हरण गर्छ।",
+            "en": "O Goddess, I have reverently placed this sindūra on Your hair-parting, which showers joy on the lotus of my heart. Its radiance, like the glow of the rising sun, is ever red, and it removes all inner darkness merely by being remembered."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई सिन्दूर अर्पण गर्छ। सीमन्तमा सिन्दूर—यो सौभाग्यको प्रतीक हो। 'हृदयकमले हर्षवर्ष'—हृदयकमलमा हर्षको वर्षा। सिन्दूरको कान्ति बालसूर्यझैं रक्त छ। 'अन्तर्धान्तं हरति'—आन्तरिक अन्धकार हरण गर्छ। साधक देवीलाई सिन्दूर अर्पण गरेर उनको सौभाग्यको पूजा गर्छ। यो श्लोकमा साधकको भक्ति-भाव र देवीको सौभाग्यमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers sindūra to the Goddess. Sindūra on the hair-parting — symbol of auspiciousness. 'Hṛdayakamale harṣavarṣa' — showering joy on the lotus of the heart. The radiance of sindūra is red like the rising sun. 'Antardhāntaṃ harati' — removes inner darkness. The practitioner offers sindūra to the Goddess, worshipping her auspiciousness. This verse reveals the practitioner's devotion and the Goddess's auspicious nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja024.wav"
+        },
+        {
+          "id": "manasapuja-25",
+          "number": 25,
+          "sanskrit": "मन्दारकुन्दकरवीरलवङ्गपुष्पैस्त्वां देवि संततमहं परिपूजयामि। जातीजपावकुलचम्पककेतकादिनानाविधानि कुसुमानि च तेऽर्पयामि॥२५॥",
+          "iast": "mandārakundakaravīralavaṅgapuṣpaistvāṃ devi santatamahaṃ paripūjayāmi | jātījapāvakulacampakaketakādinānāvidhāni kusumāni ca te'rpayāmi ||25||",
+          "meaning": {
+            "ne": "हे देवि, मन्दार, कुन्द, करवीर र लवङ्गका फूलहरूले मैले तपाईंको निरन्तर पूजा गर्दछु। जाती, जपा, वकुल, चम्पक, केतकी आदि नानाविध फूलहरू पनि तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Goddess, with mandāra, kunda, karavīra and lavaṅga flowers I worship You constantly. I also offer You various flowers like jātī, japā, vakula, champaka, ketakī and others."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई पुष्प अर्पण गर्छ। मन्दार, कुन्द, करवीर, लवङ्ग, जाती, जपा, वकुल, चम्पक, केतकी—यी सबै दिव्य पुष्प हुन्। 'सन्ततम्'—निरन्तर। साधक देवीलाई नानाविध पुष्प अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको पुष्प-प्रेम र देवीको पुष्पमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers flowers to the Goddess. Mandāra, kunda, karavīra, lavaṅga, jātī, japā, vakula, champaka, ketakī — all these are divine flowers. 'Santatam' — constantly. The practitioner offers various flowers to the Goddess, worshipping her. This verse reveals the practitioner's love for flowers and the Goddess's flower-filled nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja025.wav"
+        },
+        {
+          "id": "manasapuja-26",
+          "number": 26,
+          "sanskrit": "मालतीवकुलहेमपुष्पिकाकाञ्चनारकरवीरकैतकैः। कर्णिकारगिरिकर्णिकादिभिः पूजयामि जगदम्ब ते वपुः॥२६॥",
+          "iast": "mālatīvakulahemapuṣpikākāñcanārakaravīrakaitakaiḥ | karṇikāragirikarṇikādibhiḥ pūjayāmi jagadamba te vapuḥ ||26||",
+          "meaning": {
+            "ne": "मालती, वकुल, हेमपुष्पिका, काञ्चनार, करवीर, केतकी, कर्णिकार, गिरिकर्णिका आदि फूलहरूले हे जगदम्बा, मैले तपाईंको वपुको पूजा गर्दछु।",
+            "en": "O Mother of the World, with mālatī, vakula, hemapuṣpikā, kāñcanāra, karavīra, ketakī, karṇikāra, girikarṇikā and other flowers — I worship Your body."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई थप पुष्प अर्पण गर्छ। मालती, वकुल, हेमपुष्पिका, काञ्चनार, करवीर, केतकी, कर्णिकार, गिरिकर्णिका—यी सबै दिव्य पुष्प हुन्। 'ते वपुः'—तपाईंको वपु। साधक देवीलाई नानाविध पुष्प अर्पण गरेर उनको वपुको पूजा गर्छ। यो श्लोकमा साधकको पुष्प-प्रेम र देवीको पुष्पमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers further flowers to the Goddess. Mālatī, vakula, hemapuṣpikā, kāñcanāra, karavīra, ketakī, karṇikāra, girikarṇikā — all these are divine flowers. 'Te vapuḥ' — Your body. The practitioner offers various flowers to the Goddess, worshipping her body. This verse reveals the practitioner's love for flowers and the Goddess's flower-filled nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja026.wav"
+        },
+        {
+          "id": "manasapuja-27",
+          "number": 27,
+          "sanskrit": "पारिजातशतपत्रपाटलैर्मल्लिकावकुलचम्पकादिभिः। अम्बुजैः सुकुसुमैश्च सादरं पूजयामि जगदम्ब ते वपुः॥२७॥",
+          "iast": "pārijātaśatapatrapāṭalairmallikāvakulacampakādibhiḥ | ambujaiḥ sukukumaiśca sādaraṃ pūjayāmi jagadamba te vapuḥ ||27||",
+          "meaning": {
+            "ne": "पारिजात, शतपत्र, पाटल, मल्लिका, वकुल, चम्पक, अम्बुज आदि सुन्दर पुष्पहरूले हे जगदम्बा, मैले आदरपूर्वक तपाईंको वपुको पूजा गर्दछु।",
+            "en": "O Mother of the World, with pārijāta, hundred-petalled lotuses, pāṭala, mallikā, vakula, champaka, lotuses and other beautiful flowers — I reverently worship Your body."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई थप पुष्प अर्पण गर्छ। पारिजात, शतपत्र, पाटल, मल्लिका, वकुल, चम्पक, अम्बुज—यी सबै दिव्य पुष्प हुन्। 'सादरम्'—आदरपूर्वक। 'ते वपुः'—तपाईंको वपु। साधक देवीलाई नानाविध पुष्प अर्पण गरेर उनको वपुको पूजा गर्छ। यो श्लोकमा साधकको पुष्प-प्रेम र देवीको पुष्पमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers further flowers to the Goddess. Pārijāta, hundred-petalled lotuses, pāṭala, mallikā, vakula, champaka, lotuses — all these are divine flowers. 'Sādaram' — with reverence. 'Te vapuḥ' — Your body. The practitioner offers various flowers to the Goddess, worshipping her body. This verse reveals the practitioner's love for flowers and the Goddess's flower-filled nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja027.wav"
+        },
+        {
+          "id": "manasapuja-28",
+          "number": 28,
+          "sanskrit": "लाक्षासंमिलितैः सिताभ्रसहितैः श्रीवाससंमिश्रितैः कर्पूराकलितैः शिरैमधुयुतैर्गोसर्पिषा लोडितैः। श्रीखण्डागरुगुग्गुलुप्रभृतिभिर्नानाविधैर्वस्तुभिर्धूपं ते परिकल्पयामि जननि स्नेहात्त्वमङ्गीकुरु॥२८॥",
+          "iast": "lākṣāsaṃmilitaiḥ sitābhrasahitaiḥ śrīvāsasaṃmiśritaiḥ karpūrākalitaiḥ śiraimadhiyutairgosarpiṣā loḍitaiḥ | śrīkhaṇḍāgarugugguluprabhṛtibhirnānāvidhairvastubhirdhūpaṃ te parikalpayāmi janani snehāttvamaṅgīkuru ||28||",
+          "meaning": {
+            "ne": "लाक्षा, सिताभ्र, श्रीवास, कर्पूर, शिरीष, मह, गोसर्पि (घ्यू), श्रीखण्ड, अगरु, गुग्गुलु आदि नानाविध वस्तुहरूले हे जननि, मैले तपाईंको धूपको कल्पना गर्दछु। हे जननि, स्नेहपूर्वक स्वीकार गर्नुहोस्।",
+            "en": "With lākṣā, white camphor, Śrīvāsa, camphor, śirīṣa, honey, cow's ghee, śrīkhaṇḍa, agaru, guggulu and various other substances — O Mother, I imagine Your incense. O Mother, accept it with love."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई धूप अर्पण गर्छ। लाक्षा, सिताभ्र, श्रीवास, कर्पूर, शिरीष, मह, घ्यू, श्रीखण्ड, अगरु, गुग्गुलु—यी सबै धूपका सामग्री हुन्। 'स्नेहात्'—स्नेहपूर्वक। साधक देवीलाई धूप अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको सुगन्ध-प्रेम र देवीको धूपमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers incense to the Goddess. Lākṣā, white camphor, Śrīvāsa, camphor, śirīṣa, honey, ghee, śrīkhaṇḍa, agaru, guggulu — all these are materials for incense. 'Snehāt' — with love. The practitioner offers incense to the Goddess, worshipping her. This verse reveals the practitioner's love for fragrance and the Goddess's incense-filled nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja028.wav"
+        },
+        {
+          "id": "manasapuja-29",
+          "number": 29,
+          "sanskrit": "रत्नालंकृतहेमपात्रनिहितैर्गोसर्पिषा लोडितैर्दीपैर्दीर्घतरान्धकारभिदुरैर्बालार्ककोटिप्रभैः। आताम्रज्वलदुज्ज्वलप्रविलसद्रत्नप्रदीपैस्तथा मातस्त्वामहमादरादनुदिनं नीराजयाम्युच्चकैः॥२९॥",
+          "iast": "ratnālaṅkṛtahemapātranihitairgosarpiṣā loḍitairdīpairdīrghatarāndhakārabhidurairbālārkakoṭiprabhaiḥ | ātāmrajvaladujjvalapravilasadratnapradīpaistathā mātastvāmahamādarādanudinaṃ nīrājayāmyuccakaiḥ ||29||",
+          "meaning": {
+            "ne": "रत्नले अलंकृत सुनको पात्रमा राखिएका, घ्यूले लोडित, दीर्घ अन्धकार नाश गर्ने, करोडौं बालसूर्यको प्रभा भएका दीपहरूले, र ताम्रवर्ण ज्वलित उज्ज्वल रत्नप्रदीपहरूले हे माता, मैले आदरपूर्वक प्रतिदिन तपाईंको नीराजन (आरार्तिक) गर्दछु।",
+            "en": "With lamps placed in golden vessels adorned with jewels, filled with ghee, dispelling deep darkness, radiant as millions of rising suns, and with glowing copper-hued jewelled lamps — O Mother, I reverently perform Your nīrājana (ārātrika) daily with uplifted hands."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई आरार्तिक अर्पण गर्छ। रत्नालंकृत सुनको पात्र, घ्यूले लोडित दीप, करोडौं बालसूर्यको प्रभा, ताम्रवर्ण रत्नप्रदीप—यी सबै आरार्तिकका सामग्री हुन्। 'आदरात्'—आदरपूर्वक। 'अनुदिनम्'—प्रतिदिन। साधक देवीलाई आरार्तिक अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको दीप-प्रेम र देवीको ज्योतिर्मय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers ārātrika to the Goddess. Jewelled golden vessels, ghee-filled lamps, the radiance of millions of rising suns, copper-hued jewelled lamps — all these are materials for ārātrika. 'Ādarāt' — with reverence. 'Anudinam' — daily. The practitioner offers ārātrika to the Goddess, worshipping her. This verse reveals the practitioner's love for light and the Goddess's radiant nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja029.wav"
+        },
+        {
+          "id": "manasapuja-30",
+          "number": 30,
+          "sanskrit": "मातस्त्वां दधिदुग्धपायसमहाशाल्यनसंतानिकाः सूपापूपसिताघृतैः सवटकैः सक्षौद्ररम्भाफलैः। एलाजीरकहिङ्गुनागरनिशाकुस्तुम्भरीसंस्कृतैः शाकैः साकमहं सुधाधिकरसैः संतर्पयाम्यर्चयन्॥३०॥",
+          "iast": "mātastvāṃ dadhidugdhapāyasamahāśālyanasantānikāḥ sūpāpūpasitāghṛtaiḥ savaṭakaiḥ sakṣaudrarambhāphalaiḥ | elājīrakahiṅgunāgaraniśākustumbharīsaṃskṛtaiḥ śākaiḥ sākamahaṃ sudhādhikarasaiḥ santarpayāmyarcayan ||30||",
+          "meaning": {
+            "ne": "हे माता, दही, दूध, पायस, महाशालि, अन्न, सन्तानिका, सूप, अपूप, सिता (चिनी), घ्यू, वटक, शहद, रम्भाफल (केरा), एला, जीरा, हिङ, नागर, निशा, कुस्तुम्भरीले संस्कृत शाकहरू—यी सबै अमृतभन्दा मीठो रसले मैले तपाईंलाई सन्तर्पण (भोजन) गराउँदै पूजा गर्दछु।",
+            "en": "O Mother, with curd, milk, pāyasa, great śāli rice, anna, santānikā, soup, apūpa, sugar, ghee, vaṭaka, honey, banana fruits, and vegetables prepared with cardamom, cumin, asafoetida, ginger, turmeric and kustumbharī — I worship You, satisfying You with juices sweeter than nectar."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई नैवेद्य अर्पण गर्छ। दही, दूध, पायस, महाशालि, अन्न, सन्तानिका, सूप, अपूप, चिनी, घ्यू, वटक, शहद, केरा, र नाना मसलाले संस्कृत शाक—यी सबै नैवेद्यका सामग्री हुन्। 'सुधाधिकरसैः'—अमृतभन्दा मीठो रसले। साधक देवीलाई नैवेद्य अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको भोजन-प्रेम र देवीको सन्तर्पण प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers naivedya (food) to the Goddess. Curd, milk, pāyasa, great śāli rice, anna, santānikā, soup, apūpa, sugar, ghee, vaṭaka, honey, banana and vegetables prepared with various spices — all these are materials for naivedya. 'Sudhādhikarasaiḥ' — with juices sweeter than nectar. The practitioner offers naivedya to the Goddess, worshipping her. This verse reveals the practitioner's love for food and the Goddess's satisfaction."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja030.wav"
+        },
+        {
+          "id": "manasapuja-31",
+          "number": 31,
+          "sanskrit": "सापूपसूपदधिदुग्धसिताघृतानि सुस्वादुभक्तपरमान्नपुरःसराणि। शाकोल्लसन्मरिचिजीरकबाह्लिकानि भक्ष्याणि भुङ्क्ष्व जगदम्ब मयार्पितानि॥३१॥",
+          "iast": "sāpūpasūpadadhidughasitāghṛtāni susvādubhaktaparamānnapuraḥsarāṇi | śākollasanmaricijīrakabāhlikāni bhakṣyāṇi bhuṅkṣva jagadamba mayārpitāni ||31||",
+          "meaning": {
+            "ne": "अपूप, सूप, दही, दूध, चिनी, घ्यू, स्वादिष्ट भक्त, परमान्न, शाक, मरिच, जीरा, बाह्लिक (केसर) सहित भक्ष्यहरू—हे जगदम्बा, मैले अर्पण गरेका यी भोजनहरू ग्रहण गर्नुहोस्।",
+            "en": "Apūpa, soup, curd, milk, sugar, ghee, delicious rice, paramānna, vegetables, black pepper, cumin, saffron and other foods — O Mother of the World, eat these foods offered by me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई भोजन अर्पण गर्छ। अपूप, सूप, दही, दूध, चिनी, घ्यू, भक्त, परमान्न, शाक, मरिच, जीरा, बाह्लिक—यी सबै भक्ष्य हुन्। 'भुङ्क्ष्व'—ग्रहण गर्नुहोस्। साधक देवीलाई भोजन अर्पण गरेर उनको सन्तर्पण गर्छ। यो श्लोकमा साधकको भोजन-प्रेम र देवीको सन्तर्पण प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers food to the Goddess. Apūpa, soup, curd, milk, sugar, ghee, rice, paramānna, vegetables, black pepper, cumin, saffron — all these are foods. 'Bhuṅkṣva' — eat. The practitioner offers food to the Goddess, satisfying her. This verse reveals the practitioner's love for food and the Goddess's satisfaction."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja031.wav"
+        },
+        {
+          "id": "manasapuja-32",
+          "number": 32,
+          "sanskrit": "क्षीरमेतदिदमुत्तमोत्तमं प्राज्यमाज्यमिदमुज्ज्वलं मधु। मातरेतदमृतोपमं पयः संभ्रमेण परिपीयतां मुहुः॥३२॥",
+          "iast": "kṣīrametadidamuttamottamaṃ prājyamājyamidamujjvalaṃ madhu | mātaretadamṛtopamaṃ payaḥ saṃbhrameṇa paripīyatāṃ muhuḥ ||32||",
+          "meaning": {
+            "ne": "यो अत्यन्त उत्तम दूध, यो प्रचुर उज्ज्वल घ्यू, यो मह, हे माता, यो अमृतोपम पय—ससम्भ्रम बारम्बार पिउनुहोस्।",
+            "en": "This milk, the best of the best; this abundant, radiant ghee; this honey — O Mother, this nectar-like milk, drink it again and again with eagerness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई दूध, घ्यू र मह अर्पण गर्छ। 'उत्तमोत्तमम्'—अत्यन्त उत्तम। 'प्राज्यम्'—प्रचुर। 'उज्ज्वलम्'—उज्ज्वल। 'अमृतोपमम्'—अमृतोपम। 'ससम्भ्रमम्'—ससम्भ्रम। साधक देवीलाई दूध, घ्यू र मह अर्पण गरेर उनको सन्तर्पण गर्छ। यो श्लोकमा साधकको भोजन-प्रेम र देवीको सन्तर्पण प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers milk, ghee and honey to the Goddess. 'Uttamottamam' — the best of the best. 'Prājyam' — abundant. 'Ujjvalam' — radiant. 'Amṛtopamam' — nectar-like. 'Sasambhramam' — with eagerness. The practitioner offers milk, ghee and honey to the Goddess, satisfying her. This verse reveals the practitioner's love for food and the Goddess's satisfaction."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja032.wav"
+        },
+        {
+          "id": "manasapuja-33",
+          "number": 33,
+          "sanskrit": "उष्णोदकैः पाणियुगं मुखं च प्रक्षाल्य मातः कलधौतपात्रे। कर्पूरमिश्रेण सकुङ्कुमेन हस्तौ समुद्वर्तय चन्दनेन॥३३॥",
+          "iast": "uṣṇodakaiḥ pāṇiyugaṃ mukhaṃ ca prakṣālya mātaḥ kaladhautapātre | karpūramiśreṇa sakuṅkumena hastau samudvartaya candanena ||33||",
+          "meaning": {
+            "ne": "हे माता, उष्णोदकले हात र मुख धोएर, सुनको पात्रमा कर्पूर मिश्रित कुङ्कुम र चन्दनले हातहरूलाई उद्वर्तन गर्नुहोस्।",
+            "en": "O Mother, having washed Your hands and face with warm water, in a golden vessel, rub Your hands with camphor-mixed saffron and sandalwood."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई हात र मुख धुवाउँछ र उद्वर्तन गराउँछ। उष्णोदक, सुनको पात्र, कर्पूर, कुङ्कुम, चन्दन—यी सबै शुद्धि र सुगन्धका सामग्री हुन्। 'प्रक्षाल्य'—धोएर। 'समुद्वर्तय'—उद्वर्तन गर्नुहोस्। साधक देवीलाई शुद्ध र सुगन्धित गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको शुद्धि प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner washes the Goddess's hands and face and applies udvartana. Warm water, golden vessel, camphor, saffron, sandalwood — all these are materials for purification and fragrance. 'Prakṣālya' — having washed. 'Samudvartaya' — apply udvartana. The practitioner purifies and perfumes the Goddess. This verse reveals the practitioner's attitude of service and the Goddess's purification."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja033.wav"
+        },
+        {
+          "id": "manasapuja-34",
+          "number": 34,
+          "sanskrit": "अतिशीतमुशीरवासितं तपनीये कलशे निवेशितम्। पटपूतमिदं जितामृतं शुचि गङ्गाजलमम्ब पीयताम्॥३४॥",
+          "iast": "atiśītamuśīravāsitaṃ tapanīye kalaśe niveśitam | paṭapūtamidaṃ jitāmṛtaṃ śuci gaṅgājalamamba pīyatām ||34||",
+          "meaning": {
+            "ne": "अत्यन्त शीतल, उशीरले वासित, सुनको कलशमा राखिएको, वस्त्रले छानिएको, अमृतलाई जित्ने, पवित्र गङ्गाजल हे अम्ब, पिउनुहोस्।",
+            "en": "O Mother, this extremely cool water, scented with uśīra, placed in a golden pitcher, filtered through cloth, purer than nectar, sacred Gaṅgā water — please drink it."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई गङ्गाजल अर्पण गर्छ। उशीरले वासित, सुनको कलश, वस्त्रले छानिएको, अमृतलाई जित्ने—यी सबै गङ्गाजलको विशेषता हुन्। 'पीयताम्'—पिउनुहोस्। साधक देवीलाई पवित्र गङ्गाजल अर्पण गरेर उनको तृप्ति गर्छ। यो श्लोकमा साधकको पवित्रता-प्रेम र देवीको तृप्ति प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers Gaṅgā water to the Goddess. Scented with uśīra, golden pitcher, filtered through cloth, purer than nectar — all these are qualities of Gaṅgā water. 'Pīyatām' — please drink. The practitioner offers sacred Gaṅgā water to the Goddess, satisfying her. This verse reveals the practitioner's love for purity and the Goddess's satisfaction."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja034.wav"
+        },
+        {
+          "id": "manasapuja-35",
+          "number": 35,
+          "sanskrit": "जम्ब्वाम्ररम्भाफलसंयुतानि द्राक्षाफलक्षौद्रसमन्वितानि। सनारिकेलानि सदाडिमानि फलानि ते देवि समर्पयामि॥३५॥",
+          "iast": "jambvāmrarambhāphalasaṃyutāni drākṣāphalakṣaudrasamanvitāni | sanārikelāni sadāḍimāni phalāni te devi samarpayāmi ||35||",
+          "meaning": {
+            "ne": "जामुन, आँप, केरा, द्राक्षा, शहद, नारिकेल र दाडिम सहित फलहरू हे देवि, मैले तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Goddess, I offer You fruits — jambu, mango, banana, grapes, with honey, coconuts and pomegranates."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई फल अर्पण गर्छ। जामुन, आँप, केरा, द्राक्षा, शहद, नारिकेल, दाडिम—यी सबै दिव्य फल हुन्। साधक देवीलाई फल अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको फल-प्रेम र देवीको फलमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers fruits to the Goddess. Jambu, mango, banana, grapes, honey, coconut, pomegranate — all these are divine fruits. The practitioner offers fruits to the Goddess, worshipping her. This verse reveals the practitioner's love for fruits and the Goddess's fruit-filled nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja035.wav"
+        },
+        {
+          "id": "manasapuja-36",
+          "number": 36,
+          "sanskrit": "कूश्माण्डकोशातकिसंयुतानि जम्बीरनारङ्गसमन्वितानि। सबीजपूराणि सबादराणि फलानि ते देवि समर्पयामि॥३६॥",
+          "iast": "kūśmāṇḍakośātakisaṃyutāni jambīranāraṅgasamanvitāni | sabījapūrāṇi sabādarāṇi phalāni te devi samarpayāmi ||36||",
+          "meaning": {
+            "ne": "कूष्माण्ड, कोशातकी, जम्बीर (नीबू), नारङ्ग, बीजपूर सहित, आदरपूर्वक फलहरू हे देवि, मैले तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Goddess, I offer You fruits — pumpkin, koshataki, lemon, orange, with bijapura (citron), with reverence."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई थप फल अर्पण गर्छ। कूष्माण्ड, कोशातकी, जम्बीर, नारङ्ग, बीजपूर—यी सबै दिव्य फल हुन्। 'सबादराणि'—आदरपूर्वक। साधक देवीलाई फल अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको फल-प्रेम र देवीको फलमय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers further fruits to the Goddess. Pumpkin, koshataki, lemon, orange, bijapura — all these are divine fruits. 'Sabādarāṇi' — with reverence. The practitioner offers fruits to the Goddess, worshipping her. This verse reveals the practitioner's love for fruits and the Goddess's fruit-filled nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja036.wav"
+        },
+        {
+          "id": "manasapuja-37",
+          "number": 37,
+          "sanskrit": "कर्पूरेण युतैर्लवङ्गसहितैस्तक्कोलचूर्णान्वितैः सुस्वादुक्रमुकैः सगौरखदिरैः सुस्निग्धजातीफलैः। मातः कैतकपत्नपाण्डुरुचिभिस्ताम्बूलवल्लीदलैः सानन्दं मुखमण्डनार्थमतुलं ताम्बूलमङ्गीकुरु॥३७॥",
+          "iast": "karpūreṇa yutairlavaṅgasahitaistakkolacūrṇānvitaiḥ susvādukramukaiḥ sagaurakhadiraiḥ susnigdahajātīphalaiḥ | mātaḥ kaitakapatnapāṇḍurucihistāmbūlavallīdalaiḥ sānandaṃ mukhamaṇḍanārtham atulaṃ tāmbūlamaṅgīkuru ||37||",
+          "meaning": {
+            "ne": "कर्पूर, लवङ्ग, तक्कोल चूर्ण, स्वादिष्ट क्रमुक (सुपारी), गौर खदिर, स्निग्ध जातीफल, केतकीको पत्नी (ताम्बूलवल्ली) को पाण्डु दीप्ति भएका पत्ताहरूले युक्त—हे माता, मुखको शृंगारको लागि यो अतुलनीय ताम्बूल आनन्दसहित स्वीकार गर्नुहोस्।",
+            "en": "With camphor, cloves, takkola powder, delicious betel nuts, white khair, oily jātīphala, and the pale radiance of tāmbūla-vallī leaves (the wife of ketakī) — O Mother, accept this peerless tāmbūla joyfully for the adornment of Your mouth."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई ताम्बूल अर्पण गर्छ। कर्पूर, लवङ्ग, तक्कोल, क्रमुक, खदिर, जातीफल, ताम्बूलवल्लीका पत्ता—यी सबै ताम्बूलका सामग्री हुन्। 'मुखमण्डनार्थम्'—मुखको शृंगारको लागि। साधक देवीलाई ताम्बूल अर्पण गरेर उनको मुखको शृंगार गर्छ। यो श्लोकमा साधकको ताम्बूल-प्रेम र देवीको मुख-शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers tāmbūla to the Goddess. Camphor, cloves, takkola, betel nut, khair, jātīphala, tāmbūla-vallī leaves — all these are materials for tāmbūla. 'Mukhamaṇḍanārtham' — for the adornment of the mouth. The practitioner offers tāmbūla to the Goddess, adorning her mouth. This verse reveals the practitioner's love for tāmbūla and the Goddess's mouth-adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja037.wav"
+        },
+        {
+          "id": "manasapuja-38",
+          "number": 38,
+          "sanskrit": "एलालवङ्गादिसमन्वितानि तक्कोलकर्पूरविमिश्रितानि। ताम्बूलवल्लीदलसंयुतानि पूगानि ते देवि समर्पयामि॥३८॥",
+          "iast": "elālavaṅgādisamanvitāni takkolakarpūravimiśritāni | tāmbūlavallīdalasaṃyutāni pūgāni te devi samarpayāmi ||38||",
+          "meaning": {
+            "ne": "एला, लवङ्ग आदिले युक्त, तक्कोल र कर्पूरले मिश्रित, ताम्बूलवल्लीका पत्तासहित पूग (सुपारी) हे देवि, मैले तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Goddess, I offer You betel nuts (pūga) mixed with cardamom, cloves and others, blended with takkola and camphor, along with tāmbūla-vallī leaves."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई पूग (सुपारी) अर्पण गर्छ। एला, लवङ्ग, तक्कोल, कर्पूर, ताम्बूलवल्लीका पत्ता—यी सबै पूगका सामग्री हुन्। साधक देवीलाई पूग अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको ताम्बूल-प्रेम र देवीको पूग-सेवन प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers betel nuts (pūga) to the Goddess. Cardamom, cloves, takkola, camphor, tāmbūla-vallī leaves — all these are materials for pūga. The practitioner offers pūga to the Goddess, worshipping her. This verse reveals the practitioner's love for tāmbūla and the Goddess's betel-nut consumption."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja038.wav"
+        },
+        {
+          "id": "manasapuja-39",
+          "number": 39,
+          "sanskrit": "ताम्बूलनिर्जितसुतप्तसुवर्णवर्णं स्वर्णाक्तपूगफलमौक्तिकचूर्णयुक्तम्। सौवर्णपात्रनिहितं खदिरेण सार्धं ताम्बूलमम्ब वदनाम्बुरुहे गृहाण॥३९॥",
+          "iast": "tāmbūlanirjitasutaptasuvarṇavarṇaṃ svarṇāktapūgaphalauktikacūrṇayuktam | sauraṇapātranihitaṃ khadiरेṇa sārdhaṃ tāmbūlamamba padanāmburuhe gṛhāṇa ||39||",
+          "meaning": {
+            "ne": "ताम्बूलले जितेको तप्त सुवर्णको वर्ण भएको, सुनले अक्त पूगफल र मोतीको चूर्णले युक्त, स्वर्णपात्रमा खदिरसहित राखिएको यो ताम्बूल हे अम्ब, आफ्नो मुखकमलमा ग्रहण गर्नुहोस्।",
+            "en": "O Mother, this tāmbūla, whose colour defeats molten gold, mixed with gold-smeared betel nut and pearl powder, placed in a golden vessel with khair — accept it in the lotus of Your mouth."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई ताम्बूल अर्पण गर्छ। ताम्बूलको वर्ण तप्त सुवर्णझैं छ। सुनले अक्त पूगफल, मोतीको चूर्ण, स्वर्णपात्र, खदिर—यी सबै ताम्बूलका सामग्री हुन्। 'वदनाम्बुरुहे'—मुखकमलमा। साधक देवीलाई ताम्बूल अर्पण गरेर उनको मुखको शृंगार गर्छ। यो श्लोकमा साधकको ताम्बूल-प्रेम र देवीको मुख-शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers tāmbūla to the Goddess. The colour of tāmbūla is like molten gold. Gold-smeared betel nut, pearl powder, golden vessel, khair — all these are materials for tāmbūla. 'Vadanāmburuhe' — in the lotus of the mouth. The practitioner offers tāmbūla to the Goddess, adorning her mouth. This verse reveals the practitioner's love for tāmbūla and the Goddess's mouth-adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja039.wav"
+        },
+        {
+          "id": "manasapuja-40",
+          "number": 40,
+          "sanskrit": "महति कनकपाले स्थापयित्वा विशालान्डमरुसदृशरूपान्बद्धगोधूमदीपान्। बहुघृतमथ तेषु न्यस्य दीपान्प्रकृष्टान्भुवनजननि कुर्वे नित्यमारार्तिकं ते॥४०॥",
+          "iast": "mahati kanakapāle sthāpayitvā viśālānḍamarusadṛśarūpānbaddhagodhūmadīpān | bahughṛtamatha teṣu nyasya dīpānprakṛṣṭānbhuvanajananī kurve nityamārātrikaṃ te ||40||",
+          "meaning": {
+            "ne": "ठूलो सुनको पात्रमा विशाल डमरुसदृश आकार भएका बद्ध गोधूमका दीपहरू स्थापित गरी, तीमा धेरै घ्यू राखी, उत्तम दीपहरू बनाई, हे भुवनजननि, मैले नित्य तपाईंको आरार्तिक गर्दछु।",
+            "en": "Having placed large wheat-flour lamps shaped like ḍamaru in a great golden vessel, and having put much ghee in them, making excellent lamps — O Mother of the World, I perform Your ārātrika daily."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई आरार्तिक अर्पण गर्छ। सुनको पात्र, गोधूमका दीप, घ्यू—यी सबै आरार्तिकका सामग्री हुन्। 'नित्यम्'—नित्य। साधक देवीलाई आरार्तिक अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको दीप-प्रेम र देवीको ज्योतिर्मय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers ārātrika to the Goddess. Golden vessel, wheat-flour lamps, ghee — all these are materials for ārātrika. 'Nityam' — daily. The practitioner offers ārātrika to the Goddess, worshipping her. This verse reveals the practitioner's love for light and the Goddess's radiant nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja040.wav"
+        },
+        {
+          "id": "manasapuja-41",
+          "number": 41,
+          "sanskrit": "सविनयमथ दत्वा जानुयुग्मं धरण्यां सपदि शिरसि धृत्वा पात्रमारार्तिकस्य। मुखकमलसमीपे तेऽम्ब सार्थं त्रिवारं भ्रमयति मयि भूयात्ते कृपाः कटाक्षः॥४१॥",
+          "iast": "savinayamatha datvā jānuyugmaṃ dharaṇyāṃ sapadi śirasi dhṛtvā pātramārātrikasya | mukhākamalasamīpe te'mba sārthaṃ trivāraṃ bhramayati mayi bhūyātte kṛpāḥ kaṭākṣaḥ ||41||",
+          "meaning": {
+            "ne": "विनयपूर्वक घुँडा भुइँमा टेकेर, आरार्तिकको पात्र शिरमा राखी, हे अम्ब, तपाईंको मुखकमलको नजिक तीन पटक घुमाउँदै—ममाथि तपाईंको कृपाको कटाक्ष होस्।",
+            "en": "Having humbly placed both knees on the ground, and immediately placed the ārātrika vessel on my head, O Mother, waving it three times near the lotus of Your face — may Your glance of compassion fall on me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई आरार्तिक अर्पण गर्छ। घुँडा भुइँमा टेकेर, पात्र शिरमा राखी, तीन पटक घुमाउँदै—यो आरार्तिकको विधि हो। 'कृपाः कटाक्षः'—कृपाको कटाक्ष। साधक देवीको कृपाको कटाक्षको प्रार्थना गर्छ। यो श्लोकमा साधकको विनम्रता र देवीको कृपा-कटाक्षको महिमा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers ārātrika to the Goddess. Kneeling on the ground, placing the vessel on the head, waving it three times — this is the method of ārātrika. 'Kṛpāḥ kaṭākṣaḥ' — the glance of compassion. The practitioner prays for the Goddess's compassionate glance. This verse reveals the practitioner's humility and the greatness of the Goddess's compassionate glance."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja041.wav"
+        },
+        {
+          "id": "manasapuja-42",
+          "number": 42,
+          "sanskrit": "अथ बहुमणिमिश्रैर्मौक्तिकैस्त्वां विकीर्य त्रिभुवनकमनीयैः पूजयित्वा च वस्त्रैः। मिलितविविधमुक्तां दिव्यमाणिक्ययुक्तां जननि कनकवृष्टिं दक्षिणां तेऽर्पयामि॥४२॥",
+          "iast": "atha bahumaṇimiśrairmauktikaistvāṃ vikīrya tribhuvanakamanīyaiḥ pūjayitvā ca vastraiḥ | militavividhamuktāṃ divyamāṇikyayuktāṃ janani kanakavṛṣṭiṃ dakṣiṇāṃ te'rpayāmi ||42||",
+          "meaning": {
+            "ne": "अब धेरै मणि मिश्रित मोतीहरूले तपाईंलाई विकीर्ण गरी, त्रिभुवनकमनीय वस्त्रहरूले पूजा गरी, हे जननि, नाना मोती र दिव्य माणिक्ययुक्त स्वर्णवृष्टि (दक्षिणा) तपाईंलाई अर्पण गर्दछु।",
+            "en": "Now, having scattered many gems and pearls upon You, and having worshipped You with garments delightful to the three worlds — O Mother, I offer You as dakṣiṇā a rain of gold mixed with various pearls and divine rubies."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई दक्षिणा अर्पण गर्छ। मणि, मोती, माणिक्य, स्वर्णवृष्टि—यी सबै दक्षिणाका सामग्री हुन्। 'त्रिभुवनकमनीयैः'—त्रिभुवनकमनीय। साधक देवीलाई दक्षिणा अर्पण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको दान-भाव र देवीको ऐश्वर्य प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers dakṣiṇā to the Goddess. Gems, pearls, rubies, a rain of gold — all these are materials for dakṣiṇā. 'Tribhuvanakamanīyaiḥ' — delightful to the three worlds. The practitioner offers dakṣiṇā to the Goddess, worshipping her. This verse reveals the practitioner's attitude of giving and the Goddess's sovereignty."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja042.wav"
+        },
+        {
+          "id": "manasapuja-43",
+          "number": 43,
+          "sanskrit": "मातः काञ्चनदण्डमण्डितमिदं पूर्णेन्दुबिम्बप्रभं नानारत्नविशोभिहेमकलशं लोकत्रयाह्लादकम्। भास्वन्मौक्तिकजालिकापरिवृतं प्रीत्यात्महस्ते धृतं छत्रं ते परिकल्पयामि शिरसि त्वष्ट्रा स्वयं निर्मितम्॥४३॥",
+          "iast": "mātaḥ kāñcanadaṇḍamaṇḍitamidaṃ pūrṇendubimbaprabhaṃ nānāratnaviśobhihemakalaśaṃ lokatrayāhlādakam | bhāsvanmauktikajālikāparivṛtaṃ prītyātmahaste dhṛtaṃ chatraṃ te parikalpayāmi śirasi tvaṣṭrā svayaṃ nirmitam ||43||",
+          "meaning": {
+            "ne": "हे माता, सुनको दण्डले मण्डित, पूर्ण चन्द्रबिम्बको प्रभा भएको, नाना रत्नहरूले शोभित सुनको कलश, तीनै लोकलाई आह्लाद दिने, दीप्तिमान मोतीको जालीले घेरिएको, प्रीतिपूर्वक आफ्नो हातले धारण गरेको यो छत्र तपाईंको शिरमा मैले कल्पना गर्दछु, जो त्वष्टाले स्वयं निर्मित गरेको हो।",
+            "en": "O Mother, this umbrella adorned with a golden rod, radiant as the full moon, with a golden pitcher shining with various gems, delighting the three worlds, surrounded by a net of shining pearls, held by my own hand with love — I imagine it on Your head, made by Tvaṣṭā himself."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई छत्र अर्पण गर्छ। सुनको दण्ड, पूर्ण चन्द्रबिम्बको प्रभा, नाना रत्न, सुनको कलश, मोतीको जाली—यी सबै छत्रका अलंकार हुन्। 'त्वष्ट्रा स्वयं निर्मितम्'—त्वष्टाले स्वयं निर्मित। साधक देवीलाई छत्र अर्पण गरेर उनको रक्षा गर्छ। यो श्लोकमा साधकको रक्षा-भाव र देवीको छत्र-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers an umbrella to the Goddess. Golden rod, full-moon radiance, various gems, golden pitcher, pearl net — all these are ornaments of the umbrella. 'Tvaṣṭrā svayaṃ nirmitam' — made by Tvaṣṭā himself. The practitioner offers an umbrella to the Goddess, protecting her. This verse reveals the practitioner's protective attitude and the Goddess's umbrella-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja043.wav"
+        },
+        {
+          "id": "manasapuja-44",
+          "number": 44,
+          "sanskrit": "शरदिन्दुमरीचिगौरवर्णैर्मणिमुक्ताविलसत्सुवर्णदण्डैः। जगदम्ब विचित्रचामरैस्त्वामहमानन्दभरेण वीजयामि॥४४॥",
+          "iast": "śaradindumarīcigauravarṇairmaṇimuktāvilasatsuvarṇadaṇḍaiḥ | jagadamba vicitracāmaraiastvāmahamānandabhareṇa vījayāmi ||44||",
+          "meaning": {
+            "ne": "शरदकालीन चन्द्रमाको किरणझैं गौर वर्णका, मणि र मोतीले दीप्तिमान सुनको दण्ड भएका, विचित्र चामरहरूले हे जगदम्बा, मैले आनन्दपूर्वक तपाईंलाई वीजन (हल्लाउने) गर्दछु।",
+            "en": "O Mother of the World, with wonderful chowries whose colour is white as the rays of the autumn moon, with golden rods shining with gems and pearls — I fan You with a heart full of joy."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई चामर अर्पण गर्छ। शरदकालीन चन्द्रमाको किरणझैं गौर वर्ण, मणि र मोतीले दीप्तिमान सुनको दण्ड—यी सबै चामरका अलंकार हुन्। 'आनन्दभरेण'—आनन्दपूर्वक। साधक देवीलाई चामर अर्पण गरेर उनको सेवा गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको चामर-सेवा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers chowries to the Goddess. White as the rays of the autumn moon, golden rods shining with gems and pearls — all these are ornaments of the chowries. 'Ānandabhareṇa' — with a heart full of joy. The practitioner offers chowries to the Goddess, serving her. This verse reveals the practitioner's attitude of service and the Goddess's chowrie-service."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja044.wav"
+        },
+        {
+          "id": "manasapuja-45",
+          "number": 45,
+          "sanskrit": "मार्ताण्डमण्डलनिभो जगदम्ब योऽयं भक्त्या मया मणिमयो मुकुरोऽर्पितस्ते। पूर्णेन्दुबिम्बरुचिरं वदनं स्वकीयमस्मिन्विलोकय बिलोलविलोचने त्वम्॥४५॥",
+          "iast": "mārtāṇḍamaṇḍalanibho jagadamba yo'yaṃ bhaktyā mayā maṇimayo mukuro'rpitaste | pūrṇendubimbaruciraṃ vadanaṃ svakīyamasminvilokaya bilolavilocane tvam ||45||",
+          "meaning": {
+            "ne": "हे जगदम्बा, सूर्यमण्डलसदृश यो मणिमय दर्पण मैले भक्तिपूर्वक तपाईंलाई अर्पण गरेको छु। हे चञ्चल नेत्री, यसमा आफ्नो पूर्ण चन्द्रबिम्बझैं सुन्दर वदन हेर्नुहोस्।",
+            "en": "O Mother of the World, this jewelled mirror, resembling the orb of the sun, I have offered to You with devotion. O restless-eyed one, look in it at Your own face, beautiful as the full moon."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई दर्पण अर्पण गर्छ। सूर्यमण्डलसदृश मणिमय दर्पण—यो दिव्य दर्पण हो। 'बिलोलविलोचने'—चञ्चल नेत्री। 'स्वकीयम् वदनम्'—आफ्नो वदन। साधक देवीलाई दर्पण अर्पण गरेर उनको सौन्दर्य दर्शन गराउँछ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको वदन-सौन्दर्य प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a mirror to the Goddess. The jewelled mirror resembling the orb of the sun — this is the divine mirror. 'Bilolavilocane' — restless-eyed one. 'Svakīyam vadanam' — Your own face. The practitioner offers a mirror to the Goddess, showing her own beauty. This verse reveals the practitioner's love for beauty and the Goddess's facial beauty."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja045.wav"
+        },
+        {
+          "id": "manasapuja-46",
+          "number": 46,
+          "sanskrit": "इन्द्रादयो नतिनतैर्मकुटप्रदीपैर्नीराजयन्ति सततं तव पादपीठम्। तस्मादहं तव समस्तशरीरमेतन्नीराजयामि जगदम्ब सहस्रदीपैः॥४६॥",
+          "iast": "indrādayo natinatairmakuṭapradīpairnīrājayanti satataṃ tava pādapīṭham | tasmādahaṃ tava samastaśarīrametannīrājayāmi jagadamba sahasradīpaiḥ ||46||",
+          "meaning": {
+            "ne": "इन्द्र आदि देवताहरूले नतमस्तक भई आफ्ना मुकुटका दीपहरूले निरन्तर तपाईंको पादपीठको नीराजन गर्छन्। त्यसैले हे जगदम्बा, मैले तपाईंको सम्पूर्ण शरीरको सहस्र दीपहरूले नीराजन गर्दछु।",
+            "en": "Indra and the other gods, bowing low, constantly perform nīrājana to Your footstool with the lamps of their crowns. Therefore, O Mother of the World, I perform nīrājana to Your entire body with a thousand lamps."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई सहस्र दीपले नीराजन गर्छ। इन्द्रादि देवताहरूले मुकुटका दीपहरूले पादपीठको नीराजन गर्छन्। 'सहस्रदीपैः'—सहस्र दीपहरूले। साधक देवीलाई सहस्र दीपले नीराजन गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको दीप-प्रेम र देवीको ज्योतिर्मय स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner performs nīrājana to the Goddess with a thousand lamps. Indra and the other gods perform nīrājana to the footstool with the lamps of their crowns. 'Sahasradīpaiḥ' — with a thousand lamps. The practitioner performs nīrājana to the Goddess with a thousand lamps, worshipping her. This verse reveals the practitioner's love for light and the Goddess's radiant nature."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja046.wav"
+        },
+        {
+          "id": "manasapuja-47",
+          "number": 47,
+          "sanskrit": "प्रियगतिरतितुङ्गो रत्नपल्याणयुक्तः कनकमयविभूषः स्निग्धगम्भीरघोषः। भगवति कलितोऽयं वाहनार्थं मया ते तुरगशतसमेतो वायुवेगस्तुरंगः॥४७॥",
+          "iast": "priyagatiratituṅgo ratnapalyāṇayuktaḥ kanakamayavibhūṣaḥ snigdhagambhīraghoṣaḥ | bhagavati kalito'yaṃ vāhanārthaṃ mayā te turagataśatasameto vāyuvegasturaṅgaḥ ||47||",
+          "meaning": {
+            "ne": "प्रिय गति भएको, अत्यन्त उच्च, रत्नको पल्याण (काठी) युक्त, सुनका आभूषणले विभूषित, स्निग्ध गम्भीर घोष भएको, सय घोडाहरूसहित, वायुवेग भएको यो तुरंग हे भगवति, मैले तपाईंको वाहनको लागि कल्पना गरेको छु।",
+            "en": "O Goddess, this horse, delightful in gait, very tall, with a jewelled saddle, adorned with golden ornaments, with a deep and gentle neigh, accompanied by a hundred horses, swift as the wind — I have conceived it for Your vehicle."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई तुरंग (घोडा) अर्पण गर्छ। प्रिय गति, अत्यन्त उच्च, रत्न पल्याण, सुनका आभूषण, स्निग्ध गम्भीर घोष, सय घोडा, वायुवेग—यी सबै तुरंगका विशेषता हुन्। साधक देवीलाई तुरंग अर्पण गरेर उनको वाहनको व्यवस्था गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको वाहन-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a horse to the Goddess. Delightful gait, very tall, jewelled saddle, golden ornaments, deep and gentle neigh, a hundred horses, wind-speed — all these are qualities of the horse. The practitioner offers a horse to the Goddess, arranging her vehicle. This verse reveals the practitioner's attitude of service and the Goddess's vehicle-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja047.wav"
+        },
+        {
+          "id": "manasapuja-48",
+          "number": 48,
+          "sanskrit": "मधुकरवृतकुम्भन्यस्तसिन्दूररेणुः कनककलिलघण्टाकिङ्किणीशोभिकण्ठः। श्रवणयुगलचञ्चच्चामरो मेघतुल्यो जननि तव मुदे स्यान्मत्तमातङ्ग एषः॥४८॥",
+          "iast": "madhukaravṛtakumbhanyastasindūrareṇuḥ kanakakalilaghaṇṭākiṅkiṇīśobhikaṇṭhaḥ | śravaṇayugalacañcaccāmaro meghatulyo janani tava mude syānmattamātaṅga eṣaḥ ||48||",
+          "meaning": {
+            "ne": "भ्रमरहरूले घेरिएको कुम्भमा सिन्दूरको धूलो लगाइएको, सुनका घण्टा र किङ्किणीले शोभित कण्ठ भएको, कानमा चामर हल्लिएको, मेघसदृश यो मत्त हात्ती हे जननि, तपाईंको आनन्दको लागि होस्।",
+            "en": "O Mother, this rutting elephant, with vermilion dust placed on its temples surrounded by bees, its neck adorned with golden bells and small bells, with chowries waving at its ears, equal to a cloud — may it be for Your joy."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई मत्त हात्ती अर्पण गर्छ। भ्रमर, कुम्भ, सिन्दूर, सुनका घण्टा, किङ्किणी, चामर, मेघ—यी सबै मत्त हात्तीका विशेषता हुन्। 'तव मुदे'—तपाईंको आनन्दको लागि। साधक देवीलाई मत्त हात्ती अर्पण गरेर उनको आनन्द गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको वाहन-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a rutting elephant to the Goddess. Bees, temples, vermilion, golden bells, small bells, chowries, cloud — all these are qualities of the rutting elephant. 'Tava mude' — for Your joy. The practitioner offers a rutting elephant to the Goddess, delighting her. This verse reveals the practitioner's attitude of service and the Goddess's vehicle-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja048.wav"
+        },
+        {
+          "id": "manasapuja-49",
+          "number": 49,
+          "sanskrit": "द्रुततरतुरगैर्विराजमानं मणिमयचक्रचतुष्टयेन युक्तम्। कनकमयममुं वितानवन्तं भगवति ते हि रथं समर्पयामि॥४९॥",
+          "iast": "drutataturugairvirājamānaṃ maṇimayacakracatuṣṭayena yuktam | kanakamayamamuṃ vitānavantaṃ bhagavati te hi rathaṃ samarpayāmi ||49||",
+          "meaning": {
+            "ne": "वेगवान् घोडाहरूले शोभित, मणिमय चार चक्रहरूले युक्त, सुनको वितान (छत्र) भएको यो रथ हे भगवति, मैले तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Goddess, I offer You this chariot, shining with swift horses, with four jewelled wheels, made of gold and with a canopy."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई रथ अर्पण गर्छ। वेगवान् घोडा, मणिमय चार चक्र, सुनको वितान—यी सबै रथका अलंकार हुन्। साधक देवीलाई रथ अर्पण गरेर उनको वाहनको व्यवस्था गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको वाहन-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a chariot to the Goddess. Swift horses, four jewelled wheels, golden canopy — all these are ornaments of the chariot. The practitioner offers a chariot to the Goddess, arranging her vehicle. This verse reveals the practitioner's attitude of service and the Goddess's vehicle-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja049.wav"
+        },
+        {
+          "id": "manasapuja-50",
+          "number": 50,
+          "sanskrit": "हयगजरथपत्तिशोभमानं दिशि दिशि दुन्दुभिमेघनादयुक्तम्। अतिबहु चतुरङ्गसैन्यमेतद्भगवति भक्तिभरेण तेऽर्पयामि॥५०॥",
+          "iast": "hayagajarathapattiśobhamānaṃ diśi diśi dundubhimeghanādayuktam | atibahu caturaṅgasainyametadbhagavati bhaktibhareṇa te'rpayāmi ||50||",
+          "meaning": {
+            "ne": "घोडा, हात्ती, रथ र पैदल सेनाले शोभित, सबै दिशामा दुन्दुभि र मेघको नादले युक्त, अत्यन्त विशाल यो चतुरङ्ग सेना हे भगवति, मैले भक्तिपूर्वक तपाईंलाई अर्पण गर्दछु।",
+            "en": "O Goddess, this very vast four-fold army, shining with horses, elephants, chariots and infantry, with the sound of drums and clouds in every direction — I offer it to You with full devotion."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई चतुरङ्ग सेना अर्पण गर्छ। हय, गज, रथ, पत्ति—यी चार अङ्ग हुन्। दुन्दुभि, मेघनाद—यी सेनाका नाद हुन्। 'भक्तिभरेण'—भक्तिपूर्वक। साधक देवीलाई चतुरङ्ग सेना अर्पण गरेर उनको शक्ति बढाउँछ। यो श्लोकमा साधकको सेवा-भाव र देवीको सैन्य-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a four-fold army to the Goddess. Horses, elephants, chariots, infantry — these are the four limbs. Drums, cloud-sounds — these are the sounds of the army. 'Bhaktibhareṇa' — with full devotion. The practitioner offers a four-fold army to the Goddess, increasing her power. This verse reveals the practitioner's attitude of service and the Goddess's army-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja050.wav"
+        },
+        {
+          "id": "manasapuja-51",
+          "number": 51,
+          "sanskrit": "परिधीकृतसप्तसागरं बहुसंपत्सहितं मयाम्ब ते विपुलम्। प्रबलं धरणीतलाभिधं दृढदुर्गं निखिलं समर्पयामि॥५१॥",
+          "iast": "paridhīkṛtasaptasāgaraṃ bahusaṃpatsahitaṃ mayāmba te vipulam | prabalaṃ dharaṇītalābhidhaṃ dṛḍhadurgaṃ nikhilaṃ samarpayāmi ||51||",
+          "meaning": {
+            "ne": "सात समुद्रहरूलाई परिधिका रूपमा भएको, धेरै सम्पत्तिले युक्त, विपुल, प्रबल, धरणीतल नामको दृढ दुर्ग हे अम्ब, मैले तपाईंलाई सम्पूर्ण अर्पण गर्दछु।",
+            "en": "O Mother, I offer You entirely this vast, mighty and firm fortress called the earth, with the seven oceans as its moat, together with abundant wealth."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई दुर्ग अर्पण गर्छ। सात समुद्र, धेरै सम्पत्ति, विपुल, प्रबल, धरणीतल—यी सबै दुर्गका विशेषता हुन्। 'दृढदुर्गम्'—दृढ दुर्ग। साधक देवीलाई दुर्ग अर्पण गरेर उनको रक्षा गर्छ। यो श्लोकमा साधकको रक्षा-भाव र देवीको दुर्ग-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a fortress to the Goddess. Seven oceans, abundant wealth, vast, mighty, earth — all these are qualities of the fortress. 'Dṛḍhadurgam' — firm fortress. The practitioner offers a fortress to the Goddess, protecting her. This verse reveals the practitioner's protective attitude and the Goddess's fortress-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja051.wav"
+        },
+        {
+          "id": "manasapuja-52",
+          "number": 52,
+          "sanskrit": "शतपत्रयुतैः स्वभावशीतैरतिसौरभ्ययुतैः परागपीतैः। भ्रमरीमुखरीकृतैरनन्तैर्व्यजनस्त्वां जगदम्ब बीजयामि॥५२॥",
+          "iast": "śatapatrayutaiḥ svabhāvaśītairatisaurabhyayutaiḥ parāgapītaiḥ | bhramarīmukharīkṛtairanantairvyajanastvāṃ jagadamba bījayāmi ||52||",
+          "meaning": {
+            "ne": "सय पत्र भएका, स्वभावतः शीतल, अत्यन्त सुगन्धित, परागले पीत, भ्रमरीहरूले मुखरित, अनन्त व्यजनहरूले हे जगदम्बा, मैले तपाईंलाई वीजन गर्दछु।",
+            "en": "O Mother of the World, with countless fans made of hundred-petalled lotuses, naturally cool, extremely fragrant, yellow with pollen, made musical by bees — I fan You."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई व्यजन अर्पण गर्छ। सय पत्र, शीतल, सुगन्धित, परागले पीत, भ्रमरीले मुखरित—यी सबै व्यजनका विशेषता हुन्। 'अनन्तैः'—अनन्त। साधक देवीलाई व्यजन अर्पण गरेर उनको सेवा गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको व्यजन-सेवा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers fans to the Goddess. Hundred petals, cool, fragrant, yellow with pollen, made musical by bees — all these are qualities of the fans. 'Anantaiḥ' — countless. The practitioner offers fans to the Goddess, serving her. This verse reveals the practitioner's attitude of service and the Goddess's fan-service."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja052.wav"
+        },
+        {
+          "id": "manasapuja-53",
+          "number": 53,
+          "sanskrit": "भ्रमरलुलितलोलकुन्तलालीविगलितमाल्यविकीर्णरङ्गभूमिः। इयमतिरुचिरा नटी नटन्ती तव हृदये मुदमातनोतु मातः॥५३॥",
+          "iast": "bhramaralulitalolakuntalālīvigalitamālyavikīrṇaraṅgabhūmiḥ | iyamatirucirā naṭī naṭantī tava hṛdaye mudamātanotu mātaḥ ||53||",
+          "meaning": {
+            "ne": "भ्रमरहरूले चञ्चल गरेका लोल केश समूहबाट झरेका माल्यहरूले छरिएको रङ्गभूमि भएकी, अत्यन्त सुन्दरी यो नटी नाच्दै हे माता, तपाईंको हृदयमा आनन्द ल्याओस्।",
+            "en": "O Mother, may this extremely beautiful dancer, whose dance-floor is strewn with garlands fallen from her restless hair sported by bees, bring joy to Your heart as she dances."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई नटी (नर्तकी) अर्पण गर्छ। भ्रमर, लोल केश, माल्य, रङ्गभूमि—यी सबै नटीका विशेषता हुन्। 'तव हृदये मुदम्'—तपाईंको हृदयमा आनन्द। साधक देवीलाई नटी अर्पण गरेर उनको आनन्द गर्छ। यो श्लोकमा साधकको कला-प्रेम र देवीको आनन्द प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a dancer to the Goddess. Bees, restless hair, garlands, dance-floor — all these are qualities of the dancer. 'Tava hṛdaye mudam' — joy in Your heart. The practitioner offers a dancer to the Goddess, delighting her. This verse reveals the practitioner's love for art and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja053.wav"
+        },
+        {
+          "id": "manasapuja-54",
+          "number": 54,
+          "sanskrit": "मुखनयनविलासलोलवेणीविलसितनिर्जितलोलभृङ्गमालाः। युवजनसुखकारिचारुलीला भगवति ते पुरतो नटन्ति बालाः॥५४॥",
+          "iast": "mukhanayanavilāsalolaveṇīvilasitanirjitalolabhṛṅgamālāḥ | yuvajanasukhakāricārulīlā bhagavati te purato naṭanti bālāḥ ||54||",
+          "meaning": {
+            "ne": "मुख र नयनको विलासले चञ्चल वेणीमा शोभित, चञ्चल भृङ्गमालालाई जित्ने, युवजनहरूलाई सुख दिने चारु लीला भएकी बालिकाहरू हे भगवति, तपाईंको अगाडि नाच्छन्।",
+            "en": "O Goddess, young girls dance before You — their braids sportive with the play of their faces and eyes, defeating the sportive rows of bees, with charming play that delights the young."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई बालिकाहरूको नृत्य अर्पण गर्छ। मुख, नयन, वेणी, भृङ्गमाला, युवजन—यी सबै बालिकाहरूका विशेषता हुन्। 'ते पुरतः'—तपाईंको अगाडि। साधक देवीलाई बालिकाहरूको नृत्य अर्पण गरेर उनको आनन्द गर्छ। यो श्लोकमा साधकको कला-प्रेम र देवीको आनन्द प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers the dance of young girls to the Goddess. Face, eyes, braids, bees, young people — all these are qualities of the girls. 'Te purataḥ' — before You. The practitioner offers the dance of young girls to the Goddess, delighting her. This verse reveals the practitioner's love for art and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja054.wav"
+        },
+        {
+          "id": "manasapuja-55",
+          "number": 55,
+          "sanskrit": "भ्रमदलिकुलतुल्यालोलधम्मिल्लभाराः स्मितमुखकमलोद्यद्दिव्यलावण्यपूराः। अनुपमितसुवेषा वारयोषा नटन्ति परभृतकलकण्ठ्यो देवि दैन्यं धुनोतु॥५५॥",
+          "iast": "bhramadalikulatulyāloladhammillabhārāḥ smitamukhakamalodyaddivyalāvaṇyapūrāḥ | anupamitasuveṣā vārayoṣā naṭanti parabhṛtakalakaṇṭhyo devi dainyaṃ dhunotu ||55||",
+          "meaning": {
+            "ne": "भ्रमरहरूको समूहझैं चञ्चल धम्मिल्ल भार भएका, स्मित मुखकमलमा दिव्य लावण्यको पूर प्रकट गर्ने, अनुपम सुवेष भएका, कोकिलझैं मधुर कण्ठ भएका वारयोषा (वेश्याहरू) हे देवि, नाच्दै तपाईंको दैन्य (दुःख) हटाउन्।",
+            "en": "O Goddess, may the courtesans dance — their heavy braids restless like swarms of bees, their smiling lotus faces overflowing with divine beauty, with peerless attire, their voices sweet as the cuckoo — and remove Your sorrow."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई वारयोषाहरूको नृत्य अर्पण गर्छ। भ्रमर, धम्मिल्ल, स्मित मुख, लावण्य, सुवेष, कोकिल कण्ठ—यी सबै वारयोषाहरूका विशेषता हुन्। 'दैन्यं धुनोतु'—दुःख हटाउन्। साधक देवीलाई वारयोषाहरूको नृत्य अर्पण गरेर उनको दुःख हटाउँछ। यो श्लोकमा साधकको कला-प्रेम र देवीको आनन्द प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers the dance of courtesans to the Goddess. Bees, braids, smiling face, beauty, attire, cuckoo-voice — all these are qualities of the courtesans. 'Dainyaṃ dhunotu' — may they remove sorrow. The practitioner offers the dance of courtesans to the Goddess, removing her sorrow. This verse reveals the practitioner's love for art and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja055.wav"
+        },
+        {
+          "id": "manasapuja-56",
+          "number": 56,
+          "sanskrit": "डमरुडिण्डिमजर्झरझल्लरीमृदुरवद्रगडद्दरगडादयः। झटिति झाङ्कृतझाङ्कृतझाङ्कृतैर्बहुदयं हृदयं सुखयन्तु ते॥५६॥",
+          "iast": "ḍamaruḍiṇḍimajarjharajhallarīmṛduravadragaḍaddaragaḍādayaḥ | jhaṭiti jhāṅkṛtajhāṅkṛtajhāṅkṛtairbahudayaṃ hṛdayaṃ sukhayantu te ||56||",
+          "meaning": {
+            "ne": "डमरु, डिण्डिम, झर्झर, झल्लरी, मृदुरव, द्रगड, दरगड आदि वाद्यहरू तुरन्त झाङ्कृत, झाङ्कृत, झाङ्कृत नादले हे देवि, तपाईंको बहुदय हृदयलाई सुखी गरून्।",
+            "en": "O Goddess, may the ḍamaru, ḍiṇḍima, jharjhara, jhallarī, and the soft sounds of dragad, daragad and other instruments, with their sudden jhāṅkṛta, jhāṅkṛta, jhāṅkṛta sounds, delight Your greatly compassionate heart."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई वाद्यहरू अर्पण गर्छ। डमरु, डिण्डिम, झर्झर, झल्लरी, मृदुरव, द्रगड, दरगड—यी सबै वाद्य हुन्। 'झाङ्कृत'—झाङ्कृत नाद। 'बहुदयम्'—बहुदय। साधक देवीलाई वाद्यहरू अर्पण गरेर उनको आनन्द गर्छ। यो श्लोकमा साधकको संगीत-प्रेम र देवीको आनन्द प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers musical instruments to the Goddess. Ḍamaru, ḍiṇḍima, jharjhara, jhallarī, soft sounds, dragad, daragad — all these are instruments. 'Jhāṅkṛta' — the sound jhāṅkṛta. 'Bahudayam' — greatly compassionate. The practitioner offers instruments to the Goddess, delighting her. This verse reveals the practitioner's love for music and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja056.wav"
+        },
+        {
+          "id": "manasapuja-57",
+          "number": 57,
+          "sanskrit": "विपञ्चीषु सप्तस्वरान्वादयन्त्यस्तव द्वारि गायन्ति गन्धर्वकन्याः। क्षणं सावधानेन चित्तेन मातः समाकर्णय त्वं मया प्रार्थितासि॥५७॥",
+          "iast": "vipañcīṣu saptasvarānvādayantyastava dvāri gāyanti gandharvakanyāḥ | kṣaṇaṃ sāvadhānena cittena mātaḥ samākarṇaya tvaṃ mayā prārthitāsi ||57||",
+          "meaning": {
+            "ne": "वीणामा सप्त स्वरहरू बजाउँदै तपाईंको द्वारमा गन्धर्वकन्याहरू गाउँछन्। हे माता, क्षणभर सावधान चित्तले सुन्नुहोस्—तपाईंलाई मैले प्रार्थना गरेको छु।",
+            "en": "The Gandharva maidens play the seven notes on their vīṇās and sing at Your door. O Mother, listen for a moment with an attentive mind — You are being prayed to by me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई गन्धर्वकन्याहरूको गायन अर्पण गर्छ। वीणा, सप्त स्वर, गन्धर्वकन्या—यी सबै गायनका सामग्री हुन्। 'सावधानेन चित्तेन'—सावधान चित्तले। साधक देवीलाई गायन अर्पण गरेर उनको आनन्द गर्छ। यो श्लोकमा साधकको संगीत-प्रेम र देवीको आनन्द प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers the singing of Gandharva maidens to the Goddess. Vīṇā, seven notes, Gandharva maidens — all these are materials for singing. 'Sāvadhānena cittena' — with an attentive mind. The practitioner offers singing to the Goddess, delighting her. This verse reveals the practitioner's love for music and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja057.wav"
+        },
+        {
+          "id": "manasapuja-58",
+          "number": 58,
+          "sanskrit": "अभिनयकमनीयैर्नर्तनैर्नर्तकीनां क्षणमपि रमयित्वा चेत एतत्त्वदीयम्। स्वयमहमतिचित्रैर्नृत्तवादित्रगीतैर्भगवति भवदीयं मानसं रञ्जयामि॥५८॥",
+          "iast": "abhinayakamanīyairnartanairnartakīnāṃ kṣaṇamapi ramayitvā ceta etattvadīyam | svayamahamaticitrairnṛttavāditragītairbhagavati bhavadīyaṃ mānasaṃ rañjayāmi ||58||",
+          "meaning": {
+            "ne": "नर्तकीहरूको अभिनयकमनीय नृत्यले क्षणभर पनि तपाईंको चित्तलाई रमाएर, हे भगवति, मैले आफैं अत्यन्त विचित्र नृत्य, वादित्र र गीतले तपाईंको मानसलाई रञ्जन गर्दछु।",
+            "en": "O Goddess, having delighted Your mind for a moment with the charming dance and gestures of the dancers, I myself delight Your mind with extremely wonderful dance, instrumental music and song."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई नृत्य, वादित्र र गीत अर्पण गर्छ। नर्तकी, अभिनय, नृत्य, वादित्र, गीत—यी सबै कलाका सामग्री हुन्। 'मानसं रञ्जयामि'—मानसलाई रञ्जन गर्दछु। साधक देवीलाई कला अर्पण गरेर उनको मन रञ्जन गर्छ। यो श्लोकमा साधकको कला-प्रेम र देवीको आनन्द प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers dance, instrumental music and song to the Goddess. Dancers, gestures, dance, instruments, song — all these are materials of art. 'Mānasaṃ rañjayāmi' — I delight the mind. The practitioner offers art to the Goddess, delighting her mind. This verse reveals the practitioner's love for art and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja058.wav"
+        },
+        {
+          "id": "manasapuja-59",
+          "number": 59,
+          "sanskrit": "तव देवि गुणानुवर्णने चतुरा नो चतुराननादयः। तदिहैकमुखेषु जन्तुषु स्तवनं कस्तव कर्तुमीश्वरः॥५९॥",
+          "iast": "tava devi guṇānuvarṇane caturā no caturānanādayaḥ | tadihaikamukheṣu jantuṣu stavanaṃ kastava kartumīśvaraḥ ||59||",
+          "meaning": {
+            "ne": "हे देवि, तपाईंको गुणहरूको वर्णनमा ब्रह्मादि देवताहरू पनि समर्थ छैनन्। त्यसैले यहाँ एक मुख भएका प्राणीहरूमा तपाईंको स्तवन गर्न को समर्थ छ?",
+            "en": "O Goddess, even Brahmā and the other gods are not capable of describing Your qualities. Therefore, among the beings here with one mouth, who is capable of praising You?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीको गुणहरूको वर्णन गर्न असमर्थता स्वीकार गर्छ। चतुरानन (ब्रह्मा) आदि देवताहरू पनि देवीको गुण वर्णन गर्न समर्थ छैनन्। 'एकमुखेषु जन्तुषु'—एक मुख भएका प्राणीहरूमा। साधक आफ्नो असमर्थता स्वीकार गर्छ। यो श्लोकमा साधकको विनम्रता र देवीको गुणको अनन्तता प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner admits his inability to describe the Goddess's qualities. Even Brahmā and the other gods are not capable of describing the Goddess's qualities. 'Ekamukheṣu jantuṣu' — among beings with one mouth. The practitioner admits his inability. This verse reveals the practitioner's humility and the infiniteness of the Goddess's qualities."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja059.wav"
+        },
+        {
+          "id": "manasapuja-60",
+          "number": 60,
+          "sanskrit": "पदे पदे यत्परिपूजकेभ्यः सद्योऽश्वमेधादिफलं ददाति। तत्सर्वपापक्षयहेतुभूतं प्रदक्षिणं ते परितः करोमि॥६०॥",
+          "iast": "pade pade yatparipūjakebhyaḥ sadyo'śvamedhādiphalaṃ dadāti | tatsarvapāpakṣayahetubhūtaṃ pradakṣiṇaṃ te paritaḥ karomi ||60||",
+          "meaning": {
+            "ne": "प्रत्येक पाइलामा जसले पूजकहरूलाई तुरन्त अश्वमेधादिको फल दिन्छ, जो सबै पापको क्षयको हेतु हो—त्यो तपाईंको प्रदक्षिण मैले सबैतिरबाट गर्दछु।",
+            "en": "I circumambulate You on all sides — that pradakṣiṇā which at every step immediately grants the fruit of Aśvamedha and other sacrifices to the worshippers, and which is the cause of the destruction of all sins."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई प्रदक्षिण गर्छ। अश्वमेधादिको फल, सबै पापको क्षय—यी प्रदक्षिणाका फल हुन्। 'परितः'—सबैतिरबाट। साधक देवीलाई प्रदक्षिण गरेर उनको पूजा गर्छ। यो श्लोकमा साधकको भक्ति-भाव र देवीको प्रदक्षिणा-महिमा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner circumambulates the Goddess. The fruit of Aśvamedha, destruction of all sins — these are the fruits of pradakṣiṇā. 'Paritaḥ' — on all sides. The practitioner circumambulates the Goddess, worshipping her. This verse reveals the practitioner's devotion and the greatness of the Goddess's pradakṣiṇā."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja060.wav"
+        },
+        {
+          "id": "manasapuja-61",
+          "number": 61,
+          "sanskrit": "रक्तोत्पलारक्तलताप्रभाभ्यां ध्वजोर्ध्वरेखाकुलिशाङ्किताभ्याम्। अशेषबृन्दारकवन्दिताभ्यां नमो भवानीपदपङ्कजाभ्याम्॥६१॥",
+          "iast": "raktotpalāraktalatāprabhābhyāṃ dhvajordhvarekhākuliśāṅkitābhyām | aśeṣabṛndārakavanditābhyāṃ namo bhavānīpadapaṅkajābhyām ||61||",
+          "meaning": {
+            "ne": "रक्त कमल र रक्त लताको प्रभा भएका, ध्वज, ऊर्ध्वरेखा र कुलिशले अङ्कित, सम्पूर्ण देवताहरूले वन्दित भवानीका चरणकमलहरूलाई नमस्कार।",
+            "en": "Salutations to the lotus feet of Bhavānī, radiant like red lotuses and red vines, marked with the banner, the upward line and the thunderbolt, worshipped by all the gods."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीका चरणकमलहरूलाई नमस्कार गर्छ। रक्त कमल, रक्त लता, ध्वज, ऊर्ध्वरेखा, कुलिश—यी सबै चरणका चिह्न हुन्। 'अशेषबृन्दारकवन्दिताभ्याम्'—सम्पूर्ण देवताहरूले वन्दित। साधक देवीका चरणकमलहरूलाई नमस्कार गर्छ। यो श्लोकमा साधकको भक्ति-भाव र देवीको चरण-महिमा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner salutes the Goddess's lotus feet. Red lotuses, red vines, banner, upward line, thunderbolt — all these are marks on the feet. 'Aśeṣabṛndārakavanditābhyām' — worshipped by all the gods. The practitioner salutes the Goddess's lotus feet. This verse reveals the practitioner's devotion and the greatness of the Goddess's feet."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja061.wav"
+        },
+        {
+          "id": "manasapuja-62",
+          "number": 62,
+          "sanskrit": "चरणनलिनयुग्मं पङ्कजैः पूजयित्वा कनककमलमालां कण्ठदेशेऽर्पयित्वा। शिरसि विनिहितोऽयं रत्नपुष्पाञ्जलिस्ते हृदयकमलमध्ये देवि हर्षं तनोतु॥६२॥",
+          "iast": "caraṇanalinayugmaṃ paṅkajaiḥ pūjayitvā kanakakamalamālāṃ kaṇṭhadeśe'rpayitvā | śirasi vinihito'yaṃ ratnapuṣpāñjaliste hṛdayakamalamadhye devi harṣaṃ tanotu ||62||",
+          "meaning": {
+            "ne": "कमलहरूले चरणकमलयुग्मको पूजा गरी, सुनको कमलमाला कण्ठदेशमा अर्पण गरी, शिरमा राखिएको यो रत्नपुष्पाञ्जलि हे देवि, तपाईंको हृदयकमलको मध्यमा हर्ष उत्पन्न गरोस्।",
+            "en": "Having worshipped Your pair of lotus feet with lotuses, having offered a golden lotus garland at Your neck, may this handful of jewel-flowers placed on Your head, O Goddess, create joy in the centre of the lotus of Your heart."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई चरणपूजा, कमलमाला र रत्नपुष्पाञ्जलि अर्पण गर्छ। कमल, सुनको कमलमाला, रत्नपुष्प—यी सबै पुष्पाञ्जलिका सामग्री हुन्। 'हृदयकमलमध्ये'—हृदयकमलको मध्यमा। 'हर्षम्'—हर्ष। साधक देवीलाई पुष्पाञ्जलि अर्पण गरेर उनको हृदयमा हर्ष उत्पन्न गर्छ। यो श्लोकमा साधकको भक्ति-भाव र देवीको हर्ष प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers foot-worship, a lotus garland and a handful of jewel-flowers to the Goddess. Lotuses, golden lotus garland, jewel-flowers — all these are materials for puṣpāñjali. 'Hṛdayakamalamadhye' — in the centre of the lotus of the heart. 'Harṣam' — joy. The practitioner offers puṣpāñjali to the Goddess, creating joy in her heart. This verse reveals the practitioner's devotion and the Goddess's joy."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja062.wav"
+        },
+        {
+          "id": "manasapuja-63",
+          "number": 63,
+          "sanskrit": "अथ मणिमयमञ्चकाभिरामे कनकमयवितानराजमाने। प्रसरदगरुधूपधूपितेऽस्मिन्भगवति भवनेऽस्तु ते निवासः॥६३॥",
+          "iast": "atha maṇimayamañcakābhirāme kanakamayavitānarājamāne | prasaradagarudhūpadhūpite'sminbhagavati bhavane'stu te nivāsaḥ ||63||",
+          "meaning": {
+            "ne": "अब मणिमय मञ्चकले अभिराम, सुनको वितानले राजमान, प्रसरित अगरु धूपले धूपित यो भवनमा हे भगवति, तपाईंको निवास होस्।",
+            "en": "O Goddess, may Your dwelling be in this house — beautiful with a jewelled couch, resplendent with a golden canopy, perfumed with spreading agaru incense."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई भवन अर्पण गर्छ। मणिमय मञ्चक, सुनको वितान, अगरु धूप—यी सबै भवनका अलंकार हुन्। 'ते निवासः'—तपाईंको निवास। साधक देवीलाई भवन अर्पण गरेर उनको निवासको व्यवस्था गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको निवास-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a house to the Goddess. Jewelled couch, golden canopy, agaru incense — all these are ornaments of the house. 'Te nivāsaḥ' — Your dwelling. The practitioner offers a house to the Goddess, arranging her dwelling. This verse reveals the practitioner's attitude of service and the Goddess's dwelling-form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja063.wav"
+        },
+        {
+          "id": "manasapuja-64",
+          "number": 64,
+          "sanskrit": "एतस्मिन्मणिखचिते सुवर्णपीठे त्रैलोक्याभयवरदौ निधाय हस्तौ। विस्तीर्णे मृदुलतरोत्तरच्छदेऽस्मिन्पर्यङ्के कनकमये निषीद मातः॥६४॥",
+          "iast": "etasminmaṇikhacite suvarṇapīṭhe trailokyābhayavaradau nidhāya hastau | vistīrṇe mṛdulatarottaracchade'sminparyaṅke kanakamaye niṣīda mātaḥ ||64||",
+          "meaning": {
+            "ne": "यस मणिखचित सुवर्णपीठमा, त्रैलोक्यको अभय र वर दिने हातहरू राखी, विस्तीर्ण, अत्यन्त कोमल उत्तरच्छद भएको, सुनको पलंगमा हे माता, विराजमान हुनुहोस्।",
+            "en": "O Mother, placing Your hands that grant fearlessness and boons to the three worlds on this jewelled golden seat, be seated on this golden couch, vast and with a very soft upper cover."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई पलंग अर्पण गर्छ। मणिखचित सुवर्णपीठ, अभय-वर मुद्रा, विस्तीर्ण उत्तरच्छद, सुनको पलंग—यी सबै पलंगका अलंकार हुन्। 'निषीद'—विराजमान हुनुहोस्। साधक देवीलाई पलंग अर्पण गरेर उनको विश्रामको व्यवस्था गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको विश्राम-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a couch to the Goddess. Jewelled golden seat, fearlessness and boon gestures, vast upper cover, golden couch — all these are ornaments of the couch. 'Niṣīda' — be seated. The practitioner offers a couch to the Goddess, arranging her rest. This verse reveals the practitioner's attitude of service and the Goddess's resting form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja064.wav"
+        },
+        {
+          "id": "manasapuja-65",
+          "number": 65,
+          "sanskrit": "तव देवि सरोजचिह्नयोः पदयोर्निर्जितपद्मरागयोः। अतिरक्ततरैरलक्तकैः पुनरुक्ताङ्घ्रिरचयामि रक्तताम्॥६५॥",
+          "iast": "tava devi sarojacihnayoḥ padayornirjitapadmarāgayoḥ | atiraktatarairalaktakaiḥ punaruktāṅghriracayāmi raktatām ||65||",
+          "meaning": {
+            "ne": "हे देवि, कमलको चिह्न भएका, पद्मरागलाई जित्ने तपाईंका चरणहरूको अत्यन्त रक्त अलक्तक (लाह) ले पुनः रक्तता गर्दछु।",
+            "en": "O Goddess, with extremely red alaktaka (lac), I again make red the redness of Your feet, which bear lotus marks and defeat the ruby."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीका चरणहरूलाई अलक्तक अर्पण गर्छ। कमलको चिह्न, पद्मराग, अलक्तक—यी सबै चरणका अलंकार हुन्। 'रक्तताम्'—रक्तता। साधक देवीका चरणहरूलाई अलक्तक अर्पण गरेर उनको शृंगार गर्छ। यो श्लोकमा साधकको सौन्दर्य-प्रेम र देवीको चरण-शृंगार प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers alaktaka (lac) to the Goddess's feet. Lotus marks, ruby, alaktaka — all these are ornaments of the feet. 'Raktatām' — redness. The practitioner offers alaktaka to the Goddess's feet, adorning them. This verse reveals the practitioner's love for beauty and the Goddess's foot-adornment."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja065.wav"
+        },
+        {
+          "id": "manasapuja-66",
+          "number": 66,
+          "sanskrit": "अथ मातरुशीरवासितं निजताम्बूलरसेन रञ्जितम्। तपनीयमये हि पट्टके मुखगण्डूषजलं विधीयताम्॥६६॥",
+          "iast": "atha mātaruśīravāsitaṃ nijatāmbūlarasena rañjitam | tapanīyamaye hi paṭṭake mukhagaṇḍūṣajalaṃ vidhīyatām ||66||",
+          "meaning": {
+            "ne": "अब हे माता, उशीरले वासित, आफ्नै ताम्बूल रसले रञ्जित, सुनको पट्टकमा मुखगण्डूषजल (मुख कुल्ला) गरिनुहोस्।",
+            "en": "Now, O Mother, let the mouth-rinsing water, scented with uśīra and coloured with the juice of Your own tāmbūla, be offered in a golden tray."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई मुखगण्डूषजल अर्पण गर्छ। उशीर, ताम्बूल रस, सुनको पट्टक—यी सबै मुखगण्डूषका सामग्री हुन्। 'विधीयताम्'—गरिनुहोस्। साधक देवीलाई मुखगण्डूषजल अर्पण गरेर उनको मुख शुद्ध गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको मुख-शुद्धि प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers mouth-rinsing water to the Goddess. Uśīra, tāmbūla juice, golden tray — all these are materials for mouth-rinsing. 'Vidhīyatām' — let it be done. The practitioner offers mouth-rinsing water to the Goddess, purifying her mouth. This verse reveals the practitioner's attitude of service and the Goddess's mouth-purification."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja066.wav"
+        },
+        {
+          "id": "manasapuja-67",
+          "number": 67,
+          "sanskrit": "क्षणमथ जगदम्ब मञ्चकेऽस्मिन्मृदुतलतूलिकया विराजमाने। अतिरहसि मुदा शिवेन सार्धं सुखशयनं कुरु तत्र मां स्मरन्ती॥६७॥",
+          "iast": "kṣaṇamatha jagadamba mañcake'sminmṛdutalatūlikayā virājamāne | atirahasi mudā śivena sārdhaṃ sukhaśayanaṃ kuru tatra māṃ smarantī ||67||",
+          "meaning": {
+            "ne": "क्षणभर हे जगदम्बा, कोमल तल तूलिकाले विराजमान यो मञ्चकमा, अत्यन्त रहस (एकान्त) मा आनन्दसहित शिवसँग सुखशयन गर्नुहोस्, त्यहाँ मलाई स्मरण गर्दै।",
+            "en": "For a moment, O Mother of the World, on this couch graced with a soft mattress, in deep privacy, joyfully lie down with Śiva, remembering me there."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीलाई शयन अर्पण गर्छ। कोमल तूलिका, मञ्चक, रहस, शिव—यी सबै शयनका सामग्री हुन्। 'मां स्मरन्ती'—मलाई स्मरण गर्दै। साधक देवीलाई शयन अर्पण गरेर उनको विश्रामको व्यवस्था गर्छ। यो श्लोकमा साधकको सेवा-भाव र देवीको विश्राम-स्वरूप प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner offers a bed to the Goddess. Soft mattress, couch, privacy, Śiva — all these are materials for sleeping. 'Māṃ smarantī' — remembering me. The practitioner offers a bed to the Goddess, arranging her rest. This verse reveals the practitioner's attitude of service and the Goddess's resting form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja067.wav"
+        },
+        {
+          "id": "manasapuja-68",
+          "number": 68,
+          "sanskrit": "मुक्ताकुन्देन्दुगौरां मणिमयमकुटां रत्नताटङ्कयुक्तामक्षस्रक्पुष्पहस्तामभयवरकरां चन्द्रचूडां त्रिनेत्राम्। नानालंकारयुक्तां सुरमकुटमणिद्योतितस्वर्णपीठां सानन्दां सुप्रसन्नां त्रिभुवनजननीं चेतसा चिन्तयामि॥६८॥",
+          "iast": "muktākundendugaurāṃ maṇimayamakuṭāṃ ratnatāṭaṅkayuktāmakṣasrakpuṣpahastāmabhayavarakarāṃ candracūḍāṃ trinetrām | nānālaṅkārayuktāṃ suramakuṭamaṇidyotitasvarṇapīṭhāṃ sānandāṃ suprasannāṃ tribhuvanajaninīṃ cetasā cintayāmi ||68||",
+          "meaning": {
+            "ne": "मुक्ता, कुन्द र चन्द्रमा झैं गौर वर्णकी, मणिमय मुकुट धारण गर्ने, रत्नका ताटङ्क लगाउने, हातमा अक्षमाला र पुष्प धारण गर्ने, अभय र वर मुद्रा दिने, चन्द्रचूडा, त्रिनेत्री, नाना अलंकारले युक्त, देवताहरूका मुकुटका मणिले दीप्तिमान स्वर्ण पीठमा विराजमान, आनन्दयुक्त, अत्यन्त प्रसन्न, त्रिभुवनकी जननी देवीलाई म मनले चिन्तन गर्दछु।",
+            "en": "I contemplate with my mind the Mother of the three worlds — white as pearl, jasmine and moon, wearing a crown of jewels, adorned with gem-studded earrings, holding a rosary and flowers in her hands, granting fearlessness and boons, crowned with the moon, three-eyed, adorned with various ornaments, seated on a golden throne radiant with the gems of the gods' crowns, joyful, supremely pleased."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ध्यान श्लोकको पुनरावृत्ति हो। यसले देवीको दिव्य स्वरूपलाई पुनः प्रस्तुत गर्छ। मुक्ता, कुन्द, चन्द्र, मणिमय मुकुट, रत्नताटङ्क, अक्षमाला, पुष्प, अभय-वर मुद्रा, त्रिनेत्र, स्वर्ण पीठ—यी सबै देवीका दिव्य लक्षण हुन्। साधक देवीलाई मनले चिन्तन गर्छ। यो श्लोकमा साधकको ध्यान-भाव र देवीको दिव्य स्वरूप प्रकट हुन्छ।",
+            "en": "This verse is a repetition of the dhyāna verse. It again presents the divine form of the Goddess. Pearl, jasmine, moon, jewelled crown, gem earrings, rosary, flowers, fearlessness and boon gestures, three eyes, golden throne — all these are divine characteristics of the Goddess. The practitioner contemplates the Goddess with his mind. This verse reveals the practitioner's meditative attitude and the Goddess's divine form."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja068.wav"
+        },
+        {
+          "id": "manasapuja-69",
+          "number": 69,
+          "sanskrit": "एषा भक्त्या तव विरचिता या मया देवि पूजा स्वीकृत्यैनां सपदि सकलान्मेऽपराधान्क्षमस्व। न्यूनं यत्तत्तव करुणया पूर्णतामेतु सद्यः सानन्दं मे हृदयकमले तेऽस्तु नित्यं निवासः॥६९॥",
+          "iast": "eṣā bhaktyā tava viracitā yā mayā devi pūjā svīkṛtyaināṃ sapadi sakalānme'parādhānkṣamasva | nyūnaṃ yattattava karuṇayā pūrṇatāmetu sadyaḥ sānandaṃ me hṛdayakamale te'stu nityaṃ nivāsaḥ ||69||",
+          "meaning": {
+            "ne": "हे देवि, मैले भक्तिपूर्वक तपाईंको जो यो पूजा गरेको छु, त्यसलाई स्वीकार गरी, तुरन्त मेरा सम्पूर्ण अपराधहरू क्षमा गर्नुहोस्। जे न्यून छ, त्यो तपाईंको करुणाले तुरन्त पूर्ण होस्। हे देवि, तपाईंको आनन्दसहित मेरो हृदयकमलमा नित्य निवास होस्।",
+            "en": "O Goddess, accept this worship which I have performed with devotion, and immediately forgive all my offences. Whatever is deficient, may that quickly become complete by Your compassion. O Goddess, may Your dwelling be forever in the lotus of my heart, with joy."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीसमक्ष क्षमा र हृदयमा निवासको प्रार्थना गर्छ। 'सकलान् अपराधान् क्षमस्व'—सम्पूर्ण अपराध क्षमा गर्नुहोस्। 'न्यूनम्'—न्यून। 'पूर्णताम्'—पूर्णता। 'हृदयकमले नित्यं निवासः'—हृदयकमलमा नित्य निवास। साधक देवीलाई क्षमा र हृदयमा निवासको प्रार्थना गर्छ। यो श्लोकमा साधकको विनम्रता र देवीको करुणा प्रकट हुन्छ।",
+            "en": "In this verse, the practitioner prays to the Goddess for forgiveness and dwelling in his heart. 'Sakalān aparādhān kṣamasva' — forgive all offences. 'Nyūnam' — deficient. 'Pūrṇatām' — completeness. 'Hṛdayakamale nityaṃ nivāsaḥ' — eternal dwelling in the lotus of the heart. The practitioner prays to the Goddess for forgiveness and dwelling in his heart. This verse reveals the practitioner's humility and the Goddess's compassion."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja069.wav"
+        },
+        {
+          "id": "manasapuja-70",
+          "number": 70,
+          "sanskrit": "पूजामिमां यः पठति प्रभाते मध्याह्नकाले यदि वा प्रदोषे। धर्मार्थकामान्पुरुषोऽभ्युपैति देहावसाने शिवभावमेति॥७०॥",
+          "iast": "pūjāmimāṃ yaḥ paṭhati prabhāte madhyāhnakāle yadi vā pradoṣe | dharmārthakāmānpuruṣo'bhyupaiti dehāvasāne śivabhāvameti ||70||",
+          "meaning": {
+            "ne": "जो पुरुष यो पूजालाई प्रभातमा, मध्याह्नमा वा प्रदोषमा पाठ गर्छ, उसले धर्म, अर्थ र काम प्राप्त गर्छ र देहावसानमा शिवभाव (मोक्ष) प्राप्त गर्छ।",
+            "en": "The person who recites this worship at dawn, at noon or in the evening attains dharma, artha and kāma, and at the end of the body attains Śiva-bhāva (liberation)."
+          },
+          "commentary": {
+            "ne": "यो फलश्रुति श्लोक हो। 'प्रभाते'—प्रभातमा। 'मध्याह्नकाले'—मध्याह्नमा। 'प्रदोषे'—प्रदोषमा। 'धर्मार्थकामान्'—धर्म, अर्थ र काम। 'शिवभावम्'—शिवभाव (मोक्ष)। साधकलाई यो पूजाको पाठले धर्म, अर्थ, काम र मोक्ष प्रदान गर्छ। यो श्लोकमा स्तोत्रको फलश्रुति प्रकट हुन्छ।",
+            "en": "This is the phala-śruti verse. 'Prabhāte' — at dawn. 'Madhyāhnakāle' — at noon. 'Pradoṣe' — in the evening. 'Dharmārthakāmān' — dharma, artha and kāma. 'Śivabhāvam' — Śiva-bhāva (liberation). The recitation of this worship grants the practitioner dharma, artha, kāma and mokṣa. This verse reveals the phala-śruti of the stotra."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja070.wav"
+        },
+        {
+          "id": "manasapuja-71",
+          "number": 71,
+          "sanskrit": "पूजामिमां पठेन्नित्यं पूजां कर्तुमनीश्वरः। पूजाफलमवाप्नोति वाञ्छितार्थं च विन्दति॥७१॥",
+          "iast": "pūjāmimāṃ paṭhennityaṃ pūjāṃ kartumanīśvaraḥ | pūjāphalamavāpnoti vāñchitārthaṃ ca vindati ||71||",
+          "meaning": {
+            "ne": "जो पूजा गर्न असमर्थ छ, उसले नित्य यो पूजाको पाठ गर्नुपर्छ। उसले पूजाको फल प्राप्त गर्छ र वाञ्छित अर्थ पनि पाउँछ।",
+            "en": "One who is unable to perform the worship should recite this worship daily. He obtains the fruit of the worship and also attains his desired goal."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधकलाई पूजा गर्न असमर्थ भए पनि पाठ गर्न प्रोत्साहित गरिन्छ। 'अनीश्वरः'—असमर्थ। 'पूजाफलम्'—पूजाको फल। 'वाञ्छितार्थम्'—वाञ्छित अर्थ। यो पूजाको पाठले पूजाको फल र वाञ्छित अर्थ प्रदान गर्छ। यो श्लोकमा स्तोत्रको सुलभतालाई जोड दिइन्छ।",
+            "en": "In this verse, the practitioner is encouraged to recite the worship even if unable to perform it. 'Anīśvaraḥ' — unable. 'Pūjāphalam' — fruit of worship. 'Vāñchitārtham' — desired goal. The recitation of this worship grants the fruit of worship and the desired goal. This verse emphasises the accessibility of the stotra."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja071.wav"
+        },
+        {
+          "id": "manasapuja-72",
+          "number": 72,
+          "sanskrit": "प्रत्यहं भक्तिसंयुक्तो यः पूजनमिदं पठेत्। वाग्वादिन्याः प्रसादेन बत्सरात्स कविर्भवेत्॥७२॥",
+          "iast": "pratyahaṃ bhaktisaṃyukto yaḥ pūjanamidaṃ paṭhet | vāgvādinyāḥ prasādena batsarātsa kavirbhavet ||72||",
+          "meaning": {
+            "ne": "जो प्रतिदिन भक्तिसहित यो पूजनको पाठ गर्छ, वाग्वादिनी (सरस्वती) को प्रसादले एक वर्षमा उनी कवि हुन्छन्।",
+            "en": "One who recites this worship daily with devotion becomes a poet within a year by the grace of Vāgvādinī (Sarasvatī)."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। 'प्रत्यहम्'—प्रतिदिन। 'भक्तिसंयुक्तः'—भक्तिसहित। 'वाग्वादिन्याः'—वाग्वादिनी (सरस्वती)। 'कविः'—कवि। साधकलाई एक वर्षमा कवित्व प्राप्त हुन्छ। यो श्लोकमा स्तोत्रको फलश्रुति र सरस्वतीको कृपा प्रकट हुन्छ।",
+            "en": "This is the final verse. 'Pratyaham' — daily. 'Bhaktisaṃyuktaḥ' — with devotion. 'Vāgvādinyāḥ' — Vāgvādinī (Sarasvatī). 'Kaviḥ' — poet. The practitioner attains poetic ability within a year. This verse reveals the phala-śruti of the stotra and the grace of Sarasvatī."
+          },
+          "audio": "audio/devi-mahatmya/devi-manasapuja/verses/manasapuja072.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "देवीमानसपूजाको सम्पूर्ण प्रवाहलाई हेर्दा मानसिक पूजाको महिमा, चौसठ्ठी उपचारहरूको वर्णन, देवीको दिव्य स्वरूप, साधकको भक्ति-भाव र फलश्रुति देखिन्छ।\n\nसुरुवाती श्लोकहरूमा साधक देवीलाई जगाएर, मणिमय मण्डपमा निमन्त्रणा दिएर, सिंहासनमा विराजमान गराएर पूजाको प्रारम्भ गर्छ। त्यसपछि पाद्य, अर्घ्य, आचमन, मधुपर्क, स्नान, वस्त्र, आभूषण, गन्ध, पुष्प, धूप, दीप, नैवेद्य, ताम्बूल, आरार्तिक, छत्र, चामर, दर्पण, वाहन, सेना, दुर्ग, नृत्य, गीत र शयन आदि सबै उपचारहरू अर्पण गरिन्छ।\n\nमध्य श्लोकहरूमा साधक देवीलाई नानाविध सामग्रीहरू अर्पण गर्छ—जसले देवीको सर्वाङ्गीण पूजा र साधकको भक्ति-भावलाई प्रकट गर्छ। अन्तिम श्लोकहरूमा साधक देवीको गुणको वर्णन गर्न असमर्थता स्वीकार गर्छ, प्रदक्षिणा गर्छ, चरणकमलहरूलाई नमस्कार गर्छ, पुष्पाञ्जलि अर्पण गर्छ र हृदयमा निवासको प्रार्थना गर्छ।\n\nयस स्तोत्रलाई तीन तहमा पढ्न सकिन्छ: सेवा, समर्पण र स्मरण। सेवामा साधक देवीलाई नानाविध सामग्रीहरू अर्पण गर्छ, समर्पणमा आफ्नो असमर्थता स्वीकार गर्छ, र स्मरणमा देवीलाई हृदयमा निवास गराउँछ। यी तीन तह मिलेर यो स्तोत्र आत्म-रूपान्तरणको साधन बन्छ।",
+      "en": "Read as a whole, Devī Mānasapūjā presents the greatness of mental worship, the description of sixty-four offerings, the divine form of the Goddess, the practitioner's devotion and the phala-śruti.\n\nIn the opening verses, the practitioner awakens the Goddess, invites her to the jewelled hall, seats her on the throne and begins the worship. Then pādya, arghya, ācamana, madhuparka, bathing, clothes, ornaments, fragrance, flowers, incense, lamp, food, tāmbūla, ārātrika, umbrella, chowries, mirror, vehicles, armies, fortress, dance, music and bed — all these offerings are made.\n\nIn the middle verses, the practitioner offers various materials to the Goddess — revealing the Goddess's complete worship and the practitioner's devotion. In the final verses, the practitioner admits his inability to describe the Goddess's qualities, circumambulates her, salutes her lotus feet, offers puṣpāñjali and prays for dwelling in his heart.\n\nThe stotra can be studied through three layers: service, surrender and remembrance. In service, the practitioner offers various materials to the Goddess; in surrender, he admits his inability; and in remembrance, he establishes the Goddess in his heart. Together, these three layers make this stotra a means of self-transformation."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "देवीमानसपूजाको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी देवीमानसपूजाको अध्ययन केवल ७२ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Devī Mānasapūjā, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Devī Mānasapūjā does not end simply with reading seventy-two verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

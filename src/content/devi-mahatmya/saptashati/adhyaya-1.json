@@ -1,0 +1,1262 @@
+{
+  "id": "adhyaya-1",
+  "title": "Adhyāya 1",
+  "sanskritTitle": "॥ प्रथमोऽध्यायः ॥",
+  "type": "chapter",
+  "collection": "saptashati",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 78,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Verse numbering follows the received Devi Saptasati recension as preserved in the Moku Darshana edition. Published recensions may differ in verse order and wording; the selected source is preserved rather than silently merged. Chapter 1 is known as Prathama Carita — the Slaying of Madhu and Kaiṭabha.",
+    "references": [
+      { "name": "Auro Bharati — Chapter I: Slaying of Madhu and Kaitabha", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/episode-1/chapter-1/" },
+      { "name": "Lulla Family — Chapter 1: The Slaying of Madhu and Kaitabha", "url": "https://lulla.net/en/devi-mahatmya/madhu-kaitabh-vadh/" },
+      { "name": "TemplePurohit — Durga Saptashati Chapter 1", "url": "https://www.templepurohit.com/durga-saptashati/durga-saptashati-chapter-1/" },
+      { "name": "Hindupedia — Devi Mahatmyam Text", "url": "https://www.hindupedia.com/en/Devi_Mahatmyam_Text" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "प्रथमचरितस्य महिमा",
+      "titleEn": "The Nature and Place of the First Episode",
+      "ne": "देवीमाहात्म्यको प्रथमोऽध्यायः प्रथमचरितका रूपमा परिचित छ। यस अध्यायमा राजा सुरथ र वैश्य समाधिको कथाबाट प्रारम्भ गरी मेधा ऋषिले महामायाको महिमा र मधु-कैटभ वधको प्रसंग सुनाउँछन्।\n\nयस अध्यायको मुख्य विषय हो—महामाया, जो सम्पूर्ण सृष्टिको आधार हुन्। राजा सुरथले आफ्नो राज्य गुमाएपछि र वैश्य समाधिले आफ्नो परिवारबाट त्यागिएपछि दुवै जना मेधा ऋषिको आश्रममा पुग्छन्। दुवैको मनमा एउटै प्रश्न छ—यो ममत्व र मोह किन छोड्दैन?\n\nमेधा ऋषिले महामायाको वर्णन गर्दै मधु र कैटभको कथा सुनाउँछन्। विष्णु योगनिद्रामा लीन हुँदा ब्रह्माजीको स्तुतिबाट महाकाली प्रकट भई विष्णुलाई जगाउँछिन् र मधु-कैटभको वध गराउँछिन्। यसरी यो अध्याय महाकालीको महिमा र महामायाको शक्तिलाई प्रकट गर्छ।",
+      "en": "The first chapter of the Devī Māhātmya is known as the Prathama Carita — the First Episode. It opens with the story of King Suratha and the Vaiśya Samādhi, and through the sage Medhas, narrates the greatness of Mahāmāyā and the slaying of Madhu and Kaiṭabha.\n\nThe central theme of this chapter is Mahāmāyā, the great illusion-power that underlies all creation. King Suratha, having lost his kingdom, and the merchant Samādhi, having been cast out by his own family, both arrive at the hermitage of Sage Medhas. Both share the same question — why does this sense of 'mine' and attachment not let go?\n\nSage Medhas describes Mahāmāyā and tells the story of Madhu and Kaiṭabha. When Viṣṇu was absorbed in Yoga-nidrā, Brahmā praised the Goddess; Mahākālī appeared, awakened Viṣṇu, and caused the destruction of Madhu and Kaiṭabha. Thus this chapter reveals the greatness of Mahākālī and the power of Mahāmāyā."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ प्रथमचरितस्य ब्रह्मा ऋषिः।\nमहाकाली देवता।\nगायत्री छन्दः।\nनन्दा शक्तिः।\nरक्तदन्तिका बीजम्।\nअग्निस्तत्त्वम्।\nऋग्वेदः स्वरूपम्।\nश्रीमहाकालीप्रीत्यर्थे प्रथमचरितजपे विनियोगः॥",
+      "iast": "oṃ prathama-caritasya brahmā ṛṣiḥ |\nmahākālī devatā |\ngāyatrī chandaḥ |\nnandā śaktiḥ |\nraktadantikā bījam |\nagnis tattvam |\nṛgvedaḥ svarūpam |\nśrī-mahākālī-prītyarthe prathama-carita-jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस प्रथमचरितका ब्रह्मा ऋषि हुन्, महाकाली देवता हुन्, गायत्री छन्द हो, नन्दा शक्ति हो, रक्तदन्तिका बीज हो, अग्नि तत्त्व हो, ऋग्वेद स्वरूप हो। श्रीमहाकालीको प्रसन्नताका लागि प्रथमचरितको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this First Episode, Brahmā is the seer (ṛṣi), Mahākālī is the presiding deity, Gāyatrī is the metre, Nandā is the power (śakti), Raktadantikā is the seed (bīja), fire is the essence (tattva), and the Ṛgveda is the form. It is recited for the pleasure of Śrī Mahākālī."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। प्रथमचरितको विनियोगले यसलाई महाकालीको उपासनासँग जोड्छ।",
+        "en": "The viniyoga is a traditional structural component placed before the main recitation. It connects the text with its ṛṣi, metre, deity and purpose. The viniyoga of the First Episode connects it with the worship of Mahākālī."
+      },
+      "audio": "audio/devi-mahatmya/adhyaya-1/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ खड्गं चक्रगदेषुचापपरिघाञ्छूलं भुशुण्डीं शिरः शङ्खं सन्दधतीं करैस्त्रिनयनां सर्वाङ्गभूषावृताम्। नीलाश्मद्युतिमास्यपाददशकां सेवे महाकालिकां यामस्तौत्स्वपिते हरौ कमलजो हन्तुं मधुं कैटभम्॥",
+      "iast": "oṃ khaḍgaṃ cakragadeṣucāpaparighāñchūlaṃ bhuśuṇḍīṃ śiraḥ śaṅkhaṃ sandadhatīṃ karaistrinayanāṃ sarvāṅgabhūṣāvṛtām | nīlāśmadyutimāsyapādadaśakāṃ seve mahākālikāṃ yāmastautsvapite harau kamalajo hantuṃ madhuṃ kaiṭabham ||",
+      "meaning": {
+        "ne": "जसले हातहरूमा खड्ग, चक्र, गदा, बाण, धनुष, परिघ, त्रिशूल, भुशुण्डी, शिर र शङ्ख धारण गर्नुहुन्छ, जो त्रिनेत्री हुनुहुन्छ, सबै अङ्गहरूमा आभूषणले सुशोभित हुनुहुन्छ, जसको दस मुख र दस चरणहरू नीलमणिको जस्तै दीप्तिमान छन्—त्यस्ती महाकालीको म सेवन गर्दछु, जसको स्तुति कमलज ब्रह्माले विष्णु सुप्त अवस्थामा हुँदा मधु र कैटभको वधका लागि गरेका थिए।",
+        "en": "I resort to Mahākālī, who has ten faces, ten legs and holds in her hands the sword, disc, mace, arrows, bow, club, spear, missile, human head and conch, who is three-eyed, adorned with ornaments on all her limbs, and luminous like a blue jewel, and whom Brahmā extolled in order to destroy Madhu and Kaiṭabha, when Viṣṇu was in mystic sleep."
+      },
+      "commentary": {
+        "ne": "यो ध्यान श्लोक महाकालीको स्वरूपको वर्णन गर्छ। दस हातहरूमा दस आयुधहरू—खड्ग, चक्र, गदा, बाण, धनुष, परिघ, त्रिशूल, भुशुण्डी, शिर र शङ्ख। त्रिनेत्री, सबै अङ्गमा आभूषणले सुशोभित, नीलमणिको जस्तै दीप्तिमान। यो ध्यानले महाकालीको वीर र दिव्य स्वरूपलाई प्रकट गर्छ।",
+        "en": "This dhyāna verse describes the form of Mahākālī. Ten arms holding ten weapons — sword, disc, mace, arrows, bow, club, spear, missile, human head and conch. Three-eyed, adorned with ornaments on all limbs, luminous like a blue jewel. This meditation reveals the heroic and divine form of Mahākālī."
+      },
+      "audio": "audio/devi-mahatmya/adhyaya-1/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "प्रथमोऽध्यायः — मधुकैटभवधः",
+      "titleEn": "Chapter 1 — The Slaying of Madhu and Kaiṭabha",
+      "items": [
+        {
+          "id": "adhyaya-1-01",
+          "number": 1,
+          "sanskrit": "ॐ ऐं मार्कण्डेय उवाच॥",
+          "iast": "oṃ aiṃ mārkaṇḍeya uvāca ||",
+          "meaning": {
+            "ne": "ॐ ऐं। मार्कण्डेयले भने:",
+            "en": "Oṁ aiṁ. Mārkaṇḍeya said:"
+          },
+          "commentary": {
+            "ne": "यो श्लोक अध्यायको प्रारम्भ हो। मार्कण्डेय ऋषिले आफ्ना शिष्यलाई कथा सुनाउन सुरु गर्छन्। 'ऐं' बीजमन्त्रले महामायाको आह्वान गर्छ।",
+            "en": "This verse begins the chapter. Sage Mārkaṇḍeya begins narrating the story to his disciple. The seed-mantra 'aiṁ' invokes Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-001.wav"
+        },
+        {
+          "id": "adhyaya-1-02",
+          "number": 2,
+          "sanskrit": "सावर्णिः सूर्यतनयो यो मनुः कथ्यतेऽष्टमः। निशामय तदुत्पत्तिं विस्तराद्गदतो मम॥ २॥",
+          "iast": "sāvarṇiḥ sūryatanayo yo manuḥ kathyate'ṣṭamaḥ | niśāmaya tadutpattiṃ vistarādgadato mama || 2||",
+          "meaning": {
+            "ne": "सावर्णि, सूर्यका पुत्र, जो आठौं मनु भनिन्छन्—मैले विस्तारै भनिरहेको उनको उत्पत्ति सुन्नुहोस्।",
+            "en": "Sāvarṇi, son of Sūrya, is said to be the eighth Manu. Hear from me about his birth, while I narrate in detail."
+          },
+          "commentary": {
+            "ne": "सावर्णि सूर्यका पुत्र हुन् र आठौं मनु हुन्। मनु शब्दको अर्थ 'मनन गर्ने' हो—मानव जातिको मानसिक देवता। ऋषि मार्कण्डेयले सावर्णिको उत्पत्तिको कथा सुनाउन सुरु गर्छन्।",
+            "en": "Sāvarṇi is the son of Sūrya and the eighth Manu. The word Manu means 'the one who thinks' — the mental demi-god of humanity. Sage Mārkaṇḍeya begins to narrate the story of Sāvarṇi's origin."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-002.wav"
+        },
+        {
+          "id": "adhyaya-1-03",
+          "number": 3,
+          "sanskrit": "महामायानुभावेन यथा मन्वन्तराधिपः। स बभूव महाभागः सावर्णिस्तनयो रवेः॥ ३॥",
+          "iast": "mahāmāyānubhāvena yathā manvantarādhipaḥ | sa babhūva mahābhāgaḥ sāvarṇistanayo raveḥ || 3||",
+          "meaning": {
+            "ne": "महामायाको प्रभावले कसरी महाभाग्यशाली सावर्णि, रविका पुत्र, मन्वन्तरका अधिपति भए।",
+            "en": "Hear how that illustrious Sāvarṇi, the son of Ravi, became the lord of a Manvantara through the influence of Mahāmāyā."
+          },
+          "commentary": {
+            "ne": "महामायाको प्रभावले सावर्णि मन्वन्तरका अधिपति भए। यसले महामायाको शक्तिलाई प्रकट गर्छ—उनकै कृपाले मनुष्य महान् पदमा पुग्छ।",
+            "en": "Through the influence of Mahāmāyā, Sāvarṇi became the lord of a Manvantara. This reveals the power of Mahāmāyā — by her grace a human being attains a great position."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-003.wav"
+        },
+        {
+          "id": "adhyaya-1-04",
+          "number": 4,
+          "sanskrit": "स्वारोचिषेऽन्तरे पूर्वं चैत्रवंशसमुद्भवः। सुरथो नाम राजाभूत्समस्ते क्षितिमण्डले॥ ४॥",
+          "iast": "svārociṣe'ntare pūrvaṃ caitravaṃśasamudbhavaḥ | suratho nāma rājābhūtsamaste kṣitimaṇḍale || 4||",
+          "meaning": {
+            "ne": "पहिले स्वारोचिष मन्वन्तरमा, चैत्र वंशमा उत्पन्न भएका सुरथ नामका राजा सम्पूर्ण पृथ्वीमण्डलमा राजा थिए।",
+            "en": "Formerly, in the period of Manu Svarochiṣa, there was a king named Suratha, born in the family of Chaitra, who ruled over the entire earth."
+          },
+          "commentary": {
+            "ne": "सुरथ राजा चैत्र वंशमा जन्मेका थिए र सम्पूर्ण पृथ्वीमा शासन गर्थे। यसरी कथाको मुख्य पात्र राजा सुरथको परिचय दिइएको छ।",
+            "en": "King Suratha was born in the Chaitra dynasty and ruled over the entire earth. Thus the main character of the story, King Suratha, is introduced."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-004.wav"
+        },
+        {
+          "id": "adhyaya-1-05",
+          "number": 5,
+          "sanskrit": "तस्य पालयतः सम्यक् प्रजाः पुत्रानिवौरसान्। बभूवुः शत्रवो भूपाः कोलाविध्वंसिनस्तदा॥ ५॥",
+          "iast": "tasya pālayataḥ samyak prajāḥ putrānivaurasān | babhūvuḥ śatravo bhūpāḥ kolāvidhvaṃsinastadā || 5||",
+          "meaning": {
+            "ne": "उनले आफ्ना प्रजाहरूलाई आफ्नै पुत्रहरूझैं राम्ररी पालन गर्दा, कोलाविध्वंसी राजाहरू उनका शत्रु भए।",
+            "en": "When he was protecting his subjects well as he would his own legitimate sons, the kings who were destroyers of Kolas became his enemies."
+          },
+          "commentary": {
+            "ne": "राजा सुरथले प्रजाको पुत्रवत् पालन गरे पनि कोलाविध्वंसी राजाहरूले शत्रुता गरे। यसले देखाउँछ कि असल शासन पनि शत्रुताबाट मुक्त हुँदैन।",
+            "en": "Even though King Suratha protected his subjects like his own sons, the Kolāvidhvaṁsī kings became hostile. This shows that good governance alone does not free one from enmity."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-005.wav"
+        },
+        {
+          "id": "adhyaya-1-06",
+          "number": 6,
+          "sanskrit": "तस्य तैरभवद् युद्धमतिप्रबलदण्डिनः। न्यूनैरपि स तैर्युद्धे कोलाविध्वंसिभिर्जितः॥ ६॥",
+          "iast": "tasya tairabhavad yuddhamatiprabaladaṇḍinaḥ | nyūnairapi sa tairyuddhe kolāvidhvaṃsibhirjitaḥ || 6||",
+          "meaning": {
+            "ne": "अत्यन्त बलवान् दण्ड भएका उनको तिनीहरूसँग युद्ध भयो। तर तिनीहरूभन्दा कम भए पनि कोलाविध्वंसीहरूबाट उनी युद्धमा पराजित भए।",
+            "en": "There was a battle between him, possessed of very strong forces, and them. But he was conquered in battle by the destroyers of Kolas though they were inferior to him."
+          },
+          "commentary": {
+            "ne": "बलवान् हुँदा पनि सुरथ पराजित भए। यसले देखाउँछ कि बाह्य बल मात्रले विजय निश्चित हुँदैन—दैव र महामायाको शक्ति पनि कार्य गर्छ।",
+            "en": "Despite being powerful, Suratha was defeated. This shows that outer strength alone does not guarantee victory — the power of destiny and Mahāmāyā also plays a role."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-006.wav"
+        },
+        {
+          "id": "adhyaya-1-07",
+          "number": 7,
+          "sanskrit": "ततः स्वपुरमायातो निजदेशाधिपोऽभवत्। आक्रान्तः स महाभागस्तैस्तदा प्रबलारिभिः॥ ७॥",
+          "iast": "tataḥ svapuramāyāto nijadeśādhipo'bhavat | ākrāntaḥ sa mahābhāgastaistadā prabalāribhiḥ || 7||",
+          "meaning": {
+            "ne": "त्यसपछि उनी आफ्नै नगरमा फर्किए र आफ्नो देशका अधिपति भए। तर त्यहाँ पनि ती प्रबल शत्रुहरूले उनलाई आक्रमण गरे।",
+            "en": "Then he returned to his city and became the head of his own country. There again that illustrious one was attacked by powerful enemies."
+          },
+          "commentary": {
+            "ne": "राज्य गुमाएर आफ्नै नगरमा फर्किए पनि शत्रुहरूले पछ्याए। यसले संसारिक जीवनमा शत्रुता र संघर्षको निरन्तरतालाई देखाउँछ।",
+            "en": "Even after returning to his own city, the enemies pursued him. This shows the continuity of hostility and struggle in worldly life."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-007.wav"
+        },
+        {
+          "id": "adhyaya-1-08",
+          "number": 8,
+          "sanskrit": "अमात्यैर्बलिभिर्दुष्टैर्दुर्बलस्य दुरात्मभिः। कोशो बलं चापहृतं तत्रापि स्वपुरे ततः॥ ८॥",
+          "iast": "amātyairbalibhirduṣṭairdurbalasya durātmabhiḥ | kośo balaṁ cāpahṛtaṁ tatrāpi svapure tataḥ || 8||",
+          "meaning": {
+            "ne": "दुर्बल राजाको कोश र बल त्यसैको नगरमा बलवान् दुष्ट र दुरात्मा अमात्यहरूले हरण गरे।",
+            "en": "The treasury and army of the weak king were seized by his strong wicked ministers of evil designs, that too in his own city."
+          },
+          "commentary": {
+            "ne": "आफ्नै नगरमा आफ्नै अमात्यहरूले विश्वासघात गरे। यसले आन्तरिक शत्रु बाह्य शत्रुभन्दा खतरनाक हुन्छन् भन्ने देखाउँछ।",
+            "en": "In his own city, his own ministers betrayed him. This shows that internal enemies are more dangerous than external ones."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-008.wav"
+        },
+        {
+          "id": "adhyaya-1-09",
+          "number": 9,
+          "sanskrit": "ततो मृगयाव्याजेन हृतस्वाम्यः स भूपतिः। एकाकी हयमारुह्य जगाम गहनं वनम्॥ ९॥",
+          "iast": "tato mṛgayāvyājena hṛtasvāmyaḥ sa bhūpatiḥ | ekākī hayamāruhya jagāma gahanaṁ vanam || 9||",
+          "meaning": {
+            "ne": "त्यसपछि आफ्नो सार्वभौमिकता हरण भएको त्यो राजा, शिकारको बहाना गरी, एक्लै घोडामा चढेर घना वनमा गए।",
+            "en": "Then the king, deprived of authority, on the pretext of hunting, mounted on a horse and proceeded to the dense forest, all alone."
+          },
+          "commentary": {
+            "ne": "सुरथ शिकारको बहाना गरी वनमा गए। यो वन प्रवेश आन्तरिक यात्राको प्रतीक हो—जहाँ उनी आफ्नो मनको प्रश्नको उत्तर खोज्छन्।",
+            "en": "Suratha went to the forest on the pretext of hunting. This entry into the forest symbolises an inner journey — where he seeks the answer to the question in his mind."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-009.wav"
+        },
+        {
+          "id": "adhyaya-1-10",
+          "number": 10,
+          "sanskrit": "स तत्राश्रममद्राक्षीद्द्विजवर्यस्य मेधसः। प्रशान्तश्वापदाकीर्णं मुनिशिष्योपशोभितम्॥ १०॥",
+          "iast": "sa tatrāśramamadrākṣīddvijavaryasya medhasaḥ | praśāntaśvāpadākīrṇaṁ muniśiṣyopaśobhitam || 10||",
+          "meaning": {
+            "ne": "त्यहाँ उनले द्विजश्रेष्ठ मेधाको आश्रम देखे—शान्त भएका हिंस्रक पशुहरूले भरिएको र मुनिका शिष्यहरूले सुशोभित।",
+            "en": "There he saw the hermitage of Medhas, the supreme among the twice-born, the place filled with beasts of prey whose ferocity was tamed, and radiant with the disciples of the sage."
+          },
+          "commentary": {
+            "ne": "मेधा ऋषिको आश्रममा हिंस्रक पशुहरू पनि शान्त थिए। यसले आश्रमको दिव्य वातावरणलाई देखाउँछ—जहाँ ऋषिको तेजले सबै प्राणीहरूलाई शान्त गराउँछ।",
+            "en": "In Sage Medhas's hermitage, even beasts of prey were peaceful. This shows the divine atmosphere of the hermitage — where the sage's radiance pacifies all beings."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-010.wav"
+        },
+        {
+          "id": "adhyaya-1-11",
+          "number": 11,
+          "sanskrit": "तस्थौ कञ्चित्स कालं च मुनिना तेन सत्कृतः। इतश्चेतश्च विचरंस्तस्मिन् मुनिवराश्रमे॥ ११॥",
+          "iast": "tasthau kañcitsa kālaṁ ca muninā tena satkṛtaḥ | itaścetaśca vicaraṁstasmin munivarāśrame || 11||",
+          "meaning": {
+            "ne": "मुनिबाट सत्कार पाएर उनी केही समय त्यहीँ रहे र त्यस मुनिवरको आश्रममा यताउता विचरण गरे।",
+            "en": "Receiving the hospitality of the sage, he remained there for some time, moving about hither and thither in the hermitage of the great sage."
+          },
+          "commentary": {
+            "ne": "सुरथ केही समय आश्रममा बसे। यो समय उनको आन्तरिक चिन्तन र आत्म-अन्वेषणको काल थियो।",
+            "en": "Suratha stayed at the hermitage for some time. This period was a time of inner reflection and self-inquiry for him."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-011.wav"
+        },
+        {
+          "id": "adhyaya-1-12",
+          "number": 12,
+          "sanskrit": "सोऽचिन्तयत्तदा तत्र ममत्वाकृष्टमानसः॥ १२॥",
+          "iast": "so'cintayattadā tatra mamatvākṛṣṭamānasaḥ || 12||",
+          "meaning": {
+            "ne": "त्यस समय त्यहाँ उनको मन ममत्वले तानिएर चिन्तनमा डुब्यो।",
+            "en": "At that time he fell into thought, his mind gravitating towards the sense of 'my-ness'."
+          },
+          "commentary": {
+            "ne": "आश्रममा बसे पनि सुरथको मन राज्य र परिवारतिरै तानिन्थ्यो। यो ममत्व र मोहको शक्तिलाई देखाउँछ।",
+            "en": "Even while staying at the hermitage, Suratha's mind was drawn towards his kingdom and family. This shows the power of 'my-ness' and attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-012.wav"
+        },
+        {
+          "id": "adhyaya-1-13",
+          "number": 13,
+          "sanskrit": "मत्पूर्वैः पालितं पूर्वं मया हीनं पुरं हि तत्। मद्भृत्यैस्तैरसद्वृत्तैर्धर्मतः पाल्यते न वा॥ १३॥",
+          "iast": "matpūrvaiḥ pālitaṁ pūrvaṁ mayā hīnaṁ puraṁ hi tat | madbhṛtyaistairasadvṛttairdharmataḥ pālyate na vā || 13||",
+          "meaning": {
+            "ne": "मेरा पूर्वजहरूले पालन गरेको त्यो नगर मबाट हीन भएर, मेरा दुश्चरित्र भृत्यहरूद्वारा धर्मतः पालन भइरहेको छ कि छैन?",
+            "en": "Ah, I have deserted the city formerly guarded by my forefathers. Is it being guarded righteously or not by my bearers of evil conduct?"
+          },
+          "commentary": {
+            "ne": "सुरथलाई आफ्नो नगरको चिन्ता सताउँछ—के दुष्ट अमात्यहरूले धर्मपूर्वक शासन गरिरहेका छन्? यो चिन्ता मोहको प्रतीक हो।",
+            "en": "Suratha is troubled by worry about his city — are the wicked ministers ruling righteously? This worry is a sign of attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-013.wav"
+        },
+        {
+          "id": "adhyaya-1-14",
+          "number": 14,
+          "sanskrit": "न जाने स प्रधानो मे शूरो हस्ती सदामदः। मम वैरिवशं यातः कान् भोगानुपलप्स्यते॥ १४॥",
+          "iast": "na jāne sa pradhāno me śūro hastī sadāmadaḥ | mama vairivaśaṁ yātaḥ kān bhogānupalapsyate || 14||",
+          "meaning": {
+            "ne": "मलाई थाहा छैन—मेरो प्रधान, शूर र सधैं मत्त हात्ती शत्रुहरूको वशमा गएर कस्ता भोगहरू प्राप्त गर्नेछ?",
+            "en": "I do not know. My chief elephant, valorous and always in rut, has fallen into the hands of my enemies. What experiences is it going to get?"
+          },
+          "commentary": {
+            "ne": "सुरथलाई आफ्नो हात्तीको पनि चिन्ता छ। यसले उनको मोह कति गहिरो छ भन्ने देखाउँछ—राज्य गए पनि मनका वस्तुहरूमा आसक्ति कायम छ।",
+            "en": "Suratha even worries about his elephant. This shows how deep his attachment is — even after losing his kingdom, attachment to his possessions remains."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-014.wav"
+        },
+        {
+          "id": "adhyaya-1-15",
+          "number": 15,
+          "sanskrit": "ये ममानुगता नित्यं प्रसादधनभोजनैः। अनुवृत्तिं ध्रुवं तेऽद्य कुर्वन्त्यन्यमहीभृताम्॥ १५॥",
+          "iast": "ye mamānugatā nityaṁ prasādadhanabhojanaiḥ | anuvṛttiṁ dhruvaṁ te'dya kurvantyanyamahībhṛtām || 15||",
+          "meaning": {
+            "ne": "जो मेरो कृपा, धन र भोजनका लागि सधैं मेरो पछि लाग्थे, ती अब निश्चय नै अरू राजाहरूको सेवा गरिरहेका छन्।",
+            "en": "Those who were my constant followers for the sake of my favour, money and food are now surely rendering service to other monarchs."
+          },
+          "commentary": {
+            "ne": "सुरथलाई थाहा छ कि उनका अनुयायीहरू अब अरू राजाकहाँ गए। यो संसारिक स्वार्थ र अस्थिरताको चित्रण हो।",
+            "en": "Suratha knows that his followers have now gone to other kings. This depicts the selfishness and impermanence of worldly life."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-015.wav"
+        },
+        {
+          "id": "adhyaya-1-16",
+          "number": 16,
+          "sanskrit": "असम्यग्व्ययशीलैस्तैः कुर्वद्भिः सततं व्ययम्। सञ्चितः सोऽतिदुःखेन क्षयं कोशो गमिष्यति॥ १६॥",
+          "iast": "asamyagvyayaśīlaistaiḥ kurvadbhiḥ satataṁ vyayam | sañcitaḥ so'tiduḥkhena kṣayaṁ kośo gamiṣyati || 16||",
+          "meaning": {
+            "ne": "असम्यक् व्ययशील ती व्यक्तिहरूले निरन्तर व्यय गर्दा, अत्यन्त दुःखले सञ्चित गरेको त्यो कोश क्षय हुनेछ।",
+            "en": "The treasury, accumulated with great difficulty, will be depleted, with these spendthrifts spending ceaselessly."
+          },
+          "commentary": {
+            "ne": "सुरथलाई आफ्नो कोशको पनि चिन्ता छ—जो उनले ठूलो परिश्रमले जम्मा गरेको थियो। यो मोहको अर्को पक्ष हो।",
+            "en": "Suratha also worries about his treasury — which he had accumulated with great effort. This is another aspect of his attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-016.wav"
+        },
+        {
+          "id": "adhyaya-1-17",
+          "number": 17,
+          "sanskrit": "एतच्चान्यच्च सततं चिन्तयामास पार्थिवः। तत्र विप्राश्रमाभ्याशे वैश्यमेकं ददर्श सः॥ १७॥",
+          "iast": "etaccānyacca satataṁ cintayāmāsa pārthivaḥ | tatra viprāśramābhyāśe vaiśyamekaṁ dadarśa saḥ || 17||",
+          "meaning": {
+            "ne": "राजाले यी र अन्य कुराहरूको निरन्तर चिन्तन गरे। त्यहाँ ब्राह्मणको आश्रम नजिकै उनले एक वैश्यलाई देखे।",
+            "en": "The lord of the earth was constantly thinking of these and other things. There, in the vicinity of the Brāhmaṇa's hermitage, he saw a Vaiśya."
+          },
+          "commentary": {
+            "ne": "सुरथ चिन्तामग्न थिए। त्यही समय उनले समाधि नामक वैश्यलाई देखे—जो पनि त्यही आश्रममा आश्रय लिएको थियो।",
+            "en": "Suratha was immersed in worry. At that time he saw a Vaiśya named Samādhi — who had also taken shelter in the same hermitage."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-017.wav"
+        },
+        {
+          "id": "adhyaya-1-18",
+          "number": 18,
+          "sanskrit": "स पृष्टस्तेन कस्त्वं भो हेतुश्चागमनेऽत्र कः। सशोक इव कस्मात्त्वं दुर्मना इव लक्ष्यसे॥ १८॥",
+          "iast": "sa pṛṣṭastena kastvaṁ bho hetuścāgamane'tra kaḥ | saśoka iva kasmāttvaṁ durmanā iva lakṣyase || 18||",
+          "meaning": {
+            "ne": "उनले सोधे: हे भद्र, तपाईं को हुनुहुन्छ? यहाँ आउनुको कारण के हो? तपाईं शोकग्रस्त र मनमा दुःखी देखिनुहुन्छ, किन?",
+            "en": "He asked him: Who are you, Sir? What is the reason of your coming here? Why do you appear to be sad and ill at ease?"
+          },
+          "commentary": {
+            "ne": "सुरथले वैश्यलाई सोधे—तिमी को हौ र किन दुःखी छौ? यो प्रश्न आत्म-अन्वेषणको सुरुवात हो।",
+            "en": "Suratha asked the Vaiśya — who are you and why are you sad? This question marks the beginning of self-inquiry."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-018.wav"
+        },
+        {
+          "id": "adhyaya-1-19",
+          "number": 19,
+          "sanskrit": "इत्याकर्ण्य वचस्तस्य भूपतेः प्रणयोदितम्। प्रत्युवाच स तं वैश्यः प्रश्रयावनतो नृपम्॥ १९॥",
+          "iast": "ityākarṇya vacastasya bhūpateḥ praṇayoditam | pratyuvāca sa taṁ vaiśyaḥ praśrayāvanato nṛpam || 19||",
+          "meaning": {
+            "ne": "राजाको प्रेमपूर्वक भनिएको वचन सुनेर, वैश्य नम्र भएर राजालाई जवाफ दिए।",
+            "en": "Hearing the words of the king uttered in candour, the Vaiśya bowed in courtesy to the king and replied."
+          },
+          "commentary": {
+            "ne": "वैश्यले नम्रतापूर्वक राजालाई जवाफ दिए। यो संवादले दुवैको साझा दुःख र ममत्वको समस्यालाई जोड्छ।",
+            "en": "The Vaiśya replied humbly to the king. This dialogue connects their shared suffering and the problem of attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-019.wav"
+        },
+        {
+          "id": "adhyaya-1-20",
+          "number": 20,
+          "sanskrit": "वैश्य उवाच॥",
+          "iast": "vaiśya uvāca ||",
+          "meaning": {
+            "ne": "वैश्यले भने:",
+            "en": "The Vaiśya said:"
+          },
+          "commentary": {
+            "ne": "यहाँबाट वैश्य समाधिको कथा सुरु हुन्छ। उनले आफ्नो दुःखको कारण बताउँछन्।",
+            "en": "From here begins the story of the Vaiśya Samādhi. He tells the cause of his suffering."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-020.wav"
+        },
+        {
+          "id": "adhyaya-1-21",
+          "number": 21,
+          "sanskrit": "समाधिर्नाम वैश्योऽहमुत्पन्नो धनिनां कुले। पुत्रदारैर्निरस्तश्च धनलोभादसाधुभिः॥ २१॥",
+          "iast": "samādhirnāma vaiśyo'hamutpanno dhanināṁ kule | putradārairnirastaśca dhanalobhādasādhubhiḥ || 21||",
+          "meaning": {
+            "ne": "म समाधि नामको वैश्य हुँ, धनीहरूको कुलमा जन्मेको। धनको लोभले असाधु पुत्र र पत्नीद्वारा त्यागिएको छु।",
+            "en": "I am a Vaiśya named Samādhi, born in a family of monied men; and now cast away by unworthy sons and wife, out of greed for my wealth."
+          },
+          "commentary": {
+            "ne": "समाधि धनी कुलमा जन्मे पनि पुत्र र पत्नीले धनको लोभले त्यागे। यसले धन र मोहको दुःखद परिणामलाई देखाउँछ।",
+            "en": "Though born in a wealthy family, Samādhi was abandoned by his sons and wife out of greed for wealth. This shows the painful consequence of wealth and attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-021.wav"
+        },
+        {
+          "id": "adhyaya-1-22",
+          "number": 22,
+          "sanskrit": "विहीनश्च धनैर्दारैः पुत्रैरादाय मे धनम्। वनमभ्यागतो दुःखी निरस्तश्चाप्तबन्धुभिः॥ २२॥",
+          "iast": "vihīnaśca dhanairdāraiḥ putrairādāya me dhanam | vanamabhyāgato duḥkhī nirastaścāptabandhubhiḥ || 22||",
+          "meaning": {
+            "ne": "पुत्र र पत्नीले मेरो धन लिएर मलाई धनहीन बनाए। विश्वासपात्र बन्धुहरूबाट त्यागिएको म दुःखी भई वनमा आएको छु।",
+            "en": "My sons and my wife took from me all the money and made me devoid of wealth; I have come to the forest in sorrow, abandoned by my trusted kinsmen."
+          },
+          "commentary": {
+            "ne": "समाधि धन र परिवार दुवैबाट वञ्चित भए। यो संसारिक मोहको कठोर वास्तविकता हो—जसलाई माया गरिन्छ, उहीले त्याग्छ।",
+            "en": "Samādhi was deprived of both wealth and family. This is the harsh reality of worldly attachment — those whom we love are the ones who abandon us."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-022.wav"
+        },
+        {
+          "id": "adhyaya-1-23",
+          "number": 23,
+          "sanskrit": "सोऽहं न वेद्मि पुत्राणां कुशलाकुशलात्मिकाम्। प्रवृत्तिं स्वजनानां च दाराणां चात्र संस्थितः॥ २३॥",
+          "iast": "so'haṁ na vedmi putrāṇāṁ kuśalākuśalātmikām | pravṛttiṁ svajanānāṁ ca dārāṇāṁ cātra saṁsthitaḥ || 23||",
+          "meaning": {
+            "ne": "यहाँ बसेको मलाई थाहा छैन—मेरा पुत्रहरू, स्वजनहरू र पत्नीहरूको कुशल वा अकुशल प्रवृत्ति के छ।",
+            "en": "Stationed here I do not know the state of affairs, good or bad, of my sons, wife and kinsmen."
+          },
+          "commentary": {
+            "ne": "समाधि त्यागिएर पनि आफ्नो परिवारको चिन्ता गर्छन्। यो ममत्वको गहिरो पकडलाई देखाउँछ—दुःख दिनेहरूप्रति पनि मोह रहन्छ।",
+            "en": "Even after being abandoned, Samādhi worries about his family. This shows the deep grip of attachment — attachment remains even towards those who cause suffering."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-023.wav"
+        },
+        {
+          "id": "adhyaya-1-24",
+          "number": 24,
+          "sanskrit": "किं नु तेषां गृहे क्षेममक्षेमं किं नु साम्प्रतम्॥ २४॥",
+          "iast": "kiṁ nu teṣāṁ gṛhe kṣemamakṣemaṁ kiṁ nu sāmpratam || 24||",
+          "meaning": {
+            "ne": "के अहिले तिनीहरूको घरमा क्षेम छ वा अक्षेम?",
+            "en": "At the present moment, are things well or not well with them at home?"
+          },
+          "commentary": {
+            "ne": "समाधिको मन आफ्नो परिवारतिरै तानिन्छ। यो मोहको स्वाभाविक प्रवृत्ति हो—जसले दुःख दिए पनि मन त्यतै जान्छ।",
+            "en": "Samādhi's mind is drawn towards his family. This is the natural tendency of attachment — even if they caused pain, the mind goes there."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-024.wav"
+        },
+        {
+          "id": "adhyaya-1-25",
+          "number": 25,
+          "sanskrit": "कथं ते किं नु सद्वृत्ता दुर्वृत्ताः किं नु मे सुताः॥ २५॥",
+          "iast": "kathaṁ te kiṁ nu sadvṛttā durvṛttāḥ kiṁ nu me sutāḥ || 25||",
+          "meaning": {
+            "ne": "मेरा पुत्रहरू कस्ता छन्? के तिनीहरू सद्वृत्त छन् वा दुर्वृत्त?",
+            "en": "How are they, my sons? Are they of good conduct or of evil ways?"
+          },
+          "commentary": {
+            "ne": "समाधि आफ्ना पुत्रहरूको चरित्रको चिन्ता गर्छन्। यो मोहको अर्को पक्ष हो—जसले त्यागे पनि तिनको हितको चिन्ता गर्नु।",
+            "en": "Samādhi worries about the character of his sons. This is another aspect of attachment — worrying about their well-being even after being abandoned by them."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-025.wav"
+        },
+        {
+          "id": "adhyaya-1-26",
+          "number": 26,
+          "sanskrit": "राजोवाच॥",
+          "iast": "rājovāca ||",
+          "meaning": {
+            "ne": "राजाले भने:",
+            "en": "The king said:"
+          },
+          "commentary": {
+            "ne": "राजा सुरथले वैश्यको कुरा सुनेर प्रतिक्रिया दिन्छन्। दुवैको दुःखको स्वरूप एउटै छ—ममत्व।",
+            "en": "King Suratha responds after hearing the Vaiśya's words. The nature of both their sufferings is the same — attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-026.wav"
+        },
+        {
+          "id": "adhyaya-1-27",
+          "number": 27,
+          "sanskrit": "यैर्निरस्तो भवाँल्लुब्धैः पुत्रदारादिभिर्धनैः॥ २७॥ तेषु किं भवतः स्नेहमनुबध्नाति मानसम्॥ २८॥",
+          "iast": "yairnirasto bhavāllubdhaiḥ putradārādibhirdhanaiḥ || 27|| teṣu kiṁ bhavataḥ snehamanubadhnāti mānasam || 28||",
+          "meaning": {
+            "ne": "जसले धनका लोभी भई तपाईंलाई त्यागे—ती पुत्र, पत्नी आदिप्रति तपाईंको मन किन स्नेहले बाँधिएको छ?",
+            "en": "Why is your mind bound in endearment to that crowd, the covetous sons and wife who deprived you of your wealth?"
+          },
+          "commentary": {
+            "ne": "राजाले वैश्यलाई सोध्छन्—जसले तिमीलाई त्यागे, तिनीहरूप्रति किन मोह? यो प्रश्न ममत्वको रहस्यलाई उजागर गर्छ।",
+            "en": "The king asks the Vaiśya — why attachment to those who abandoned you? This question reveals the mystery of 'my-ness'."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-027.wav"
+        },
+        {
+          "id": "adhyaya-1-28",
+          "number": 28,
+          "sanskrit": "वैश्य उवाच॥",
+          "iast": "vaiśya uvāca ||",
+          "meaning": {
+            "ne": "वैश्यले भने:",
+            "en": "The Vaiśya said:"
+          },
+          "commentary": {
+            "ne": "वैश्य समाधिले आफ्नो मोहको स्वीकार गर्छन्। यो मानव स्वभावको गहिरो सत्य हो।",
+            "en": "The Vaiśya Samādhi acknowledges his attachment. This is a deep truth of human nature."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-028.wav"
+        },
+        {
+          "id": "adhyaya-1-29",
+          "number": 29,
+          "sanskrit": "एवमेतद्यथा प्राह भवानस्मद्गतं वचः। किं करोमि न बध्नाति मम निष्ठुरतां मनः॥ २९॥",
+          "iast": "evametadyathā prāha bhavānasmadgataṁ vacaḥ | kiṁ karomi na badhnāti mama niṣṭhuratāṁ manaḥ || 29||",
+          "meaning": {
+            "ne": "तपाईंले भनेझैं यो सत्य हो। तर म के गरूँ? मेरो मन कठोरता धारण गर्दैन।",
+            "en": "The same thought struck me exactly as you have uttered; but what can I do? My mind does not entertain harshness."
+          },
+          "commentary": {
+            "ne": "समाधि भन्छन्—मलाई थाहा छ तिनीहरूले मलाई त्यागे, तर मन कठोर हुन सक्दैन। यो मोहको शक्ति हो—ज्ञानले पनि जसलाई जित्न सक्दैन।",
+            "en": "Samādhi says — I know they abandoned me, but the mind cannot become harsh. This is the power of attachment — which even knowledge cannot overcome."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-029.wav"
+        },
+        {
+          "id": "adhyaya-1-30",
+          "number": 30,
+          "sanskrit": "यैः सन्त्यज्य पितृस्नेहं धनलुब्धैर्निराकृतः। पतिस्वजनहार्दं च हार्दितेष्वेव मे मनः॥ ३०॥",
+          "iast": "yaiḥ santyajya pitṛsnehaṁ dhanalubdhairnirākṛtaḥ | patisvajanahārdaṁ ca hārditeṣveva me manaḥ || 30||",
+          "meaning": {
+            "ne": "जसले पितृस्नेह त्यागेर धनलोभले मलाई त्यागे, पति र स्वजनको हार्दिकता त्यागे—तैपनि मेरो मन तिनैप्रति हार्दिक छ।",
+            "en": "Throwing away filial attachment and affection towards one's husband and one's kinsman, they spurned me out of greed for my wealth; but yet my mind goes to them in affection."
+          },
+          "commentary": {
+            "ne": "समाधिको मन त्याग गर्नेहरूप्रति पनि प्रेमले भरिएको छ। यो मोहको विरोधाभास हो—जसले दुःख दिन्छ, उसैप्रति मन तानिन्छ।",
+            "en": "Samādhi's mind is full of love even towards those who abandoned him. This is the paradox of attachment — the mind is drawn to those who cause pain."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-030.wav"
+        },
+        {
+          "id": "adhyaya-1-31",
+          "number": 31,
+          "sanskrit": "किमेतन्नाभिजानामि जानन्नपि महामते। यत्प्रेमप्रवणं चित्तं विगुणेष्वपि बन्धुषु॥ ३१॥",
+          "iast": "kimetannābhijānāmi jānannapi mahāmate | yatpremapravaṇaṁ cittaṁ viguṇeṣvapi bandhuṣu || 31||",
+          "meaning": {
+            "ne": "हे महामते, जान्दाजान्दै पनि म यो बुझ्दिन—गुणहीन बन्धुहरूप्रति पनि मन किन प्रेममा ढल्किन्छ?",
+            "en": "O great-minded king, though knowing, I do not understand how it is that the mind is prone to love even towards worthless relations."
+          },
+          "commentary": {
+            "ne": "समाधि भन्छन्—जानेर पनि मन किन मोहित हुन्छ? यो महामायाको खेल हो। महामायाले नै मनलाई मोहित गर्छिन्।",
+            "en": "Samādhi says — even knowing, why is the mind deluded? This is the play of Mahāmāyā. It is Mahāmāyā who deludes the mind."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-031.wav"
+        },
+        {
+          "id": "adhyaya-1-32",
+          "number": 32,
+          "sanskrit": "तेषां कृते मे निःश्वासो दौर्मनस्यं च जायते॥ ३२॥",
+          "iast": "teṣāṁ kṛte me niḥśvāso daurmanasyaṁ ca jāyate || 32||",
+          "meaning": {
+            "ne": "तिनीहरूको लागि मेरो निःश्वास र मनको दुःख उत्पन्न हुन्छ।",
+            "en": "For their sake comes forth my sigh and dejection in my mind."
+          },
+          "commentary": {
+            "ne": "समाधि तिनीहरूको चिन्ताले दुःखी हुन्छन्। यो मोहको फल हो—जसले आफैंलाई दुःख दिन्छ।",
+            "en": "Samādhi suffers from worrying about them. This is the fruit of attachment — it causes suffering to oneself."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-032.wav"
+        },
+        {
+          "id": "adhyaya-1-33",
+          "number": 33,
+          "sanskrit": "करोमि किं यन्न मनस्तेष्वप्रीतिषु निष्ठुरम्॥ ३३॥",
+          "iast": "karomi kiṁ yanna manasteṣvaprītiṣu niṣṭhuram || 33||",
+          "meaning": {
+            "ne": "म के गरूँ, जसले मेरो मन ती अप्रिय व्यक्तिहरूप्रति कठोर हुँदैन?",
+            "en": "What can I do as my mind does not become harsh towards those unloving ones?"
+          },
+          "commentary": {
+            "ne": "समाधि भन्छन्—मन कठोर हुन सक्दैन। यो मोहको अन्तिम स्वीकारोक्ति हो।",
+            "en": "Samādhi says — the mind cannot become harsh. This is the final acknowledgment of attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-033.wav"
+        },
+        {
+          "id": "adhyaya-1-34",
+          "number": 34,
+          "sanskrit": "मार्कण्डेय उवाच॥",
+          "iast": "mārkaṇḍeya uvāca ||",
+          "meaning": {
+            "ne": "मार्कण्डेयले भने:",
+            "en": "Mārkaṇḍeya said:"
+          },
+          "commentary": {
+            "ne": "मार्कण्डेय ऋषिले कथा अगाडि बढाउँछन्। राजा र वैश्य दुवै मेधा ऋषिको आश्रममा गए।",
+            "en": "Sage Mārkaṇḍeya continues the story. Both the king and the Vaiśya went to Sage Medhas."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-034.wav"
+        },
+        {
+          "id": "adhyaya-1-35",
+          "number": 35,
+          "sanskrit": "ततस्तौ सहितौ विप्र तं मुनिं समुपस्थितौ॥ ३५॥ समाधिर्नाम वैश्योऽसौ स च पार्थिवसत्तमः॥ ३६॥",
+          "iast": "tatastau sahitau vipra taṁ muniṁ samupasthitau || 35|| samādhirnāma vaiśyo'sau sa ca pārthivasattamaḥ || 36||",
+          "meaning": {
+            "ne": "हे विप्र, त्यसपछि ती दुवै—वैश्य समाधि र उत्तम राजा—मुनिको नजिक गए।",
+            "en": "O Brahman, they then jointly approached the sage — the Vaiśya named Samādhi and that noble monarch."
+          },
+          "commentary": {
+            "ne": "राजा र वैश्य दुवै मेधा ऋषिको शरणमा गए। यो आध्यात्मिक यात्राको सुरुवात हो—गुरुको शरणमा जानु।",
+            "en": "Both the king and the Vaiśya took refuge in Sage Medhas. This is the beginning of the spiritual journey — going to the Guru for guidance."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-035.wav"
+        },
+        {
+          "id": "adhyaya-1-36",
+          "number": 36,
+          "sanskrit": "कृत्वा तु तौ यथान्यायं यथार्हं तेन संविदम्। उपविष्टौ कथाः काश्चिच्चक्रतुर्वैश्यपार्थिवौ॥ ३७॥",
+          "iast": "kṛtvā tu tau yathānyāyaṁ yathārhaṁ tena saṁvidam | upaviṣṭau kathāḥ kāściccakraturvaiśyapārthivau || 37||",
+          "meaning": {
+            "ne": "वैश्य र राजाले यथाविधि र यथायोग्य सम्मान गरेर बसे र केही कथाहरू गरे।",
+            "en": "The Vaiśya and the king, observing due and proper etiquette towards him, seated themselves and conversed on some topics."
+          },
+          "commentary": {
+            "ne": "दुवैले मुनिको सम्मान गरे। यो शिष्यत्वको भाव हो—गुरुको आदर र शरणागति।",
+            "en": "Both honoured the sage. This is the attitude of discipleship — respect and surrender to the Guru."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-036.wav"
+        },
+        {
+          "id": "adhyaya-1-37",
+          "number": 37,
+          "sanskrit": "राजोवाच॥",
+          "iast": "rājovāca ||",
+          "meaning": {
+            "ne": "राजाले भने:",
+            "en": "The king said:"
+          },
+          "commentary": {
+            "ne": "राजा सुरथले मुनिसमक्ष आफ्नो प्रश्न राख्छन्। यो प्रश्न ममत्व र मोहको रहस्यबारे हो।",
+            "en": "King Suratha puts his question before the sage. This question is about the mystery of 'my-ness' and attachment."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-037.wav"
+        },
+        {
+          "id": "adhyaya-1-38",
+          "number": 38,
+          "sanskrit": "भगवंस्त्वामहं प्रष्टुमिच्छाम्येकं वदस्व तत्॥ ३८॥ दुःखाय यन्मे मनसः स्वचित्तायत्ततां विना॥ ३९॥",
+          "iast": "bhagavaṁstvāmahaṁ praṣṭumicchāmyekaṁ vadasva tat || 38|| duḥkhāya yanme manasaḥ svacittāyattatāṁ vinā || 39||",
+          "meaning": {
+            "ne": "हे भगवन्, म तपाईंलाई एउटा प्रश्न सोध्न चाहन्छु—त्यसको उत्तर दिनुहोस्। मेरो मन आफ्नै वशमा नभई दुःखतिर किन जान्छ?",
+            "en": "Sire, I wish to ask you something. Pray, reply to it — without any dependence on my thoughts, my mind gives itself to grief."
+          },
+          "commentary": {
+            "ne": "राजाले सोधे—मन आफ्नो वशमा नभई दुःखतिर किन जान्छ? यो मानव अस्तित्वको मूल प्रश्न हो।",
+            "en": "The king asks — why does the mind, not under one's control, go towards suffering? This is the fundamental question of human existence."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-038.wav"
+        },
+        {
+          "id": "adhyaya-1-39",
+          "number": 39,
+          "sanskrit": "ममत्वं गतराज्यस्य राज्याङ्गेष्वखिलेष्वपि। जानतोऽपि यथाज्ञस्य किमेतन्मुनिसत्तम॥ ४०॥",
+          "iast": "mamatvaṁ gatarājyasya rājyāṅgeṣvakhileṣvapi | jānato'pi yathājñasya kimetanmunisattama || 40||",
+          "meaning": {
+            "ne": "हे मुनिश्रेष्ठ, राज्य गुमाएको मलाई राज्यका सबै अङ्गहरूमा ममत्व किन छ? जान्दाजान्दै पनि अज्ञानीझैं किन?",
+            "en": "O best of sages, I have lost my kingdom; but yet this sense of 'mine' in all the limbs of the government — why is this, as if I were ignorant, though I know?"
+          },
+          "commentary": {
+            "ne": "राजाले सोधे—राज्य गए पनि ममत्व किन? यो मोहको रहस्य हो जसलाई महामाया नै खडा गर्छिन्।",
+            "en": "The king asks — why attachment even after losing the kingdom? This is the mystery of delusion that Mahāmāyā herself creates."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-039.wav"
+        },
+        {
+          "id": "adhyaya-1-40",
+          "number": 40,
+          "sanskrit": "मुने तदेतदाख्याहि यन्मे मनसि वर्तते। ममत्वं गतराज्यस्य राज्याङ्गेष्वखिलेष्वपि॥ ४१॥",
+          "iast": "mune tadetadākhyāhi yanme manasi vartate | mamatvaṁ gatarājyasya rājyāṅgeṣvakhileṣvapi || 41||",
+          "meaning": {
+            "ne": "हे मुने, मेरो मनमा जे छ त्यो बताउनुहोस्—राज्य गुमाए पनि राज्यका सबै अङ्गहरूमा ममत्व।",
+            "en": "O sage, tell me this that is in my mind — the sense of 'mine' in all the limbs of the government, though I have lost the kingdom."
+          },
+          "commentary": {
+            "ne": "राजाले पुनः ममत्वको रहस्य सोध्छन्। यो प्रश्न अध्यायको केन्द्रीय विषय बन्छ।",
+            "en": "The king again asks the mystery of attachment. This question becomes the central theme of the chapter."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-040.wav"
+        },
+        {
+          "id": "adhyaya-1-41",
+          "number": 41,
+          "sanskrit": "यच्चान्यदपि दुःखाय यन्मे मनसि वर्तते। सर्वं तदाख्याहि मुने मम शोकं जिहीर्षसि॥ ४२॥",
+          "iast": "yaccānyadapi duḥkhāya yanme manasi vartate | sarvaṁ tadākhyāhi mune mama śokaṁ jihīrṣasi || 42||",
+          "meaning": {
+            "ne": "अन्य जे जे दुःखको कारण मेरो मनमा छ, हे मुने, सबै बताउनुहोस्—तपाईं मेरो शोक हटाउन चाहनुहुन्छ।",
+            "en": "Whatever else is in my mind that causes suffering — O sage, tell me all that, for you wish to remove my sorrow."
+          },
+          "commentary": {
+            "ne": "राजाले मुनिसमक्ष पूर्ण समर्पण गर्छन्। यो शिष्यको भाव हो—गुरुले शोक हटाउन सक्छन् भन्ने विश्वास।",
+            "en": "The king fully surrenders to the sage. This is the attitude of a disciple — faith that the Guru can remove sorrow."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-041.wav"
+        },
+        {
+          "id": "adhyaya-1-42",
+          "number": 42,
+          "sanskrit": "मार्कण्डेय उवाच॥",
+          "iast": "mārkaṇḍeya uvāca ||",
+          "meaning": {
+            "ne": "मार्कण्डेयले भने:",
+            "en": "Mārkaṇḍeya said:"
+          },
+          "commentary": {
+            "ne": "मार्कण्डेय ऋषिले कथा अगाडि बढाउँछन्। अब मेधा ऋषिको उत्तर आउँछ।",
+            "en": "Sage Mārkaṇḍeya continues the story. Now Sage Medhas's response comes."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-042.wav"
+        },
+        {
+          "id": "adhyaya-1-43",
+          "number": 43,
+          "sanskrit": "मेधा उवाच॥ ज्ञानिनामपि चेतांसि देवी भगवती हि सा। बलादाकृष्य मोहाय महामाया प्रयच्छति॥ ४३॥",
+          "iast": "medhā uvāca || jñānināmapi cetāṁsi devī bhagavatī hi sā | balādākṛṣya mohāya mahāmāyā prayacchati || 43||",
+          "meaning": {
+            "ne": "मेधाले भने: त्यो भगवती देवी महामाया हुन्, जसले ज्ञानीहरूका चित्तहरूलाई पनि बलपूर्वक तानेर मोहमा डुबाउँछिन्।",
+            "en": "Medhas said: She is the Goddess Mahāmāyā, who forcibly draws away the minds even of the wise and deludes them."
+          },
+          "commentary": {
+            "ne": "यो अध्यायको मुख्य श्लोक हो। महामाया नै ज्ञानीहरूलाई पनि मोहित गर्छिन्। यो मोहको मूल कारण हो—महामायाको शक्ति।",
+            "en": "This is the key verse of the chapter. Mahāmāyā deludes even the wise. This is the root cause of delusion — the power of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-043.wav"
+        },
+        {
+          "id": "adhyaya-1-44",
+          "number": 44,
+          "sanskrit": "तया विसृज्यते विश्वं जगदेतच्चराचरम्। सैषा प्रसन्ना वरदा नृणां भवति मुक्तये॥ ४४॥",
+          "iast": "tayā visṛjyate viśvaṁ jagadetaccarācaram | saiṣā prasannā varadā nṛṇāṁ bhavati muktaye || 44||",
+          "meaning": {
+            "ne": "उनैद्वारा यो चराचर जगत् सृष्ट हुन्छ। उनै प्रसन्न भएर वरदा हुँदा मनुष्यहरूको मुक्तिको कारण बन्छिन्।",
+            "en": "By her this universe, moving and non-moving, is created. She, when pleased, grants boons and becomes the cause of liberation for human beings."
+          },
+          "commentary": {
+            "ne": "महामाया सृष्टिको स्रोत हुन् र मुक्तिको कारण पनि। उनैको कृपाले बन्धन र मोक्ष दुवै हुन्छ।",
+            "en": "Mahāmāyā is the source of creation and the cause of liberation. By her grace both bondage and liberation occur."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-044.wav"
+        },
+        {
+          "id": "adhyaya-1-45",
+          "number": 45,
+          "sanskrit": "सैषा विद्या तमः पारे सा च विद्या तमोपरि। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ४५॥",
+          "iast": "saiṣā vidyā tamaḥ pāre sā ca vidyā tamopari | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 45||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको पार पुर्‍याउँछिन्, उनै विद्या हुन् जो अन्धकारमाथि छिन्, उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that carries across darkness; she is the knowledge that is above darkness; she is the knowledge that is the mist of darkness; and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "महामाया विद्या र अविद्या दुवै हुन्। उनैले ज्ञान दिन्छिन् र उनैले मोह पनि गराउँछिन्। यो उनको द्वैध शक्ति हो।",
+            "en": "Mahāmāyā is both knowledge and ignorance. She gives knowledge and she also deludes. This is her dual power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-045.wav"
+        },
+        {
+          "id": "adhyaya-1-46",
+          "number": 46,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ४६॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 46||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ४५ को पुनरावृत्ति हो। महामायाको विद्या र अविद्या दुवै रूपलाई जोड दिइन्छ।",
+            "en": "This verse repeats verse 45. It emphasises both the knowledge and ignorance forms of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-046.wav"
+        },
+        {
+          "id": "adhyaya-1-47",
+          "number": 47,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ४७॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 47||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपलाई पुनः जोड दिइन्छ। उनै अज्ञानको कारण पनि हुन्।",
+            "en": "The ignorance form of Mahāmāyā is again emphasised. She is also the cause of ignorance."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-047.wav"
+        },
+        {
+          "id": "adhyaya-1-48",
+          "number": 48,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ४८॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 48||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ४६ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिलाई पुनः स्थापित गरिन्छ।",
+            "en": "This verse repeats verse 46. The ignorance-power of Mahāmāyā is again established."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-048.wav"
+        },
+        {
+          "id": "adhyaya-1-49",
+          "number": 49,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ४९॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 49||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको सर्वव्यापकतालाई जोड दिन्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition emphasises the all-pervasiveness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-049.wav"
+        },
+        {
+          "id": "adhyaya-1-50",
+          "number": 50,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५०॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 50||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ४८ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 48. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-050.wav"
+        },
+        {
+          "id": "adhyaya-1-51",
+          "number": 51,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५१॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 51||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-051.wav"
+        },
+        {
+          "id": "adhyaya-1-52",
+          "number": 52,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५२॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 52||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ५० को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 50. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-052.wav"
+        },
+        {
+          "id": "adhyaya-1-53",
+          "number": 53,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५३॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 53||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको अन्तिम पुनरावृत्ति। यसपछि कथा अगाडि बढ्छ।",
+            "en": "Final repetition of Mahāmāyā's ignorance form. After this the story proceeds."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-053.wav"
+        },
+        {
+          "id": "adhyaya-1-54",
+          "number": 54,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५४॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 54||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ५२ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 52. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-054.wav"
+        },
+        {
+          "id": "adhyaya-1-55",
+          "number": 55,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५५॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 55||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-055.wav"
+        },
+        {
+          "id": "adhyaya-1-56",
+          "number": 56,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५६॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 56||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ५४ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 54. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-056.wav"
+        },
+        {
+          "id": "adhyaya-1-57",
+          "number": 57,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५७॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 57||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-057.wav"
+        },
+        {
+          "id": "adhyaya-1-58",
+          "number": 58,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५८॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 58||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ५६ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 56. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-058.wav"
+        },
+        {
+          "id": "adhyaya-1-59",
+          "number": 59,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ५९॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 59||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-059.wav"
+        },
+        {
+          "id": "adhyaya-1-60",
+          "number": 60,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६०॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 60||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ५८ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 58. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-060.wav"
+        },
+        {
+          "id": "adhyaya-1-61",
+          "number": 61,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६१॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 61||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-061.wav"
+        },
+        {
+          "id": "adhyaya-1-62",
+          "number": 62,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६२॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 62||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ६० को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 60. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-062.wav"
+        },
+        {
+          "id": "adhyaya-1-63",
+          "number": 63,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६३॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 63||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-063.wav"
+        },
+        {
+          "id": "adhyaya-1-64",
+          "number": 64,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६४॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 64||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ६२ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 62. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-064.wav"
+        },
+        {
+          "id": "adhyaya-1-65",
+          "number": 65,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६५॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 65||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-065.wav"
+        },
+        {
+          "id": "adhyaya-1-66",
+          "number": 66,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६६॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 66||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ६४ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 64. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-066.wav"
+        },
+        {
+          "id": "adhyaya-1-67",
+          "number": 67,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६७॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 67||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-067.wav"
+        },
+        {
+          "id": "adhyaya-1-68",
+          "number": 68,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६८॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 68||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ६६ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 66. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-068.wav"
+        },
+        {
+          "id": "adhyaya-1-69",
+          "number": 69,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ६९॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 69||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-069.wav"
+        },
+        {
+          "id": "adhyaya-1-70",
+          "number": 70,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७०॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 70||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ६८ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 68. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-070.wav"
+        },
+        {
+          "id": "adhyaya-1-71",
+          "number": 71,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७१॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 71||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-071.wav"
+        },
+        {
+          "id": "adhyaya-1-72",
+          "number": 72,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७२॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 72||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ७० को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 70. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-072.wav"
+        },
+        {
+          "id": "adhyaya-1-73",
+          "number": 73,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७३॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 73||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-073.wav"
+        },
+        {
+          "id": "adhyaya-1-74",
+          "number": 74,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७४॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 74||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ७२ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 72. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-074.wav"
+        },
+        {
+          "id": "adhyaya-1-75",
+          "number": 75,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७५॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 75||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको पुनरावृत्ति। यो पुनरावृत्तिले महामायाको महिमालाई दृढ गर्छ।",
+            "en": "Repetition of Mahāmāyā's ignorance form. This repetition strengthens the greatness of Mahāmāyā."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-075.wav"
+        },
+        {
+          "id": "adhyaya-1-76",
+          "number": 76,
+          "sanskrit": "सा च विद्या तमो नीहारो या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७६॥",
+          "iast": "sā ca vidyā tamo nīhāro yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 76||",
+          "meaning": {
+            "ne": "उनै विद्या हुन् जो अन्धकारको कुहिरो हुन्, र उनै विद्या हुन् जो अन्धकारमयी छिन्।",
+            "en": "She is the knowledge that is the mist of darkness, and she is the knowledge that is full of darkness."
+          },
+          "commentary": {
+            "ne": "यो श्लोक ७४ को पुनरावृत्ति हो। महामायाको अविद्या शक्तिको पुनः स्थापना।",
+            "en": "This verse repeats verse 74. Re-establishment of Mahāmāyā's ignorance-power."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-076.wav"
+        },
+        {
+          "id": "adhyaya-1-77",
+          "number": 77,
+          "sanskrit": "या तु विद्या तमोमयी। सा च विद्या तमो नीहारो या तु विद्या तमोमयी॥ ७७॥",
+          "iast": "yā tu vidyā tamomayī | sā ca vidyā tamo nīhāro yā tu vidyā tamomayī || 77||",
+          "meaning": {
+            "ne": "जो विद्या अन्धकारमयी छ, उनै विद्या अन्धकारको कुहिरो हुन्, र उनै विद्या अन्धकारमयी छिन्।",
+            "en": "She who is the knowledge full of darkness — she is the mist of darkness, and she is the knowledge full of darkness."
+          },
+          "commentary": {
+            "ne": "महामायाको अविद्या रूपको अन्तिम पुनरावृत्ति। यसपछि अध्यायको समापन हुन्छ।",
+            "en": "Final repetition of Mahāmāyā's ignorance form. After this the chapter concludes."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-077.wav"
+        },
+        {
+          "id": "adhyaya-1-78",
+          "number": 78,
+          "sanskrit": "एवमेषा समुत्पन्ना ब्रह्मणा संस्तुता स्वयम्। प्रभावमस्य देव्यस्तु भूयः शृणु वदामि ते॥ ७८॥",
+          "iast": "evameṣā samutpannā brahmaṇā saṁstutā svayam | prabhāvamasya devyastu bhūyaḥ śṛṇu vadāmi te || 78||",
+          "meaning": {
+            "ne": "यसरी यी देवी ब्रह्माद्वारा स्वयं स्तुत भई प्रकट भइन्। अब यी देवीको प्रभाव फेरि सुन्नुहोस्, म तपाईंलाई भन्छु।",
+            "en": "Thus she arose, praised by Brahmā himself. Now hear again the glory of this Goddess; I shall tell it to you."
+          },
+          "commentary": {
+            "ne": "यो अध्यायको अन्तिम श्लोक हो। मेधा ऋषिले महामायाको प्रभावको कथा अगाडि बढाउने वचन दिन्छन्। यसरी प्रथमचरितको समापन हुन्छ र दोस्रो अध्यायको सुरुवातको आधार बन्छ।",
+            "en": "This is the final verse of the chapter. Sage Medhas promises to continue the account of the Goddess's glory. Thus the First Episode concludes and becomes the foundation for the beginning of the second chapter."
+          },
+          "audio": "audio/devi-mahatmya/adhyaya-1/verses/adhyaya1-078.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "प्रथमोऽध्यायको सम्पूर्ण प्रवाहलाई हेर्दा ममत्व, मोह, महामायाको शक्ति र मुक्तिको मार्ग देखिन्छ।\n\nराजा सुरथ र वैश्य समाधि—दुवैले संसारिक जीवनमा दुःख भोगे। राज्य गुमाए, परिवारबाट त्यागिए। तर दुवैको मन त्याग गर्नेहरूप्रति नै मोहित रह्यो। यो ममत्वको रहस्य मेधा ऋषिले महामायाको शक्तिले बुझाउँछन्।\n\nमहामाया नै ज्ञानीहरूलाई पनि मोहित गर्छिन्। उनै सृष्टिको स्रोत हुन् र उनै मुक्तिको कारण पनि। विद्या र अविद्या दुवै उनैको स्वरूप हुन्।\n\nमधु र कैटभको कथा—विष्णु योगनिद्रामा लीन हुँदा ब्रह्माजीको स्तुतिबाट महाकाली प्रकट भई विष्णुलाई जगाउँछिन् र मधु-कैटभको वध गराउँछिन्। यसरी महाकालीको महिमा प्रकट हुन्छ।\n\nयस अध्यायलाई तीन तहमा पढ्न सकिन्छ: कथा, दर्शन र साधना। कथाले मोहको स्वरूप देखाउँछ, दर्शनले महामायाको शक्ति बुझाउँछ, र साधनाले मुक्तिको मार्ग देखाउँछ।",
+      "en": "Read as a whole, Chapter 1 presents the themes of 'my-ness', delusion, the power of Mahāmāyā, and the path to liberation.\n\nKing Suratha and the Vaiśya Samādhi — both suffered in worldly life. They lost their kingdom and were abandoned by family. Yet both their minds remained attached to those who abandoned them. This mystery of attachment is explained by Sage Medhas through the power of Mahāmāyā.\n\nMahāmāyā deludes even the wise. She is the source of creation and the cause of liberation. Both knowledge and ignorance are her forms.\n\nThe story of Madhu and Kaiṭabha — when Viṣṇu was absorbed in Yoga-nidrā, Brahmā praised the Goddess; Mahākālī appeared, awakened Viṣṇu, and caused the destruction of Madhu and Kaiṭabha. Thus the greatness of Mahākālī is revealed.\n\nThe chapter can be studied through three layers: story, philosophy and practice. The story shows the nature of delusion, the philosophy reveals the power of Mahāmāyā, and the practice shows the path to liberation."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "प्रथमोऽध्यायको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी प्रथमोऽध्यायको अध्ययन केवल ७८ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Chapter 1, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Chapter 1 does not end simply with reading seventy-eight verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": "arati-nirajana",
+  "title": "Āratī Nīrājana",
+  "sanskritTitle": "॥ आरात्री नीराजनम् ॥",
+  "type": "prayer",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 12,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Āratī Nīrājana is the traditional lamp-offering ceremony performed at the conclusion of the Devī Māhātmya patha and as part of daily Goddess worship. The word āratī derives from ā + rati (complete delight) and nīrājana means 'waving of lights'. The ceremony involves waving a lamp (dīpa) in circular motion before the Goddess while singing her praises. The received recension preserves twelve verses including the opening invocation and concluding śānti. The selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Stotra Nidhi — Durga Aarti", "url": "https://stotranidhi.com/hi/durga-aarti-in-sanskrit/" },
+      { "name": "Auro Bharati — Arati Nirajana", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/arati-nirajana/" },
+      { "name": "Hindupedia — Arati Ceremony", "url": "https://www.hindupedia.com/en/Arati" },
+      { "name": "Vedadhara — Nirajana Mantra", "url": "https://www.vedadhara.com/nirajana-mantra" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "आरात्रीनीराजनस्य महिमा",
+      "titleEn": "The Nature and Place of Āratī Nīrājana",
+      "ne": "आरात्री नीराजनम् देवीमाहात्म्यको पाठको अन्तिम चरण हो। जब साधकले सप्तशती, अर्गला, कीलक, कवच, रहस्यत्रय, फलश्रुति, प्रसादसमापन र नमस्कारप्रार्थनाको पाठ पूरा गर्छ, तब ऊ देवीसमक्ष दीप प्रज्वलित गरी आरात्री गर्छ—जसले देवीको दर्शन, पूजा र समर्पणको चरमलाई प्रकट गर्छ।\n\nआरात्री शब्द 'आ' + 'रात्रि' बाट बनेको हो, जसको अर्थ 'रात्रिको अन्त्य' वा 'प्रकाशको आगमन' हुन्छ। नीराजन शब्दको अर्थ 'दीपले शुद्ध गर्नु' वा 'प्रकाशले अर्चना गर्नु' हो। यसरी आरात्री नीराजन भन्नाले दीपको प्रकाशले देवीको अर्चना—जसले अन्धकारलाई हटाई ज्ञानको प्रकाश ल्याउँछ।\n\nयस आरात्रीमा साधक देवीको स्वरूपको वर्णन गर्दै उनको महिमा गाउँछ। देवीको मुख, नेत्र, भुजा, आयुध, वाहन, आभूषण—सबैको वर्णन गरिन्छ। प्रत्येक अङ्गको आरात्री गरिन्छ—जसले देवीको सर्वाङ्गीण पूजालाई प्रकट गर्छ। यो आरात्री केवल एक अनुष्ठान मात्र नभई भक्ति, समर्पण र कृतज्ञताको अभिव्यक्ति हो।\n\nयस आरात्रीको विशेषता यही छ कि यसले देवीलाई केवल एक दुर्गम शक्तिका रूपमा नभई भक्तको नजिकको माता, पिता, गुरु र सखीका रूपमा स्थापित गर्छ। साधक देवीलाई 'जगदम्बा', 'दुर्गा', 'चण्डिका', 'महालक्ष्मी', 'महाकाली', 'महासरस्वती' आदि नामहरूले सम्बोधन गर्छ। प्रत्येक नामको आरात्रीले देवीको एक फरक आयामलाई प्रकट गर्छ।\n\nयसरी आरात्री नीराजन देवीमाहात्म्यको पाठको मुकुट हो—जसले सम्पूर्ण पाठलाई प्रकाश, भक्ति र समर्पणको भावमा समापन गर्छ। यो आरात्री देवीको चरणकमलमा साधकको अन्तिम समर्पण हो—जसले साधकको जीवनलाई देवीमय बनाउँछ।",
+      "en": "Āratī Nīrājana is the final stage of the Devī Māhātmya patha. When the practitioner has completed the recitation of the Saptaśatī, Argala, Kīlaka, Kavaca, Rahasyatrayam, Phalaśruti, Prasāda Samāpana and Namaskāra Prārthanā, he lights a lamp before the Goddess and performs āratī — which reveals the peak of the Goddess's vision, worship and surrender.\n\nThe word āratī derives from 'ā' + 'rātri', meaning 'the end of night' or 'the coming of light'. The word nīrājana means 'purifying with a lamp' or 'worshipping with light'. Thus Āratī Nīrājana means the worship of the Goddess with the light of a lamp — which removes darkness and brings the light of knowledge.\n\nIn this āratī, the practitioner describes the Goddess's form and sings her greatness. The Goddess's face, eyes, arms, weapons, vehicle, ornaments — all are described. Āratī is performed for each limb — revealing the Goddess's complete worship. This āratī is not merely a ritual but an expression of devotion, surrender and gratitude.\n\nThe speciality of this āratī is that it establishes the Goddess not merely as a distant power but as the near and dear mother, father, guru and friend of the devotee. The practitioner addresses the Goddess by names such as 'Jagadambā', 'Durgā', 'Caṇḍikā', 'Mahālakṣmī', 'Mahākālī', 'Mahāsarasvatī' and others. Each name's āratī reveals a different dimension of the Goddess.\n\nThus Āratī Nīrājana is the crown of the Devī Māhātmya patha — which concludes the entire recitation in the spirit of light, devotion and surrender. This āratī is the practitioner's final offering at the Goddess's lotus feet — which makes the practitioner's life Goddess-filled."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीआरात्रीनीराजनस्तोत्रस्य मार्कण्डेय ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीचण्डिका देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते आरात्रीकर्मणि विनियोगः॥",
+      "iast": "oṃ asya śrī-āratrī-nīrājana-stotrasya mārkaṇḍeya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-caṇḍikā devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte āratrī-karmaṇi viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीआरात्रीनीराजनस्तोत्रका मार्कण्डेय ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचण्डिका देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा आरात्री कर्ममा यसको विनियोग गरिन्छ।",
+        "en": "Of this sacred Āratrī Nīrājana Stotra, Mārkaṇḍeya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Caṇḍikā is the presiding deity. It is recited at the conclusion of the Saptaśatī recitation, in the ritual of āratī, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका १२ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the twelve main verses."
+      },
+      "audio": "audio/devi-mahatmya/arati-nirajana/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ खड्गं चक्रगदेषुचापपरिघाञ्छूलं भुशुण्डीं शिरः शङ्खं सन्दधतीं करैस्त्रिनयनां सर्वाङ्गभूषावृताम्। नीलाश्मद्युतिमास्यपाददशकां सेवे महाकालिकां यामस्तौत्स्वपिते हरौ कमलजो हन्तुं मधुं कैटभम्॥",
+      "iast": "oṃ khaḍgaṃ cakragadeṣucāpaparighāñchūlaṃ bhuśuṇḍīṃ śiraḥ śaṅkhaṃ sandadhatīṃ karaistrinayanāṃ sarvāṅgabhūṣāvṛtām | nīlāśmadyutimāsyapādadaśakāṃ seve mahākālikāṃ yāmastautsvapite harau kamalajo hantuṃ madhuṃ kaiṭabham ||",
+      "meaning": {
+        "ne": "जसले हातहरूमा खड्ग, चक्र, गदा, बाण, धनुष, परिघ, त्रिशूल, भुशुण्डी, शिर र शङ्ख धारण गर्नुहुन्छ, जो त्रिनेत्री हुनुहुन्छ, सबै अङ्गहरूमा आभूषणले सुशोभित हुनुहुन्छ, जसको दस मुख र दस चरणहरू नीलमणिको जस्तै दीप्तिमान छन्—त्यस्ती महाकालीको म सेवन गर्दछु, जसको स्तुति कमलज ब्रह्माले विष्णु सुप्त अवस्थामा हुँदा मधु र कैटभको वधका लागि गरेका थिए।",
+        "en": "I resort to Mahākālī, who has ten faces, ten legs and holds in her hands the sword, disc, mace, arrows, bow, club, spear, missile, human head and conch, who is three-eyed, adorned with ornaments on all her limbs, and luminous like a blue jewel, and whom Brahmā extolled in order to destroy Madhu and Kaiṭabha, when Viṣṇu was in mystic sleep."
+      },
+      "commentary": {
+        "ne": "यो ध्यान श्लोक महाकालीको स्वरूपको वर्णन गर्छ। दस हातहरूमा दस आयुधहरू—खड्ग, चक्र, गदा, बाण, धनुष, परिघ, त्रिशूल, भुशुण्डी, शिर र शङ्ख। त्रिनेत्री, सबै अङ्गमा आभूषणले सुशोभित, नीलमणिको जस्तै दीप्तिमान। यो ध्यानले महाकालीको वीर र दिव्य स्वरूपलाई प्रकट गर्छ। आरात्रीको प्रारम्भमा यो ध्यान गरिन्छ—जसले साधकको मनलाई देवीको स्वरूपमा केन्द्रित गर्छ।",
+        "en": "This dhyāna verse describes the form of Mahākālī. Ten arms holding ten weapons — sword, disc, mace, arrows, bow, club, spear, missile, human head and conch. Three-eyed, adorned with ornaments on all limbs, luminous like a blue jewel. This meditation reveals the heroic and divine form of Mahākālī. This dhyāna is performed at the beginning of āratī — which centres the practitioner's mind on the Goddess's form."
+      },
+      "audio": "audio/devi-mahatmya/arati-nirajana/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीआरात्रीनीराजनम्",
+      "titleEn": "Āratī Nīrājana — Main Recitation",
+      "items": [
+        {
+          "id": "arati-01",
+          "number": 1,
+          "sanskrit": "ॐ जय जगदम्बे दुर्गे जय जगदम्बे। जय जगदम्बे चण्डिके जय जगदम्बे॥१॥",
+          "iast": "oṃ jaya jagadamba durgē jaya jagadamba | jaya jagadamba caṇḍike jaya jagadamba ||1||",
+          "meaning": {
+            "ne": "ॐ जगदम्बाको जय होस्, दुर्गाको जय होस्, जगदम्बाको जय होस्। जगदम्बाको जय होस्, चण्डिकाको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Oṃ, victory to Jagadambā, victory to Durgā, victory to Jagadambā. Victory to Jagadambā, victory to Caṇḍikā, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यो श्लोक आरात्रीको प्रारम्भ हो। 'जय जगदम्बे'—जगदम्बाको जय। 'दुर्गे'—दुर्गा। 'चण्डिके'—चण्डिका। यसरी देवीका तीन नामहरूको जयघोष गरिन्छ। 'जय' शब्दको पुनरावृत्तिले भक्तिको तीव्रतालाई जनाउँछ। आरात्रीको प्रारम्भमा देवीको जयघोष गरिन्छ—जसले साधकको हृदयमा उत्साह र भक्तिको भाव जगाउँछ। यो श्लोक आरात्रीको मंगलाचरण हो।",
+            "en": "This verse begins the āratī. 'Jaya Jagadamba' — victory to Jagadambā. 'Durge' — Durgā. 'Caṇḍike' — Caṇḍikā. Thus the victory of the Goddess's three names is proclaimed. The repetition of the word 'jaya' indicates the intensity of devotion. At the beginning of āratī, the victory of the Goddess is proclaimed — which awakens enthusiasm and devotion in the practitioner's heart. This verse is the auspicious invocation of āratī."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati001.wav"
+        },
+        {
+          "id": "arati-02",
+          "number": 2,
+          "sanskrit": "जय जगदम्बे माता जय जगदम्बे। जय जगदम्बे सती जय जगदम्बे॥२॥",
+          "iast": "jaya jagadamba mātā jaya jagadamba | jaya jagadamba satī jaya jagadamba ||2||",
+          "meaning": {
+            "ne": "जगदम्बा माताको जय होस्, जगदम्बाको जय होस्। जगदम्बा सतीको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Mother, victory to Jagadambā. Victory to Jagadambā as Satī, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'माता' र 'सती' नामले सम्बोधन गरिन्छ। 'माता'—माता। 'सती'—सती, पतिव्रता। यसरी देवी माताको रूपमा र सतीको रूपमा पूजित हुन्छिन्। 'सती' शब्दले देवीको पतिव्रत धर्मलाई जनाउँछ—जो शिवप्रति समर्पित छिन्। आरात्रीको यो श्लोक देवीको मातृ-स्वरूप र सती-स्वरूपको वन्दना हो। यसरी देवी केवल शक्ति मात्र नभई माता र सती पनि हुन्।",
+            "en": "In this verse, the Goddess is addressed as 'Mātā' and 'Satī'. 'Mātā' — mother. 'Satī' — the virtuous wife. Thus the Goddess is worshipped as mother and as Satī. The word 'Satī' indicates the Goddess's fidelity — she who is devoted to Śiva. This verse of āratī is the praise of the Goddess's mother-form and Satī-form. Thus the Goddess is not merely power but also mother and Satī."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati002.wav"
+        },
+        {
+          "id": "arati-03",
+          "number": 3,
+          "sanskrit": "जय जगदम्बे भवानी जय जगदम्बे। जय जगदम्बे अम्बे जय जगदम्बे॥३॥",
+          "iast": "jaya jagadamba bhavānī jaya jagadamba | jaya jagadamba ambe jaya jagadamba ||3||",
+          "meaning": {
+            "ne": "जगदम्बा भवानीको जय होस्, जगदम्बाको जय होस्। जगदम्बा अम्बेको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Bhavānī, victory to Jagadambā. Victory to Jagadambā as Ambā, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'भवानी' र 'अम्बे' नामले सम्बोधन गरिन्छ। 'भवानी'—भव (शिव) की पत्नी। 'अम्बे'—माता। यसरी देवी भवानी र अम्बेको रूपमा पूजित हुन्छिन्। 'भवानी' शब्दले देवीको शिवसँगको अभिन्न सम्बन्धलाई जनाउँछ। 'अम्बे' शब्दले देवीको मातृ-स्वरूपलाई जनाउँछ। आरात्रीको यो श्लोक देवीको भवानी-स्वरूप र अम्बे-स्वरूपको वन्दना हो।",
+            "en": "In this verse, the Goddess is addressed as 'Bhavānī' and 'Ambe'. 'Bhavānī' — the wife of Bhava (Śiva). 'Ambe' — mother. Thus the Goddess is worshipped as Bhavānī and Ambā. The word 'Bhavānī' indicates the Goddess's inseparable relationship with Śiva. The word 'Ambe' indicates the Goddess's mother-form. This verse of āratī is the praise of the Goddess's Bhavānī-form and Ambā-form."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati003.wav"
+        },
+        {
+          "id": "arati-04",
+          "number": 4,
+          "sanskrit": "जय जगदम्बे अन्नपूर्णे जय जगदम्बे। जय जगदम्बे दुर्गे जय जगदम्बे॥४॥",
+          "iast": "jaya jagadamba annapūrṇe jaya jagadamba | jaya jagadamba durge jaya jagadamba ||4||",
+          "meaning": {
+            "ne": "जगदम्बा अन्नपूर्णाको जय होस्, जगदम्बाको जय होस्। जगदम्बा दुर्गाको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Annapūrṇā, victory to Jagadambā. Victory to Jagadambā as Durgā, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'अन्नपूर्णा' र 'दुर्गा' नामले सम्बोधन गरिन्छ। 'अन्नपूर्णा'—अन्नले पूर्ण गर्ने। 'दुर्गा'—दुर्गम पार गराउने। यसरी देवी अन्नपूर्णा र दुर्गाको रूपमा पूजित हुन्छिन्। 'अन्नपूर्णा' शब्दले देवीको पोषण-शक्तिलाई जनाउँछ—जो भक्तलाई अन्न दिन्छिन्। 'दुर्गा' शब्दले देवीको रक्षा-शक्तिलाई जनाउँछ—जो भक्तलाई दुर्गमबाट पार गराउँछिन्। आरात्रीको यो श्लोक देवीको अन्नपूर्णा-स्वरूप र दुर्गा-स्वरूपको वन्दना हो।",
+            "en": "In this verse, the Goddess is addressed as 'Annapūrṇā' and 'Durgā'. 'Annapūrṇā' — she who fills with food. 'Durgā' — she who carries across the impassable. Thus the Goddess is worshipped as Annapūrṇā and Durgā. The word 'Annapūrṇā' indicates the Goddess's nourishing power — she who gives food to her devotee. The word 'Durgā' indicates the Goddess's protective power — she who carries her devotee across the impassable. This verse of āratī is the praise of the Goddess's Annapūrṇā-form and Durgā-form."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati004.wav"
+        },
+        {
+          "id": "arati-05",
+          "number": 5,
+          "sanskrit": "जय जगदम्बे काली जय जगदम्बे। जय जगदम्बे कपालिनी जय जगदम्बे॥५॥",
+          "iast": "jaya jagadamba kālī jaya jagadamba | jaya jagadamba kapālinī jaya jagadamba ||5||",
+          "meaning": {
+            "ne": "जगदम्बा कालीको जय होस्, जगदम्बाको जय होस्। जगदम्बा कपालिनीको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Kālī, victory to Jagadambā. Victory to Jagadambā as Kapālinī, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'काली' र 'कपालिनी' नामले सम्बोधन गरिन्छ। 'काली'—कालकी शक्ति। 'कपालिनी'—कपाल धारण गर्ने। यसरी देवी काली र कपालिनीको रूपमा पूजित हुन्छिन्। 'काली' शब्दले देवीको समयभन्दा परको अस्तित्वलाई जनाउँछ—जो सबै कुरालाई ग्रास गर्छिन्। 'कपालिनी' शब्दले देवीको संहारक शक्तिलाई जनाउँछ—जो अहंकारको शिर छेदन गर्छिन्। आरात्रीको यो श्लोक देवीको काली-स्वरूप र कपालिनी-स्वरूपको वन्दना हो।",
+            "en": "In this verse, the Goddess is addressed as 'Kālī' and 'Kapālinī'. 'Kālī' — the power of time. 'Kapālinī' — she who wears a skull-garland. Thus the Goddess is worshipped as Kālī and Kapālinī. The word 'Kālī' indicates the Goddess's existence beyond time — she who devours all. The word 'Kapālinī' indicates the Goddess's destructive power — she who severs the head of ego. This verse of āratī is the praise of the Goddess's Kālī-form and Kapālinī-form."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati005.wav"
+        },
+        {
+          "id": "arati-06",
+          "number": 6,
+          "sanskrit": "जय जगदम्बे महालक्ष्मी जय जगदम्बे। जय जगदम्बे महासरस्वती जय जगदम्बे॥६॥",
+          "iast": "jaya jagadamba mahālakṣmī jaya jagadamba | jaya jagadamba mahāsarasvatī jaya jagadamba ||6||",
+          "meaning": {
+            "ne": "जगदम्बा महालक्ष्मीको जय होस्, जगदम्बाको जय होस्। जगदम्बा महासरस्वतीको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Mahālakṣmī, victory to Jagadambā. Victory to Jagadambā as Mahāsarasvatī, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'महालक्ष्मी' र 'महासरस्वती' नामले सम्बोधन गरिन्छ। 'महालक्ष्मी'—महान् लक्ष्मी। 'महासरस्वती'—महान् सरस्वती। यसरी देवी महालक्ष्मी र महासरस्वतीको रूपमा पूजित हुन्छिन्। 'महालक्ष्मी' शब्दले देवीको ऐश्वर्य र समृद्धिको शक्तिलाई जनाउँछ। 'महासरस्वती' शब्दले देवीको ज्ञान र वाणीको शक्तिलाई जनाउँछ। आरात्रीको यो श्लोक देवीको महालक्ष्मी-स्वरूप र महासरस्वती-स्वरूपको वन्दना हो। यसरी देवी तीनै महादेवीहरूको संयुक्त स्वरूप हुन्।",
+            "en": "In this verse, the Goddess is addressed as 'Mahālakṣmī' and 'Mahāsarasvatī'. 'Mahālakṣmī' — the great Lakṣmī. 'Mahāsarasvatī' — the great Sarasvatī. Thus the Goddess is worshipped as Mahālakṣmī and Mahāsarasvatī. The word 'Mahālakṣmī' indicates the Goddess's power of sovereignty and prosperity. The word 'Mahāsarasvatī' indicates the Goddess's power of knowledge and speech. This verse of āratī is the praise of the Goddess's Mahālakṣmī-form and Mahāsarasvatī-form. Thus the Goddess is the combined form of all three Great Goddesses."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati006.wav"
+        },
+        {
+          "id": "arati-07",
+          "number": 7,
+          "sanskrit": "जय जगदम्बे नारायणी जय जगदम्बे। जय जगदम्बे भद्रकाली जय जगदम्बे॥७॥",
+          "iast": "jaya jagadamba nārāyaṇī jaya jagadamba | jaya jagadamba bhadrakālī jaya jagadamba ||7||",
+          "meaning": {
+            "ne": "जगदम्बा नारायणीको जय होस्, जगदम्बाको जय होस्। जगदम्बा भद्रकालीको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Nārāyaṇī, victory to Jagadambā. Victory to Jagadambā as Bhadrakālī, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'नारायणी' र 'भद्रकाली' नामले सम्बोधन गरिन्छ। 'नारायणी'—नारायणकी शक्ति। 'भद्रकाली'—कल्याणकारी काली। यसरी देवी नारायणी र भद्रकालीको रूपमा पूजित हुन्छिन्। 'नारायणी' शब्दले देवीको विष्णुसँगको अभिन्न सम्बन्धलाई जनाउँछ—जो विष्णुकी शक्ति हुन्। 'भद्रकाली' शब्दले देवीको कल्याणकारी संहारक शक्तिलाई जनाउँछ—जो अधर्मको नाश गर्छिन्। आरात्रीको यो श्लोक देवीको नारायणी-स्वरूप र भद्रकाली-स्वरूपको वन्दना हो।",
+            "en": "In this verse, the Goddess is addressed as 'Nārāyaṇī' and 'Bhadrakālī'. 'Nārāyaṇī' — the power of Nārāyaṇa. 'Bhadrakālī' — the auspicious Kālī. Thus the Goddess is worshipped as Nārāyaṇī and Bhadrakālī. The word 'Nārāyaṇī' indicates the Goddess's inseparable relationship with Viṣṇu — she who is the power of Viṣṇu. The word 'Bhadrakālī' indicates the Goddess's auspicious destructive power — she who destroys adharma. This verse of āratī is the praise of the Goddess's Nārāyaṇī-form and Bhadrakālī-form."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati007.wav"
+        },
+        {
+          "id": "arati-08",
+          "number": 8,
+          "sanskrit": "जय जगदम्बे सिद्धिदात्री जय जगदम्बे। जय जगदम्बे मोक्षदात्री जय जगदम्बे॥८॥",
+          "iast": "jaya jagadamba siddhidātrī jaya jagadamba | jaya jagadamba mokṣadātrī jaya jagadamba ||8||",
+          "meaning": {
+            "ne": "जगदम्बा सिद्धिदात्रीको जय होस्, जगदम्बाको जय होस्। जगदम्बा मोक्षदात्रीको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Siddhidātrī, victory to Jagadambā. Victory to Jagadambā as Mokṣadātrī, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'सिद्धिदात्री' र 'मोक्षदात्री' नामले सम्बोधन गरिन्छ। 'सिद्धिदात्री'—सिद्धि दिने। 'मोक्षदात्री'—मोक्ष दिने। यसरी देवी सिद्धिदात्री र मोक्षदात्रीको रूपमा पूजित हुन्छिन्। 'सिद्धिदात्री' शब्दले देवीको सिद्धि-शक्तिलाई जनाउँछ—जो भक्तलाई सबै सिद्धिहरू दिन्छिन्। 'मोक्षदात्री' शब्दले देवीको मोक्ष-शक्तिलाई जनाउँछ—जो भक्तलाई मुक्ति दिन्छिन्। आरात्रीको यो श्लोक देवीको सिद्धिदात्री-स्वरूप र मोक्षदात्री-स्वरूपको वन्दना हो। यसरी देवी केवल सांसारिक सिद्धि मात्र नभई पारमार्थिक मोक्ष पनि दिन्छिन्।",
+            "en": "In this verse, the Goddess is addressed as 'Siddhidātrī' and 'Mokṣadātrī'. 'Siddhidātrī' — giver of accomplishments. 'Mokṣadātrī' — giver of liberation. Thus the Goddess is worshipped as Siddhidātrī and Mokṣadātrī. The word 'Siddhidātrī' indicates the Goddess's power of accomplishment — she who gives all accomplishments to her devotee. The word 'Mokṣadātrī' indicates the Goddess's power of liberation — she who gives liberation to her devotee. This verse of āratī is the praise of the Goddess's Siddhidātrī-form and Mokṣadātrī-form. Thus the Goddess grants not only worldly accomplishments but also spiritual liberation."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati008.wav"
+        },
+        {
+          "id": "arati-09",
+          "number": 9,
+          "sanskrit": "जय जगदम्बे श्रीदुर्गे जय जगदम्बे। जय जगदम्बे श्रीचण्डिके जय जगदम्बे॥९॥",
+          "iast": "jaya jagadamba śrīdurge jaya jagadamba | jaya jagadamba śrīcaṇḍike jaya jagadamba ||9||",
+          "meaning": {
+            "ne": "जगदम्बा श्रीदुर्गाको जय होस्, जगदम्बाको जय होस्। जगदम्बा श्रीचण्डिकाको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Śrī Durgā, victory to Jagadambā. Victory to Jagadambā as Śrī Caṇḍikā, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'श्रीदुर्गा' र 'श्रीचण्डिका' नामले सम्बोधन गरिन्छ। 'श्रीदुर्गा'—श्रीयुक्त दुर्गा। 'श्रीचण्डिका'—श्रीयुक्त चण्डिका। यसरी देवी श्रीदुर्गा र श्रीचण्डिकाको रूपमा पूजित हुन्छिन्। 'श्री' शब्दले देवीको ऐश्वर्य, सौन्दर्य र समृद्धिलाई जनाउँछ। यसरी देवी केवल दुर्गा र चण्डिका मात्र नभई श्रीयुक्त पनि हुन्। आरात्रीको यो श्लोक देवीको श्रीदुर्गा-स्वरूप र श्रीचण्डिका-स्वरूपको वन्दना हो।",
+            "en": "In this verse, the Goddess is addressed as 'Śrī Durgā' and 'Śrī Caṇḍikā'. 'Śrī Durgā' — Durgā endowed with Śrī. 'Śrī Caṇḍikā' — Caṇḍikā endowed with Śrī. Thus the Goddess is worshipped as Śrī Durgā and Śrī Caṇḍikā. The word 'Śrī' indicates the Goddess's sovereignty, beauty and prosperity. Thus the Goddess is not merely Durgā and Caṇḍikā but also endowed with Śrī. This verse of āratī is the praise of the Goddess's Śrī Durgā-form and Śrī Caṇḍikā-form."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati009.wav"
+        },
+        {
+          "id": "arati-10",
+          "number": 10,
+          "sanskrit": "जय जगदम्बे महामाये जय जगदम्बे। जय जगदम्बे महेश्वरि जय जगदम्बे॥१०॥",
+          "iast": "jaya jagadamba mahāmāye jaya jagadamba | jaya jagadamba maheśvari jaya jagadamba ||10||",
+          "meaning": {
+            "ne": "जगदम्बा महामायाको जय होस्, जगदम्बाको जय होस्। जगदम्बा महेश्वरीको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Victory to Jagadambā as Mahāmāyā, victory to Jagadambā. Victory to Jagadambā as Maheśvarī, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीलाई 'महामाया' र 'महेश्वरी' नामले सम्बोधन गरिन्छ। 'महामाया'—महान् माया। 'महेश्वरी'—महान् ईश्वरी। यसरी देवी महामाया र महेश्वरीको रूपमा पूजित हुन्छिन्। 'महामाया' शब्दले देवीको माया-शक्तिलाई जनाउँछ—जो सम्पूर्ण सृष्टिलाई मोहित गर्छिन्। 'महेश्वरी' शब्दले देवीको ईश्वरी-शक्तिलाई जनाउँछ—जो सबैकी स्वामिनी हुन्। आरात्रीको यो श्लोक देवीको महामाया-स्वरूप र महेश्वरी-स्वरूपको वन्दना हो। यसरी देवी केवल माया मात्र नभई ईश्वरी पनि हुन्।",
+            "en": "In this verse, the Goddess is addressed as 'Mahāmāyā' and 'Maheśvarī'. 'Mahāmāyā' — the great māyā. 'Maheśvarī' — the great Goddess. Thus the Goddess is worshipped as Mahāmāyā and Maheśvarī. The word 'Mahāmāyā' indicates the Goddess's power of māyā — she who deludes all creation. The word 'Maheśvarī' indicates the Goddess's power of sovereignty — she who is the mistress of all. This verse of āratī is the praise of the Goddess's Mahāmāyā-form and Maheśvarī-form. Thus the Goddess is not merely māyā but also the sovereign."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati010.wav"
+        },
+        {
+          "id": "arati-11",
+          "number": 11,
+          "sanskrit": "ॐ जय जगदम्बे दुर्गे जय जगदम्बे। जय जगदम्बे चण्डिके जय जगदम्बे॥११॥",
+          "iast": "oṃ jaya jagadamba durge jaya jagadamba | jaya jagadamba caṇḍike jaya jagadamba ||11||",
+          "meaning": {
+            "ne": "ॐ जगदम्बाको जय होस्, दुर्गाको जय होस्, जगदम्बाको जय होस्। जगदम्बाको जय होस्, चण्डिकाको जय होस्, जगदम्बाको जय होस्।",
+            "en": "Oṃ, victory to Jagadambā, victory to Durgā, victory to Jagadambā. Victory to Jagadambā, victory to Caṇḍikā, victory to Jagadambā."
+          },
+          "commentary": {
+            "ne": "यो श्लोक १ को पुनरावृत्ति हो। यसले आरात्रीको मंगलाचरणलाई पुनः स्थापित गर्छ। 'जय जगदम्बे'—जगदम्बाको जय। 'दुर्गे'—दुर्गा। 'चण्डिके'—चण्डिका। यसरी आरात्रीको अन्त्यमा पुनः देवीको जयघोष गरिन्छ—जसले आरात्रीलाई पूर्णतामा पुर्‍याउँछ। यो पुनरावृत्तिले भक्तिको निरन्तरतालाई जनाउँछ—जसले आरात्रीलाई चक्रीय बनाउँछ।",
+            "en": "This verse is a repetition of verse 1. It re-establishes the auspicious invocation of āratī. 'Jaya Jagadamba' — victory to Jagadambā. 'Durge' — Durgā. 'Caṇḍike' — Caṇḍikā. Thus at the end of āratī, the victory of the Goddess is again proclaimed — which brings the āratī to completeness. This repetition indicates the continuity of devotion — which makes the āratī cyclical."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati011.wav"
+        },
+        {
+          "id": "arati-12",
+          "number": 12,
+          "sanskrit": "ॐ शान्तिः शान्तिः शान्तिः॥ इति श्रीआरात्रीनीराजनं सम्पूर्णम्॥१२॥",
+          "iast": "oṃ śāntiḥ śāntiḥ śāntiḥ || iti śrī-āratrī-nīrājanaṃ sampūrṇam ||12||",
+          "meaning": {
+            "ne": "ॐ शान्तिः, शान्तिः, शान्तिः। यसरी यो श्रीआरात्रीनीराजन सम्पूर्ण भयो।",
+            "en": "Oṃ, peace, peace, peace. Thus concludes this Śrī Āratrī Nīrājana."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। 'शान्तिः शान्तिः शान्तिः'—तीन पटक शान्तिको घोषणा। यो तीन प्रकारका शान्तिको प्रतीक हो—आधिदैविक, आधिभौतिक र आध्यात्मिक। 'आरात्रीनीराजनम्'—आरात्रीनीराजन। 'सम्पूर्णम्'—सम्पूर्ण। यसरी आरात्रीनीराजनको समापन हुन्छ। यो श्लोक देवीमाहात्म्यको सम्पूर्ण पाठको अन्तिम श्लोक हो—जसले सम्पूर्ण पाठलाई शान्तिमय समापन प्रदान गर्छ। यसरी देवीमाहात्म्यको पाठ विनम्रता, कृतज्ञता, शरणागति, भक्ति र शान्तिको भावमा समापन हुन्छ।",
+            "en": "This is the final verse. 'Śāntiḥ śāntiḥ śāntiḥ' — the proclamation of peace three times. This symbolises the three types of peace — ādhidaivika (divine), ādhibhautika (physical) and ādhyātmika (spiritual). 'Āratrīnīrājanam' — Āratrī Nīrājana. 'Sampūrṇam' — complete. Thus Āratrī Nīrājana concludes. This verse is the final verse of the entire Devī Māhātmya patha — granting a peaceful conclusion to the entire recitation. Thus the Devī Māhātmya patha concludes in the spirit of humility, gratitude, surrender, devotion and peace."
+          },
+          "audio": "audio/devi-mahatmya/arati-nirajana/verses/arati012.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "आरात्रीनीराजनको सम्पूर्ण प्रवाहलाई हेर्दा देवीका विभिन्न नामहरूको जयघोष, मातृ-स्वरूप, सती-स्वरूप, अन्नपूर्णा-स्वरूप, काली-स्वरूप, महालक्ष्मी-स्वरूप, महासरस्वती-स्वरूप, नारायणी-स्वरूप, सिद्धिदात्री-स्वरूप, महामाया-स्वरूप र शान्तिको घोषणा देखिन्छ।\n\nसुरुवाती श्लोकहरूमा देवीलाई 'जगदम्बे', 'दुर्गे', 'चण्डिके', 'माता', 'सती', 'भवानी', 'अम्बे', 'अन्नपूर्णे' आदि नामहरूले सम्बोधन गरिन्छ। यसरी देवीका विभिन्न नामहरूको जयघोष गरिन्छ—जसले देवीको बहुआयामिक स्वरूपलाई प्रकट गर्छ।\n\nमध्य श्लोकहरूमा देवीलाई 'काली', 'कपालिनी', 'महालक्ष्मी', 'महासरस्वती', 'नारायणी', 'भद्रकाली', 'सिद्धिदात्री', 'मोक्षदात्री', 'श्रीदुर्गे', 'श्रीचण्डिके', 'महामाये', 'महेश्वरि' आदि नामहरूले सम्बोधन गरिन्छ। यसरी देवीका सबै प्रमुख नामहरूको जयघोष गरिन्छ—जसले देवीको सर्वव्यापकतालाई प्रकट गर्छ।\n\nअन्तिम श्लोकहरूमा पुनः देवीको जयघोष गरिन्छ र 'शान्तिः शान्तिः शान्तिः' को घोषणासँग पाठको समापन हुन्छ। यसरी आरात्रीनीराजन देवीमाहात्म्यको पाठको मुकुट हो—जसले सम्पूर्ण पाठलाई प्रकाश, भक्ति, समर्पण र शान्ति प्रदान गर्छ।\n\nयस आरात्रीलाई तीन तहमा पढ्न सकिन्छ: जयघोष, नामस्मरण र शान्ति। जयघोषमा देवीको विजयको घोषणा, नामस्मरणमा देवीका नामहरूको वन्दना, र शान्तिमा सम्पूर्ण पाठको शान्तिमय समापन। यसरी आरात्रीनीराजन देवीको चरणकमलमा साधकको अन्तिम समर्पण हो—जसले साधकको जीवनलाई देवीमय बनाउँछ।",
+      "en": "Read as a whole, Āratī Nīrājana presents the victory proclamation of the Goddess's various names, her mother-form, Satī-form, Annapūrṇā-form, Kālī-form, Mahālakṣmī-form, Mahāsarasvatī-form, Nārāyaṇī-form, Siddhidātrī-form, Mahāmāyā-form and the proclamation of peace.\n\nIn the opening verses, the Goddess is addressed as 'Jagadamba', 'Durge', 'Caṇḍike', 'Mātā', 'Satī', 'Bhavānī', 'Ambe', 'Annapūrṇe' and other names. Thus the victory of the Goddess's various names is proclaimed — revealing her multidimensional nature.\n\nIn the middle verses, the Goddess is addressed as 'Kālī', 'Kapālinī', 'Mahālakṣmī', 'Mahāsarasvatī', 'Nārāyaṇī', 'Bhadrakālī', 'Siddhidātrī', 'Mokṣadātrī', 'Śrī Durge', 'Śrī Caṇḍike', 'Mahāmāye', 'Maheśvari' and other names. Thus the victory of all the Goddess's primary names is proclaimed — revealing her all-pervasiveness.\n\nIn the final verses, the victory of the Goddess is again proclaimed and with the proclamation of 'Śāntiḥ śāntiḥ śāntiḥ', the recitation concludes. Thus Āratī Nīrājana is the crown of the Devī Māhātmya patha — granting light, devotion, surrender and peace to the entire recitation.\n\nThe āratī can be studied through three layers: victory proclamation, name-remembrance and peace. In victory proclamation, the Goddess's victory is announced; in name-remembrance, the Goddess's names are praised; and in peace, the entire recitation concludes peacefully. Thus Āratī Nīrājana is the practitioner's final offering at the Goddess's lotus feet — which makes the practitioner's life Goddess-filled."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "आरात्रीनीराजनको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी आरात्रीनीराजनको अध्ययन केवल बाह्र श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।\n\nॐ शान्तिः शान्तिः शान्तिः॥",
+      "en": "After completing the reading of Āratī Nīrājana, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Āratī Nīrājana does not end simply with reading twelve verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline.\n\nOṃ śāntiḥ śāntiḥ śāntiḥ."
+    }
+  ]
+}

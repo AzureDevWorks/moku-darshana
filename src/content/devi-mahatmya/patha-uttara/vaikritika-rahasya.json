@@ -1,0 +1,661 @@
+{
+  "id": "vaikritika-rahasya",
+  "title": "Vaikṛtika Rahasya",
+  "sanskritTitle": "॥ श्रीवैकृतिकरहस्यम् ॥",
+  "type": "rahasya",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 39,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Vaikṛtika Rahasya is the second of the three secret teachings (Rahasyatrayam) appended to the Devī Māhātmya, following the Prādhānika Rahasya and preceding the Mūrti Rahasya. It describes how the one supreme Goddess, beyond all change, subjects herself to modification (vikṛti) and manifests as the three great streams of cosmic energy — Mahākālī, Mahālakṣmī and Mahāsarasvatī — corresponding to tamas, rajas and sattva. The text is recited after the thirteen chapters of the Saptaśatī. The received recension preserves thirty-nine verses including the phala-śruti.",
+    "references": [
+      { "name": "Digital Temple of the Divine Mother — Vaikrtika Rahasya", "url": "https://devimahatmya.com/angas/vaikrtika-rahasya/" },
+      { "name": "Vedadhara — Vaikritika Rahasyam: Forms, Worship, and Glory of Chandika", "url": "https://www.vedadhara.com/vaikritika-rahasyam-forms-worship-and-glory-of-chandika" },
+      { "name": "Astrologics — Atha Vaikritikam Rahasyam: Sanskrit Text, Meaning & Benefits", "url": "https://www.astrologics.in/blog/atha-vaikritikam-rahasyam-durga-saptashati" },
+      { "name": "Advaita-l — Vaikrtika rahasya: the mystery of the transformations", "url": "https://lists.advaita-vedanta.org/archives/advaita-l/2009-September/022595.html" },
+      { "name": "Stotra Nidhi — Durga Saptashati Vaikruthika Rahasyam", "url": "https://stotranidhi.com/hi/durga-saptashati-vaikruthika-rahasyam-in-sanskrit/" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "वैकृतिकरहस्यस्य महिमा",
+      "titleEn": "The Nature and Place of Vaikṛtika Rahasya",
+      "ne": "वैकृतिकरहस्यम् देवीमाहात्म्यको तीन रहस्यहरू (रहस्यत्रयम्) मध्ये दोस्रो हो। यो सप्तशतीको अन्त्यमा पठन गरिन्छ र यसले देवीको तीन प्रमुख शक्ति-धाराहरू—महाकाली, महालक्ष्मी र महासरस्वती—को वर्णन गर्छ, जो क्रमशः तमस्, रजस् र सत्त्व गुणसँग सम्बन्धित छन्।\n\nवैकृतिक शब्दको अर्थ 'विकृति' वा 'परिवर्तन'सँग सम्बन्धित हो। यस रहस्यमा वर्णन गरिएको छ कि कसरी परिवर्तनभन्दा परको दिव्य सत्ता आफैं परिवर्तनको अधीनमा हुन्छिन्—कसरी मूल प्रकृति (उत्पादक) विकृति (उत्पन्न) बन्छिन्। यसरी यो रहस्य सृष्टिको मूल प्रक्रियाको गूढ ज्ञान हो।\n\nयस रहस्यमा तीन महादेवीहरूको स्वरूप, आयुध, वाहन र पूजन-विधिको विस्तृत वर्णन गरिएको छ। महाकाली तमोगुणकी, महालक्ष्मी त्रिगुणात्मिका र महासरस्वती सत्त्वगुणकी देवी हुन्। यसरी एउटै परम शक्ति तीन गुणहरूद्वारा तीन रूपमा प्रकट हुन्छिन्—जसले सृष्टि, स्थिति र संहारको चक्र चलाउँछिन्।\n\nयस रहस्यको विशेषता यही छ कि यसले केवल देवीको महिमा मात्र वर्णन गर्दैन, तर उनको पूजन-विधि, मन्त्र, बलि, नैवेद्य र ध्यानको सम्पूर्ण क्रम पनि बताउँछ। यो रहस्य देवी-उपासनाको एक पूर्ण मार्गदर्शक हो—जसले साधकलाई देवीको सायुज्य (एकत्व) प्राप्तिको मार्ग देखाउँछ।",
+      "en": "Vaikṛtika Rahasya is the second of the three secrets (Rahasyatrayam) of the Devī Māhātmya. It is recited at the conclusion of the Saptaśatī and describes the Goddess's three primary streams of energy — Mahākālī, Mahālakṣmī and Mahāsarasvatī — corresponding respectively to the guṇas of tamas, rajas and sattva.\n\nThe word vaikṛtika means 'relating to modification' or 'change'. This secret describes how the divine reality beyond all change subjects itself to change — how mūla prakṛti (the productive) becomes vikṛti (the produced). Thus this secret is the esoteric knowledge of the fundamental process of creation.\n\nIn this secret, the forms, weapons, vehicles and worship procedures of the three Great Goddesses are described in detail. Mahākālī is of tamas, Mahālakṣmī is of the three guṇas, and Mahāsarasvatī is of sattva. Thus the one supreme power manifests in three forms through the three guṇas — which drive the wheel of creation, preservation and dissolution.\n\nThe speciality of this secret is that it not only describes the Goddess's greatness but also lays out the complete sequence of her worship, mantra, offerings, food and meditation. This secret is a complete guide to Goddess worship — showing the practitioner the path to sāyujya (union) with the Goddess."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीवैकृतिकरहस्यस्तोत्रस्य मार्कण्डेय ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीचण्डिका देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-vaikṛtika-rahasya-stotrasya mārkaṇḍeya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-caṇḍikā devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीवैकृतिकरहस्यस्तोत्रका मार्कण्डेय ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचण्डिका देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Vaikṛtika Rahasya Stotra, Mārkaṇḍeya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Caṇḍikā is the presiding deity. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका ३९ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the thirty-nine main verses."
+      },
+      "audio": "audio/devi-mahatmya/vaikritika-rahasya/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीवैकृतिकरहस्यम्",
+      "titleEn": "Vaikṛtika Rahasya — Main Recitation",
+      "items": [
+        {
+          "id": "vaikritika-01",
+          "number": 1,
+          "sanskrit": "ॐ ऋषिरुवाच। त्रिगुणा तामसी देवी सात्त्विकी या त्रिधोदिता। सा शर्वा चण्डिका दुर्गा भद्रा भगवतीर्यते॥१॥",
+          "iast": "oṃ ṛṣiruvāca | triguṇā tāmasī devī sāttvikī yā tridhoditā | sā śarvā caṇḍikā durgā bhadrā bhagavatīryate ||1||",
+          "meaning": {
+            "ne": "ॐ ऋषिले भने: तीन गुणहरूमा प्रकट हुने, तामसी र सात्त्विकी—यसरी तीन प्रकारले प्रकट हुने देवी शर्वा, चण्डिका, दुर्गा, भद्रा र भगवती भनी कथन गरिन्छिन्।",
+            "en": "Oṁ. The sage said: The Goddess who is threefold in the three guṇas — tamasic and sattvic — she is proclaimed as Śarvā, Caṇḍikā, Durgā, Bhadrā and Bhagavatī."
+          },
+          "commentary": {
+            "ne": "यो श्लोक वैकृतिकरहस्यको प्रारम्भ हो। ऋषि मार्कण्डेयले देवीलाई तीन गुणहरूमा प्रकट हुने बताउँछन्। 'त्रिगुणा'—तीन गुणहरू (तमस्, रजस्, सत्त्व) मा प्रकट हुने। 'तामसी'—तमोगुणकी। 'सात्त्विकी'—सत्त्वगुणकी। 'शर्वा'—शिवकी पत्नी। 'चण्डिका'—क्रूर। 'दुर्गा'—दुर्गम पार गराउने। 'भद्रा'—कल्याणकारी। 'भगवती'—भगवान्की स्त्रीलिङ्ग। यसरी देवीका पाँच नामहरूद्वारा उनको त्रिगुणात्मिका स्वरूपलाई स्थापित गरिन्छ।",
+            "en": "This verse begins the Vaikṛtika Rahasya. Sage Mārkaṇḍeya states that the Goddess manifests through the three guṇas. 'Triguṇā' — manifest in the three guṇas (tamas, rajas, sattva). 'Tāmasī' — of tamas. 'Sāttvikī' — of sattva. 'Śarvā' — the wife of Śiva. 'Caṇḍikā' — the fierce one. 'Durgā' — she who carries across the impassable. 'Bhadrā' — the auspicious one. 'Bhagavatī' — the feminine of Bhagavān. Thus the Goddess's triguṇātmikā nature is established through her five names."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika001.wav"
+        },
+        {
+          "id": "vaikritika-02",
+          "number": 2,
+          "sanskrit": "योगनिद्रा हरेरुक्ता महाकाली तमोगुणा। मधुकैटभनाशार्थं यां तुष्टावाम्बुजासनः॥२॥",
+          "iast": "yoganidrā hareruktā mahākālī tamoguṇā | madhukaiṭabhanāśārthaṃ yāṃ tuṣṭāvāmbujāsanaḥ ||2||",
+          "meaning": {
+            "ne": "हरिकी योगनिद्रा महाकाली भनी कथन गरिन्छिन्, जो तमोगुणकी छिन्। मधु र कैटभको नाशका लागि कमलासन (ब्रह्मा) ले जसको स्तुति गरे।",
+            "en": "She is spoken of as the Yoga-nidrā of Hari, Mahākālī of tamas guṇa — whom the lotus-seated one (Brahmā) praised for the destruction of Madhu and Kaiṭabha."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको स्वरूपको वर्णन छ। 'योगनिद्रा'—विष्णुको योगनिद्रा। 'महाकाली'—महाकालकी शक्ति। 'तमोगुणा'—तमोगुणकी। 'अम्बुजासनः'—कमलमा आसीन ब्रह्मा। ब्रह्माले मधु र कैटभको नाशका लागि महाकालीको स्तुति गरे। यो देवीमाहात्म्यको पहिलो अध्यायको कथासँग सम्बन्धित छ। यसरी महाकाली तमोगुणकी देवी हुन्—जो अज्ञान र अन्धकारको नाश गर्छिन्।",
+            "en": "In this verse, the form of Mahākālī is described. 'Yoganidrā' — the yoga-sleep of Viṣṇu. 'Mahākālī' — the power of Mahākāla. 'Tamoguṇā' — of tamas. 'Ambujāsanaḥ' — Brahmā seated on the lotus. Brahmā praised Mahākālī for the destruction of Madhu and Kaiṭabha. This is connected with the story of the first chapter of the Devī Māhātmya. Thus Mahākālī is the Goddess of tamas — who destroys ignorance and darkness."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika002.wav"
+        },
+        {
+          "id": "vaikritika-03",
+          "number": 3,
+          "sanskrit": "दशवक्त्रा दशभुजा दशपादाञ्जनप्रभा। विशालया राजमाना त्रिंशल्लोचनमालया॥३॥",
+          "iast": "daśavaktrā daśabhujā daśapādāñjanaprabhā | viśālayā rājamānā triṃśallocanamālayā ||3||",
+          "meaning": {
+            "ne": "दस मुख, दस भुजा र दस चरण भएकी, अञ्जन (काजल) को प्रभा भएकी, विशाल तीस नेत्रहरूको मालाले शोभित।",
+            "en": "She has ten faces, ten arms and ten feet, radiant like collyrium; she shines with a vast garland of thirty eyes."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको विराट स्वरूपको वर्णन छ। दस मुख, दस भुजा, दस चरण—यी सबै देवीको सर्वव्यापकताको प्रतीक हुन्। 'अञ्जनप्रभा'—काजलको प्रभा। 'त्रिंशल्लोचनमालया'—तीस नेत्रहरूको माला। दस मुखमा तीन-तीन नेत्र गरी तीस नेत्र हुन्छन्। यो रूप महाकालीको विराट र सर्वव्यापी स्वरूपको प्रतीक हो—जो सम्पूर्ण ब्रह्माण्डलाई आफ्नो दृष्टिले व्याप्त गर्छिन्।",
+            "en": "In this verse, the cosmic form of Mahākālī is described. Ten faces, ten arms, ten feet — all these symbolise the Goddess's all-pervasiveness. 'Añjanaprabhā' — the radiance of collyrium. 'Triṃśallocanamālayā' — a garland of thirty eyes. Three eyes on each of the ten faces make thirty eyes. This form symbolises Mahākālī's cosmic and all-pervading nature — she who pervades the entire universe with her vision."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika003.wav"
+        },
+        {
+          "id": "vaikritika-04",
+          "number": 4,
+          "sanskrit": "स्फुरद्दशनदंष्ट्रा सा भीमरूपापि भूमिप। रूपसौभाग्यकान्तीनां सा प्रतिष्ठा महाश्रियाम्॥४॥",
+          "iast": "sphuraddaśanadaṃṣṭrā sā bhīmarūpāpi bhūmipa | rūpasaubhāgyakāntīnāṃ sā pratiṣṭhā mahāśriyām ||4||",
+          "meaning": {
+            "ne": "हे राजन्, दीप्तिमान दाँत र दंष्ट्रा भएकी, भयानक रूप भए पनि उनी रूप, सौभाग्य र कान्तिको प्रतिष्ठा हुन्—महाश्रीको।",
+            "en": "O King, though she has flashing teeth and fangs and a terrifying form, she is the foundation of beauty, good fortune and radiance — of Mahāśrī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको विरोधाभासी स्वरूपको वर्णन छ। 'स्फुरद्दशनदंष्ट्रा'—दीप्तिमान दाँत र दंष्ट्रा। 'भीमरूपा'—भयानक रूप। तर 'रूपसौभाग्यकान्तीनाम्'—रूप, सौभाग्य र कान्तिको। 'प्रतिष्ठा'—प्रतिष्ठा। 'महाश्रियाम्'—महाश्रीको। यसरी देवीको भयानक रूप भए पनि उनी सौन्दर्य र सौभाग्यको मूल हुन्। यो विरोधाभास देवीको दिव्य स्वभावको प्रतीक हो—उनी संहारक र सृजनकर्त्री दुवै हुन्।",
+            "en": "In this verse, the paradoxical nature of Mahākālī is described. 'Sphuraddaśanadaṃṣṭrā' — flashing teeth and fangs. 'Bhīmarūpā' — terrifying form. Yet 'rūpasaubhāgyakāntīnām' — of beauty, good fortune and radiance. 'Pratiṣṭhā' — the foundation. 'Mahāśriyām' — of Mahāśrī. Thus though the Goddess's form is terrifying, she is the source of beauty and good fortune. This paradox symbolises the Goddess's divine nature — she is both destroyer and creator."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika004.wav"
+        },
+        {
+          "id": "vaikritika-05",
+          "number": 5,
+          "sanskrit": "खड्गबाणगदाशूलशङ्खचक्रभुशुण्डिभृत्। परिघं कार्मुकं शीर्षं निश्च्योतद्रुधिरं दधौ॥५॥",
+          "iast": "khaḍgabāṇagadāśūlaśaṅkhacakrabhuśuṇḍibhṛt | parighaṃ kārmukaṃ śīrṣaṃ niścyotadrudhiraṃ dadhau ||5||",
+          "meaning": {
+            "ne": "खड्ग, बाण, गदा, शूल, शङ्ख, चक्र, भुशुण्डि, परिघ, कार्मुक र रगत चुहिरहेको शीर्ष धारण गर्छिन्।",
+            "en": "She bears sword, arrow, mace, spear, conch, discus and bhuśuṇḍi; she holds an iron club, a bow, and a severed head dripping with blood."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीका आयुधहरूको वर्णन छ। खड्ग, बाण, गदा, शूल, शङ्ख, चक्र, भुशुण्डि, परिघ, कार्मुक र रगत चुहिरहेको शीर्ष—यी सबै दिव्य आयुध हुन्। 'भुशुण्डि'—एक प्रकारको विस्फोटक आयुध। 'निश्च्योतद्रुधिरम्'—रगत चुहिरहेको। यसरी महाकाली संहारका सबै आयुधहरूले सुसज्जित छिन्—जसले अधर्म र अज्ञानको नाश गर्छिन्।",
+            "en": "In this verse, Mahākālī's weapons are described. Sword, arrow, mace, spear, conch, discus, bhuśuṇḍi, iron club, bow and a severed head dripping with blood — all these are divine weapons. 'Bhuśuṇḍi' — a type of explosive weapon. 'Niścyotadrudhiram' — dripping with blood. Thus Mahākālī is equipped with all the weapons of destruction — which destroy adharma and ignorance."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika005.wav"
+        },
+        {
+          "id": "vaikritika-06",
+          "number": 6,
+          "sanskrit": "एषा सा वैष्णवी माया महाकाली दुरत्यया। आराधिता वशीकुर्यात् पूजाकर्तुश्चराचरम्॥६॥",
+          "iast": "eṣā sā vaiṣṇavī māyā mahākālī duratyayā | ārādhitā vaśīkuryāt pūjākartuścarācaram ||6||",
+          "meaning": {
+            "ne": "यी नै त्यो वैष्णवी माया हुन्, महाकाली, जो दुर्लङ्घ्य छिन्। आराधना गरिएकी उनी पूजा गर्नेको चराचरलाई वशीभूत गराउँछिन्।",
+            "en": "This is that Vaiṣṇavī Māyā, Mahākālī, hard to overcome. When worshipped, she brings the moving and unmoving under the control of her worshipper."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महाकालीको वैष्णवी मायाको स्वरूपको वर्णन छ। 'वैष्णवी माया'—विष्णुकी माया। 'दुरत्यया'—दुर्लङ्घ्य। 'आराधिता'—आराधना गरिएकी। 'वशीकुर्यात्'—वशीभूत गराउँछिन्। 'चराचरम्'—चराचर। यसरी महाकाली विष्णुकी माया हुन्—जो दुर्लङ्घ्य छिन् तर आराधनाले भक्तको सबै कुछ वशीभूत गराउँछिन्।",
+            "en": "In this verse, Mahākālī's form as Vaiṣṇavī Māyā is described. 'Vaiṣṇavī Māyā' — the māyā of Viṣṇu. 'Duratyayā' — hard to overcome. 'Ārādhitā' — when worshipped. 'Vaśīkuryāt' — brings under control. 'Carācaram' — moving and unmoving. Thus Mahākālī is the māyā of Viṣṇu — hard to overcome, but by worship she brings everything under the devotee's control."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika006.wav"
+        },
+        {
+          "id": "vaikritika-07",
+          "number": 7,
+          "sanskrit": "सर्वदेवशरीरेभ्यो याऽऽविर्भूताऽमितप्रभा। त्रिगुणा सा महालक्ष्मीः साक्षान्महिषमर्दिनी॥७॥",
+          "iast": "sarvadevaśarīrebhyo yā''virbhūtā'mitaprabhā | triguṇā sā mahālakṣmīḥ sākṣānmahiṣamardinī ||7||",
+          "meaning": {
+            "ne": "सबै देवताहरूको शरीरबाट अमित प्रभासहित जो प्रकट भइन्, ती त्रिगुणात्मिका महालक्ष्मी नै साक्षात् महिषमर्दिनी हुन्।",
+            "en": "She who manifested from the bodies of all the gods with immeasurable radiance — she is the three-guṇa Mahālakṣmī, directly the slayer of Mahiṣa."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको स्वरूपको वर्णन छ। 'सर्वदेवशरीरेभ्यः'—सबै देवताहरूको शरीरबाट। 'आविर्भूता'—प्रकट भएकी। 'अमितप्रभा'—अमित प्रभा। 'त्रिगुणा'—त्रिगुणात्मिका। 'महालक्ष्मीः'—महालक्ष्मी। 'साक्षान्महिषमर्दिनी'—साक्षात् महिषमर्दिनी। यसरी महालक्ष्मी सबै देवताहरूको तेजबाट प्रकट भएकी हुन् र उनैले महिषासुरको वध गरेकी हुन्। यो देवीमाहात्म्यको दोस्रो अध्यायको कथासँग सम्बन्धित छ।",
+            "en": "In this verse, the form of Mahālakṣmī is described. 'Sarvadevaśarīrebhyaḥ' — from the bodies of all the gods. 'Āvirbhūtā' — manifested. 'Amitaprabhā' — immeasurable radiance. 'Triguṇā' — of the three guṇas. 'Mahālakṣmīḥ' — Mahālakṣmī. 'Sākṣānmahiṣamardinī' — directly the slayer of Mahiṣa. Thus Mahālakṣmī manifested from the radiance of all the gods and she herself slew Mahiṣāsura. This is connected with the story of the second chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika007.wav"
+        },
+        {
+          "id": "vaikritika-08",
+          "number": 8,
+          "sanskrit": "श्वेतानना नीलभुजा सुश्वेतस्तनमण्डला। रक्तमध्या रक्तपादा नीलजङ्घोरुरुन्मदा॥८॥",
+          "iast": "śvetānanā nīlabhujā suśvetastanamaṇḍalā | raktamadhyā raktapādā nīlajaṅghorurundmadā ||8||",
+          "meaning": {
+            "ne": "श्वेत मुख भएकी, नील भुजा भएकी, अत्यन्त श्वेत स्तनमण्डल भएकी, रक्त कटि भएकी, रक्त चरण भएकी, नील जङ्घा र उरु भएकी, उन्मदा (मत्त)।",
+            "en": "White is her face, deep blue her arms, brilliantly white the orbs of her breasts, red her waist, red her feet, deep blue her shanks and thighs — she is radiant with beauty."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको दिव्य शरीरको वर्णन छ। श्वेत मुख, नील भुजा, श्वेत स्तनमण्डल, रक्त कटि, रक्त चरण, नील जङ्घा र उरु—यी सबै देवीको बहुवर्णी स्वरूपको प्रतीक हुन्। प्रत्येक वर्ण एक विशेष गुणको प्रतीक हो—श्वेत शुद्धता, नील अनन्तता, रक्त शक्ति। 'उन्मदा'—मत्त, आनन्दले भरिएकी। यसरी महालक्ष्मीको स्वरूप विविध वर्णहरूले सुशोभित छ—जसले उनको सर्वगुणसम्पन्नतालाई प्रकट गर्छ।",
+            "en": "In this verse, Mahālakṣmī's divine body is described. White face, blue arms, white breasts, red waist, red feet, blue shanks and thighs — all these symbolise the Goddess's multi-coloured form. Each colour symbolises a particular quality — white purity, blue infinity, red power. 'Unmadā' — intoxicated, filled with joy. Thus Mahālakṣmī's form is adorned with various colours — revealing her all-perfect nature."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika008.wav"
+        },
+        {
+          "id": "vaikritika-09",
+          "number": 9,
+          "sanskrit": "सुचित्रजघना चित्रमाल्याम्बरविभूषणा। चित्रानुलेपना कान्तिरूपसौभाग्यशालिनी॥९॥",
+          "iast": "sucitrajaghanā citramālyāmbaravibhūṣaṇā | citrānulepanā kāntirūpasaubhāgyaśālinī ||9||",
+          "meaning": {
+            "ne": "सुन्दर विचित्र कटि भएकी, विचित्र माला र वस्त्रले विभूषित, विचित्र अनुलेपन (सुगन्ध) भएकी, कान्ति, रूप र सौभाग्यले शालिनी।",
+            "en": "Many-coloured is her lap. Bedecked with multihued garlands and raiment, she is variously anointed and abounds in beauty that is pure loveliness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको अलंकार र सौन्दर्यको वर्णन छ। 'सुचित्रजघना'—सुन्दर विचित्र कटि। 'चित्रमाल्याम्बरविभूषणा'—विचित्र माला र वस्त्रले विभूषित। 'चित्रानुलेपना'—विचित्र सुगन्ध। 'कान्तिरूपसौभाग्यशालिनी'—कान्ति, रूप र सौभाग्यले शालिनी। यसरी महालक्ष्मी विविध अलंकारहरूले सुसज्जित छिन्—जसले उनको सौन्दर्य र ऐश्वर्यलाई प्रकट गर्छ।",
+            "en": "In this verse, Mahālakṣmī's ornaments and beauty are described. 'Sucitrajaghanā' — beautiful multi-coloured lap. 'Citramālyāmbaravibhūṣaṇā' — adorned with multi-coloured garlands and raiment. 'Citrānulepanā' — variously anointed. 'Kāntirūpasaubhāgyaśālinī' — abounding in radiance, beauty and good fortune. Thus Mahālakṣmī is adorned with various ornaments — revealing her beauty and sovereignty."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika009.wav"
+        },
+        {
+          "id": "vaikritika-10",
+          "number": 10,
+          "sanskrit": "अष्टादशभुजा पूज्या सा सहस्रभुजा सती। आयुधान्यत्र वक्ष्यन्ते दक्षिणाधःकरक्रमात्॥१०॥",
+          "iast": "aṣṭādaśabhujā pūjyā sā sahasrabhujā satī | āyudhānyatra vakṣyante dakṣiṇādhaḥkarakramāt ||10||",
+          "meaning": {
+            "ne": "उनी सहस्र भुजा भएकी हुन् तर अठारह भुजा भएकी रूपमा पूज्य छिन्। यहाँ आयुधहरू दाहिने तल्लो हातबाट क्रमशः बताइनेछन्।",
+            "en": "Although she has a thousand arms, she is to be worshipped in her eighteen-armed form. The weapons here described proceed in order from her lower right hand."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको अठारह भुजा भएकी पूज्य स्वरूपको वर्णन छ। 'सहस्रभुजा'—सहस्र भुजा। 'अष्टादशभुजा'—अठारह भुजा। 'पूज्या'—पूज्य। 'दक्षिणाधःकरक्रमात्'—दाहिने तल्लो हातबाट क्रमशः। यसरी देवी सहस्र भुजा भए पनि पूजामा अठारह भुजा भएकी रूपमा पूजिन्छिन्। यो श्लोक आयुधहरूको क्रमको प्रारम्भ हो।",
+            "en": "In this verse, Mahālakṣmī's eighteen-armed worship form is described. 'Sahasrabhujā' — a thousand arms. 'Aṣṭādaśabhujā' — eighteen arms. 'Pūjyā' — to be worshipped. 'Dakṣiṇādhaḥkarakramāt' — in order from the lower right hand. Thus though the Goddess has a thousand arms, she is worshipped in her eighteen-armed form. This verse begins the sequence of weapons."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika010.wav"
+        },
+        {
+          "id": "vaikritika-11",
+          "number": 11,
+          "sanskrit": "अक्षमाला च कमलं बाणोऽसिः कुलिशं गदा। चक्रं त्रिशूलं परशुः शङ्खो घण्टा च पाशकः॥११॥",
+          "iast": "akṣamālā ca kamalaṃ bāṇo'siḥ kuliśaṃ gadā | cakraṃ triśūlaṃ paraśuḥ śaṅkho ghaṇṭā ca pāśakaḥ ||11||",
+          "meaning": {
+            "ne": "अक्षमाला, कमल, बाण, तरवार, कुलिश, गदा, चक्र, त्रिशूल, परशु, शङ्ख, घण्टा र पाश।",
+            "en": "Prayer beads, lotus, arrow, sword, thunderbolt, mace, discus, trident, axe, conch, bell, and noose."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीका आयुधहरूको क्रमको वर्णन छ। अक्षमाला, कमल, बाण, तरवार, कुलिश, गदा, चक्र, त्रिशूल, परशु, शङ्ख, घण्टा र पाश—यी बाह्र आयुध हुन्। यी सबै देवीको बाह्र हातमा क्रमशः धारण गरिन्छन्। प्रत्येक आयुध एक विशेष शक्तिको प्रतीक हो—अक्षमाला जपको, कमल सौन्दर्यको, बाण लक्ष्यको, तरवार संहारको, कुलिश शक्तिको, गदा बलको, चक्र न्यायको, त्रिशूल त्रिगुणको, परशु कर्तनको, शङ्ख नादको, घण्टा आह्वानको र पाश बन्धनको।",
+            "en": "In this verse, the sequence of Mahālakṣmī's weapons is described. Prayer beads, lotus, arrow, sword, thunderbolt, mace, discus, trident, axe, conch, bell and noose — these are twelve weapons. All these are held in the Goddess's twelve hands in order. Each weapon symbolises a particular power — prayer beads of japa, lotus of beauty, arrow of aim, sword of destruction, thunderbolt of power, mace of strength, discus of justice, trident of the three guṇas, axe of severance, conch of sound, bell of invocation and noose of binding."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika011.wav"
+        },
+        {
+          "id": "vaikritika-12",
+          "number": 12,
+          "sanskrit": "शक्तिर्दण्डश्चर्म चापं पानपात्रं कमण्डलुः। अलङ्कृतभुजामेभिरायुधैः कमलासनाम्॥१२॥",
+          "iast": "śaktirdaṇḍaścarma cāpaṃ pānapātraṃ kamaṇḍaluḥ | alaṅkṛtabhujāmebhirāyudhaiḥ kamalāsanām ||12||",
+          "meaning": {
+            "ne": "शक्ति, दण्ड, चर्म, चाप, पानपात्र र कमण्डलु—यी आयुधहरूले अलंकृत भुजा भएकी कमलासना।",
+            "en": "Spear, staff, shield, bow, drinking-vessel and waterpot — she whose arms are adorned with these weapons, seated on the lotus."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीका बाँकी आयुधहरूको वर्णन छ। शक्ति, दण्ड, चर्म, चाप, पानपात्र र कमण्डलु—यी छ आयुध हुन्। यसरी कुल अठारह आयुधहरू पूरा हुन्छन्। 'कमलासनाम्'—कमलमा आसीन। यसरी महालक्ष्मी अठारह आयुधहरूले अलंकृत भुजा भएकी र कमलमा आसीन छिन्—जसले उनको वीर र सौम्य दुवै स्वरूपलाई प्रकट गर्छ।",
+            "en": "In this verse, Mahālakṣmī's remaining weapons are described. Spear, staff, shield, bow, drinking-vessel and waterpot — these are six weapons. Thus the total of eighteen weapons is completed. 'Kamalāsanām' — seated on the lotus. Thus Mahālakṣmī has eighteen arms adorned with weapons and is seated on a lotus — revealing both her heroic and gentle forms."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika012.wav"
+        },
+        {
+          "id": "vaikritika-13",
+          "number": 13,
+          "sanskrit": "सर्वदेवमयीमीशां महालक्ष्मीमिमां नृप। पूजयेत्सर्वलोकानां स देवानां प्रभुर्भवेत्॥१३॥",
+          "iast": "sarvadevamayīmīśāṃ mahālakṣmīmimāṃ nṛpa | pūjayetsarvalokānāṃ sa devānāṃ prabhurbhavet ||13||",
+          "meaning": {
+            "ne": "हे राजन्, सबै देवतामयी ईश्वरी महालक्ष्मीको जो पूजा गर्छ, उनी सबै लोकहरूको र देवताहरूको प्रभु हुन्छ।",
+            "en": "O King, one who worships this Mahālakṣmī, the sovereign who encompasses all the gods — he becomes the master of all the worlds and of the gods."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको फल वर्णन गरिएको छ। 'सर्वदेवमयीम्'—सबै देवतामयी। 'ईशाम्'—ईश्वरी। 'महालक्ष्मीम्'—महालक्ष्मी। 'सर्वलोकानाम्'—सबै लोकहरूको। 'देवानाम्'—देवताहरूको। 'प्रभुः'—प्रभु। यसरी महालक्ष्मीको पूजाले भक्त सबै लोक र देवताहरूको प्रभु बन्छ। यो देवीको सर्वोच्च शक्तिको फल हो—जसले भक्तलाई सम्पूर्ण सृष्टिमाथि अधिकार दिन्छ।",
+            "en": "In this verse, the fruit of worshipping Mahālakṣmī is described. 'Sarvadevamayīm' — encompassing all the gods. 'Īśām' — the sovereign. 'Mahālakṣmīm' — Mahālakṣmī. 'Sarvalokānām' — of all the worlds. 'Devānām' — of the gods. 'Prabhuḥ' — master. Thus by worshipping Mahālakṣmī, the devotee becomes the master of all the worlds and the gods. This is the fruit of the Goddess's supreme power — which grants the devotee authority over all creation."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika013.wav"
+        },
+        {
+          "id": "vaikritika-14",
+          "number": 14,
+          "sanskrit": "गौरीदेहात्समुद्भूता या सत्त्वैकगुणाश्रया। साक्षात्सरस्वती प्रोक्ता शुम्भासुरनिबर्हिणी॥१४॥",
+          "iast": "gaurīdehātsamudbhūtā yā sattvaikaguṇāśrayā | sākṣātsarasvatī proktā śumbhāsuranibarhiṇī ||14||",
+          "meaning": {
+            "ne": "गौरीको देहबाट प्रकट भएकी, जो सत्त्व गुणको एकमात्र आश्रय हुन्—ती साक्षात् सरस्वती भनी कथन गरिन्छिन्, शुम्भासुरको नाश गर्ने।",
+            "en": "She who was born from the body of Gaurī and who embodies the sole energy of sattva — she is proclaimed as Sarasvatī herself, the destroyer of the demon Śumbha."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीको स्वरूपको वर्णन छ। 'गौरीदेहात्'—गौरीको देहबाट। 'समुद्भूता'—प्रकट भएकी। 'सत्त्वैकगुणाश्रया'—सत्त्व गुणको एकमात्र आश्रय। 'साक्षात्सरस्वती'—साक्षात् सरस्वती। 'शुम्भासुरनिबर्हिणी'—शुम्भासुरको नाश गर्ने। यसरी महासरस्वती गौरीको देहबाट प्रकट भएकी हुन् र उनैले शुम्भासुरको वध गरेकी हुन्। यो देवीमाहात्म्यको पाँचौं अध्यायको कथासँग सम्बन्धित छ।",
+            "en": "In this verse, the form of Mahāsarasvatī is described. 'Gaurīdehāt' — from the body of Gaurī. 'Samudbhūtā' — manifested. 'Sattvaikaguṇāśrayā' — the sole embodiment of sattva. 'Sākṣātsarasvatī' — Sarasvatī herself. 'Śumbhāsuranibarhiṇī' — destroyer of Śumbha. Thus Mahāsarasvatī manifested from the body of Gaurī and she slew Śumbhāsura. This is connected with the story of the fifth chapter of the Devī Māhātmya."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika014.wav"
+        },
+        {
+          "id": "vaikritika-15",
+          "number": 15,
+          "sanskrit": "दधौ चाष्टभुजा बाणान्मुसलं शूलचक्रभृत्। शङ्खं घण्टां लाङ्गलं च कार्मुकं वसुधाधिप॥१५॥",
+          "iast": "dadhau cāṣṭabhujā bāṇānmusalaṃ śūlacakrabhṛt | śaṅkhaṃ ghaṇṭāṃ lāṅgalaṃ ca kārmukaṃ vasudhādhipa ||15||",
+          "meaning": {
+            "ne": "हे राजन्, अठारह भुजा भएकी उनले बाण, मुसल, शूल, चक्र, शङ्ख, घण्टा, लाङ्गल (हल) र कार्मुक (धनुष) धारण गर्छिन्।",
+            "en": "O King, she of eight arms holds arrows, pestle, spear, discus, conch, bell, ploughshare and bow."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीका आयुधहरूको वर्णन छ। 'अष्टभुजा'—आठ भुजा। बाण, मुसल, शूल, चक्र, शङ्ख, घण्टा, लाङ्गल र कार्मुक—यी आठ आयुध हुन्। बाण लक्ष्यको, मुसल दमनको, शूल त्रिगुणको, चक्र न्यायको, शङ्ख नादको, घण्टा आह्वानको, लाङ्गल सृजनको र कार्मुक संकल्पको प्रतीक हो। यसरी महासरस्वती सत्त्वगुणकी देवी हुन्—जो ज्ञान, वाणी र सृजनको शक्ति हुन्।",
+            "en": "In this verse, Mahāsarasvatī's weapons are described. 'Aṣṭabhujā' — eight arms. Arrows, pestle, spear, discus, conch, bell, ploughshare and bow — these are eight weapons. The arrow symbolises aim, the pestle suppression, the spear the three guṇas, the discus justice, the conch sound, the bell invocation, the ploughshare creation and the bow resolve. Thus Mahāsarasvatī is the Goddess of sattva — the power of knowledge, speech and creation."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika015.wav"
+        },
+        {
+          "id": "vaikritika-16",
+          "number": 16,
+          "sanskrit": "एषा सम्पूजिता भक्त्या सर्वज्ञत्वं प्रयच्छति। निशुम्भमथिनी देवी शुम्भासुरनिबर्हिणी॥१६॥",
+          "iast": "eṣā sampūjitā bhaktyā sarvajñatvaṃ prayacchati | niśumbhamathinī devī śumbhāsuranibarhiṇī ||16||",
+          "meaning": {
+            "ne": "यी भक्तिपूर्वक सम्पूजित हुँदा सर्वज्ञत्व प्रदान गर्छिन्। निशुम्भको मर्दन गर्ने र शुम्भासुरको नाश गर्ने देवी।",
+            "en": "When worshipped with devotion, she grants omniscience. She is the Goddess who crushed Niśumbha and destroyed the demon Śumbha."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीको पूजाको फल वर्णन गरिएको छ। 'सम्पूजिता'—सम्पूजित। 'भक्त्या'—भक्तिपूर्वक। 'सर्वज्ञत्वम्'—सर्वज्ञत्व। 'प्रयच्छति'—प्रदान गर्छिन्। 'निशुम्भमथिनी'—निशुम्भको मर्दन गर्ने। 'शुम्भासुरनिबर्हिणी'—शुम्भासुरको नाश गर्ने। यसरी महासरस्वतीको पूजाले भक्तलाई सर्वज्ञत्व प्रदान गर्छ। यो सत्त्वगुणकी देवीको फल हो—जसले ज्ञान र विवेक प्रदान गर्छ।",
+            "en": "In this verse, the fruit of worshipping Mahāsarasvatī is described. 'Sampūjitā' — when worshipped. 'Bhaktyā' — with devotion. 'Sarvajñatvam' — omniscience. 'Prayacchati' — grants. 'Niśumbhamathinī' — crusher of Niśumbha. 'Śumbhāsuranibarhiṇī' — destroyer of Śumbha. Thus the worship of Mahāsarasvatī grants the devotee omniscience. This is the fruit of the Goddess of sattva — who grants knowledge and discernment."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika016.wav"
+        },
+        {
+          "id": "vaikritika-17",
+          "number": 17,
+          "sanskrit": "इत्युक्तानि स्वरूपाणि मूर्तीनां तव पार्थिव। उपासनं जगन्मातुः पृथगासां निशामय॥१७॥",
+          "iast": "ityuktāni svarūpāṇi mūrtīnāṃ tava pārthiva | upāsanaṃ jaganmātuḥ pṛthagāsāṃ niśāmaya ||17||",
+          "meaning": {
+            "ne": "हे राजन्, यसरी तपाईंलाई मूर्तिहरूको स्वरूप भनिएको छ। अब जगन्माताको पृथक्-पृथक् उपासना सुन्नुहोस्।",
+            "en": "Thus, O King, the true nature of the Goddess's embodied forms has been told to you. Now hear how the Mother of the world is worshipped in her individual forms."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ऋषिले मूर्तिहरूको स्वरूपको वर्णन पूर्ण गरेर उपासनाको वर्णन गर्ने वचन दिन्छन्। 'स्वरूपाणि'—स्वरूपहरू। 'मूर्तीनाम्'—मूर्तिहरूको। 'उपासनम्'—उपासना। 'जगन्मातुः'—जगन्माताको। 'पृथक्'—पृथक्। यसरी महाकाली, महालक्ष्मी र महासरस्वतीको स्वरूपको वर्णन पूरा भएपछि अब तिनको पृथक् उपासनाको वर्णन सुरु हुन्छ।",
+            "en": "In this verse, the sage completes the description of the forms and promises to describe the worship. 'Svarūpāṇi' — forms. 'Mūrtīnām' — of the embodied forms. 'Upāsanam' — worship. 'Jaganmātuḥ' — of the Mother of the world. 'Pṛthak' — individually. Thus after completing the description of Mahākālī, Mahālakṣmī and Mahāsarasvatī, the description of their individual worship begins."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika017.wav"
+        },
+        {
+          "id": "vaikritika-18",
+          "number": 18,
+          "sanskrit": "महालक्ष्मीर्यदा पूज्या महाकाली सरस्वती। दक्षिणोत्तरयोः पूज्ये पृष्ठतो मिथुनत्रयम्॥१८॥",
+          "iast": "mahālakṣmīryadā pūjyā mahākālī sarasvatī | dakṣiṇottarayoḥ pūjye pṛṣṭhato mithunatrayam ||18||",
+          "meaning": {
+            "ne": "जब महालक्ष्मीको पूजा गरिन्छ, तब महाकाली र सरस्वती दाहिने र बायाँ पूज्य हुन्छिन्, पछाडि तीन युगलहरू।",
+            "en": "When Mahālakṣmī is worshipped, Mahākālī and Sarasvatī are to be worshipped on her right and left; behind are the three couples."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको क्रम वर्णन गरिएको छ। 'महालक्ष्मीः'—महालक्ष्मी। 'पूज्या'—पूज्य। 'महाकाली'—महाकाली। 'सरस्वती'—सरस्वती। 'दक्षिणोत्तरयोः'—दाहिने र बायाँ। 'पृष्ठतः'—पछाडि। 'मिथुनत्रयम्'—तीन युगल। यसरी महालक्ष्मीको पूजामा महाकाली दाहिने, सरस्वती बायाँ र पछाडि तीन युगल (ब्रह्मा-सरस्वती, रुद्र-गौरी, विष्णु-लक्ष्मी) पूज्य हुन्छन्। यो पूजाको मण्डल-विधि हो।",
+            "en": "In this verse, the sequence of Mahālakṣmī's worship is described. 'Mahālakṣmīḥ' — Mahālakṣmī. 'Pūjyā' — to be worshipped. 'Mahākālī' — Mahākālī. 'Sarasvatī' — Sarasvatī. 'Dakṣiṇottarayoḥ' — on the right and left. 'Pṛṣṭhataḥ' — behind. 'Mithunatrayam' — three couples. Thus in Mahālakṣmī's worship, Mahākālī is on the right, Sarasvatī on the left, and behind are the three couples (Brahmā-Sarasvatī, Rudra-Gaurī, Viṣṇu-Lakṣmī). This is the maṇḍala method of worship."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika018.wav"
+        },
+        {
+          "id": "vaikritika-19",
+          "number": 19,
+          "sanskrit": "विरञ्चिः स्वरया मध्ये रुद्रो गौर्या च दक्षिणे। वामे लक्ष्म्या हृषीकेशः पुरतो देवतात्रयम्॥१९॥",
+          "iast": "virañciḥ svarayā madhye rudro gauryā ca dakṣiṇe | vāme lakṣmyā hṛṣīkeśaḥ purato devatātrayam ||19||",
+          "meaning": {
+            "ne": "ब्रह्मा सरस्वतीसहित मध्यमा, रुद्र गौरीसहित दाहिने, विष्णु लक्ष्मीसहित बायाँ, अगाडि तीन देवता।",
+            "en": "Brahmā with Sarasvatī in the middle, Rudra with Gaurī on the right, Viṣṇu with Lakṣmī on the left, and before them the three deities."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजा-मण्डलको विस्तृत वर्णन छ। ब्रह्मा सरस्वतीसहित मध्यमा, रुद्र गौरीसहित दाहिने, विष्णु लक्ष्मीसहित बायाँ र अगाडि तीन देवता। यसरी यो पूजा-मण्डलमा तीन युगल र तीन देवता गरी नौ देवताहरूको स्थापना हुन्छ। यो पूजा-विधि तान्त्रिक परम्परामा महत्वपूर्ण छ—जसले देवीको सर्वव्यापकतालाई प्रकट गर्छ।",
+            "en": "In this verse, the detailed description of the worship maṇḍala is given. Brahmā with Sarasvatī in the middle, Rudra with Gaurī on the right, Viṣṇu with Lakṣmī on the left, and before them the three deities. Thus in this worship maṇḍala, three couples and three deities — nine deities in total — are established. This worship method is important in the tantric tradition — revealing the Goddess's all-pervasiveness."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika019.wav"
+        },
+        {
+          "id": "vaikritika-20",
+          "number": 20,
+          "sanskrit": "अष्टादशभुजा मध्ये वामे चास्या दशानना। दक्षिणेऽष्टभुजा लक्ष्मीर्महतीति समर्चयेत्॥२०॥",
+          "iast": "aṣṭādaśabhujā madhye vāme cāsyā daśānanā | dakṣiṇe'ṣṭabhujā lakṣmīrmahatīti samarcayet ||20||",
+          "meaning": {
+            "ne": "मध्यमा अठारह भुजा भएकी, बायाँ दस मुख भएकी, दाहिने आठ भुजा भएकी महती लक्ष्मी—यसरी पूजा गर्नुपर्छ।",
+            "en": "In the middle the eighteen-armed one, on her left the ten-faced one, on her right the eight-armed great Lakṣmī — thus one should worship."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजा-मण्डलको केन्द्रको वर्णन छ। मध्यमा अठारह भुजा भएकी महालक्ष्मी, बायाँ दस मुख भएकी महाकाली, दाहिने आठ भुजा भएकी महासरस्वती—यसरी तीनै देवीहरूको स्थापना हुन्छ। 'महती'—महती। यसरी तीनै देवीहरू एकै मण्डलमा पूजित हुन्छिन्—जसले तीन गुणहरूको एकीकरणलाई प्रकट गर्छ।",
+            "en": "In this verse, the centre of the worship maṇḍala is described. In the middle the eighteen-armed Mahālakṣmī, on the left the ten-faced Mahākālī, on the right the eight-armed Mahāsarasvatī — thus all three Goddesses are established. 'Mahatī' — the great one. Thus all three Goddesses are worshipped in one maṇḍala — revealing the integration of the three guṇas."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika020.wav"
+        },
+        {
+          "id": "vaikritika-21",
+          "number": 21,
+          "sanskrit": "अष्टादशभुजा चैषा यदा पूज्या नराधिप। दशानना चाष्टभुजा दक्षिणोत्तरयोस्तदा॥२१॥",
+          "iast": "aṣṭādaśabhujā caiṣā yadā pūjyā narādhipa | daśānanā cāṣṭabhujā dakṣiṇottarayostadā ||21||",
+          "meaning": {
+            "ne": "हे राजन्, जब यी अठारह भुजा भएकी पूज्य हुन्छिन्, तब दस मुख भएकी र आठ भुजा भएकी दाहिने र बायाँ हुन्छिन्।",
+            "en": "O King, when this eighteen-armed one is worshipped, then the ten-faced one and the eight-armed one are on the right and left."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको क्रम पुनः वर्णन गरिएको छ। 'अष्टादशभुजा'—अठारह भुजा भएकी। 'पूज्या'—पूज्य। 'दशानना'—दस मुख भएकी। 'अष्टभुजा'—आठ भुजा भएकी। 'दक्षिणोत्तरयोः'—दाहिने र बायाँ। यसरी महालक्ष्मीको पूजामा महाकाली र महासरस्वतीको स्थानको पुनः पुष्टि गरिन्छ। यो पूजा-विधिको स्थिरतालाई जनाउँछ।",
+            "en": "In this verse, the sequence of Mahālakṣmī's worship is again described. 'Aṣṭādaśabhujā' — eighteen-armed. 'Pūjyā' — to be worshipped. 'Daśānanā' — ten-faced. 'Aṣṭabhujā' — eight-armed. 'Dakṣiṇottarayoḥ' — on the right and left. Thus the positions of Mahākālī and Mahāsarasvatī in Mahālakṣmī's worship are reaffirmed. This indicates the stability of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika021.wav"
+        },
+        {
+          "id": "vaikritika-22",
+          "number": 22,
+          "sanskrit": "कालमृत्यू च सम्पूज्यौ सर्वारिष्टप्रशान्तये। यदा चाष्टभुजा पूज्या शुम्भासुरनिबर्हिणी॥२२॥",
+          "iast": "kālamṛtyū ca sampūjyau sarvāriṣṭapraśāntaye | yadā cāṣṭabhujā pūjyā śumbhāsuranibarhiṇī ||22||",
+          "meaning": {
+            "ne": "सबै अरिष्टहरूको शान्तिका लागि काल र मृत्युको पूजा गर्नुपर्छ। जब आठ भुजा भएकी शुम्भासुरनिबर्हिणीको पूजा गरिन्छ।",
+            "en": "Kāla and Mṛtyu are to be worshipped for the pacification of all evils. When the eight-armed destroyer of Śumbha is worshipped..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महासरस्वतीको पूजाको क्रम वर्णन गरिएको छ। 'कालमृत्यू'—काल र मृत्यु। 'सम्पूज्यौ'—पूजा गर्नुपर्छ। 'सर्वारिष्टप्रशान्तये'—सबै अरिष्टहरूको शान्तिका लागि। 'अष्टभुजा'—आठ भुजा भएकी। 'शुम्भासुरनिबर्हिणी'—शुम्भासुरको नाश गर्ने। यसरी महासरस्वतीको पूजामा काल र मृत्युको पनि पूजा गरिन्छ—जसले सबै अरिष्टहरूको शान्ति गर्छ।",
+            "en": "In this verse, the sequence of Mahāsarasvatī's worship is described. 'Kālamṛtyū' — Kāla and Mṛtyu. 'Sampūjyau' — to be worshipped. 'Sarvāriṣṭapraśāntaye' — for the pacification of all evils. 'Aṣṭabhujā' — eight-armed. 'Śumbhāsuranibarhiṇī' — destroyer of Śumbha. Thus in Mahāsarasvatī's worship, Kāla and Mṛtyu are also worshipped — which pacifies all evils."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika022.wav"
+        },
+        {
+          "id": "vaikritika-23",
+          "number": 23,
+          "sanskrit": "नवास्याः शक्तयः पूज्यास्तदा रुद्रविनायकौ। नमो देव्या इति स्तोत्रैर्महालक्ष्मीं समर्चयेत्॥२३॥",
+          "iast": "navāsyāḥ śaktayaḥ pūjyāstadā rudravināyakau | namo devyā iti stotrairmahālakṣmīṃ samarcayet ||23||",
+          "meaning": {
+            "ne": "उनका नौ शक्तिहरू पूज्य हुन्छन्, तब रुद्र र विनायक। 'नमो देव्यै' यी स्तोत्रहरूले महालक्ष्मीको पूजा गर्नुपर्छ।",
+            "en": "Her nine śaktis are to be worshipped, then Rudra and Vināyaka. With hymns beginning 'Namo Devyai', one should worship Mahālakṣmī."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महालक्ष्मीको पूजाको विस्तृत वर्णन छ। 'नव शक्तयः'—नौ शक्तिहरू। 'रुद्रविनायकौ'—रुद्र र विनायक। 'नमो देव्यै'—नमो देव्यै। 'स्तोत्रैः'—स्तोत्रहरूले। 'महालक्ष्मीम्'—महालक्ष्मी। 'समर्चयेत्'—पूजा गर्नुपर्छ। यसरी महालक्ष्मीको पूजामा उनका नौ शक्तिहरू, रुद्र, विनायक र 'नमो देव्यै' स्तोत्रहरूले पूजा गरिन्छ। यो पूजा-विधि तान्त्रिक परम्परामा महत्वपूर्ण छ।",
+            "en": "In this verse, the detailed description of Mahālakṣmī's worship is given. 'Nava śaktayaḥ' — nine śaktis. 'Rudravināyakau' — Rudra and Vināyaka. 'Namo Devyai' — Namo Devyai. 'Stotraiḥ' — with hymns. 'Mahālakṣmīm' — Mahālakṣmī. 'Samarcayet' — one should worship. Thus in Mahālakṣmī's worship, her nine śaktis, Rudra, Vināyaka and the 'Namo Devyai' hymns are used. This worship method is important in the tantric tradition."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika023.wav"
+        },
+        {
+          "id": "vaikritika-24",
+          "number": 24,
+          "sanskrit": "अवतारत्रयार्चायां स्तोत्रमन्त्रास्तदाश्रयाः। अष्टादशभुजा चैषा पूज्या महिषमर्दिनी॥२४॥",
+          "iast": "avatāratrayārcāyāṃ stotramantrāstadāśrayāḥ | aṣṭādaśabhujā caiṣā pūjyā mahiṣamardinī ||24||",
+          "meaning": {
+            "ne": "तीन अवतारहरूको अर्चनामा स्तोत्र र मन्त्रहरू तिनैका आश्रय हुन्छन्। यी अठारह भुजा भएकी महिषमर्दिनी पूज्य हुन्छिन्।",
+            "en": "In the worship of the three avatāras, the hymns and mantras are dependent on them. This eighteen-armed Mahiṣamardinī is to be worshipped."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा तीन अवतारहरूको अर्चनाको वर्णन छ। 'अवतारत्रयार्चायाम्'—तीन अवतारहरूको अर्चनामा। 'स्तोत्रमन्त्राः'—स्तोत्र र मन्त्रहरू। 'तदाश्रयाः'—तिनैका आश्रय। 'अष्टादशभुजा'—अठारह भुजा भएकी। 'महिषमर्दिनी'—महिषमर्दिनी। यसरी महाकाली, महालक्ष्मी र महासरस्वती—यी तीन अवतारहरूको अर्चनामा तिनैका स्तोत्र र मन्त्रहरू प्रयोग गरिन्छन्। यो पूजा-विधिको सार हो।",
+            "en": "In this verse, the worship of the three avatāras is described. 'Avatāratrayārcāyām' — in the worship of the three avatāras. 'Stotramantrāḥ' — hymns and mantras. 'Tadāśrayāḥ' — dependent on them. 'Aṣṭādaśabhujā' — eighteen-armed. 'Mahiṣamardinī' — Mahiṣamardinī. Thus in the worship of Mahākālī, Mahālakṣmī and Mahāsarasvatī — these three avatāras — their respective hymns and mantras are used. This is the essence of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika024.wav"
+        },
+        {
+          "id": "vaikritika-25",
+          "number": 25,
+          "sanskrit": "महालक्ष्मीर्महाकाली सैव प्रोक्ता सरस्वती। ईश्वरी पुण्यपापानां सर्वलोकमहेश्वरी॥२५॥",
+          "iast": "mahālakṣmīrmahākālī saiva proktā sarasvatī | īśvarī puṇyapāpānāṃ sarvalokamaheśvarī ||25||",
+          "meaning": {
+            "ne": "महालक्ष्मी, महाकाली र सरस्वती—उनै हुन्। पुण्य र पापकी ईश्वरी, सबै लोकहरूकी महेश्वरी।",
+            "en": "Mahālakṣmī, Mahākālī and Sarasvatī — she is proclaimed as all these. She is the sovereign of merit and sin, the Great Goddess of all the worlds."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा तीनै देवीहरूको एकत्वको घोषणा गरिएको छ। 'महालक्ष्मीः, महाकाली, सरस्वती'—यी तीनै नामहरू एउटै देवीका हुन्। 'ईश्वरी'—ईश्वरी। 'पुण्यपापानाम्'—पुण्य र पापको। 'सर्वलोकमहेश्वरी'—सबै लोकहरूकी महेश्वरी। यसरी महाकाली, महालक्ष्मी र महासरस्वती—यी तीनै एउटै परम शक्तिका तीन रूप हुन्। यो अद्वैतको घोषणा हो—जसले तीन गुणहरूको एकीकरणलाई प्रकट गर्छ।",
+            "en": "In this verse, the unity of the three Goddesses is proclaimed. 'Mahālakṣmī, Mahākālī, Sarasvatī' — all these three names belong to the same Goddess. 'Īśvarī' — sovereign. 'Puṇyapāpānām' — of merit and sin. 'Sarvalokamaheśvarī' — the Great Goddess of all the worlds. Thus Mahākālī, Mahālakṣmī and Mahāsarasvatī — all three are forms of the same supreme power. This is the proclamation of non-duality — revealing the integration of the three guṇas."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika025.wav"
+        },
+        {
+          "id": "vaikritika-26",
+          "number": 26,
+          "sanskrit": "महिषान्तकरी येन पूजिता स जगत्प्रभुः। पूजयेज्जगतां धात्रीं चण्डिकां भक्तवत्सलाम्॥२६॥",
+          "iast": "mahiṣāntakarī yena pūjitā sa jagatprabhuḥ | pūjayejjagatāṃ dhātrīṃ caṇḍikāṃ bhaktavatsalām ||26||",
+          "meaning": {
+            "ne": "जसले महिषको अन्त गर्ने देवीको पूजा गर्छ, उनी जगत्प्रभु हुन्छ। जगतकी धात्री, भक्तवत्सला चण्डिकाको पूजा गर्नुपर्छ।",
+            "en": "One who worships her who is the ender of Mahiṣa becomes the lord of the world. One should worship Caṇḍikā, the sustainer of the world, affectionate to her devotees."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महिषमर्दिनीको पूजाको फल वर्णन गरिएको छ। 'महिषान्तकरी'—महिषको अन्त गर्ने। 'पूजिता'—पूजित। 'जगत्प्रभुः'—जगत्प्रभु। 'जगताम्'—जगतहरूको। 'धात्रीम्'—धात्री। 'भक्तवत्सलाम्'—भक्तवत्सला। यसरी महिषमर्दिनीको पूजाले भक्त जगत्प्रभु बन्छ। 'भक्तवत्सला'—भक्तप्रति वात्सल्य भएकी। यो देवीको भक्तप्रतिको प्रेमको प्रतीक हो।",
+            "en": "In this verse, the fruit of worshipping Mahiṣamardinī is described. 'Mahiṣāntakarī' — the ender of Mahiṣa. 'Pūjitā' — when worshipped. 'Jagatprabhuḥ' — lord of the world. 'Jagatām' — of the worlds. 'Dhātrīm' — sustainer. 'Bhaktavatsalām' — affectionate to devotees. Thus by worshipping Mahiṣamardinī, the devotee becomes the lord of the world. 'Bhaktavatsalā' — affectionate to devotees. This symbolises the Goddess's love for her devotee."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika026.wav"
+        },
+        {
+          "id": "vaikritika-27",
+          "number": 27,
+          "sanskrit": "अर्घ्यादिभिरलङ्कारैर्गन्धपुष्पैस्तथाक्षतैः। धूपैर्दीपैश्च नैवेद्यैर्नानाभक्ष्यसमन्वितैः॥२७॥",
+          "iast": "arghyādibhiralaṅkārairgandhapuṣpaistathākṣataiḥ | dhūpairdīpaiśca naivedyairnānābhakṣyasamanvitaiḥ ||27||",
+          "meaning": {
+            "ne": "अर्घ्य आदि, अलंकार, गन्ध, पुष्प, अक्षत, धूप, दीप र नाना भक्ष्यहरूसहित नैवेद्यले।",
+            "en": "With arghya and other offerings, ornaments, fragrance, flowers, unbroken rice, incense, lamps, and naivedya accompanied by various foods."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाका उपचारहरूको वर्णन छ। अर्घ्य, अलंकार, गन्ध, पुष्प, अक्षत, धूप, दीप र नैवेद्य—यी सबै पूजाका उपचार हुन्। 'नानाभक्ष्यसमन्वितैः'—नाना भक्ष्यहरूसहित। यसरी देवीको पूजामा सोह्र उपचारहरू अर्पण गरिन्छन्—जसले पूजालाई पूर्ण बनाउँछ। यो पूजा-विधिको विस्तृत वर्णन हो।",
+            "en": "In this verse, the offerings of worship are described. Arghya, ornaments, fragrance, flowers, unbroken rice, incense, lamps and naivedya — all these are offerings of worship. 'Nānābhakṣyasamanvitaiḥ' — accompanied by various foods. Thus in the Goddess's worship, sixteen offerings are made — which complete the worship. This is the detailed description of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika027.wav"
+        },
+        {
+          "id": "vaikritika-28",
+          "number": 28,
+          "sanskrit": "रुधिराक्तेन बलिना मांसेन सुरया नृप। प्रणामाचमनीयेन चन्दनेन सुगन्धिना॥२८॥",
+          "iast": "rudhirāktena balinā māṃsena surayā nṛpa | praṇāmācamanīyena candanena sugandhinā ||28||",
+          "meaning": {
+            "ne": "हे राजन्, रगतले अक्त बलि, मांस, सुरा, प्रणाम, आचमनीय र सुगन्धित चन्दनले।",
+            "en": "O King, with blood-smeared bali, flesh, liquor, prostration, water for sipping, and fragrant sandalwood."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा तान्त्रिक पूजाका विशेष उपचारहरूको वर्णन छ। रगतले अक्त बलि, मांस, सुरा, प्रणाम, आचमनीय र सुगन्धित चन्दन—यी सबै तान्त्रिक पूजाका उपचार हुन्। यी उपचारहरू तान्त्रिक परम्परामा विशेष महत्व राख्छन्—जसले देवीको उग्र रूपको पूजालाई पूर्ण बनाउँछन्। यो पूजा-विधि विशेष रूपमा महाकालीको पूजामा प्रयोग गरिन्छ।",
+            "en": "In this verse, the special offerings of tantric worship are described. Blood-smeared bali, flesh, liquor, prostration, water for sipping and fragrant sandalwood — all these are offerings of tantric worship. These offerings have special importance in the tantric tradition — completing the worship of the Goddess's fierce form. This worship method is especially used in the worship of Mahākālī."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika028.wav"
+        },
+        {
+          "id": "vaikritika-29",
+          "number": 29,
+          "sanskrit": "सकर्पूरैश्च ताम्बूलैर्भक्तिभावसमन्वितैः। वामभागेऽग्रतो देव्याश्छिन्नशीर्षं महासुरम्॥२९॥",
+          "iast": "sakarpūraiśca tāmbūlairbhaktibhāvasamanvitaiḥ | vāmabhāge'grato devyāśchinnaśīrṣaṃ mahāsuram ||29||",
+          "meaning": {
+            "ne": "कर्पूरसहित ताम्बूलले भक्तिभावसहित, देवीको बायाँ भागमा अगाडि छिन्न शीर्ष महासुर।",
+            "en": "With camphor and tāmbūla accompanied by devotional feeling; on the left side before the Goddess, the great demon with severed head."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाका थप उपचारहरूको वर्णन छ। कर्पूरसहित ताम्बूल, भक्तिभाव, देवीको बायाँ भागमा छिन्न शीर्ष महासुर—यी सबै पूजाका अङ्ग हुन्। 'छिन्नशीर्षम्'—छिन्न शीर्ष। 'महासुरम्'—महासुर। यसरी देवीको पूजामा महिषासुरको छिन्न शीर्षलाई पनि स्थापित गरिन्छ—जसले देवीको विजयलाई प्रकट गर्छ।",
+            "en": "In this verse, further offerings of worship are described. Camphor with tāmbūla, devotional feeling, and on the left side before the Goddess the great demon with severed head — all these are limbs of worship. 'Chinnaśīrṣam' — severed head. 'Mahāsuram' — great demon. Thus in the Goddess's worship, the severed head of Mahiṣāsura is also established — revealing the Goddess's victory."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika029.wav"
+        },
+        {
+          "id": "vaikritika-30",
+          "number": 30,
+          "sanskrit": "पूजयेन्महिषं येन प्राप्तं सायुज्यमीशया। दक्षिणे पुरतः सिंहं समग्रं धर्ममीश्वरम्॥३०॥",
+          "iast": "pūjayenmahiṣaṃ yena prāptaṃ sāyujyamīśayā | dakṣiṇe purataḥ siṃhaṃ samagraṃ dharmamīśvaram ||30||",
+          "meaning": {
+            "ne": "महिषको पूजा गर्नुपर्छ, जसद्वारा ईश्वरीसँग सायुज्य प्राप्त भयो। दाहिने अगाडि सिंह, समग्र धर्म र ईश्वर।",
+            "en": "One should worship Mahiṣa, by whom sāyujya with the Goddess was attained. On the right front, the lion, the entire dharma and the Lord."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा महिषको पूजाको वर्णन छ। 'महिषम्'—महिष। 'सायुज्यम्'—सायुज्य। 'ईशया'—ईश्वरीसँग। 'दक्षिणे पुरतः'—दाहिने अगाडि। 'सिंहम्'—सिंह। 'धर्मम्'—धर्म। 'ईश्वरम्'—ईश्वर। यसरी महिषको पूजा गरिन्छ—जसले देवीसँग सायुज्य प्राप्त गर्‍यो। दाहिने अगाडि सिंह, धर्म र ईश्वरको स्थापना हुन्छ। यो पूजा-विधिको विस्तृत वर्णन हो।",
+            "en": "In this verse, the worship of Mahiṣa is described. 'Mahiṣam' — Mahiṣa. 'Sāyujyam' — sāyujya. 'Īśayā' — with the Goddess. 'Dakṣiṇe purataḥ' — on the right front. 'Siṃham' — lion. 'Dharmam' — dharma. 'Īśvaram' — the Lord. Thus Mahiṣa is worshipped — who attained sāyujya with the Goddess. On the right front, the lion, dharma and the Lord are established. This is the detailed description of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika030.wav"
+        },
+        {
+          "id": "vaikritika-31",
+          "number": 31,
+          "sanskrit": "वाहनं पूजयेद्देव्या धृतं येन चराचरम्। कुर्याच्च स्तवनं धीमांस्तस्या एकाग्रमानसः॥३१॥",
+          "iast": "vāhanaṃ pūjayeddevyā dhṛtaṃ yena carācaram | kuryācca stavanaṃ dhīmāṃstasyā ekāgramānasaḥ ||31||",
+          "meaning": {
+            "ne": "देवीको वाहनको पूजा गर्नुपर्छ, जसले चराचरलाई धारण गरेको छ। बुद्धिमानले एकाग्रचित्त भई उनको स्तवन गर्नुपर्छ।",
+            "en": "One should worship the Goddess's vehicle, by which the moving and unmoving is upheld. The wise one, with a one-pointed mind, should praise her."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको वाहनको पूजाको वर्णन छ। 'वाहनम्'—वाहन। 'देव्याः'—देवीको। 'धृतम्'—धारण गरेको। 'चराचरम्'—चराचर। 'स्तवनम्'—स्तवन। 'एकाग्रमानसः'—एकाग्रचित्त। यसरी देवीको वाहनको पूजा गरिन्छ—जसले चराचरलाई धारण गरेको छ। बुद्धिमानले एकाग्रचित्त भई देवीको स्तवन गर्नुपर्छ। यो पूजा-विधिको अन्तिम चरण हो।",
+            "en": "In this verse, the worship of the Goddess's vehicle is described. 'Vāhanam' — vehicle. 'Devyāḥ' — of the Goddess. 'Dhṛtam' — upheld. 'Carācaram' — moving and unmoving. 'Stavanam' — praise. 'Ekāgramānasaḥ' — with a one-pointed mind. Thus the Goddess's vehicle is worshipped — which upholds the moving and unmoving. The wise one should praise the Goddess with a one-pointed mind. This is the final stage of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika031.wav"
+        },
+        {
+          "id": "vaikritika-32",
+          "number": 32,
+          "sanskrit": "ततः कृताञ्जलिर्भूत्वा स्तुवीत चरितैरिमैः। एकेन वा मध्यमेन नैकेनेतरयोरिह॥३२॥",
+          "iast": "tataḥ kṛtāñjalirbhūtvā stuvīta caritairimaiḥ | ekena vā madhyamena naikenetarayoriha ||32||",
+          "meaning": {
+            "ne": "त्यसपछि कृताञ्जलि भई यी चरितहरूले स्तुति गर्नुपर्छ। एकले वा मध्यमले, तर दुईमध्ये एकलाई छोडेर होइन।",
+            "en": "Then, having folded one's hands, one should praise with these deeds — with one, or with the middle one, but not leaving out one of the other two."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा स्तुतिको विधि वर्णन गरिएको छ। 'कृताञ्जलिः'—कृताञ्जलि। 'स्तुवीत'—स्तुति गर्नुपर्छ। 'चरितैः'—चरितहरूले। 'एकेन'—एकले। 'मध्यमेन'—मध्यमले। 'न एकेन इतरयोः'—दुईमध्ये एकलाई छोडेर होइन। यसरी स्तुति गर्दा तीनै चरितहरूको स्तुति गर्नुपर्छ—एकलाई छोड्नु हुँदैन। यो पूजा-विधिको महत्वपूर्ण नियम हो।",
+            "en": "In this verse, the method of praise is described. 'Kṛtāñjaliḥ' — with folded hands. 'Stuvīta' — one should praise. 'Caritaiḥ' — with deeds. 'Ekena' — with one. 'Madhyamena' — with the middle one. 'Na ekena itarayoḥ' — not leaving out one of the other two. Thus while praising, one should praise all three deeds — one should not leave out any. This is an important rule of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika032.wav"
+        },
+        {
+          "id": "vaikritika-33",
+          "number": 33,
+          "sanskrit": "चरितार्धं तु न जपेज्जपञ्छिद्रमवाप्नुयात्। स्तोत्रमन्त्रैः स्तुवीतेमां यदि वा जगदम्बिकाम्॥३३॥",
+          "iast": "caritārdhaṃ tu na japejjapañchidramavāpnuyāt | stotramantraiḥ stuvītemāṃ yadi vā jagadambikām ||33||",
+          "meaning": {
+            "ne": "चरितको आधा जप गर्नु हुँदैन—जप गर्दा छिद्र प्राप्त हुन्छ। स्तोत्र र मन्त्रहरूले यी जगदम्बिकाको स्तुति गर्नुपर्छ।",
+            "en": "One should not recite half a deed — by reciting, one would obtain a flaw. One should praise this Mother of the World with hymns and mantras."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा जपको विधि वर्णन गरिएको छ। 'चरितार्धम्'—चरितको आधा। 'न जपेत्'—जप गर्नु हुँदैन। 'छिद्रम्'—छिद्र। 'अवाप्नुयात्'—प्राप्त हुन्छ। 'स्तोत्रमन्त्रैः'—स्तोत्र र मन्त्रहरूले। 'जगदम्बिकाम्'—जगदम्बिका। यसरी चरितको आधा जप गर्नु हुँदैन—जसले छिद्र उत्पन्न गर्छ। जगदम्बिकाको स्तुति स्तोत्र र मन्त्रहरूले गर्नुपर्छ। यो जप-विधिको महत्वपूर्ण नियम हो।",
+            "en": "In this verse, the method of japa is described. 'Caritārdham' — half a deed. 'Na japeṭ' — one should not recite. 'Chidram' — flaw. 'Avāpnuyāt' — one obtains. 'Stotramantraiḥ' — with hymns and mantras. 'Jagadambikām' — the Mother of the World. Thus one should not recite half a deed — which creates a flaw. The Mother of the World should be praised with hymns and mantras. This is an important rule of japa."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika033.wav"
+        },
+        {
+          "id": "vaikritika-34",
+          "number": 34,
+          "sanskrit": "प्रदक्षिणनमस्कारान् कृत्वा मूर्ध्नि कृताञ्जलिः। क्षमापयेज्जगद्धात्रीं मुहुर्मुहुरतन्द्रितः॥३४॥",
+          "iast": "pradakṣiṇanamaskārān kṛtvā mūrdhni kṛtāñjaliḥ | kṣamāpayejjagaddhātrīṃ muhurmuhuratandritaḥ ||34||",
+          "meaning": {
+            "ne": "प्रदक्षिणा र नमस्कार गरी, शिरमा कृताञ्जलि राखी, जगद्धात्रीसँग बारम्बार क्षमा माग्नुपर्छ, अतन्द्रित भई।",
+            "en": "Having performed circumambulation and salutations, with folded hands on the head, one should repeatedly beg forgiveness of the sustainer of the world, without laziness."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा क्षमाप्रार्थनाको विधि वर्णन गरिएको छ। 'प्रदक्षिणनमस्कारान्'—प्रदक्षिणा र नमस्कार। 'मूर्ध्नि कृताञ्जलिः'—शिरमा कृताञ्जलि। 'क्षमापयेत्'—क्षमा माग्नुपर्छ। 'जगद्धात्रीम्'—जगद्धात्री। 'मुहुर्मुहुः'—बारम्बार। 'अतन्द्रितः'—अतन्द्रित। यसरी प्रदक्षिणा, नमस्कार र क्षमाप्रार्थना गर्नुपर्छ—जसले पूजालाई पूर्ण बनाउँछ। यो पूजा-विधिको अन्तिम चरण हो।",
+            "en": "In this verse, the method of seeking forgiveness is described. 'Pradakṣiṇanamaskārān' — circumambulation and salutations. 'Mūrdhni kṛtāñjaliḥ' — with folded hands on the head. 'Kṣamāpayet' — one should beg forgiveness. 'Jagaddhātrīm' — the sustainer of the world. 'Muhurmuhuḥ' — repeatedly. 'Atandritaḥ' — without laziness. Thus one should perform circumambulation, salutations and seek forgiveness — which completes the worship. This is the final stage of the worship method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika034.wav"
+        },
+        {
+          "id": "vaikritika-35",
+          "number": 35,
+          "sanskrit": "प्रतिश्लोकं च जुहुयात् पायसं तिलसर्पिषा। जुहुयात् स्तोत्रमन्त्रैर्वा चण्डिकायै शुभं हविः॥३५॥",
+          "iast": "pratiślokaṃ ca juhuyāt pāyasaṃ tilasarpiṣā | juhuyāt stotramantrairvā caṇḍikāyai śubhaṃ haviḥ ||35||",
+          "meaning": {
+            "ne": "प्रत्येक श्लोकमा पायस, तिल र घ्यूले हवन गर्नुपर्छ। स्तोत्र र मन्त्रहरूले वा चण्डिकालाई शुभ हवि अर्पण गर्नुपर्छ।",
+            "en": "For each verse, one should offer pāyasa with sesame and ghee. One should offer auspicious oblations to Caṇḍikā with hymns and mantras."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा हवनको विधि वर्णन गरिएको छ। 'प्रतिश्लोकम्'—प्रत्येक श्लोकमा। 'जुहुयात्'—हवन गर्नुपर्छ। 'पायसम्'—पायस। 'तिलसर्पिषा'—तिल र घ्यूले। 'स्तोत्रमन्त्रैः'—स्तोत्र र मन्त्रहरूले। 'चण्डिकायै'—चण्डिकालाई। 'शुभम् हविः'—शुभ हवि। यसरी प्रत्येक श्लोकमा पायस, तिल र घ्यूले हवन गर्नुपर्छ र चण्डिकालाई शुभ हवि अर्पण गर्नुपर्छ। यो हवन-विधिको विस्तृत वर्णन हो।",
+            "en": "In this verse, the method of oblation is described. 'Pratiślokam' — for each verse. 'Juhuyāt' — one should offer. 'Pāyasam' — pāyasa. 'Tilasarpiṣā' — with sesame and ghee. 'Stotramantraiḥ' — with hymns and mantras. 'Caṇḍikāyai' — to Caṇḍikā. 'Śubham haviḥ' — auspicious oblation. Thus for each verse, one should offer pāyasa with sesame and ghee, and offer auspicious oblations to Caṇḍikā. This is the detailed description of the oblation method."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika035.wav"
+        },
+        {
+          "id": "vaikritika-36",
+          "number": 36,
+          "sanskrit": "नमो नमः पदैर्देवीं पूजयेत् सुसमाहितः। प्रयतः प्राञ्जलिः प्रह्वः प्राणानारोप्य चात्मनि॥३६॥",
+          "iast": "namo namaḥ padairdevīṃ pūjayet susamāhitaḥ | prayataḥ prāñjaliḥ prahvaḥ prāṇānāropya cātmani ||36||",
+          "meaning": {
+            "ne": "समाहित भई 'नमो नमः' पदहरूले देवीको पूजा गर्नुपर्छ। प्रयत, प्राञ्जलि, प्रह्व भई प्राणहरूलाई आत्मामा आरोपण गर्नुपर्छ।",
+            "en": "With a collected mind, one should worship the Goddess with the words 'Namo Namaḥ'. Pure, with folded hands, humble, having raised the prāṇas into the self..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाको अन्तिम चरण वर्णन गरिएको छ। 'नमो नमः'—नमो नमः। 'पदैः'—पदहरूले। 'देवीम्'—देवी। 'पूजयेत्'—पूजा गर्नुपर्छ। 'सुसमाहितः'—सुसमाहित। 'प्रयतः'—प्रयत। 'प्राञ्जलिः'—प्राञ्जलि। 'प्रह्वः'—प्रह्व। 'प्राणान्'—प्राणहरू। 'आत्मनि'—आत्मामा। 'आरोप्य'—आरोपण गरी। यसरी समाहित भई 'नमो नमः' पदहरूले देवीको पूजा गर्नुपर्छ र प्राणहरूलाई आत्मामा आरोपण गर्नुपर्छ। यो पूजाको अन्तिम र सर्वोच्च चरण हो—जहाँ साधक आफ्नो प्राणलाई देवीमा समर्पण गर्छ।",
+            "en": "In this verse, the final stage of worship is described. 'Namo Namaḥ' — Namo Namaḥ. 'Padaiḥ' — with words. 'Devīm' — the Goddess. 'Pūjayet' — one should worship. 'Susamāhitaḥ' — with a collected mind. 'Prayataḥ' — pure. 'Prāñjaliḥ' — with folded hands. 'Prahvaḥ' — humble. 'Prāṇān' — the prāṇas. 'Ātmani' — into the self. 'Āropya' — having raised. Thus with a collected mind, one should worship the Goddess with the words 'Namo Namaḥ' and raise the prāṇas into the self. This is the final and supreme stage of worship — where the practitioner surrenders his very life-breath to the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika036.wav"
+        },
+        {
+          "id": "vaikritika-37",
+          "number": 37,
+          "sanskrit": "सुचिरं भावयेद्देवीं चण्डिकां तन्मयो भवेत्। एवं यः पूजयेद्भक्त्या प्रत्यहं परमेश्वरीम्॥३७॥",
+          "iast": "suciraṃ bhāvayeddevīṃ caṇḍikāṃ tanmayo bhavet | evaṃ yaḥ pūjay edbhaktyā pratyahaṃ parameśvarīm ||37||",
+          "meaning": {
+            "ne": "धेरै समयसम्म देवी चण्डिकाको भावना गर्नुपर्छ र तन्मय हुनुपर्छ। यसरी जो भक्तिपूर्वक प्रतिदिन परमेश्वरीको पूजा गर्छ।",
+            "en": "For a long time one should contemplate the Goddess Caṇḍikā and become absorbed in her. Thus, one who worships the Supreme Goddess daily with devotion..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा ध्यानको फल वर्णन गरिएको छ। 'सुचिरम्'—धेरै समयसम्म। 'भावयेत्'—भावना गर्नुपर्छ। 'देवीम्'—देवी। 'चण्डिकाम्'—चण्डिका। 'तन्मयः'—तन्मय। 'भवेत्'—हुन्छ। 'भक्त्या'—भक्तिपूर्वक। 'प्रत्यहम्'—प्रतिदिन। 'परमेश्वरीम्'—परमेश्वरी। यसरी धेरै समयसम्म देवीको भावना गर्नुपर्छ र तन्मय हुनुपर्छ। यो ध्यानको सर्वोच्च फल हो—जहाँ साधक देवीमय हुन्छ।",
+            "en": "In this verse, the fruit of meditation is described. 'Suciram' — for a long time. 'Bhāvayet' — one should contemplate. 'Devīm' — the Goddess. 'Caṇḍikām' — Caṇḍikā. 'Tanmayaḥ' — absorbed in her. 'Bhavet' — becomes. 'Bhaktyā' — with devotion. 'Pratyaham' — daily. 'Parameśvarīm' — the Supreme Goddess. Thus for a long time one should contemplate the Goddess and become absorbed in her. This is the supreme fruit of meditation — where the practitioner becomes one with the Goddess."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika037.wav"
+        },
+        {
+          "id": "vaikritika-38",
+          "number": 38,
+          "sanskrit": "भुक्त्वा भोगान् यथाकामं देवीसायुज्यमाप्नुयात्। यो न पूजयते नित्यं चण्डिकां भक्तवत्सलाम्॥३८॥",
+          "iast": "bhuktvā bhogān yathākāmaṃ devīsāyujyamāpnuyāt | yo na pūjayate nityaṃ caṇḍikāṃ bhaktavatsalām ||38||",
+          "meaning": {
+            "ne": "इच्छानुसार भोगहरू भोगेर देवीसायुज्य प्राप्त गर्छ। जो नित्य भक्तवत्सला चण्डिकाको पूजा गर्दैन।",
+            "en": "Having enjoyed pleasures according to desire, one attains union with the Goddess. One who does not worship Caṇḍikā, affectionate to devotees, daily..."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा पूजाको फल वर्णन गरिएको छ। 'भुक्त्वा'—भोगेर। 'भोगान्'—भोगहरू। 'यथाकामम्'—इच्छानुसार। 'देवीसायुज्यम्'—देवीसायुज्य। 'आप्नुयात्'—प्राप्त गर्छ। 'भक्तवत्सलाम्'—भक्तवत्सला। यसरी पूजाले भक्तलाई इच्छानुसार भोग र देवीसायुज्य दुवै प्रदान गर्छ। यो पूजाको पूर्ण फल हो—जसले सांसारिक र आध्यात्मिक दुवै सुख प्रदान गर्छ।",
+            "en": "In this verse, the fruit of worship is described. 'Bhuktvā' — having enjoyed. 'Bhogān' — pleasures. 'Yathākāmam' — according to desire. 'Devīsāyujyam' — union with the Goddess. 'Āpnuyāt' — attains. 'Bhaktavatsalām' — affectionate to devotees. Thus worship grants the devotee both pleasures according to desire and union with the Goddess. This is the complete fruit of worship — granting both worldly and spiritual happiness."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika038.wav"
+        },
+        {
+          "id": "vaikritika-39",
+          "number": 39,
+          "sanskrit": "भस्मीकृत्यास्य पुण्यानि निर्दहेत् परमेश्वरी। तस्मात् पूजय भूपाल सर्वलोकमहेश्वरीम्॥३९॥",
+          "iast": "bhasmīkṛtyāsya puṇyāni nirdahet parameśvarī | tasmāt pūjaya bhūpāla sarvalokamaheśvarīm ||39||",
+          "meaning": {
+            "ne": "परमेश्वरीले उसका पुण्यहरूलाई भस्म गरी जलाउँछिन्। त्यसैले हे राजन्, सबै लोकहरूकी महेश्वरीको पूजा गर्नुहोस्।",
+            "en": "The Supreme Goddess reduces his merits to ashes and burns them. Therefore, O King, worship the Great Goddess of all the worlds."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। 'भस्मीकृत्य'—भस्म गरी। 'पुण्यानि'—पुण्यहरू। 'निर्दहेत्'—जलाउँछिन्। 'परमेश्वरी'—परमेश्वरी। 'तस्मात्'—त्यसैले। 'पूजय'—पूजा गर्नुहोस्। 'भूपाल'—हे राजन्। 'सर्वलोकमहेश्वरीम्'—सबै लोकहरूकी महेश्वरी। यसरी जो देवीको पूजा गर्दैन, उसका पुण्यहरू परमेश्वरीले भस्म गर्छिन्। त्यसैले सबै लोकहरूकी महेश्वरीको पूजा गर्नुपर्छ। यो वैकृतिकरहस्यको अन्तिम श्लोक हो—जसले पूजाको अनिवार्यतालाई स्थापित गर्छ।",
+            "en": "This is the final verse. 'Bhasmīkṛtya' — having reduced to ashes. 'Puṇyāni' — merits. 'Nirdahet' — burns. 'Parameśvarī' — the Supreme Goddess. 'Tasmāt' — therefore. 'Pūjaya' — worship. 'Bhūpāla' — O King. 'Sarvalokamaheśvarīm' — the Great Goddess of all the worlds. Thus one who does not worship the Goddess — the Supreme Goddess reduces his merits to ashes. Therefore, one should worship the Great Goddess of all the worlds. This is the final verse of the Vaikṛtika Rahasya — establishing the necessity of worship."
+          },
+          "audio": "audio/devi-mahatmya/vaikritika-rahasya/verses/vaikritika039.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "वैकृतिकरहस्यको सम्पूर्ण प्रवाहलाई हेर्दा तीन महादेवीहरू—महाकाली, महालक्ष्मी र महासरस्वती—को स्वरूप, आयुध, वर्ण, वाहन, पूजा-विधि, हवन, ध्यान र फल देखिन्छ।\n\nमहाकाली तमोगुणकी देवी हुन्, जो विष्णुको योगनिद्रा हुन्। उनको दस मुख, दस भुजा, दस चरण र तीस नेत्र छन्। उनी भयानक रूप भए पनि सौन्दर्य र सौभाग्यकी प्रतिष्ठा हुन्। उनको पूजाले भक्तलाई चराचर वशीभूत हुन्छ।\n\nमहालक्ष्मी सबै देवताहरूको तेजबाट प्रकट भएकी हुन् र उनैले महिषासुरको वध गरेकी हुन्। उनको अठारह भुजा छन् र अठारह आयुधहरूले सुसज्जित छिन्। उनको पूजाले भक्त सबै लोक र देवताहरूको प्रभु बन्छ।\n\nमहासरस्वती गौरीको देहबाट प्रकट भएकी हुन् र उनैले शुम्भ-निशुम्भको वध गरेकी हुन्। उनको आठ भुजा छन् र आठ आयुधहरूले सुसज्जित छिन्। उनको पूजाले भक्तलाई सर्वज्ञत्व प्राप्त हुन्छ।\n\nयस रहस्यमा तीनै देवीहरूको पूजा-विधि, मण्डल-स्थापना, हवन, क्षमाप्रार्थना, ध्यान र फलको विस्तृत वर्णन छ। अन्तिम श्लोकले पूजाको अनिवार्यतालाई स्थापित गर्छ—जो पूजा गर्दैन, उसका पुण्यहरू नष्ट हुन्छन्। यसरी वैकृतिकरहस्य देवी-उपासनाको एक पूर्ण मार्गदर्शक हो—जसले साधकलाई देवीसायुज्यको मार्ग देखाउँछ।",
+      "en": "Read as a whole, Vaikṛtika Rahasya presents the forms, weapons, colours, vehicles, worship methods, oblations, meditation and fruits of the three Great Goddesses — Mahākālī, Mahālakṣmī and Mahāsarasvatī.\n\nMahākālī is the Goddess of tamas, the Yoga-nidrā of Viṣṇu. She has ten faces, ten arms, ten feet and thirty eyes. Though her form is terrifying, she is the foundation of beauty and good fortune. By her worship, the moving and unmoving come under the devotee's control.\n\nMahālakṣmī manifested from the radiance of all the gods and she slew Mahiṣāsura. She has eighteen arms adorned with eighteen weapons. By her worship, the devotee becomes the master of all the worlds and the gods.\n\nMahāsarasvatī manifested from the body of Gaurī and she slew Śumbha and Niśumbha. She has eight arms adorned with eight weapons. By her worship, the devotee attains omniscience.\n\nThis secret contains the detailed description of the worship methods, maṇḍala establishment, oblation, seeking forgiveness, meditation and fruits of all three Goddesses. The final verse establishes the necessity of worship — one who does not worship has their merits destroyed. Thus Vaikṛtika Rahasya is a complete guide to Goddess worship — showing the practitioner the path to union with the Goddess."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "वैकृतिकरहस्यको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी वैकृतिकरहस्यको अध्ययन केवल ३९ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Vaikṛtika Rahasya, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Vaikṛtika Rahasya does not end simply with reading thirty-nine verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

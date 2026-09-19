@@ -1,0 +1,299 @@
+{
+  "id": "keelaka-strotram",
+  "title": "Kīlaka Stotram",
+  "sanskritTitle": "॥ श्रीकीलकस्तोत्रम् ॥",
+  "type": "stotram",
+  "collection": "patha-purva",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 15,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Verse numbering follows the received Devi Saptasati recension as preserved in the Moku Darshana edition. Published recensions may differ in verse order and wording; the selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Auro Bharati — Kīlakam", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/kilakam-text/" },
+      { "name": "Stotra Nidhi — Durga Saptasati Kilaka Stotram", "url": "https://stotranidhi.com/en/durga-saptasati-kilaka-stotram-in-english/" },
+      { "name": "Sanskrit Documents — kIlakastotram", "url": "https://sanskritdocuments.org/doc_devii/kiilakastotra.html" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "कीलकस्तोत्रस्य महिमा",
+      "titleEn": "The Nature and Place of Kīlaka Stotram",
+      "ne": "कीलकस्तोत्रम् देवीमाहात्म्यको पाठपरम्परामा विशेष स्थान राख्ने स्तोत्र हो। यसको पाठद्वारा साधकले सप्तशती पाठको मार्गमा रहेका अवरोधहरू हटाई फल प्राप्तिको ढोका खोल्छ।\n\nकीलक शब्दले कील, खिला वा बन्धनलाई जनाउँछ। परम्परामा यसलाई साधकको मार्गमा रहेका अवरोधहरू हटाउने र देवीकृपाको द्वार खोल्ने भावसँग जोडिन्छ।\n\nदुर्गा सप्तशतीको पाठमा कीलकस्तोत्र अर्गलास्तोत्रपछि र मूल सप्तशतीभन्दा पूर्व पठन गरिन्छ। यसरी यो स्तोत्र सप्तशतीको फल प्राप्तिका लागि बन्धन खोल्ने कडीका रूपमा कार्य गर्छ।",
+      "en": "Kīlaka Stotram holds an important place in the recitation sequence of the Devi Mahatmya. Through it the practitioner removes obstacles on the path of Saptaśatī recitation and opens the door to its fruits.\n\nThe word kīlaka means nail, peg or binding. In the tradition it is associated with removing obstacles on the practitioner's path and opening the way to divine grace.\n\nIn the recitation of the Durga Saptashati, Kīlaka Stotram is recited after the Argala Stotram and before the main Saptaśatī. It functions as a key that unlocks the fruits of the Saptaśatī recitation."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीकीलकस्तोत्रमन्त्रस्य शिव ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीमहासरस्वती देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठाङ्गत्वेन जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-kīlaka-stotra-mantrasya śiva ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-mahāsarasvatī devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhāṅgatvena jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस कीलकस्तोत्र मन्त्रका शिव ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीमहासरस्वती देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अंगका रूपमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Kīlaka Stotra mantra, Śiva is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Mahāsarasvatī is the presiding deity. It is recited as a limb (aṅga) of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल स्तोत्रका १५ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main hymn. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the fifteen main verses."
+      },
+      "audio": "audio/kilaka-stotram/viniyoga.mp3"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीकीलकस्तोत्रम्",
+      "titleEn": "Kīlaka Stotram — Main Recitation",
+      "items": [
+        {
+          "id": "kilaka-01",
+          "number": 1,
+          "sanskrit": "ॐ नमश्चण्डिकायै॥ मार्कण्डेय उवाच। ॐ विशुद्धज्ञानदेहाय त्रिवेदीदिव्यचक्षुषे। श्रेयःप्राप्तिनिमित्ताय नमः सोमार्धधारिणे॥१॥",
+          "iast": "oṃ namaś caṇḍikāyai || mārkaṇḍeya uvāca | oṃ viśuddhajñānadehāya trivedīdivyacakṣuṣe | śreyaḥprāptinimittāya namaḥ somārdhadhāriṇe ||1||",
+          "meaning": {
+            "ne": "ॐ चण्डिकादेवीलाई नमस्कार। मार्कण्डेयले भने: शुद्ध ज्ञानको देह भएका, तीन वेदहरू दिव्य चक्षु भएका, श्रेयको प्राप्तिको निमित्त हुने र अर्धचन्द्र धारण गर्ने (शिव)लाई नमस्कार।",
+            "en": "Oṃ, salutations to Caṇḍikā. Mārkaṇḍeya said: Salutations to Him whose body is pure knowledge, whose eyes of divine vision are the three Vedas, who is the cause for attaining the supreme well-being, and who wears the crescent moon."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले महादेव अर्थात् शिवको वन्दना गर्दै कीलकस्तोत्रको प्रारम्भ गर्छ। विशुद्ध ज्ञान देह—शुद्ध चेतनाको स्वरूप। त्रिवेदी दिव्यचक्षु—तीन वेदहरू जसका ज्ञानचक्षु हुन्। श्रेयःप्राप्तिनिमित्त—कल्याणको मार्ग देखाउने। सोमार्धधारिण—अर्धचन्द्र धारण गर्ने। यसरी शिवलाई सर्वोच्च ज्ञान, दृष्टि र कल्याणका स्रोतका रूपमा स्थापित गरिएको छ।",
+            "en": "This verse begins the Kīlaka Stotram with a salutation to Mahādeva, Śiva. Pure knowledge as his body — the form of pure consciousness. The three Vedas as his divine eyes — he whose eyes of knowledge are the Vedas. The cause of attaining well-being — he who shows the path of auspiciousness. The wearer of the crescent moon. Thus Śiva is established as the source of supreme knowledge, vision and well-being."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka001.wav"
+        },
+        {
+          "id": "kilaka-02",
+          "number": 2,
+          "sanskrit": "सर्वमेतद्विजानीयान्मन्त्राणामपि कीलकम्। सोऽपि क्षेममवाप्नोति सततं जप्यतत्परः॥२॥",
+          "iast": "sarvametadvijānīyānmantrāṇāmapi kīlakam | so'pi kṣemamavāpnoti satataṃ japyatatparaḥ ||2||",
+          "meaning": {
+            "ne": "यो सबैलाई मन्त्रहरूको पनि कीलक हो भनी जान्नुपर्छ। जो सधैं जपमा तत्पर छ, उसले क्षेम (कल्याण) प्राप्त गर्छ।",
+            "en": "One should know all this to be the kīlaka even of mantras. One who is constantly devoted to recitation attains well-being."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कीलकको महत्वलाई प्रतिपादन गर्छ। 'मन्त्राणामपि कीलकम्'—मन्त्रहरूको पनि कीलक, अर्थात् मन्त्रहरूको शक्तिलाई बन्द गर्ने वा खोल्ने कडी। 'सततं जप्यतत्परः'—निरन्तर जपमा तत्पर। जो साधक निरन्तर जपमा लागिरहन्छ, उसलाई क्षेम अर्थात् कल्याण प्राप्त हुन्छ। यसरी कीलकको ज्ञान र निरन्तर अभ्यास दुवै आवश्यक छन्।",
+            "en": "This verse establishes the importance of the kīlaka. 'Mantrāṇāmapi kīlakam' — the kīlaka even of mantras, that is, the link that locks or unlocks the power of mantras. 'Satataṃ japyatatparaḥ' — constantly devoted to recitation. The practitioner who remains engaged in constant recitation attains kṣema, well-being. Thus both the knowledge of the kīlaka and constant practice are necessary."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka002.wav"
+        },
+        {
+          "id": "kilaka-03",
+          "number": 3,
+          "sanskrit": "सिद्ध्यन्त्युच्चाटनादीनि वस्तूनि सकलान्यपि। एतेन स्तुवतां देवीं स्तोत्रमात्रेण सिद्ध्यति॥३॥",
+          "iast": "siddhyantyuccāṭanādīni vastūni sakalānyapi | etena stuvatāṃ devīṃ stotramātreṇa siddhyati ||3||",
+          "meaning": {
+            "ne": "उच्चाटन आदि सबै वस्तुहरू सिद्ध हुन्छन्। यस स्तोत्रबाट देवीको स्तुति गर्नेहरूका लागि केवल स्तोत्रबाटै सिद्धि हुन्छ।",
+            "en": "All things like driving away the undesirables become effective. For those who praise the Goddess by means of this, it is accomplished by the mere hymn."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कीलकस्तोत्रको सामर्थ्यलाई प्रकट गर्छ। 'उच्चाटनादीनि'—उच्चाटन, वशीकरण, आकर्षण आदि सबै कर्महरू। 'स्तोत्रमात्रेण'—केवल यो स्तोत्रको पाठबाट। यसरी देवीको स्तुति गर्नेहरूका लागि यो स्तोत्र आफैंमा सिद्धिदायक छ। यसले स्तोत्रको प्रभाव र महिमालाई स्थापित गर्छ।",
+            "en": "This verse reveals the power of the Kīlaka Stotram. 'Uccāṭanādīni' — all actions like driving away, subjugating, attracting, etc. 'Stotramātreṇa' — by the mere recitation of this hymn. Thus for those who praise the Goddess, this hymn itself is the giver of accomplishments. This establishes the efficacy and greatness of the hymn."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka003.wav"
+        },
+        {
+          "id": "kilaka-04",
+          "number": 4,
+          "sanskrit": "न मन्त्रो नौषधं तत्र न किञ्चिदपि विद्यते। विना जप्येन सिद्ध्येत सर्वमुच्चाटनादिकम्॥४॥",
+          "iast": "na mantro nauṣadhaṃ tatra na kiñcidapi vidyate | vinā japyena siddhyeta sarvamuccāṭanādikam ||4||",
+          "meaning": {
+            "ne": "त्यहाँ न मन्त्र छ, न औषधि, न केही अन्य वस्तु। जप बिना उच्चाटन आदि सबै सिद्ध हुँदैन।",
+            "en": "There is no mantra there, no medicine, nothing at all. Without recitation, all things like driving away do not succeed."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले जपको अनिवार्यतालाई जोड दिन्छ। 'न मन्त्रो नौषधं'—न मन्त्र न औषधि। 'विना जप्येन'—जप बिना। यसरी उच्चाटन, वशीकरण आदि सबै कर्महरूका लागि जप अनिवार्य छ। यसले साधकलाई निरन्तर जपको महत्व बताउँछ र आलस्य त्याग्न प्रेरित गर्छ।",
+            "en": "This verse emphasises the necessity of recitation. 'Na mantro nauṣadhaṃ' — neither mantra nor medicine. 'Vinā japyena' — without recitation. Thus for all actions like driving away and subjugating, recitation is essential. This tells the practitioner the importance of constant recitation and inspires the abandonment of laziness."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka004.wav"
+        },
+        {
+          "id": "kilaka-05",
+          "number": 5,
+          "sanskrit": "समग्राण्यपि सिद्ध्यन्ति लोकशङ्कामिमां हरः। कृत्वा निमन्त्रयामास सर्वमेवमिदं शुभम्॥५॥",
+          "iast": "samagrāṇyapi siddhyanti lokaśaṅkāmimāṃ haraḥ | kṛtvā nimantrayāmāsa sarvamevamidaṃ śubham ||5||",
+          "meaning": {
+            "ne": "सबै कर्महरू सिद्ध हुन्छन्। संसारको शङ्कालाई हटाउन शिवले यो सबै शुभ स्तोत्रको निमन्त्रण गर्नुभयो।",
+            "en": "All are accomplished. Śiva, having removed this doubt of the world, invited all this auspicious hymn."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा शिवले लोकको शङ्का हटाउन यो स्तोत्रको प्रचलन गराउनुभयो भनिएको छ। 'लोकशङ्काम्'—संसारको शङ्का, अविश्वास। 'निमन्त्रयामास'—निमन्त्रण गर्नुभयो, प्रचलन गराउनुभयो। यसरी कीलकस्तोत्रको प्रामाणिकता शिव आफैंबाट स्थापित भएको छ। यो स्तोत्र शुभ र सबैका लागि कल्याणकारी छ।",
+            "en": "This verse states that Śiva introduced this hymn to remove the doubt of the world. 'Lokaśaṅkām' — the world's doubt, disbelief. 'Nimantrayāmāsa' — invited, introduced. Thus the authenticity of the Kīlaka Stotram is established by Śiva himself. This hymn is auspicious and beneficial for all."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka005.wav"
+        },
+        {
+          "id": "kilaka-06",
+          "number": 6,
+          "sanskrit": "स्तोत्रं वै चण्डिकायास्तु तच्च गुह्यं चकार सः। समाप्तिर्न च पुण्यस्य तां यथावन्नियन्त्रणाम्॥६॥",
+          "iast": "stotraṃ vai caṇḍikāyāstu tacca guhyaṃ cakāra saḥ | samāptirna ca puṇyasya tāṃ yathāvanniyantraṇām ||6||",
+          "meaning": {
+            "ne": "चण्डिकाको स्तोत्रलाई उनले गुह्य बनाउनुभयो। पुण्यको समाप्ति हुँदैन, त्यसैले यथावत् नियन्त्रण गरियो।",
+            "en": "Yea, the laud of Caṇḍikā; and he made it occult. There is no end to the merit it bestows; and so he put a restraint."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कीलकस्तोत्रको गुह्यतालाई प्रकट गर्छ। 'गुह्यं चकार'—गुह्य बनाउनुभयो। 'समाप्तिर्न च पुण्यस्य'—पुण्यको समाप्ति हुँदैन। यसरी यो स्तोत्रको पुण्य असीमित छ, त्यसैले यसलाई नियन्त्रित रूपमा प्रचलित गरियो। यसले स्तोत्रको दुर्लभता र महत्वलाई जनाउँछ।",
+            "en": "This verse reveals the secrecy of the Kīlaka Stotram. 'Guhyaṃ cakāra' — he made it secret. 'Samāptirna ca puṇyasya' — there is no end to the merit. Thus the merit of this hymn is limitless, and so it was introduced in a restrained manner. This indicates the rarity and importance of the hymn."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka006.wav"
+        },
+        {
+          "id": "kilaka-07",
+          "number": 7,
+          "sanskrit": "सोऽपि क्षेममवाप्नोति सर्वमेव न संशयः। कृष्णायां वा चतुर्दश्यामष्टम्यां वा समाहितः॥७॥",
+          "iast": "so'pi kṣemamavāpnoti sarvameva na saṃśayaḥ | kṛṣṇāyāṃ vā caturdaśyāmaṣṭamyāṃ vā samāhitaḥ ||7||",
+          "meaning": {
+            "ne": "उसले पनि क्षेम प्राप्त गर्छ, सबै नै—यसमा कुनै संशय छैन। कृष्णपक्षको चतुर्दशी वा अष्टमीमा समाहित भएर।",
+            "en": "He also attains well-being, all indeed — of this there is no doubt. Concentrated on the fourteenth or eighth day of the dark fortnight."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कीलकस्तोत्र पाठको विशेष समयलाई बताउँछ। 'कृष्णायां चतुर्दश्याम्'—कृष्णपक्षको चतुर्दशी। 'अष्टम्याम्'—अष्टमी। 'समाहितः'—समाहित भएर, एकाग्रचित्त भएर। यी तिथिहरूमा पाठ गर्ने साधकलाई निश्चय नै क्षेम प्राप्त हुन्छ। यसले पाठको समय र एकाग्रताको महत्वलाई जनाउँछ।",
+            "en": "This verse states the special time for reciting the Kīlaka Stotram. 'Kṛṣṇāyāṃ caturdaśyām' — the fourteenth day of the dark fortnight. 'Aṣṭamyām' — the eighth day. 'Samāhitaḥ' — being concentrated, with a focused mind. The practitioner who recites on these days certainly attains well-being. This indicates the importance of time and concentration in recitation."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka007.wav"
+        },
+        {
+          "id": "kilaka-08",
+          "number": 8,
+          "sanskrit": "ददाति प्रतिगृह्णाति नान्यथैषा प्रसीदति। इत्थंरूपेण कीलेन महादेवेन कीलितम्॥८॥",
+          "iast": "dadāti pratigṛhṇāti nānyathaiṣā prasīdati | itthaṃrūpeṇa kīlena mahādevena kīlitam ||8||",
+          "meaning": {
+            "ne": "दिन्छ, ग्रहण गर्छ। अন্যথा यी देवी प्रसन्न हुँदिनन्। यसरी यो कीलक महादेवबाट कीलित गरिएको छ।",
+            "en": "He gives, he accepts. In no other way is She pleased. By this pivot, it is fixed by Mahādeva."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीको प्रसन्नताको शर्त बताइएको छ। 'ददाति प्रतिगृह्णाति'—दिन्छ र ग्रहण गर्छ, अर्थात् समर्पण र स्वीकारको भाव। 'नान्यथैषा प्रसीदति'—अন্যথा प्रसन्न हुँदिनन्। 'महादेवेन कीलितम्'—महादेवबाट कीलित। यसरी देवीको कृपा प्राप्त गर्न समर्पण र समर्पणको भाव आवश्यक छ। यो कीलक महादेवबाट स्थापित गरिएको हो।",
+            "en": "This verse states the condition for the Goddess's pleasure. 'Dadāti pratigṛhṇāti' — he gives and he accepts, that is, the attitude of surrender and acceptance. 'Nānyathaiṣā prasīdati' — she is not pleased otherwise. 'Mahādevena kīlitam' — fixed by Mahādeva. Thus to receive the Goddess's grace, the attitude of surrender and offering is necessary. This kīlaka was established by Mahādeva."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka008.wav"
+        },
+        {
+          "id": "kilaka-09",
+          "number": 9,
+          "sanskrit": "यो निष्कीलां विधायैनां नित्यं जपति सुस्फुटम्। स सिद्धः स गणः सोऽपि गन्धर्वो जायतेऽवने॥९॥",
+          "iast": "yo niṣkīlāṃ vidhāyaināṃ nityaṃ japati susphuṭam | sa siddhaḥ sa gaṇaḥ so'pi gandharvo jāyate'vane ||9||",
+          "meaning": {
+            "ne": "जो यसलाई निष्कीलक (बन्धनमुक्त) गरी नित्य स्पष्ट रूपमा जप गर्छ, उही सिद्ध हुन्छ, उही गण हुन्छ, उही गन्धर्व भई पृथ्वीमा जन्मन्छ।",
+            "en": "Whoever frees this from restraint and constantly recites it clearly, he is the accomplished one, he is in the retinue of the Goddess. He becomes a Gandharva in protection."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कीलकस्तोत्रको फललाई वर्णन गर्छ। 'निष्कीलाम्'—बन्धनमुक्त, अवरोधरहित। 'नित्यं जपति सुस्फुटम्'—नित्य स्पष्ट रूपमा जप। यसरी साधक सिद्ध हुन्छ, देवीको गणमा सम्मिलित हुन्छ र गन्धर्वको रूपमा प्रतिष्ठित हुन्छ। यो फलश्रुति स्तोत्रको महिमालाई स्थापित गर्छ।",
+            "en": "This verse describes the fruit of the Kīlaka Stotram. 'Niṣkīlām' — free from binding, unobstructed. 'Nityaṃ japati susphuṭam' — constantly recites clearly. Thus the practitioner becomes accomplished, joins the Goddess's retinue, and is established as a Gandharva. This phala-shruti establishes the greatness of the hymn."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka009.wav"
+        },
+        {
+          "id": "kilaka-10",
+          "number": 10,
+          "sanskrit": "न चैवाप्यटतस्तस्य भयं क्वापि हि जायते। नापमृत्युवशं याति मृतो मोक्षमाप्नुयात्॥१०॥",
+          "iast": "na caivāpyaṭatastasya bhayaṃ kvāpi hi jāyate | nāpamṛtyuvaśaṃ yāti mṛto mokṣamāpnuyāt ||10||",
+          "meaning": {
+            "ne": "घुम्दै जाँदा पनि उसलाई कहिल्यै कुनै भय हुँदैन। उनी अकाल मृत्युको वशमा जाँदैनन्, मृत्यु भएपछि मोक्ष प्राप्त गर्छन्।",
+            "en": "When he goes about, from nowhere does fear come to him. He does not become a victim of untimely accidental death. After death, he attains liberation."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले कीलकस्तोत्र पाठको रक्षात्मक र मुक्तिदायी प्रभावलाई वर्णन गर्छ। 'भयं न जायते'—कुनै भय उत्पन्न हुँदैन। 'नापमृत्युवशं याति'—अकाल मृत्युको वशमा जाँदैन। 'मृतो मोक्षमाप्नुयात्'—मृत्यु पछि मोक्ष प्राप्त गर्छ। यसरी यो स्तोत्र जीवनमा अभय र मृत्यु पछि मुक्ति प्रदान गर्ने साधन हो।",
+            "en": "This verse describes the protective and liberating effect of reciting the Kīlaka Stotram. 'Bhayaṃ na jāyate' — no fear arises. 'Nāpamṛtyuvaśaṃ yāti' — does not fall under untimely death. 'Mṛto mokṣamāpnuyāt' — after death attains liberation. Thus this hymn is a means of fearlessness in life and liberation after death."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka010.wav"
+        },
+        {
+          "id": "kilaka-11",
+          "number": 11,
+          "sanskrit": "ज्ञात्वा प्रारभ्य कुर्वीत ह्यकुर्वाणो विनश्यति। ततो ज्ञात्वैव सम्पन्नमिदं प्रारभ्यते बुधैः॥११॥",
+          "iast": "jñātvā prārabhya kurvīta hyakurvāṇo vinaśyati | tato jñātvaiva sampannamidaṃ prārabhyate budhaiḥ ||11||",
+          "meaning": {
+            "ne": "जानेर सुरु गरी गर्नुपर्छ। नगर्ने नष्ट हुन्छ। त्यसैले जानेर नै यो सम्पन्न स्तोत्र बुद्धिमान्हरूद्वारा सुरु गरिन्छ।",
+            "en": "Having known, one should begin and perform; if he does not perform, he perishes. The very fact of having known itself is fulfilment. This is begun by the knowers."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले ज्ञान र कर्मको सम्बन्धलाई प्रकट गर्छ। 'ज्ञात्वा प्रारभ्य कुर्वीत'—जानेर सुरु गरी गर्नुपर्छ। 'अकुर्वाणो विनश्यति'—नगर्ने नष्ट हुन्छ। यसरी केवल ज्ञानले मात्र पर्याप्त हुँदैन, त्यसलाई कर्ममा परिणत गर्नुपर्छ। 'बुधैः'—बुद्धिमान्हरूद्वारा। यसले साधकलाई ज्ञानलाई अभ्यासमा बदल्न प्रेरित गर्छ।",
+            "en": "This verse reveals the relationship between knowledge and action. 'Jñātvā prārabhya kurvīta' — having known, one should begin and perform. 'Akurvāṇo vinaśyati' — one who does not perform perishes. Thus mere knowledge is not enough; it must be translated into action. 'Budhaiḥ' — by the wise. This inspires the practitioner to turn knowledge into practice."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka011.wav"
+        },
+        {
+          "id": "kilaka-12",
+          "number": 12,
+          "sanskrit": "सौभाग्यादि च यत्किञ्चिद्दृश्यते ललनाजने। तत्सर्वं तत्प्रसादेन तेन जाप्यमिदं शुभम्॥१२॥",
+          "iast": "saubhāgyādi ca yatkiñcid dṛśyate lalanājane | tatsarvaṃ tatprasādena tena jāpyamidaṃ śubham ||12||",
+          "meaning": {
+            "ne": "स्त्रीजनमा जे जे सौभाग्य आदि देखिन्छ, त्यो सबै उनको प्रसादबाट हुन्छ। त्यसैले यो शुभ स्तोत्र जप गर्नुपर्छ।",
+            "en": "All those like auspiciousness etc. seen in the womenfolk are due to Her grace. Therefore, this auspicious laud should be recited."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीको कृपालाई सबै सौभाग्यको स्रोतका रूपमा स्थापित गर्छ। 'ललनाजने'—स्त्रीजनमा, नारीमा। 'तत्प्रसादेन'—उनको प्रसादबाट। यसरी सौभाग्य, शोभा, समृद्धि आदि सबै देवीको कृपाको फल हो। 'तेन जाप्यमिदं शुभम्'—त्यसैले यो शुभ स्तोत्र जप गर्नुपर्छ। यसले स्तोत्रको महिमालाई पुनः स्थापित गर्छ।",
+            "en": "This verse establishes the Goddess's grace as the source of all auspiciousness. 'Lalanājane' — in womenfolk. 'Tatprasādena' — by Her grace. Thus auspiciousness, beauty, prosperity, etc. are all fruits of the Goddess's grace. 'Tena jāpyamidaṃ śubham' — therefore this auspicious hymn should be recited. This re-establishes the greatness of the hymn."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka012.wav"
+        },
+        {
+          "id": "kilaka-13",
+          "number": 13,
+          "sanskrit": "शनैस्तु जप्यमानेऽस्मिन् स्तोत्रे सम्पत्तिरुच्चकैः। भवत्येव समग्रापि ततः प्रारभ्यमेव तत्॥१३॥",
+          "iast": "śanaistu japyamāne'smin stotre sampattiruccakaiḥ | bhavatyeva samagrāpi tataḥ prārabhyameva tat ||13||",
+          "meaning": {
+            "ne": "यो स्तोत्र विस्तारै जप गर्दा उच्च सम्पत्ति प्राप्त हुन्छ। सबै सम्पत्ति निश्चय नै हुन्छ, त्यसैले यसलाई सुरु गर्नैपर्छ।",
+            "en": "When this hymn is recited slowly, high prosperity comes about. All prosperity indeed comes; therefore it should be begun."
+          },
+          "commentary": {
+            "ne": "यस श्लोकले स्तोत्र पाठको विधि र फललाई बताउँछ। 'शनैः जप्यमाने'—विस्तारै जप गर्दा। 'सम्पत्तिरुच्चकैः'—उच्च सम्पत्ति। यसरी स्तोत्रलाई हतार नगरी, शान्तचित्तले जप गर्दा उच्च सम्पत्ति प्राप्त हुन्छ। 'ततः प्रारभ्यमेव तत्'—त्यसैले यसलाई सुरु गर्नैपर्छ। यसले स्तोत्रको अभ्यासलाई प्रोत्साहित गर्छ।",
+            "en": "This verse states the method and fruit of reciting the hymn. 'Śanaiḥ japyamāne' — when recited slowly. 'Sampattiruccakaiḥ' — high prosperity. Thus reciting the hymn slowly and peacefully brings high prosperity. 'Tataḥ prārabhyameva tat' — therefore it should be begun. This encourages the practice of the hymn."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka013.wav"
+        },
+        {
+          "id": "kilaka-14",
+          "number": 14,
+          "sanskrit": "ऐश्वर्यं यत्प्रसादेन सौभाग्यारोग्यसम्पदः। शत्रुहानिः परो मोक्षः स्तूयते सा न किं जनैः॥१४॥",
+          "iast": "aiśvaryaṃ yatprasādena saubhāgyārogyasampadaḥ | śatruhāniḥ paro mokṣaḥ stūyate sā na kiṃ janaiḥ ||14||",
+          "meaning": {
+            "ne": "जसको प्रसादबाट ऐश्वर्य, सौभाग्य, आरोग्य, सम्पत्ति, शत्रुहानि र परम मोक्ष प्राप्त हुन्छ, त्यस्ती देवीको मनुष्यहरूले स्तुति किन नगर्ने?",
+            "en": "By whose grace come prosperity, good fortune, health, wealth, destruction of enemies and supreme liberation — why should people not praise Her?"
+          },
+          "commentary": {
+            "ne": "यस श्लोकले देवीको कृपाको व्यापकतालाई वर्णन गर्छ। ऐश्वर्य, सौभाग्य, आरोग्य, सम्पत्ति, शत्रुहानि र परम मोक्ष—यी सबै देवीको प्रसादबाट प्राप्त हुन्छन्। 'स्तूयते सा न किं जनैः'—त्यस्ती देवीको मनुष्यहरूले स्तुति किन नगर्ने? यो प्रश्नले स्तुतिको अनिवार्यतालाई जनाउँछ। यसरी कीलकस्तोत्रको समापन देवीको महिमाको घोषणासँग हुन्छ।",
+            "en": "This verse describes the comprehensiveness of the Goddess's grace. Prosperity, good fortune, health, wealth, destruction of enemies and supreme liberation — all these are attained by the Goddess's grace. 'Stūyate sā na kiṃ janaiḥ' — why should people not praise such a Goddess? This question indicates the necessity of praise. Thus the Kīlaka Stotram concludes with a proclamation of the Goddess's greatness."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka014.wav"
+        },
+        {
+          "id": "kilaka-15",
+          "number": 15,
+          "sanskrit": "चण्डिकां हृदयेनापि यः स्मरेत् सततं नरः। हृद्यं काममवाप्नोति हृदि देवी सदा वसेत्॥१५॥",
+          "iast": "caṇḍikāṃ hṛdayenāpi yaḥ smaret satataṃ naraḥ | hṛdyaṃ kāmamavāpnoti hṛdi devī sadā vaset ||15||",
+          "meaning": {
+            "ne": "जो मनुष्य चण्डिकालाई हृदयबाट पनि निरन्तर स्मरण गर्छ, उसले हृदयको कामना प्राप्त गर्छ र देवी सधैं उसको हृदयमा बस्छिन्।",
+            "en": "The person who constantly remembers Caṇḍikā even with the heart, obtains the desire of the heart, and the Goddess dwells forever in the heart."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोकले कीलकस्तोत्रको सारलाई प्रस्तुत गर्छ। 'हृदयेनापि स्मरेत्'—हृदयबाट पनि स्मरण गर्नु। 'हृद्यं काममवाप्नोति'—हृदयको कामना प्राप्त गर्नु। 'हृदि देवी सदा वसेत्'—देवी सधैं हृदयमा निवास गर्नु। यसरी यो स्तोत्र केवल वाचिक पाठ नभई हृदयबाट गरिने स्मरण हो। जब साधक हृदयबाट देवीको स्मरण गर्छ, तब देवी उसको हृदयमा स्थायी रूपमा निवास गर्छिन्। यो नै कीलकस्तोत्रको सर्वोच्च फल हो।",
+            "en": "This final verse presents the essence of the Kīlaka Stotram. 'Hṛdayenāpi smaret' — remembering even with the heart. 'Hṛdyaṃ kāmamavāpnoti' — obtains the desire of the heart. 'Hṛdi devī sadā vaset' — the Goddess dwells forever in the heart. Thus this hymn is not merely verbal recitation but remembrance from the heart. When the practitioner remembers the Goddess from the heart, the Goddess dwells permanently in their heart. This is the highest fruit of the Kīlaka Stotram."
+          },
+          "audio": "audio/devi-mahatmya/kilaka-stotram/verses/kilaka015.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "कीलकस्तोत्रको सम्पूर्ण प्रवाहलाई हेर्दा देवीप्रति शरणागति, सप्तशती पाठको फल प्राप्तिको आकांक्षा, जपको महत्व, कीलकको गुह्यता र देवीको कृपाको व्यापकता देखिन्छ।\n\nसुरुवाती श्लोकहरूले शिवको वन्दना र कीलकको महत्वलाई प्रतिपादन गर्छन्। त्यसपछि जपको अनिवार्यता, स्तोत्रको सामर्थ्य र शिवद्वारा यसको स्थापना आउँछ।\n\nस्तोत्रको मध्य भागमा विशेष तिथिहरूमा पाठको विधि, देवीको प्रसन्नताको शर्त, पाठको फल र ज्ञानलाई कर्ममा बदल्नको महत्व आउँछ।\n\nअन्तिमतर्फ देवीको कृपाको व्यापकता र हृदयबाट स्मरणको महिमा आउँछ। अन्तिम श्लोकले कीलकस्तोत्रको सारलाई हृदयबाट देवीको स्मरणमा केन्द्रित गर्छ।\n\nयसरी कीलकस्तोत्रलाई तीन तहमा पढ्न सकिन्छ: स्तुति, प्रार्थना र साधना। यी तीन तह एकसाथ राख्दा स्तोत्र केवल माग्ने प्रार्थना नभई श्रद्धा, आत्मचिन्तन र नियमित साधनाको पाठ बन्न सक्छ।",
+      "en": "Read as a whole, Kīlaka Stotram expresses surrender to the Goddess, the aspiration for the fruits of Saptaśatī recitation, the importance of japa, the secrecy of the kīlaka, and the comprehensiveness of the Goddess's grace.\n\nThe opening verses establish the salutation to Śiva and the importance of the kīlaka. Then follows the necessity of japa, the power of the hymn and its establishment by Śiva.\n\nThe middle portion includes the method of recitation on special days, the condition for the Goddess's pleasure, the fruit of recitation and the importance of translating knowledge into action.\n\nToward the end, the comprehensiveness of the Goddess's grace and the greatness of remembrance from the heart are described. The final verse centres the essence of the Kīlaka Stotram on remembrance of the Goddess from the heart.\n\nThe hymn can therefore be studied through three complementary layers: praise, prayer and practice. Taken together, these layers allow the hymn to function not only as devotional prayer but also as a text for reflection and regular practice."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "कीलकस्तोत्रको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी कीलकस्तोत्रको अध्ययन केवल १५ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Kīlaka Stotram, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Kīlaka Stotram does not end simply with reading fifteen verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

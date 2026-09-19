@@ -1,0 +1,194 @@
+{
+  "id": "prasada-samapana",
+  "title": "Prasāda Samāpana",
+  "sanskritTitle": "॥ प्रसादसमापनम् ॥",
+  "type": "prayer",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 8,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "Prasāda Samāpana is the traditional concluding prayer recited at the very end of the Devī Māhātmya patha, after the Rahasyatrayam. It offers the fruits of the entire recitation (phala-samarpaṇa) at the feet of the Goddess, seeks forgiveness for any deficiencies, and formally concludes the patha with the offering of prasāda. The received recension preserves eight verses. The selected source is preserved rather than silently merged.",
+    "references": [
+      { "name": "Auro Bharati — Prasada Samapana", "url": "https://devimahatmyam.aurobharati.in/devimahatmyam/prasada-samapana/" },
+      { "name": "Stotra Nidhi — Durga Saptasati Prasada Samarpana", "url": "https://stotranidhi.com/hi/durga-saptasati-prasada-samarpana-in-sanskrit/" },
+      { "name": "Hindupedia — Devi Mahatmya Phala Sruti", "url": "https://www.hindupedia.com/en/Devi_Mahatmya_Phala_Sruti" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "प्रसादसमापनस्य महिमा",
+      "titleEn": "The Nature and Place of Prasāda Samāpana",
+      "ne": "प्रसादसमापनम् देवीमाहात्म्यको पाठको अन्तिम चरण हो। जब साधकले सप्तशती, अर्गला, कीलक, कवच, रहस्यत्रय र अन्य स्तोत्रहरूको पाठ पूरा गर्छ, तब ऊ देवीसमक्ष नतमस्तक भई सम्पूर्ण पाठको फल समर्पण गर्छ र आफ्ना सम्पूर्ण त्रुटिहरूका लागि क्षमा माग्दछ।\n\nप्रसाद शब्दको अर्थ 'कृपा' वा 'अनुग्रह' हो र समापनको अर्थ 'समाप्ति' हो। यसरी प्रसादसमापन भन्नाले देवीको कृपाको स्वीकार र पाठको औपचारिक समापन। यस प्रार्थनामा साधक देवीसमक्ष आफ्नो पाठ समर्पण गर्छ—जसरी भक्त आफ्नो सम्पूर्ण जीवन भगवानसमक्ष अर्पण गर्छ।\n\nयस प्रार्थनाको मूल भाव हो—फलसमर्पण। साधक स्वीकार गर्दछ कि उसले जे पाठ गरेको छ, त्यो देवीकै कृपाले सम्भव भएको हो। उसले पाठको फल आफ्नो लागि नराखी देवीसमक्ष अर्पण गर्छ। यो निष्काम कर्मको चरम हो—जहाँ साधक फलको आसक्ति त्याग्छ।\n\nयस प्रार्थनामा देवीलाई 'जगदम्बा', 'दुर्गा', 'चण्डिका' आदि नामहरूले सम्बोधन गरिन्छ। साधक देवीको शरणमा जान्छ, उनको कृपाको प्रार्थना गर्छ, र पाठको सम्पूर्ण फल समर्पण गर्छ। अन्तमा साधक देवीको प्रसाद (कृपा) स्वीकार गर्छ र आफ्नो जीवनलाई देवीमय बनाउन प्रार्थना गर्छ।\n\nयसरी प्रसादसमापन केवल पाठको अन्त्य मात्र नभई साधकको आत्म-समर्पण र देवीको कृपाको स्वीकारको साक्षी हो। यो प्रार्थना देवीमाहात्म्यको पाठको मुकुट हो—जसले सम्पूर्ण पाठलाई पूर्णता प्रदान गर्छ।",
+      "en": "Prasāda Samāpana is the final stage of the Devī Māhātmya patha. When the practitioner has completed the recitation of the Saptaśatī, Argala, Kīlaka, Kavaca, Rahasyatrayam and other stotras, he bows before the Goddess, offers the fruits of the entire recitation, and begs forgiveness for all his errors.\n\nThe word prasāda means 'grace' or 'favour' and samāpana means 'conclusion'. Thus Prasāda Samāpana means the acceptance of the Goddess's grace and the formal conclusion of the recitation. In this prayer, the practitioner surrenders his recitation to the Goddess — just as a devotee offers his entire life before God.\n\nThe essential spirit of this prayer is the offering of fruits (phala-samarpaṇa). The practitioner admits that whatever recitation he has done was possible only by the Goddess's grace. He does not keep the fruit of the recitation for himself but offers it to the Goddess. This is the peak of desireless action (niṣkāma karma) — where the practitioner renounces attachment to the fruit.\n\nIn this prayer, the Goddess is addressed by names such as 'Jagadambā', 'Durgā', 'Caṇḍikā' and others. The practitioner takes refuge in the Goddess, prays for her grace, and surrenders the entire fruit of the recitation. At the end, the practitioner accepts the Goddess's prasāda (grace) and prays to make his life Goddess-filled.\n\nThus Prasāda Samāpana is not merely the end of the recitation but the witness of the practitioner's self-surrender and the acceptance of the Goddess's grace. This prayer is the crown of the Devī Māhātmya patha — which grants completeness to the entire recitation."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीप्रसादसमापनस्तोत्रस्य मार्कण्डेय ऋषिः।\nअनुष्टुप् छन्दः।\nश्रीचण्डिका देवता।\nश्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठान्ते जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-prasāda-samāpana-stotrasya mārkaṇḍeya ṛṣiḥ |\nanuṣṭup chandaḥ |\nśrī-caṇḍikā devatā |\nśrī-jagadambā-prītyarthe saptaśatī-pāṭhānte jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीप्रसादसमापनस्तोत्रका मार्कण्डेय ऋषि हुन्, अनुष्टुप् छन्द हो, श्रीचण्डिका देवता हुन्। श्रीजगदम्बाको प्रसन्नताका लागि सप्तशती पाठको अन्त्यमा यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Prasāda Samāpana Stotra, Mārkaṇḍeya is the seer (ṛṣi), Anuṣṭup is the metre, and Śrī Caṇḍikā is the presiding deity. It is recited at the conclusion of the Saptaśatī recitation, for the pleasure of Śrī Jagadambā, the World-Mother."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले पाठलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल प्रार्थनाका आठ श्लोकमध्ये गणना गरिँदैन।",
+        "en": "The viniyoga is a traditional structural component placed before the main prayer. It connects the recitation with its ṛṣi, metre, deity and purpose. It is not counted as one of the eight main verses."
+      },
+      "audio": "audio/devi-mahatmya/prasada-samapana/viniyoga.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "श्रीप्रसादसमापनम्",
+      "titleEn": "Prasāda Samāpana — Main Recitation",
+      "items": [
+        {
+          "id": "prasada-01",
+          "number": 1,
+          "sanskrit": "ॐ ऋषिरुवाच। एतत्पवित्रं परमं पापघ्नं पुण्यवर्धनम्। पठनीयं प्रयत्नेन सर्वदा सर्वकामदम्॥१॥",
+          "iast": "oṃ ṛṣiruvāca | etatpavitraṃ paramaṃ pāpaghnāṃ puṇyavardhanam | paṭhanīyaṃ prayatnena sarvadā sarvakāmadam ||1||",
+          "meaning": {
+            "ne": "ॐ ऋषिले भने: यो अत्यन्त पवित्र, पापनाशक र पुण्यवर्धक देवीमाहात्म्य सधैं प्रयत्नपूर्वक पाठ गर्नुपर्छ—जसले सबै कामनाहरू पूर्ण गर्छ।",
+            "en": "Oṁ. The sage said: This supremely sacred Devī Māhātmya, which destroys sin and increases merit, should always be recited with effort — for it fulfils all desires."
+          },
+          "commentary": {
+            "ne": "यो श्लोक प्रसादसमापनको प्रारम्भ हो। ऋषि मार्कण्डेयले देवीमाहात्म्यको महिमा बताउँछन्—यो पवित्र, पापनाशक, पुण्यवर्धक र सर्वकामद हो। 'पठनीयम्'—पाठ गर्नुपर्छ। 'प्रयत्नेन'—प्रयत्नपूर्वक। 'सर्वदा'—सधैं। यसरी देवीमाहात्म्यको पाठ सधैं गर्नुपर्छ भन्ने आदेश दिइएको छ। यो श्लोक फलश्रुतिको प्रारम्भ हो—जसले पाठको महिमालाई स्थापित गर्छ।",
+            "en": "This verse begins the Prasāda Samāpana. Sage Mārkaṇḍeya states the greatness of the Devī Māhātmya — it is sacred, sin-destroying, merit-increasing and fulfiller of all desires. 'Paṭhanīyam' — should be recited. 'Prayatnena' — with effort. 'Sarvadā' — always. Thus the instruction is given that the Devī Māhātmya should always be recited. This verse begins the phala-śruti — establishing the greatness of the recitation."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada001.wav"
+        },
+        {
+          "id": "prasada-02",
+          "number": 2,
+          "sanskrit": "य इदं शृणुयान्नित्यं पठेद्वा भक्तिभावतः। स सर्वपापनिर्मुक्तः सर्वसिद्धिमवाप्नुयात्॥२॥",
+          "iast": "ya idaṃ śṛṇuyānnityaṃ paṭhedvā bhaktibhāvataḥ | sa sarvapāpanirmuktaḥ sarvasiddhimavāpnuyāt ||2||",
+          "meaning": {
+            "ne": "जो नित्य यो सुन्छ वा भक्तिभावले पाठ गर्छ, उनी सबै पापबाट मुक्त भई सबै सिद्धि प्राप्त गर्छ।",
+            "en": "One who daily hears this or recites it with devotion — he is freed from all sins and attains all accomplishments."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीमाहात्म्यको श्रवण र पाठको फल वर्णन गरिएको छ। 'शृणुयात्'—सुन्छ। 'पठेत्'—पाठ गर्छ। 'भक्तिभावतः'—भक्तिभावले। 'सर्वपापनिर्मुक्तः'—सबै पापबाट मुक्त। 'सर्वसिद्धिम्'—सबै सिद्धि। यसरी देवीमाहात्म्यको श्रवण वा पाठले सबै पाप नाश गरी सबै सिद्धि प्रदान गर्छ। यो फलश्रुतिको महत्वपूर्ण श्लोक हो।",
+            "en": "In this verse, the fruit of hearing and reciting the Devī Māhātmya is described. 'Śṛṇuyāt' — hears. 'Paṭhet' — recites. 'Bhaktibhāvataḥ' — with devotion. 'Sarvapāpanirmuktaḥ' — freed from all sins. 'Sarvasiddhim' — all accomplishments. Thus hearing or reciting the Devī Māhātmya destroys all sins and grants all accomplishments. This is an important verse of the phala-śruti."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada002.wav"
+        },
+        {
+          "id": "prasada-03",
+          "number": 3,
+          "sanskrit": "एतद्रहस्यं परमं मया प्रोक्तं सनातनम्। न देयं कस्यचिद्विद्वान् देवीभक्ताय भक्तितः॥३॥",
+          "iast": "etadrahasyaṃ paramaṃ mayā proktaṃ sanātanam | na deyaṃ kasyacidvidvān devībhaktāya bhaktitaḥ ||3||",
+          "meaning": {
+            "ne": "यो अत्यन्त गुह्य, परम र सनातन रहस्य मैले भनेको छु। विद्वानले यसलाई कसैलाई पनि दिनु हुँदैन—तर देवीभक्तलाई भक्तिपूर्वक दिनुपर्छ।",
+            "en": "This supremely secret, eternal mystery I have spoken. The wise one should not give it to just anyone — but should give it with devotion to a devotee of the Goddess."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा देवीमाहात्म्यको गोपनीयताको महत्व बताइएको छ। 'रहस्यम्'—रहस्य। 'परमम्'—परम। 'सनातनम्'—सनातन। 'न देयम्'—दिनु हुँदैन। 'देवीभक्ताय'—देवीभक्तलाई। 'भक्तितः'—भक्तिपूर्वक। यसरी यो रहस्य केवल देवीभक्तलाई मात्र दिनुपर्छ—अभक्त वा अश्रद्धालुहरूलाई दिनु हुँदैन। यो श्लोक गुरु-शिष्य परम्पराको महत्वलाई स्थापित गर्छ।",
+            "en": "In this verse, the importance of the secrecy of the Devī Māhātmya is stated. 'Rahasyam' — secret. 'Paramam' — supreme. 'Sanātanam' — eternal. 'Na deyam' — should not be given. 'Devībhaktāya' — to a devotee of the Goddess. 'Bhaktitaḥ' — with devotion. Thus this secret should be given only to a devotee of the Goddess — not to the non-devout or faithless. This verse establishes the importance of the Guru-disciple tradition."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada003.wav"
+        },
+        {
+          "id": "prasada-04",
+          "number": 4,
+          "sanskrit": "प्रसादं स्वीकुरु देवि मया भक्त्या समर्पितम्। सप्तशतीपाठजन्यं फलं मे देहि सर्वदा॥४॥",
+          "iast": "prasādaṃ svīkuru devi mayā bhaktyā samarpitam | saptaśatīpāṭhajanyaṃ phalaṃ me dehi sarvadā ||4||",
+          "meaning": {
+            "ne": "हे देवि, मैले भक्तिपूर्वक समर्पण गरेको यो प्रसाद स्वीकार गर्नुहोस्। सप्तशती पाठबाट उत्पन्न फल मलाई सधैं प्रदान गर्नुहोस्।",
+            "en": "O Goddess, accept this prasāda offered by me with devotion. Grant me always the fruit born of the Saptaśatī recitation."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक देवीसमक्ष प्रसाद समर्पण गर्छ। 'प्रसादम्'—प्रसाद। 'स्वीकुरु'—स्वीकार गर्नुहोस्। 'भक्त्या'—भक्तिपूर्वक। 'समर्पितम्'—समर्पण गरेको। 'सप्तशतीपाठजन्यम्'—सप्तशती पाठबाट उत्पन्न। 'फलम्'—फल। 'देहि'—प्रदान गर्नुहोस्। यसरी साधक देवीलाई प्रसाद समर्पण गर्छ र सप्तशती पाठको फल माग्दछ। यो फलसमर्पण र फलप्रार्थनाको संगम हो।",
+            "en": "In this verse, the practitioner offers prasāda to the Goddess. 'Prasādam' — prasāda. 'Svīkuru' — accept. 'Bhaktyā' — with devotion. 'Samarpitam' — offered. 'Saptaśatīpāṭhajanyam' — born of the Saptaśatī recitation. 'Phalam' — fruit. 'Dehi' — grant. Thus the practitioner offers prasāda to the Goddess and asks for the fruit of the Saptaśatī recitation. This is the confluence of offering the fruit and praying for the fruit."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada004.wav"
+        },
+        {
+          "id": "prasada-05",
+          "number": 5,
+          "sanskrit": "अपराधसहस्राणि क्रियन्तेऽहर्निशं मया। दासोऽयमिति मां मत्वा क्षमस्व परमेश्वरि॥५॥",
+          "iast": "aparādhasahasrāṇi kriyante'harniśaṃ mayā | dāso'yamiti māṃ matvā kṣamasva parameśvari ||5||",
+          "meaning": {
+            "ne": "मैले दिनरात हजारौं अपराधहरू गरेको छु। हे परमेश्वरि, मलाई तपाईंको दास हो भनी मानेर क्षमा गर्नुहोस्।",
+            "en": "I commit thousands of offences day and night. O Supreme Goddess, considering me as Your servant, please forgive me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो अपराधको स्वीकार गर्छ। 'अपराधसहस्राणि'—हजारौं अपराध। 'अहर्निशम्'—दिनरात। 'दासः'—दास। 'क्षमस्व'—क्षमा गर्नुहोस्। यसरी साधक आफूलाई देवीको दास भन्छ—दासत्वको भाव नै क्षमाको आधार हो। जो आफूलाई दास मान्छ, उसलाई देवी कहिल्यै त्याग्दिनन्। यो श्लोक क्षमाप्रार्थनाको सार हो।",
+            "en": "In this verse, the practitioner acknowledges his offences. 'Aparādhasahasrāṇi' — thousands of offences. 'Aharniśam' — day and night. 'Dāsaḥ' — servant. 'Kṣamasva' — forgive. Thus the practitioner calls himself a servant of the Goddess — the attitude of servitude is the very foundation of forgiveness. One who considers himself a servant is never abandoned by the Goddess. This verse is the essence of the prayer for forgiveness."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada005.wav"
+        },
+        {
+          "id": "prasada-06",
+          "number": 6,
+          "sanskrit": "आवाहनं न जानामि न जानामि विसर्जनम्। पूजां चैव न जानामि क्षम्यतां परमेश्वरि॥६॥",
+          "iast": "āvāhanaṃ na jānāmi na jānāmi visarjanam | pūjāṃ caiva na jānāmi kṣamyatāṃ parameśvari ||6||",
+          "meaning": {
+            "ne": "मलाई न आह्वान आउँछ, न विसर्जन आउँछ। मलाई पूजा पनि आउँदैन। हे परमेश्वरि, क्षमा गर्नुहोस्।",
+            "en": "I do not know how to invoke You, nor do I know how to dismiss You. I do not know how to worship You. O Supreme Goddess, please forgive me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो साधनाको अज्ञानता स्वीकार गर्छ। 'आवाहनम्'—आह्वान। 'विसर्जनम्'—विसर्जन। 'पूजाम्'—पूजा। 'न जानामि'—जान्दिन। 'क्षम्यताम्'—क्षमा गरिनुहोस्। यसरी साधकलाई आह्वान, विसर्जन र पूजा—यी तीन आधारभूत अङ्गहरू पनि आउँदैन। यो अज्ञानता नै उसको क्षमायाचनाको आधार बन्छ। देवीको कृपाले अज्ञानता पनि पूर्णतामा परिणत हुन्छ।",
+            "en": "In this verse, the practitioner admits his ignorance of spiritual practice. 'Āvāhanam' — invocation. 'Visarjanam' — dismissal. 'Pūjām' — worship. 'Na jānāmi' — I do not know. 'Kṣamyatām' — may it be forgiven. Thus the practitioner knows none of the three fundamental limbs — invocation, dismissal and worship. This very ignorance becomes the basis of his plea for forgiveness. By the Goddess's grace, even ignorance is transformed into completeness."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada006.wav"
+        },
+        {
+          "id": "prasada-07",
+          "number": 7,
+          "sanskrit": "मन्त्रहीनं क्रियाहीनं भक्तिहीनं सुरेश्वरि। यत्पूजितं मया देवि परिपूर्णं तदस्तु मे॥७॥",
+          "iast": "mantrahīnaṃ kriyāhīnaṃ bhaktihīnaṃ sureśvari | yatpūjitaṃ mayā devi paripūrṇaṃ tadastu me ||7||",
+          "meaning": {
+            "ne": "हे सुरेश्वरि, मन्त्रहीन, क्रियाहीन र भक्तिहीन—मैले जे पूजा गरेको छु, हे देवि, त्यो मेरो लागि पूर्ण होस्।",
+            "en": "O Goddess of the gods, devoid of mantra, devoid of ritual, devoid of devotion — whatever worship I have offered, O Goddess, may it become complete for me."
+          },
+          "commentary": {
+            "ne": "यस श्लोकमा साधक आफ्नो पूजाको तीन अभावहरू स्वीकार गर्छ। 'मन्त्रहीनम्'—मन्त्रहीन। 'क्रियाहीनम्'—क्रियाहीन। 'भक्तिहीनम्'—भक्तिहीन। 'परिपूर्णम्'—पूर्ण। 'अस्तु'—होस्। यसरी साधकको पूजा मन्त्र, क्रिया र भक्तिबाट हीन छ। तर अन्त्यमा एउटा आशावादी प्रार्थना छ—'परिपूर्णं तदस्तु मे'—त्यो पूर्ण होस्। देवीको कृपाले अपूर्ण पनि पूर्ण हुन्छ। यो श्लोकको सौन्दर्य यही हो—अभावको स्वीकारबाट पूर्णताको प्रार्थनासम्मको यात्रा।",
+            "en": "In this verse, the practitioner acknowledges three deficiencies of his worship. 'Mantrahīnam' — devoid of mantra. 'Kriyāhīnam' — devoid of ritual. 'Bhaktihīnam' — devoid of devotion. 'Paripūrṇam' — complete. 'Astu' — may it be. Thus the practitioner's worship is devoid of mantra, ritual and devotion. But at the end there is a hopeful prayer — 'paripūrṇaṃ tadastu me' — may it become complete. By the Goddess's grace, even the incomplete becomes complete. The beauty of this verse lies here — the journey from the acknowledgment of deficiency to the prayer for completeness."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada007.wav"
+        },
+        {
+          "id": "prasada-08",
+          "number": 8,
+          "sanskrit": "ॐ शान्तिः शान्तिः शान्तिः॥ इत्येतत्प्रसादसमापनं सम्पूर्णम्॥८॥",
+          "iast": "oṃ śāntiḥ śāntiḥ śāntiḥ || ityetatprasādasamāpanaṃ sampūrṇam ||8||",
+          "meaning": {
+            "ne": "ॐ शान्तिः, शान्तिः, शान्तिः। यसरी यो प्रसादसमापन सम्पूर्ण भयो।",
+            "en": "Oṁ, peace, peace, peace. Thus concludes this Prasāda Samāpana."
+          },
+          "commentary": {
+            "ne": "यो अन्तिम श्लोक हो। 'शान्तिः शान्तिः शान्तिः'—तीन पटक शान्तिको घोषणा। यो तीन प्रकारका शान्तिको प्रतीक हो—आधिदैविक, आधिभौतिक र आध्यात्मिक। 'प्रसादसमापनम्'—प्रसादसमापन। 'सम्पूर्णम्'—सम्पूर्ण। यसरी प्रसादसमापनको समापन हुन्छ। यो श्लोक देवीमाहात्म्यको सम्पूर्ण पाठको अन्तिम श्लोक हो—जसले सम्पूर्ण पाठलाई शान्तिमय समापन प्रदान गर्छ।",
+            "en": "This is the final verse. 'Śāntiḥ śāntiḥ śāntiḥ' — the proclamation of peace three times. This symbolises the three types of peace — ādhidaivika (divine), ādhibhautika (physical) and ādhyātmika (spiritual). 'Prasādasamāpanam' — Prasāda Samāpana. 'Sampūrṇam' — complete. Thus Prasāda Samāpana concludes. This verse is the final verse of the entire Devī Māhātmya patha — granting a peaceful conclusion to the entire recitation."
+          },
+          "audio": "audio/devi-mahatmya/prasada-samapana/verses/prasada008.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "प्रसादसमापनको सम्पूर्ण प्रवाहलाई हेर्दा देवीमाहात्म्यको महिमा, श्रवण-पाठको फल, गोपनीयता, प्रसाद समर्पण, क्षमाप्रार्थना र शान्तिको घोषणा देखिन्छ।\n\nसुरुवाती श्लोकहरूमा देवीमाहात्म्यको महिमा वर्णन गरिन्छ—यो पवित्र, पापनाशक, पुण्यवर्धक र सर्वकामद हो। जो नित्य सुन्छ वा भक्तिभावले पाठ गर्छ, उनी सबै पापबाट मुक्त भई सबै सिद्धि प्राप्त गर्छ।\n\nमध्य श्लोकहरूमा देवीमाहात्म्यको गोपनीयताको महत्व बताइन्छ—यो रहस्य केवल देवीभक्तलाई मात्र दिनुपर्छ। त्यसपछि साधक देवीसमक्ष प्रसाद समर्पण गर्छ र सप्तशती पाठको फल माग्दछ।\n\nअन्तिम श्लोकहरूमा साधक आफ्नो अपराध र अज्ञानता स्वीकार गर्छ—न आह्वान, न विसर्जन, न पूजा, न मन्त्र, न क्रिया, न भक्ति। तर देवीको कृपाले त्यो अपूर्ण पनि पूर्ण होस् भन्ने प्रार्थना गर्छ। अन्तमा 'शान्तिः शान्तिः शान्तिः' को घोषणासँग पाठको समापन हुन्छ।\n\nयस प्रार्थनालाई तीन तहमा पढ्न सकिन्छ: महिमा, समर्पण र शान्ति। महिमामा देवीमाहात्म्यको महत्व गाइन्छ, समर्पणमा साधक आफ्नो पाठ र जीवन देवीसमक्ष अर्पण गर्छ, र शान्तिमा सम्पूर्ण पाठको शान्तिमय समापन हुन्छ। यसरी प्रसादसमापन देवीमाहात्म्यको पाठको मुकुट हो—जसले सम्पूर्ण पाठलाई पूर्णता र शान्ति प्रदान गर्छ।",
+      "en": "Read as a whole, Prasāda Samāpana presents the greatness of the Devī Māhātmya, the fruit of hearing and reciting, secrecy, offering of prasāda, prayer for forgiveness and the proclamation of peace.\n\nIn the opening verses, the greatness of the Devī Māhātmya is described — it is sacred, sin-destroying, merit-increasing and fulfiller of all desires. One who daily hears or recites it with devotion is freed from all sins and attains all accomplishments.\n\nIn the middle verses, the importance of the secrecy of the Devī Māhātmya is stated — this secret should be given only to a devotee of the Goddess. Then the practitioner offers prasāda to the Goddess and asks for the fruit of the Saptaśatī recitation.\n\nIn the final verses, the practitioner acknowledges his offences and ignorance — no invocation, no dismissal, no worship, no mantra, no ritual, no devotion. But he prays that by the Goddess's grace even that incomplete may become complete. At the end, with the proclamation of 'Śāntiḥ śāntiḥ śāntiḥ', the recitation concludes.\n\nThe prayer can be studied through three layers: greatness, surrender and peace. In greatness, the importance of the Devī Māhātmya is sung; in surrender, the practitioner offers his recitation and life to the Goddess; and in peace, the entire recitation concludes peacefully. Thus Prasāda Samāpana is the crown of the Devī Māhātmya patha — granting completeness and peace to the entire recitation."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "प्रसादसमापनको पाठ समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज पढिएको पाठ, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक श्लोक विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक पढ्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nपाठलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी प्रसादसमापनको अध्ययन केवल आठ श्लोक पढेर समाप्त हुँदैन। मूल पाठ, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको अध्ययन व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the reading of Prasāda Samāpana, remain quiet for a few moments.\n\nRecall the text you read, the recitation you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one verse particularly stayed with you, you may read it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the reading without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of Prasāda Samāpana does not end simply with reading eight verses. Repeatedly returning to the original text, meaning, contemplation and practice can gradually turn study into personal discipline."
+    }
+  ]
+}

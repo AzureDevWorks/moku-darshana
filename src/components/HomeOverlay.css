@@ -1,0 +1,275 @@
+﻿.home-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  pointer-events: none;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-sizing: border-box;
+
+  color: #f3e7cf;
+
+  font-family:
+    "Cinzel",
+    "Times New Roman",
+    serif;
+
+  text-align: center;
+
+  background:
+    radial-gradient(
+      ellipse at center,
+      rgba(10, 7, 5, 0.08) 0%,
+      rgba(9, 7, 6, 0.22) 42%,
+      rgba(9, 7, 6, 0.58) 100%
+    );
+}
+
+.home-content {
+  pointer-events: auto;
+
+  width: min(760px, 90vw);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  transform: translateY(5vh);
+
+  text-shadow:
+    0 2px 16px rgba(0, 0, 0, 0.8);
+}
+
+.home-eyebrow {
+  margin-bottom: 12px;
+
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.38em;
+
+  opacity: 0.82;
+}
+
+.home-title {
+  margin: 0;
+
+  font-size: clamp(38px, 5vw, 68px);
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: 0.06em;
+
+  color: #f5dfb5;
+}
+
+.home-sanskrit {
+  margin-top: 14px;
+
+  font-family:
+    "Noto Serif Devanagari",
+    "Nirmala UI",
+    serif;
+
+  font-size: clamp(22px, 2.5vw, 32px);
+
+  opacity: 0.82;
+}
+
+.home-subtitle {
+  margin: 22px 0 0;
+
+  font-family:
+    "Cormorant Garamond",
+    "Times New Roman",
+    serif;
+
+  font-size: clamp(17px, 2vw, 23px);
+  font-style: italic;
+  letter-spacing: 0.08em;
+
+  opacity: 0.9;
+}
+
+.home-divider {
+  width: 90px;
+  height: 1px;
+
+  margin: 25px 0 18px;
+
+  background: rgba(231, 198, 139, 0.6);
+
+  box-shadow:
+    0 0 12px rgba(231, 198, 139, 0.25);
+}
+
+.home-invitation {
+  margin: 0;
+
+  font-family:
+    "Cormorant Garamond",
+    "Times New Roman",
+    serif;
+
+  font-size: 15px;
+  letter-spacing: 0.14em;
+
+  opacity: 0.72;
+}
+
+.home-enter {
+  margin-top: 30px;
+
+  min-width: 235px;
+  height: 48px;
+
+  padding: 0 22px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+  border: 1px solid rgba(224, 191, 130, 0.55);
+  border-radius: 2px;
+
+  background:
+    rgba(12, 8, 5, 0.48);
+
+  color: #f0d9ad;
+
+  font-family:
+    "Cinzel",
+    "Times New Roman",
+    serif;
+
+  font-size: 11px;
+  letter-spacing: 0.22em;
+
+  cursor: pointer;
+
+  transition:
+    background 220ms ease,
+    border-color 220ms ease,
+    box-shadow 220ms ease,
+    transform 220ms ease;
+}
+
+.home-enter-arrow {
+  font-size: 17px;
+  line-height: 1;
+
+  transition: transform 220ms ease;
+}
+
+.home-enter:hover {
+  background: rgba(36, 23, 13, 0.7);
+
+  border-color: rgba(238, 207, 151, 0.85);
+
+  box-shadow:
+    0 0 28px rgba(196, 148, 82, 0.14);
+
+  transform: translateY(-1px);
+}
+
+.home-enter:hover .home-enter-arrow {
+  transform: translateX(4px);
+}
+
+.home-enter:focus-visible {
+  outline: 1px solid #efd29d;
+  outline-offset: 5px;
+}
+
+.home-library {
+  margin-top: 54px;
+
+  width: min(650px, 84vw);
+}
+
+.home-library-label {
+  font-size: 10px;
+  letter-spacing: 0.32em;
+
+  opacity: 0.62;
+}
+
+.home-library-line {
+  width: 100%;
+  height: 1px;
+
+  margin: 13px 0 15px;
+
+  background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(220, 183, 118, 0.35),
+      transparent
+    );
+}
+
+.home-categories {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  gap: 10px 25px;
+
+  font-family:
+    "Cormorant Garamond",
+    "Times New Roman",
+    serif;
+
+  font-size: 15px;
+
+  opacity: 0.72;
+}
+
+.home-categories span {
+  white-space: nowrap;
+}
+
+@media (max-width: 700px) {
+  .home-content {
+    transform: translateY(3vh);
+  }
+
+  .home-eyebrow {
+    font-size: 9px;
+    letter-spacing: 0.28em;
+  }
+
+  .home-title {
+    font-size: clamp(34px, 10vw, 48px);
+  }
+
+  .home-subtitle {
+    font-size: 17px;
+  }
+
+  .home-enter {
+    margin-top: 25px;
+  }
+
+  .home-library {
+    margin-top: 42px;
+  }
+
+  .home-categories {
+    gap: 7px 16px;
+    font-size: 14px;
+  }
+}
+
+@media (max-height: 700px) {
+  .home-content {
+    transform: translateY(1vh) scale(0.88);
+  }
+
+  .home-library {
+    margin-top: 32px;
+  }
+}

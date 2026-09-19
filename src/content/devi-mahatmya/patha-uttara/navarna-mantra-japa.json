@@ -1,0 +1,138 @@
+{
+  "id": "navarna-mantra-japa",
+  "title": "Navārṇa Mantra Japa",
+  "sanskritTitle": "॥ नवार्ण मन्त्र जप ॥",
+  "type": "mantra",
+  "collection": "patha-uttara",
+
+  "meta": {
+    "tradition": "Devi Mahatmya",
+    "script": "Devanagari",
+    "languages": ["ne", "en"],
+    "verseCount": 3,
+    "mantraSyllables": 9,
+    "verificationStatus": "variant-recension",
+    "verificationDate": "2026-09-18",
+    "sourceNote": "The Navārṇa Mantra (also called Navākṣarī Mantra) is the nine-syllable seed mantra of the Devī Māhātmya, considered both Vedic and tantric. It is the essence of the Saptaśatī and is traditionally recited for japa after the completion of the patha. The mantra is 'Oṃ Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce'. The nine syllables correspond to the nine forms of Durgā and the nine planets. The received recension preserves the threefold structure of the mantra (bīja, śakti, kīlaka).",
+    "references": [
+      { "name": "Shodhganga — Navarna Mantra: Vedic and Tantric", "url": "https://shodhganga.inflibnet.ac.in/bitstream/10603/518930/6/06_chapter 3.pdf" },
+      { "name": "Stotra Nidhi — Sri Chandi Navarna Mantra Vidhi", "url": "https://stotranidhi.com/hi/sri-chandi-navarna-mantra-navakshari-vidhi-in-sanskrit/" },
+      { "name": "The Dao Bums — Navarna Mantra Explanation", "url": "https://www.thedaobums.com/topic/40311-navarna-mantra/" },
+      { "name": "Drik Panchang — Durga Saptashati Navarna Vidhi", "url": "https://www.drikpanchang.com" }
+    ]
+  },
+
+  "sections": [
+    {
+      "id": "introduction",
+      "type": "prose",
+      "title": "नवार्णमन्त्रस्य महिमा",
+      "titleEn": "The Nature and Place of Navārṇa Mantra",
+      "ne": "नवार्ण मन्त्र देवीमाहात्म्यको हृदय हो। यो नौ अक्षरको बीजमन्त्र हो—'ऐं ह्रीं क्लीं चामुण्डायै विच्चे'। यसलाई नवाक्षरी मन्त्र पनि भनिन्छ। यो मन्त्र वैदिक र तान्त्रिक दुवै परम्परामा प्रयोग गरिन्छ—यो अथर्ववेदको देवी अथर्वशीर्षमा उल्लेखित छ, र यसमा 'ऐं', 'ह्रीं', 'क्लीं' जस्ता बीजमन्त्रहरू भएकाले यसलाई तान्त्रिक पनि मानिन्छ।\n\nयस मन्त्रको नौ अक्षरहरू दुर्गाका नौ स्वरूपहरूसँग सम्बन्धित छन् र मानव शरीरका नौ चक्रहरूलाई जागृत गर्छन्। यो मन्त्र नवग्रहहरूको दुष्प्रभावलाई पनि नियन्त्रण गर्छ। जो साधक यस मन्त्रको नियमित जप गर्छ, उसलाई आत्मविश्वास, ज्ञान, धन, समृद्धि र शत्रुहरूमाथि विजय प्राप्त हुन्छ।\n\nयस मन्त्रका तीन बीजहरू—ऐं, ह्रीं र क्लीं—क्रमशः महासरस्वती, महालक्ष्मी र महाकालीका बीज हुन्। यसरी यो मन्त्र तीनै महादेवीहरूको संयुक्त शक्ति हो। 'चामुण्डायै' देवीको नाम हो र 'विच्चे' अन्तिम बीज हो जसले सर्वज्ञता र चेतनालाई जनाउँछ।\n\nयस मन्त्रको जप सामान्यतया गुरुबाट दीक्षा प्राप्त गरेपछि गरिन्छ। परम्परामा विश्वास गरिन्छ कि यो मन्त्रको नौ लाख जप गरेपछि सप्तशतीको दीक्षा दिइन्छ। यसरी नवार्ण मन्त्र देवी-उपासनाको आधारभूत र सर्वोच्च साधना हो।",
+      "en": "The Navārṇa Mantra is the heart of the Devī Māhātmya. It is a nine-syllable seed mantra — 'Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce'. It is also called the Navākṣarī Mantra. This mantra is used in both Vedic and tantric traditions — it is mentioned in the Devī Atharvaśīrṣa of the Atharvaveda, and because it contains bīja mantras such as 'Aiṃ', 'Hrīṃ' and 'Klīṃ', it is also considered tantric.\n\nThe nine syllables of this mantra are associated with the nine forms of Durgā and awaken the nine chakras of the human body. This mantra also controls the negative effects of the nine planets. The practitioner who regularly performs japa of this mantra attains self-confidence, knowledge, wealth, prosperity and victory over enemies.\n\nThe three bījas of this mantra — Aiṃ, Hrīṃ and Klīṃ — are respectively the seeds of Mahāsarasvatī, Mahālakṣmī and Mahākālī. Thus this mantra is the combined power of all three Great Goddesses. 'Cāmuṇḍāyai' is the name of the Goddess and 'Vicce' is the final bīja which signifies omniscience and consciousness.\n\nThe japa of this mantra is generally performed after receiving initiation from a Guru. Tradition holds that after chanting this mantra nine lakh times, initiation into the Saptaśatī is given. Thus the Navārṇa Mantra is the foundational and supreme practice of Goddess worship."
+    },
+    {
+      "id": "viniyoga",
+      "type": "formula",
+      "title": "विनियोगः",
+      "titleEn": "Viniyoga",
+      "sanskrit": "ॐ अस्य श्रीचण्डिकानवार्णमहामन्त्रस्य ब्रह्मविष्णुरुद्राः ऋषयः।\nगायत्र्युष्णिगनुष्टुभश्छन्दांसि।\nश्रीमहाकालीमहालक्ष्मीमहासरस्वत्यात्मक श्रीचण्डिकापरमेश्वरी देवता।\nनन्दाशाकम्भरीभीमाः शक्तयः।\nरक्तदन्तिकादुर्गाभ्रामर्यो बीजानि।\nअग्निवायुसूर्यास्तत्त्वानि।\nश्रीचण्डिकापरमेश्वरीप्रीत्यर्थे जपे विनियोगः॥",
+      "iast": "oṃ asya śrī-caṇḍikā-navārṇa-mahāmantrasya brahmaviṣṇurudrāḥ ṛṣayaḥ |\ngāyatryuṣṇiganuṣṭubhaśchandāṃsi |\nśrī-mahākālī-mahālakṣmī-mahāsarasvatyātmaka śrī-caṇḍikā-parameśvarī devatā |\nnandā-śākambharī-bhīmāḥ śaktayaḥ |\nraktadantikā-durgā-bhrāmaryo bījāni |\nagni-vāyu-sūryās tattvāni |\nśrī-caṇḍikā-parameśvarī-prītyarthe jape viniyogaḥ ||",
+      "meaning": {
+        "ne": "यस श्रीचण्डिकानवार्ण महामन्त्रका ब्रह्मा, विष्णु र रुद्र ऋषि हुन्। गायत्री, उष्णिक् र अनुष्टुप् छन्द हुन्। महाकाली, महालक्ष्मी र महासरस्वती आत्मक चण्डिका परमेश्वरी देवता हुन्। नन्दा, शाकम्भरी र भीमा शक्तिहरू हुन्। रक्तदन्तिका, दुर्गा र भ्रामरी बीज हुन्। अग्नि, वायु र सूर्य तत्त्व हुन्। श्रीचण्डिका परमेश्वरीको प्रसन्नताका लागि यसको जप गर्ने विनियोग गरिन्छ।",
+        "en": "Of this sacred Caṇḍikā Navārṇa Mahāmantra, Brahmā, Viṣṇu and Rudra are the seers (ṛṣis). Gāyatrī, Uṣṇik and Anuṣṭup are the metres. The deity is Śrī Caṇḍikā Parameśvarī, who is the essence of Mahākālī, Mahālakṣmī and Mahāsarasvatī. Nandā, Śākambharī and Bhīmā are the powers (śaktis). Raktadantikā, Durgā and Bhrāmarī are the seeds (bījas). Fire, air and sun are the essences (tattvas). It is recited for the pleasure of Śrī Caṇḍikā Parameśvarī."
+      },
+      "commentary": {
+        "ne": "विनियोगः पाठको अगाडि राखिने परम्परागत संरचनात्मक अंश हो। यसले मन्त्रलाई निश्चित ऋषि, छन्द, देवता र उद्देश्यसँग जोड्छ। यसलाई मूल मन्त्रका नौ अक्षरहरूमध्ये गणना गरिँदैन। यस विनियोगले तीन ऋषि, तीन छन्द, तीन देवता, तीन शक्ति, तीन बीज र तीन तत्त्वहरूको उल्लेख गरेर मन्त्रको त्रिगुणात्मक स्वरूपलाई स्थापित गर्छ।",
+        "en": "The viniyoga is a traditional structural component placed before the main mantra. It connects the mantra with its ṛṣi, metre, deity and purpose. It is not counted among the nine syllables of the main mantra. This viniyoga establishes the triguṇātmika nature of the mantra by mentioning three ṛṣis, three metres, three deities, three śaktis, three bījas and three tattvas."
+      },
+      "audio": "audio/devi-mahatmya/navarna-mantra-japa/viniyoga.wav"
+    },
+    {
+      "id": "dhyana",
+      "type": "formula",
+      "title": "ध्यानम्",
+      "titleEn": "Dhyānam",
+      "sanskrit": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे।\nॐ ऐं — महासरस्वती बीजम्।\nॐ ह्रीं — महालक्ष्मी बीजम्।\nॐ क्लीं — महाकाली बीजम्।\nॐ चामुण्डायै — चामुण्डा नाम।\nॐ विच्चे — चेतन्य बीजम्।",
+      "iast": "oṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce |\noṃ aiṃ — mahāsarasvatī bījam |\noṃ hrīṃ — mahālakṣmī bījam |\noṃ klīṃ — mahākālī bījam |\noṃ cāmuṇḍāyai — cāmuṇḍā nāma |\noṃ vicce — cetanya bījam |",
+      "meaning": {
+        "ne": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे। ॐ ऐं—महासरस्वतीको बीज। ॐ ह्रीं—महालक्ष्मीको बीज। ॐ क्लीं—महाकालीको बीज। ॐ चामुण्डायै—चामुण्डाको नाम। ॐ विच्चे—चेतनाको बीज।",
+        "en": "Oṃ Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce. Oṃ Aiṃ — the seed of Mahāsarasvatī. Oṃ Hrīṃ — the seed of Mahālakṣmī. Oṃ Klīṃ — the seed of Mahākālī. Oṃ Cāmuṇḍāyai — the name of Cāmuṇḍā. Oṃ Vicce — the seed of consciousness."
+      },
+      "commentary": {
+        "ne": "यो ध्यान श्लोक नवार्ण मन्त्रको विश्लेषण हो। मन्त्रका तीन बीजहरू—ऐं, ह्रीं र क्लीं—क्रमशः महासरस्वती, महालक्ष्मी र महाकालीका बीज हुन्। 'ऐं' ज्ञानको बीज हो, 'ह्रीं' ऐश्वर्यको, र 'क्लीं' काम (इच्छा) को। 'चामुण्डायै' देवीको नाम हो—जो चण्ड र मुण्डको वध गर्ने देवी हुन्। 'विच्चे' अन्तिम बीज हो जसले चेतना र सर्वज्ञतालाई जनाउँछ। यसरी यो मन्त्र तीन गुण, तीन देवी र तीन शक्तिहरूको संगम हो।",
+        "en": "This dhyāna verse is the analysis of the Navārṇa Mantra. The three bījas of the mantra — Aiṃ, Hrīṃ and Klīṃ — are respectively the seeds of Mahāsarasvatī, Mahālakṣmī and Mahākālī. 'Aiṃ' is the seed of wisdom, 'Hrīṃ' of prosperity, and 'Klīṃ' of desire. 'Cāmuṇḍāyai' is the name of the Goddess — she who slew Caṇḍa and Muṇḍa. 'Vicce' is the final bīja which signifies consciousness and omniscience. Thus this mantra is the confluence of the three guṇas, the three Goddesses and the three śaktis."
+      },
+      "audio": "audio/devi-mahatmya/navarna-mantra-japa/dhyana.wav"
+    },
+    {
+      "id": "verses",
+      "type": "verses",
+      "title": "नवार्ण मन्त्र",
+      "titleEn": "Navārṇa Mantra — Main Recitation",
+      "items": [
+        {
+          "id": "navarna-01",
+          "number": 1,
+          "sanskrit": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे॥",
+          "iast": "oṃ aiṃ hrīṃ klīṃ cāmuṇḍāyai vicce ||",
+          "meaning": {
+            "ne": "ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे। यो नवार्ण मन्त्र हो—नौ अक्षरहरूको बीजमन्त्र।",
+            "en": "Oṃ Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce. This is the Navārṇa Mantra — the nine-syllable seed mantra."
+          },
+          "commentary": {
+            "ne": "यो मन्त्र नौ अक्षरहरूको छ—ऐं, ह्रीं, क्लीं, चा, मु, ण्डा, यै, विच्, चे। यी नौ अक्षरहरू दुर्गाका नौ स्वरूपहरूसँग सम्बन्धित छन्। यो मन्त्र वैदिक र तान्त्रिक दुवै परम्परामा प्रयोग गरिन्छ। यसको जपले नौ चक्रहरूलाई जागृत गर्छ र नवग्रहहरूको दुष्प्रभावलाई नियन्त्रण गर्छ। 'ऐं' महासरस्वतीको, 'ह्रीं' महालक्ष्मीको, 'क्लीं' महाकालीको बीज हो। 'चामुण्डायै' चामुण्डाको नाम हो। 'विच्चे' चेतनाको बीज हो। यसरी यो मन्त्र तीनै महादेवीहरूको संयुक्त शक्ति हो।",
+            "en": "This mantra has nine syllables — Aiṃ, Hrīṃ, Klīṃ, Cā, Mu, Ṇḍā, Yai, Vic, Ce. These nine syllables are associated with the nine forms of Durgā. This mantra is used in both Vedic and tantric traditions. Its japa awakens the nine chakras and controls the negative effects of the nine planets. 'Aiṃ' is the bīja of Mahāsarasvatī, 'Hrīṃ' of Mahālakṣmī, 'Klīṃ' of Mahākālī. 'Cāmuṇḍāyai' is the name of Cāmuṇḍā. 'Vicce' is the bīja of consciousness. Thus this mantra is the combined power of all three Great Goddesses."
+          },
+          "audio": "audio/devi-mahatmya/navarna-mantra-japa/verses/navarna001.wav"
+        },
+        {
+          "id": "navarna-02",
+          "number": 2,
+          "sanskrit": "ॐ ऐं — महासरस्वती बीजम्। ॐ ह्रीं — महालक्ष्मी बीजम्। ॐ क्लीं — महाकाली बीजम्।",
+          "iast": "oṃ aiṃ — mahāsarasvatī bījam | oṃ hrīṃ — mahālakṣmī bījam | oṃ klīṃ — mahākālī bījam |",
+          "meaning": {
+            "ne": "ॐ ऐं—महासरस्वतीको बीज। ॐ ह्रीं—महालक्ष्मीको बीज। ॐ क्लीं—महाकालीको बीज।",
+            "en": "Oṃ Aiṃ — the seed of Mahāsarasvatī. Oṃ Hrīṃ — the seed of Mahālakṣmī. Oṃ Klīṃ — the seed of Mahākālī."
+          },
+          "commentary": {
+            "ne": "यी तीन बीजहरू नवार्ण मन्त्रको मूल हुन्। 'ऐं' (a + i + m) — सृष्टि, कारण शरीर र पूर्णता। यो ज्ञानको बीज हो र महासरस्वतीको प्रतीक हो। 'ह्रीं' — जे इन्द्रियहरूले बुझ्न सक्छ, मनले कल्पना गर्न सक्छ र ध्यानबाट जान्न सक्छ, त्यो सबै। यो महालक्ष्मीको प्रतीक हो। 'क्लीं' (ka + la + i + m) — कारण, स्थूल शरीर र पूर्णताको संयोग। यो महाकालीको प्रतीक हो। यसरी यी तीन बीजहरूले तीन गुण, तीन देवी र तीन शक्तिहरूलाई जनाउँछन्।",
+            "en": "These three bījas are the root of the Navārṇa Mantra. 'Aiṃ' (a + i + m) — creation, causal body and perfection. It is the seed of wisdom and symbolises Mahāsarasvatī. 'Hrīṃ' — everything that can be perceived by the senses, conceived in the mind and known through meditation. It symbolises Mahālakṣmī. 'Klīṃ' (ka + la + i + m) — the union of cause, gross body and perfection. It symbolises Mahākālī. Thus these three bījas signify the three guṇas, the three Goddesses and the three śaktis."
+          },
+          "audio": "audio/devi-mahatmya/navarna-mantra-japa/verses/navarna002.wav"
+        },
+        {
+          "id": "navarna-03",
+          "number": 3,
+          "sanskrit": "ॐ चामुण्डायै — चामुण्डा नाम। ॐ विच्चे — चेतन्य बीजम्।\nएवं नवार्णमन्त्रस्य जपः सर्वार्थसाधकः।",
+          "iast": "oṃ cāmuṇḍāyai — cāmuṇḍā nāma | oṃ vicce — cetanya bījam |\nevaṃ navārṇamantrasya japaḥ sarvārthasādhakaḥ |",
+          "meaning": {
+            "ne": "ॐ चामुण्डायै—चामुण्डाको नाम। ॐ विच्चे—चेतनाको बीज। यसरी नवार्ण मन्त्रको जप सबै अर्थहरूको साधक हो।",
+            "en": "Oṃ Cāmuṇḍāyai — the name of Cāmuṇḍā. Oṃ Vicce — the seed of consciousness. Thus the japa of the Navārṇa Mantra accomplishes all aims."
+          },
+          "commentary": {
+            "ne": "'चामुण्डायै' — चामुण्डा देवीको नाम हो। 'चा' चण्ड (क्रोध) र 'मुण्ड' (शिर) बाट बनेको—जो चण्ड र मुण्डको वध गर्ने देवी हुन्। 'विच्चे' — 'वित्' (जान्नु) बाट बनेको, जसले चेतना, सर्वज्ञता र प्रकाशलाई जनाउँछ। यसरी यो मन्त्र तीन बीज, एक नाम र एक चेतना-बीजको संगम हो—कुल नौ अक्षर। यसको जप सबै अर्थहरूको साधक हो—जसले साधकलाई ज्ञान, ऐश्वर्य, शक्ति, विजय र मोक्ष प्रदान गर्छ।",
+            "en": "'Cāmuṇḍāyai' — the name of Goddess Cāmuṇḍā. It is formed from 'Caṇḍa' (anger) and 'Muṇḍa' (head) — she who slew Caṇḍa and Muṇḍa. 'Vicce' — derived from 'vit' (to know), signifying consciousness, omniscience and illumination. Thus this mantra is the confluence of three bījas, one name and one consciousness-bīja — nine syllables in total. Its japa accomplishes all aims — granting the practitioner knowledge, prosperity, power, victory and liberation."
+          },
+          "audio": "audio/devi-mahatmya/navarna-mantra-japa/verses/navarna003.wav"
+        }
+      ]
+    },
+    {
+      "id": "summary",
+      "type": "prose",
+      "title": "समग्र तात्त्विक अर्थ",
+      "titleEn": "Deeper Meaning",
+      "ne": "नवार्ण मन्त्रको सम्पूर्ण प्रवाहलाई हेर्दा यसको नौ अक्षर, तीन बीज, तीन देवी, तीन शक्ति, तीन तत्त्व र नौ चक्रसँगको सम्बन्ध देखिन्छ।\n\nयो मन्त्र 'ॐ ऐं ह्रीं क्लीं चामुण्डायै विच्चे' — नौ अक्षरको बीजमन्त्र हो। 'ऐं' महासरस्वतीको, 'ह्रीं' महालक्ष्मीको, 'क्लीं' महाकालीको बीज हो। 'चामुण्डायै' चामुण्डाको नाम हो। 'विच्चे' चेतनाको बीज हो। यसरी यो मन्त्र तीनै महादेवीहरूको संयुक्त शक्ति हो।\n\nयस मन्त्रको नौ अक्षरहरू दुर्गाका नौ स्वरूपहरूसँग सम्बन्धित छन् र मानव शरीरका नौ चक्रहरूलाई जागृत गर्छन्। यो मन्त्र नवग्रहहरूको दुष्प्रभावलाई नियन्त्रण गर्छ। जो साधक यस मन्त्रको नियमित जप गर्छ, उसलाई आत्मविश्वास, ज्ञान, धन, समृद्धि र शत्रुहरूमाथि विजय प्राप्त हुन्छ।\n\nयस मन्त्रको जप सामान्यतया गुरुबाट दीक्षा प्राप्त गरेपछि गरिन्छ। परम्परामा विश्वास गरिन्छ कि यो मन्त्रको नौ लाख जप गरेपछि सप्तशतीको दीक्षा दिइन्छ। यसरी नवार्ण मन्त्र देवी-उपासनाको आधारभूत र सर्वोच्च साधना हो।\n\nयस मन्त्रलाई तीन तहमा पढ्न सकिन्छ: बीज, शक्ति र चेतना। बीजमा तीन महादेवीहरूको शक्ति, शक्तिमा चामुण्डाको शक्ति, र चेतनामा विच्चेको सर्वज्ञता। यी तीन तह मिलेर यो मन्त्र साधकलाई पूर्णता प्रदान गर्छ।",
+      "en": "Read as a whole, the Navārṇa Mantra presents its nine syllables, three bījas, three Goddesses, three śaktis, three tattvas and its connection with the nine chakras.\n\nThis mantra is 'Oṃ Aiṃ Hrīṃ Klīṃ Cāmuṇḍāyai Vicce' — a nine-syllable seed mantra. 'Aiṃ' is the bīja of Mahāsarasvatī, 'Hrīṃ' of Mahālakṣmī, 'Klīṃ' of Mahākālī. 'Cāmuṇḍāyai' is the name of Cāmuṇḍā. 'Vicce' is the bīja of consciousness. Thus this mantra is the combined power of all three Great Goddesses.\n\nThe nine syllables of this mantra are associated with the nine forms of Durgā and awaken the nine chakras of the human body. This mantra controls the negative effects of the nine planets. The practitioner who regularly performs japa of this mantra attains self-confidence, knowledge, wealth, prosperity and victory over enemies.\n\nThe japa of this mantra is generally performed after receiving initiation from a Guru. Tradition holds that after chanting this mantra nine lakh times, initiation into the Saptaśatī is given. Thus the Navārṇa Mantra is the foundational and supreme practice of Goddess worship.\n\nThe mantra can be studied through three layers: bīja, śakti and consciousness. In the bīja, the power of the three Great Goddesses; in the śakti, the power of Cāmuṇḍā; and in consciousness, the omniscience of Vicce. Together, these three layers grant completeness to the practitioner."
+    },
+    {
+      "id": "conclusion",
+      "type": "prose",
+      "title": "समापन",
+      "titleEn": "Completion",
+      "ne": "नवार्ण मन्त्रको जप समाप्त भएपछि केही क्षण शान्त बस्नुहोस्।\n\nआज गरिएको जप, सुनेको मन्त्र, बुझेको अर्थ र मनमा उठेको भावलाई स्मरण गर्नुहोस्।\n\nयदि कुनै एक बीज विशेष रूपमा मनमा बसेको छ भने त्यसलाई फेरि एकपटक जप गर्न सकिन्छ। त्यसको अर्थ र आफ्नो जीवनसँगको सम्बन्धमा केही क्षण मनन गर्नुहोस्।\n\nजपलाई हतारमा समाप्त नगरी श्रद्धा र कृतज्ञताको भावमा समापन गर्नुहोस्।\n\nयसरी नवार्ण मन्त्रको अध्ययन केवल नौ अक्षर जपेर समाप्त हुँदैन। मूल मन्त्र, अर्थ, चिन्तन र अभ्यासलाई क्रमशः दोहोर्याउँदै जाँदा यसको जप व्यक्तिगत साधनामा रूपान्तरण हुन सक्छ।",
+      "en": "After completing the japa of the Navārṇa Mantra, remain quiet for a few moments.\n\nRecall the japa you performed, the mantra you heard, the meaning you understood, and whatever feeling arose during the practice.\n\nIf one bīja particularly stayed with you, you may recite it once again and spend a few moments contemplating its meaning and its relationship to your own life.\n\nComplete the japa without rushing, allowing a feeling of reverence and gratitude to remain.\n\nIn this way, the study of the Navārṇa Mantra does not end simply with reciting nine syllables. Repeatedly returning to the original mantra, meaning, contemplation and practice can gradually turn japa into personal discipline."
+    }
+  ]
+}

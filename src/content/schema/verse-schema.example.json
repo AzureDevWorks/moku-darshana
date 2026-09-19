@@ -1,0 +1,34 @@
+﻿{
+  "verseNumber": 1,
+
+  "sanskrit": {
+    "text": "",
+    "script": "Devanagari"
+  },
+
+  "transliteration": {
+    "text": "",
+    "system": "IAST"
+  },
+
+  "meaning": {
+    "english": "",
+    "nepali": ""
+  },
+
+  "commentary": {
+    "english": "",
+    "nepali": ""
+  },
+
+  "audio": {
+    "patha": null,
+    "meaning": null
+  },
+
+  "source": {
+    "text": "",
+    "reference": "",
+    "status": "not-entered"
+  }
+}
