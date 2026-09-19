@@ -4,7 +4,7 @@ import { useLoader } from "@react-three/fiber";
 export default function SacredBackground() {
   const texture = useLoader(
     THREE.TextureLoader,
-    "/assets/temple/temple-interior.jpg"
+    `${import.meta.env.BASE_URL}assets/temple/temple-interior.jpg`
   );
 
   texture.colorSpace = THREE.SRGBColorSpace;
@@ -24,3 +24,4 @@ export default function SacredBackground() {
     </mesh>
   );
 }
+

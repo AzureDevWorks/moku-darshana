@@ -24,7 +24,7 @@ export default function DeityDepth() {
 
   const texture = useLoader(
     THREE.TextureLoader,
-    "/assets/deities/durga/deity.png"
+    `${import.meta.env.BASE_URL}assets/deities/durga/deity.png`
   );
 
   const target = useRef(new THREE.Vector2());
@@ -150,3 +150,4 @@ export default function DeityDepth() {
     </group>
   );
 }
+
