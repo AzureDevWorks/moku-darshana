@@ -126,7 +126,7 @@ export function ReadingProvider({ children }) {
        * Unknown URL.
        * Leave the application at the library/home state.
        */
-      window.history.replaceState({}, "", "/");
+      window.history.replaceState({}, "", `${import.meta.env.BASE_URL}`);
     }
   }, []);
 
@@ -169,7 +169,7 @@ export function ReadingProvider({ children }) {
    */
   const setSelectedItem = useCallback((item) => {
     if (!item) {
-      window.history.pushState({}, "", "/");
+      window.history.pushState({}, "", `${import.meta.env.BASE_URL}`);
       setSelectedItemState(null);
       return;
     }
@@ -221,3 +221,4 @@ export function useReading() {
 
   return context;
 }
+
