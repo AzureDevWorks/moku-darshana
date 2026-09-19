@@ -60,8 +60,19 @@ function getDocumentUrl(id) {
 }
 
 function getDocumentIdFromUrl() {
-  const pathname = window.location.pathname;
+  let pathname = window.location.pathname;
+  const base = import.meta.env.BASE_URL; // Gets Vite's base path (e.g., '/moku-darshana/')
 
+  // 1. Strip the Vite base path from the URL so we only process application routes
+  if (pathname.startsWith(base)) {
+    // Keep a leading slash so it evaluates to "/" for the home page
+    pathname = pathname.slice(base.length - 1); 
+  } else if (base.endsWith('/') && pathname === base.slice(0, -1)) {
+    // Handle the edge case where the user forgets the trailing slash
+    pathname = "/";
+  }
+
+  // 2. Now properly check if we are at the app root
   if (!pathname || pathname === "/") {
     return null;
   }
@@ -85,7 +96,7 @@ function getDocumentIdFromUrl() {
    * The final URL segment is the document id.
    *
    * /devi-mahatmya/patha-purva/argala-stotram
-   *                                      ^^^^^^^^^^^^^
+   *                               ^^^^^^^^^^^^^
    */
   return parts[parts.length - 1];
 }
@@ -223,5 +234,3 @@ export function useReading() {
 
   return context;
 }
-
-
