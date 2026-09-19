@@ -16,7 +16,7 @@ export default defineConfig({
       ],
 
       manifest: {
-        id: '/',
+        id: '/moku-darshana/',
         name: 'Moku Darśana',
         short_name: 'Moku Darśana',
         description: 'A contemplative digital library for sacred Sanskrit texts, recitation, meaning, and spiritual reading.',
@@ -98,6 +98,7 @@ export default defineConfig({
     })
   ]
 })
+
 
 
 
