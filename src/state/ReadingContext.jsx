@@ -29,7 +29,7 @@ function getDocumentUrl(id) {
   const meta = getDocumentMeta(id);
 
   if (!meta?.path) {
-    return "/";
+    return import.meta.env.BASE_URL;
   }
 
   const cleanPath = meta.path
@@ -46,13 +46,15 @@ function getDocumentUrl(id) {
    * Remove the .json filename.
    */
   if (parts.length < 2) {
-    return "/";
+    return import.meta.env.BASE_URL;
   }
 
   const fileName = parts.pop();
   const documentId = fileName.replace(/\.json$/i, "");
 
-  return "/" + [...parts, documentId]
+  const basePath = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+  return basePath + "/" + [...parts, documentId]
     .map((part) => encodeURIComponent(part))
     .join("/");
 }
@@ -221,4 +223,5 @@ export function useReading() {
 
   return context;
 }
+
 
