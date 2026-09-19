@@ -20,8 +20,8 @@ export default defineConfig({
         name: 'Moku Darśana',
         short_name: 'Moku Darśana',
         description: 'A contemplative digital library for sacred Sanskrit texts, recitation, meaning, and spiritual reading.',
-        start_url: '/',
-        scope: '/',
+        start_url: '/moku-darshana/',
+        scope: '/moku-darshana/',
         display: 'standalone',
         orientation: 'portrait-primary',
 
@@ -38,19 +38,19 @@ export default defineConfig({
 
         icons: [
           {
-            src: '/icons/icon-192.png',
+            src: '/moku-darshana/icons/icon-192.png',
             sizes: '192x192',
             type: 'image/png',
             purpose: 'any'
           },
           {
-            src: '/icons/icon-512.png',
+            src: '/moku-darshana/icons/icon-512.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'any'
           },
           {
-            src: '/icons/icon-512-maskable.png',
+            src: '/moku-darshana/icons/icon-512-maskable.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'maskable'
@@ -63,7 +63,7 @@ export default defineConfig({
 
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
 
-        navigateFallback: '/index.html',
+        navigateFallback: '/moku-darshana/index.html',
 
         globPatterns: [
           '**/*.{js,css,html,svg,png,jpg,jpeg,webp,woff,woff2}'
@@ -98,5 +98,6 @@ export default defineConfig({
     })
   ]
 })
+
 
 
